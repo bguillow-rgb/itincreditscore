@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ITIN Credit Score</title>
+    <link>https://itincreditscore.com</link>
+    <atom:link href="https://itincreditscore.com/rss.xml" rel="self" type="application/rss+xml" />
+    <description>ITINCreditScore.com helps ITIN holders build a U.S. credit history, check their credit score without an SSN, and raise it — covering the credit bureaus, credit-builder tools, and what actually moves your score. Independent guides and tools matching.</description>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Jun 2026 16:39:08 GMT</lastBuildDate>
+    <item>
+      <title>How to Build Credit With an ITIN Number (2026 Guide)</title>
+      <link>https://itincreditscore.com/articles/how-to-build-credit-with-itin-number</link>
+      <guid isPermaLink="true">https://itincreditscore.com/articles/how-to-build-credit-with-itin-number</guid>
+      <pubDate>Sat, 06 Jun 2026 00:00:00 GMT</pubDate>
+      <description>Yes, you can build U.S. credit with an ITIN. This step-by-step guide covers the exact tools, timeline, and strategies ITIN holders use to go from zero to 700+.</description>
+    </item>
+    <item>
+      <title>Can You Have a Credit Score With an ITIN?</title>
+      <link>https://itincreditscore.com/articles/can-you-have-a-credit-score-with-an-itin</link>
+      <guid isPermaLink="true">https://itincreditscore.com/articles/can-you-have-a-credit-score-with-an-itin</guid>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 GMT</pubDate>
+      <description>Yes — ITIN holders can build a U.S. credit score. Here's how the credit bureaus handle ITINs, when a score gets generated, and exactly what you need to do to start.</description>
+    </item>
+  </channel>
+</rss>
