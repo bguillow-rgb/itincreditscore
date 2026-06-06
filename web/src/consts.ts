@@ -13,7 +13,7 @@ export const SITE = {
     'ITINCreditScore.com ayuda a las personas con ITIN a construir un historial crediticio en EE. UU., revisar su puntaje de crédito sin Seguro Social y subirlo — cubriendo los burós de crédito, las herramientas para construir crédito y lo que realmente mueve tu puntaje. Guías independientes y conexión con herramientas.',
   url: 'https://itincreditscore.com',
   locale: 'en-US',
-  supportEmail: 'hello@itincreditscore.com',
+  supportEmail: 'bguillow@gmail.com',
 
   // Publisher (legal operating entity) — drives Organization + Article
   // publisher schema and the footer copyright. The /about page is the
