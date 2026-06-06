@@ -1,0 +1,71 @@
+---
+import MoneyPageLayout from '../../layouts/MoneyPageLayout.astro';
+
+const faqs = [
+  {
+    q: '¿Los tres burós de crédito aceptan ITIN?',
+    a: 'Sí. Experian, Equifax y TransUnion crean expedientes de crédito para personas con ITIN. Cuando un prestamista o acreedor reporta tu actividad de cuenta con tu ITIN como identificación fiscal, el buró lo une a tu expediente o crea uno. El proceso funciona igual que para quienes tienen Seguro Social, aunque los pasos de verificación de identidad pueden diferir ligeramente.',
+  },
+  {
+    q: '¿Qué es un expediente de crédito mezclado y cómo ocurre con un ITIN?',
+    a: 'Un expediente mezclado ocurre cuando la información de una cuenta que pertenece a otra persona termina en tu reporte de crédito. Las personas con ITIN enfrentan un riesgo algo mayor porque la coincidencia de los burós históricamente dependía mucho del Seguro Social; los expedientes unidos principalmente por nombre, dirección y fecha de nacimiento pueden traslaparse cuando esos datos son similares. Si ves cuentas que no reconoces, disputalas de inmediato.',
+  },
+  {
+    q: '¿Cómo obtengo una copia gratis de mi reporte de crédito?',
+    a: 'Visita AnnualCreditReport.com — el único sitio de reportes gratis autorizado a nivel federal. Tienes derecho a un reporte gratis al año de cada uno de los tres burós. Ingresa tu ITIN donde el formulario pide un Seguro Social. El sistema acepta ambos.',
+  },
+  {
+    q: '¿Cada buró tiene un puntaje de crédito separado?',
+    a: 'Cada buró tiene su propio expediente sobre ti, y FICO (y VantageScore) calculan un puntaje de cada expediente de forma independiente. Tu puntaje de Experian, de Equifax y de TransUnion pueden diferir si los datos de cada expediente difieren. Los prestamistas a menudo revisan solo un buró; cuál depende del prestamista y del producto.',
+  },
+  {
+    q: '¿Qué pasa si Experian tiene mi expediente pero Equifax dice "no se encontró expediente"?',
+    a: 'Esto es común cuando algunos de tus acreedores solo reportan a ciertos burós. Es posible que necesites abrir cuentas que reporten a los tres — o contactar directamente al buró sin expediente para iniciar uno. Las tarjetas aseguradas y los préstamos para crédito que reportan a los tres burós resuelven esto de la forma más eficiente.',
+  },
+];
+
+const quickAnswer =
+  'Experian, Equifax y TransUnion crean expedientes de crédito para personas con ITIN. Cada buró opera de forma independiente — tus datos y tu puntaje pueden diferir entre los tres. Las personas con ITIN son algo más propensas a encontrar errores de "expediente mezclado" (datos de otra persona en tu reporte). Saca reportes de los tres en AnnualCreditReport.com y disputa cualquier inexactitud de inmediato.';
+---
+<MoneyPageLayout
+  title="Burós de Crédito y tu ITIN: Experian, Equifax y TransUnion (2026)"
+  h1="Burós de Crédito y tu ITIN: Experian, Equifax y TransUnion"
+  description="Cómo manejan a las personas con ITIN los tres burós de crédito principales — Experian, Equifax y TransUnion. Riesgos de expediente mezclado, cómo sacar reportes y cómo disputar errores en cada buró."
+  path="/es/credit-bureaus-and-itin"
+  eyebrow="Burós de crédito"
+  lede="Los tres burós de crédito principales de EE. UU. mantienen cada uno su propia base de datos y trabajan de forma independiente entre sí. Aquí te decimos cómo maneja cada uno a las personas con ITIN — y qué hacer si algo se ve mal."
+  quickAnswer={quickAnswer}
+  faqs={faqs}
+  heroImage="/img/itin-paperwork.webp"
+  heroAlt="Documentos de ITIN y de burós de crédito sobre un escritorio"
+>
+
+  <h2>¿Qué hace realmente un buró de crédito?</h2>
+  <p>Un buró de crédito (también llamado agencia de informes de crédito) recopila datos sobre tu comportamiento de préstamo y pago de prestamistas, emisores de tarjetas y otros acreedores, y luego compila esos datos en un reporte de crédito. FICO y otras empresas de puntaje sacan tu reporte de un buró y lo pasan por un algoritmo de puntaje para producir tu puntaje de crédito. Los burós no toman decisiones de préstamo — recopilan y reportan datos. Los tres burós son empresas privadas y operan de forma independiente. No comparten datos entre sí automáticamente; un acreedor que reporta tu cuenta a Experian no la reporta automáticamente a Equifax o TransUnion. Por eso tu expediente de crédito y tu puntaje pueden verse distintos entre los tres.</p>
+
+  <h2>¿Cómo se comparan los burós para las personas con ITIN?</h2>
+  <table>
+    <thead>
+      <tr><th>Buró</th><th>Soporte de expediente con ITIN</th><th>Acceso a reporte gratis</th><th>Portal de disputas</th><th>Notas conocidas sobre ITIN</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>Experian</td><td>Sí</td><td>AnnualCreditReport.com + experian.com</td><td>experian.com/disputes</td><td>Ofrece Experian Boost para reporte de servicios/renta; ITIN aceptado al registrar cuenta gratis (verifica la política actual)</td></tr>
+      <tr><td>Equifax</td><td>Sí</td><td>AnnualCreditReport.com + equifax.com</td><td>equifax.com/personal/disputes</td><td>Opción de disputa por teléfono disponible: 1-800-685-1111</td></tr>
+      <tr><td>TransUnion</td><td>Sí</td><td>AnnualCreditReport.com + transunion.com</td><td>transunion.com/credit-disputes</td><td>La verificación de identidad puede requerir pasos adicionales para personas con ITIN</td></tr>
+    </tbody>
+  </table>
+  <p class="form-note">Las políticas y datos de contacto de los burós cambian. Verifica siempre los procedimientos actuales en el sitio web oficial de cada buró antes de enviar documentos.</p>
+
+  <h2>¿Cómo unen los burós un expediente de crédito a tu ITIN?</h2>
+  <p>Cuando un prestamista reporta tu actividad de cuenta a un buró, envía un registro de datos que incluye tu nombre, dirección, fecha de nacimiento y número de identificación fiscal (Seguro Social o ITIN). El algoritmo de coincidencia del buró usa estos datos — ponderados de forma distinta por cada empresa — para vincular el registro a un expediente existente o crear uno nuevo. Para quienes tienen Seguro Social, este es un identificador casi único que impulsa una coincidencia confiable. Para las personas con ITIN, la coincidencia depende más de la combinación de nombre, dirección y fecha de nacimiento, lo que crea una mayor probabilidad de traslape con otras personas. Si tu dirección coincide con la de otra persona y sus nombres son similares, hay un riesgo real de expediente mezclado — cuentas de otra persona apareciendo en tu reporte.</p>
+
+  <h2>¿Qué es un expediente mezclado y cómo lo arreglas?</h2>
+  <p>Un expediente mezclado ocurre cuando el sistema del buró une datos de cuenta de dos personas distintas porque su información identificadora es lo bastante similar para generar una coincidencia falsa. Podrías ver cuentas que nunca abriste, direcciones donde nunca viviste o un empleador para el que nunca trabajaste. Los expedientes mezclados pueden hacer que tu puntaje baje por la morosidad de otra persona, o que te nieguen crédito por su historial negativo. Si encuentras un expediente mezclado: disputa cada elemento incorrecto en línea en cada buró, indica claramente que la cuenta pertenece a otra persona y aporta una copia de tu carta de ITIN y una identificación con foto emitida por el gobierno. El buró debe investigar en un plazo de 30 días y corregir los errores verificados. También es recomendable solicitar una alerta de fraude mientras la investigación esté abierta.</p>
+
+  <h2>Cómo sacar tu reporte de los tres burós</h2>
+  <p>El enfoque más rápido es visitar <strong>AnnualCreditReport.com</strong> — el portal de reportes gratis oficialmente autorizado, operado por los tres burós bajo la Ley de Informe Justo de Crédito. Selecciona los tres burós, ingresa tu ITIN donde el formulario pide un Seguro Social y proporciona tu nombre, dirección y fecha de nacimiento. Recibirás un enlace al reporte de cada buró. Si la verificación de identidad falla en el sitio (lo que ocasionalmente ocurre con personas con ITIN con historial de dirección limitado en EE. UU.), puedes solicitar un reporte por teléfono o correo directamente a cada buró. Revisa los tres reportes lado a lado — las diferencias entre ellos reflejan qué acreedores reportan a qué buró, y los errores a menudo están presentes en un solo reporte.</p>
+
+  <h2>¿Qué pasa si tu expediente muestra "sin historial crediticio"?</h2>
+  <p>Si un buró no devuelve expediente o no tiene historial con puntaje, significa que ningún acreedor ha reportado todavía actividad de cuenta asociada a tu ITIN a ese buró. Esto no es un error — es un estado de inicio. La solución es abrir al menos una cuenta que reporte a ese buró específico. Las tarjetas aseguradas y los préstamos para crédito que explícitamente reportan a los tres burós son la forma más eficiente de construir un expediente en todos los burós al mismo tiempo. Una vez que tengas seis meses de historial reportado en al menos una cuenta, se puede generar un puntaje FICO. Para instrucciones paso a paso, mira nuestra <a href="/es/build-credit-history-with-itin">guía para construir historial crediticio</a>. Para revisar qué puntaje tienes hoy, mira <a href="/es/check-credit-score-with-itin">cómo revisar tu puntaje de crédito con un ITIN</a>.</p>
+
+</MoneyPageLayout>

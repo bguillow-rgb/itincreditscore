@@ -1,0 +1,94 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { SITE } from '../../consts';
+
+const title = 'Términos de Uso';
+const description =
+  'Los términos que rigen tu uso de ITINCreditScore.com, incluido nuestro papel como recurso de información y referencia, descargos de responsabilidad y límites de responsabilidad.';
+const updated = '5 de junio de 2026';
+---
+<BaseLayout title={title} description={description} path="/es/terms">
+  <section class="section">
+    <div class="container narrow">
+      <span class="tag">Legal</span>
+      <h1 style="margin-top:10px">Términos de Uso</h1>
+      <p class="byline">Última actualización {updated}</p>
+
+      <p>
+        Estos Términos de Uso rigen tu acceso y uso de {SITE.legalName} (el
+        "Sitio"). Al usar el Sitio, aceptas estos términos. Si no estás de
+        acuerdo, por favor no uses el Sitio.
+      </p>
+
+      <h2>Nuestro papel</h2>
+      <p>
+        {SITE.name} es un recurso independiente de información y referencia.
+        <strong>No</strong> somos un buró de crédito, una organización de
+        reparación de crédito, un prestamista, un asesor financiero ni un
+        consejero de crédito. No entregamos puntajes de crédito, no reparamos
+        crédito, no tomamos decisiones de crédito, no fijamos tasas, no aprobamos
+        solicitudes ni originamos préstamos. Cualquier producto para construir
+        crédito lo ofrecen proveedores externos bajo sus propios términos,
+        criterios de elegibilidad y la ley aplicable.
+      </p>
+
+      <h2>No es asesoría financiera, legal ni fiscal</h2>
+      <p>
+        El contenido de este Sitio es solo para fines educativos generales y no
+        es asesoría financiera, legal, migratoria ni fiscal. La disponibilidad,
+        las tasas, los términos y la elegibilidad por ITIN de los productos para
+        construir crédito varían según el proveedor y cambian con frecuencia.
+        Verifica siempre los detalles directamente con el proveedor y consulta a
+        un profesional calificado antes de tomar decisiones.
+      </p>
+
+      <h2>Conexión con herramientas y terceros</h2>
+      <p>
+        Cuando envías una solicitud, podemos compartir tu información con
+        proveedores externos que pueden contactarte. No controlamos ni somos
+        responsables de esos terceros, sus productos, decisiones, tasas ni de
+        cómo manejan tu información. Los enlaces a sitios de terceros se
+        proporcionan por conveniencia y no son recomendaciones.
+      </p>
+
+      <h2>Exactitud y disponibilidad</h2>
+      <p>
+        Trabajamos para mantener la información precisa y actualizada, pero no
+        garantizamos que sea completa, esté libre de errores o esté al día.
+        Podemos cambiar o eliminar contenido y podemos suspender o descontinuar
+        el Sitio en cualquier momento.
+      </p>
+
+      <h2>Descargo de garantías y límite de responsabilidad</h2>
+      <p>
+        El Sitio se proporciona "tal cual" y "según disponibilidad", sin
+        garantías de ningún tipo, expresas o implícitas. En la máxima medida
+        permitida por la ley, {SITE.legalName} no es responsable de daños
+        indirectos, incidentales o consecuentes que surjan de tu uso del Sitio o
+        de la confianza en su contenido, ni de cualquier trato con proveedores
+        externos.
+      </p>
+
+      <h2>Propiedad intelectual y uso aceptable</h2>
+      <p>
+        El contenido de este Sitio es de nuestra propiedad o tenemos licencia
+        sobre él, y no puede copiarse ni volver a publicarse sin permiso. Aceptas
+        no hacer mal uso del Sitio, no intentar interrumpirlo ni usarlo para
+        fines ilícitos.
+      </p>
+
+      <h2>Cambios y contacto</h2>
+      <p>
+        Podemos actualizar estos términos de vez en cuando. El uso continuo
+        después de los cambios significa que aceptas los términos actualizados.
+        ¿Preguntas? Escribe a
+        <a href={`mailto:${SITE.supportEmail}`}>{SITE.supportEmail}</a>.
+      </p>
+
+      <p class="form-note">
+        Esta plantilla se proporciona para uso general y no es asesoría legal.
+        Hazla revisar por un abogado calificado antes de basarte en ella.
+      </p>
+    </div>
+  </section>
+</BaseLayout>

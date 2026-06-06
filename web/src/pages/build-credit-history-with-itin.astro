@@ -1,0 +1,82 @@
+---
+import MoneyPageLayout from '../layouts/MoneyPageLayout.astro';
+
+const faqs = [
+  {
+    q: 'What is the fastest way to build credit with an ITIN?',
+    a: 'Opening a secured credit card that reports to all three bureaus is typically the fastest and most accessible first step. Paying the full balance on time each month starts building your payment history immediately. A credit-builder loan adds installment-credit history at the same time, which speeds up score generation.',
+  },
+  {
+    q: 'Can I become an authorized user on someone else\'s account with an ITIN?',
+    a: 'Yes. A primary cardholder can add you as an authorized user, and the card\'s history can appear on your credit report. You don\'t need to use the card — the history attaches to your file simply by being added. The primary holder\'s payment behavior affects your report, so choose someone with an excellent on-time track record.',
+  },
+  {
+    q: 'Does rent reporting actually build credit?',
+    a: 'Yes, if the service reports to one or more of the three major bureaus. Services like Experian Boost can add on-time rent and utility payments to your Experian file. Third-party rent reporting services can report to all three bureaus. This converts bills you already pay into positive credit history at no additional cost to you.',
+  },
+  {
+    q: 'How many accounts do I need to start building credit?',
+    a: 'FICO requires at least one open account reported in the past six months to generate a score. One account is enough to start. After your score is established, adding a second account (for example a credit-builder loan alongside a secured card) builds credit mix and can accelerate score growth.',
+  },
+  {
+    q: 'What happens if I miss a payment?',
+    a: 'A payment that is 30 or more days late can be reported to the bureaus and will negatively affect your score — particularly since payment history is 35% of your FICO score. Set up autopay for at least the minimum payment to protect your on-time streak, even if you plan to pay more each month.',
+  },
+];
+
+const quickAnswer =
+  'Start with a secured credit card or credit-builder loan — both accept ITINs and report to the major bureaus. Pay every bill on time and keep card balances low. Adding an authorized-user account or rent reporting accelerates the process. Most ITIN holders have a scoreable file within 6 months and a good score (670+) within 1–2 years of consistent positive behavior.';
+---
+<MoneyPageLayout
+  title="How to Build Credit History With an ITIN (2026)"
+  h1="How to Build Credit History With an ITIN"
+  description="Step-by-step guide to building a U.S. credit file from zero using an ITIN. Secured cards, credit-builder loans, authorized users, and rent reporting — compared with specific starter tools."
+  path="/build-credit-history-with-itin"
+  eyebrow="Build credit"
+  lede="No credit history yet? You can start building a U.S. credit file with an ITIN using a handful of tools that are specifically designed for people starting from scratch. Here's exactly how."
+  quickAnswer={quickAnswer}
+  faqs={faqs}
+  heroImage="/img/credit-building.webp"
+  heroAlt="A person building their credit history with an ITIN"
+>
+
+  <h2>Why does building credit from zero feel difficult?</h2>
+  <p>The challenge is circular: most credit products require an existing credit history to approve you, but you can't build history without being approved. ITIN holders face an added layer because some products that accept ITINs don't advertise it clearly, and some require identity verification that differs from the SSN-based process most people assume is universal. The four tools below break the circle — each is designed precisely for people starting with a thin or nonexistent file, and each accepts an ITIN as the primary tax identifier.</p>
+
+  <h2>What are the four best starter tools for ITIN holders?</h2>
+  <table>
+    <thead>
+      <tr><th>Tool</th><th>Accepts ITIN</th><th>Reports to bureaus</th><th>Upfront cost</th><th>Best for</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>Secured credit card</td><td>Many do</td><td>Yes (most report all 3)</td><td>Refundable deposit ($200–$500 typical)</td><td>Building payment history + utilization habits</td></tr>
+      <tr><td>Credit-builder loan</td><td>Many do</td><td>Yes (most report all 3)</td><td>None (payments held in account)</td><td>Adding installment-credit history + savings</td></tr>
+      <tr><td>Authorized user</td><td>Yes (no application)</td><td>Depends on card issuer</td><td>None</td><td>Jumping length of history fast</td></tr>
+      <tr><td>Rent/utility reporting</td><td>Yes</td><td>1–3 bureaus depending on service</td><td>Free–$10/month</td><td>Converting existing payments into credit history</td></tr>
+    </tbody>
+  </table>
+
+  <h2>How do secured credit cards build credit?</h2>
+  <p>A secured card works like a regular credit card but is backed by a cash deposit you make upfront — typically $200 to $500. The deposit sets your credit limit and protects the issuer, which is why approval is far easier than a standard card. Every month you use the card, the issuer reports your balance and payment to the bureaus. Pay the statement balance in full and on time each month and you'll be building a perfect payment history record. Keep your balance below 30% of the limit at all times — and ideally below 10% — to keep your utilization low. After 6 to 12 months, many issuers will graduate you to an unsecured card and return your deposit. Look for cards that explicitly report to all three bureaus and accept ITINs.</p>
+
+  <h2>How do credit-builder loans work?</h2>
+  <p>A credit-builder loan is effectively a savings account with a credit-building side effect. You don't receive the money upfront. Instead, you make fixed monthly payments — often $25 to $150 per month — into a held account. At the end of the loan term (typically 12 to 24 months), you receive the accumulated funds, minus any interest and fees. Every on-time payment is reported to the bureaus as installment credit, building both your payment history and your credit mix simultaneously. Because you never "borrow" anything you might spend and struggle to repay, the default risk is low and the credit-building benefit is pure. See the full <a href="/credit-builder-loans">credit-builder loan guide</a> for how they compare to secured cards.</p>
+
+  <h2>How does becoming an authorized user help?</h2>
+  <p>When a trusted family member or friend adds you to their credit card as an authorized user, the entire history of that account can appear on your credit report — age, limit, and payment record included. This is one of the fastest ways to acquire length of credit history without opening a new account. You don't need to receive a card or make any purchases; the history attaches when the issuer reports the addition. The main risk is that the primary holder's late payments or high utilization also appear on your file, so only accept this from someone with a clean, long-standing account. Not all issuers report authorized-user accounts to all bureaus, so confirm before requesting the addition.</p>
+
+  <h2>What is rent and utility reporting?</h2>
+  <p>Most people already pay rent, electricity, gas, or phone bills every month without those on-time payments ever touching their credit file. Rent and utility reporting services fix that. Experian Boost (free) allows you to link your bank account and add eligible utility and streaming payments directly to your Experian file. Third-party services can report rent payments to all three bureaus. Reporting rent you're already paying can produce an immediate score bump with zero additional financial commitment. Check that the service you choose reports to the bureaus in the scoring model you're targeting (Experian Boost affects FICO scores calculated from Experian data).</p>
+
+  <h2>What order should you build in?</h2>
+  <p>The recommended sequence for most ITIN holders starting from zero:</p>
+  <ol class="lead-list">
+    <li><strong>Open a secured credit card</strong> — gives you a credit file and teaches utilization habits immediately.</li>
+    <li><strong>Add a credit-builder loan</strong> within a few months — adds installment history and improves credit mix.</li>
+    <li><strong>Enroll in rent/utility reporting</strong> — converts existing payments into positive history at minimal cost.</li>
+    <li><strong>Become an authorized user</strong> if you have a trusted family member with excellent credit — boosts length of history.</li>
+    <li><strong>Wait and pay consistently</strong> — time and payment reliability do the rest.</li>
+  </ol>
+  <p>When your score reaches 670 or above, many mainstream unsecured products become available. From there, the <a href="/improve-credit-score">score improvement guide</a> covers how to keep climbing. Ready to get matched with ITIN-friendly tools? <a href="/apply">Start here</a>.</p>
+
+</MoneyPageLayout>

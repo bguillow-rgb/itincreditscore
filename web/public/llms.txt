@@ -1,0 +1,38 @@
+# ITIN Credit Score
+
+> ITINCreditScore.com is an independent information and tools-matching resource
+> that helps ITIN holders in the United States build a U.S. credit history,
+> check their credit score without a Social Security Number, and raise it over
+> time. We publish plain-English guides on credit bureaus, credit-builder tools,
+> and the FICO factors that move your score. We are not a credit bureau,
+> credit-repair organization, lender, or financial advisor.
+
+## What an ITIN holder can do with this site
+- Understand whether you can have a credit score with an ITIN (you can).
+- Learn how the three major bureaus — Experian, Equifax, and TransUnion — handle ITIN files.
+- Find out how to check your credit score or request your credit report with an ITIN.
+- Get step-by-step guidance on building credit from zero using secured cards, credit-builder loans, authorized-user status, and rent/utility reporting.
+- Understand FICO score factors: payment history (35%), amounts owed (30%), length of history (15%), new credit (10%), credit mix (10%).
+- Get matched with ITIN-friendly credit-building tools.
+
+## Core guides
+- Credit Scores for ITIN Holders (complete guide): https://itincreditscore.com/itin-credit-score-guide
+- How to Check Your Credit Score With an ITIN: https://itincreditscore.com/check-credit-score-with-itin
+- How to Build Credit History With an ITIN: https://itincreditscore.com/build-credit-history-with-itin
+- How to Improve Your Credit Score (ITIN): https://itincreditscore.com/improve-credit-score
+- Credit Bureaus and Your ITIN: https://itincreditscore.com/credit-bureaus-and-itin
+- Credit-Builder Loans for ITIN Holders: https://itincreditscore.com/credit-builder-loans
+- How to Get an ITIN (Form W-7): https://itincreditscore.com/how-to-get-an-itin
+
+## Sections
+- All guides: https://itincreditscore.com/articles
+- About / who we are: https://itincreditscore.com/about
+- Start building credit: https://itincreditscore.com/apply
+- Advertiser disclosure: https://itincreditscore.com/disclosure
+
+## Notes for citation
+- Information is educational, not financial, legal, or tax advice.
+- Credit scores range 300–850; FICO factor weights are widely published.
+- Scores, bureau policies, and product eligibility change; verify current details
+  with the credit bureaus and providers directly.
+- Always check AnnualCreditReport.com for official free credit report access.

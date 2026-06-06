@@ -1,0 +1,137 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Icon from '../components/Icon.astro';
+import LeadForm from '../components/LeadForm.astro';
+import FAQ from '../components/FAQ.astro';
+import { SITE, PRODUCTS } from '../consts';
+
+const faqs = [
+  {
+    q: 'Can you have a credit score with an ITIN?',
+    a: 'Yes. The three major credit bureaus — Experian, Equifax, and TransUnion — can create a credit file under an ITIN. Once you open at least one reporting account and make on-time payments for six months, a FICO score is generated. There is no legal barrier preventing ITIN holders from having a U.S. credit score.',
+  },
+  {
+    q: 'What credit score range do I need for common financial products?',
+    a: 'U.S. credit scores run from 300 to 850. Secured cards and credit-builder loans typically require no minimum score — they\'re designed for thin-file borrowers. Standard unsecured products usually require 580–640+. A score of 670 is the entry point for "good" credit and better interest rates.',
+  },
+  {
+    q: 'How long does it take to build a credit score with an ITIN?',
+    a: 'FICO requires at least six months of reported account history to calculate a score. Most ITIN holders who open a secured card or credit-builder loan have a scoreable file within 6 to 12 months. Getting from no score to a good score (670+) typically takes one to two years of consistent on-time payments.',
+  },
+  {
+    q: 'Which factor matters most for my credit score?',
+    a: 'Payment history is the largest factor at 35% of your FICO score. Whether you pay on time, every time, is the single most important thing you can do. Amounts owed (utilization) is the second-largest factor at 30%. Together they account for 65% of your score.',
+  },
+  {
+    q: 'Is ITINCreditScore.com a credit bureau or credit-repair service?',
+    a: 'No. We are an independent information and tools-matching resource. We are not a credit bureau, credit-repair organization, lender, or financial advisor. We do not provide credit scores, repair credit, or originate loans. Our guides are educational and our tools-matching is a referral service.',
+  },
+];
+---
+<BaseLayout title={SITE.name}>
+  <!-- Hero -->
+  <section class="hero hero--image">
+    <img class="hero-bg" src="/img/credit-building.webp" alt="A person reviewing their growing credit score on a phone" loading="eager" fetchpriority="high" decoding="async" />
+    <div class="container hero-grid">
+      <div>
+        <span class="eyebrow">No SSN required</span>
+        <h1>Build and check your credit score with an ITIN</h1>
+        <p class="lede">
+          You don't need a Social Security Number to have a U.S. credit score.
+          We help ITIN holders understand how credit scoring works, check their
+          reports, and build a strong credit history from scratch — step by step,
+          in plain English.
+        </p>
+        <div class="hero-cta">
+          <a href="/apply" class="btn btn-primary btn-lg">Start building credit</a>
+          <a href="/itin-credit-score-guide" class="btn btn-secondary btn-lg">How it works</a>
+        </div>
+        <div class="hero-trust">
+          <span><span class="check">&#10003;</span> No SSN needed</span>
+          <span><span class="check">&#10003;</span> Checking your score won't hurt it</span>
+          <span><span class="check">&#10003;</span> All 50 states</span>
+        </div>
+      </div>
+      <div>
+        <LeadForm heading="Get matched with tools in 60 seconds" compact={true} />
+      </div>
+    </div>
+  </section>
+
+  <!-- Products -->
+  <section class="section">
+    <div class="container">
+      <div class="section-head">
+        <h2>What can you do with an ITIN?</h2>
+        <p>ITIN holders can build, check, and improve a U.S. credit score. Pick where you want to start.</p>
+      </div>
+      <div class="card-grid">
+        {PRODUCTS.map((p) => (
+          <a class="card" href={`/${p.slug}`}>
+            <div class="card-icon"><Icon name={p.icon} size={28} /></div>
+            <h3>{p.label}</h3>
+            <p>{p.blurb}</p>
+            <span class="arrow">Learn more &rarr;</span>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- How it works -->
+  <section class="section section-surface">
+    <div class="container">
+      <div class="section-head">
+        <h2>How building credit with an ITIN works</h2>
+        <p>Three steps from "Do I even have a credit file?" to an active, growing score.</p>
+      </div>
+      <div class="steps">
+        <div class="step">
+          <div class="num">1</div>
+          <h3>Check your starting point</h3>
+          <p>Pull your credit report from all three bureaus at AnnualCreditReport.com using your ITIN. If no file exists yet, that just means you haven't opened a reporting account — it's not a barrier.</p>
+        </div>
+        <div class="step">
+          <div class="num">2</div>
+          <h3>Open a reporting account</h3>
+          <p>A secured credit card or credit-builder loan that accepts ITINs and reports to all three bureaus is your starting tool. Pay on time every month and keep card balances low.</p>
+        </div>
+        <div class="step">
+          <div class="num">3</div>
+          <h3>Watch your score grow</h3>
+          <p>After six months of positive payment history, a FICO score is generated. Continue paying on time, keep utilization low, and your score builds toward the 670+ range that opens mainstream products.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Stats / trust -->
+  <section class="section-tight">
+    <div class="container">
+      <div class="stats">
+        <div class="stat"><div class="big">300–850</div><div class="lbl">U.S. credit score range</div></div>
+        <div class="stat"><div class="big">35%</div><div class="lbl">Payment history weight in FICO</div></div>
+        <div class="stat"><div class="big">3</div><div class="lbl">Major credit bureaus</div></div>
+        <div class="stat"><div class="big">$0</div><div class="lbl">Cost to check your reports</div></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA band -->
+  <section class="section">
+    <div class="container">
+      <div class="cta-band">
+        <h2>Your ITIN is enough to start.</h2>
+        <p>Millions of ITIN holders are building U.S. credit right now. The only thing between you and a credit file is opening one reporting account and paying it on time. We'll help you find the right one.</p>
+        <a href="/apply" class="btn btn-primary btn-lg">Start building credit</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQ -->
+  <section class="section section-surface">
+    <div class="container narrow">
+      <FAQ faqs={faqs} heading="ITIN credit scores: common questions" />
+    </div>
+  </section>
+</BaseLayout>

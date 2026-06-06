@@ -1,0 +1,85 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { SITE } from '../../consts';
+
+const title = 'Aviso para Anunciantes';
+const description =
+  'Cómo gana dinero ITINCreditScore.com: enlaces de afiliados, referencias de socios y publicidad. Nuestra compensación nunca te cuesta nada ni cambia nuestra guía editorial.';
+const updated = '5 de junio de 2026';
+---
+<BaseLayout title={title} description={description} path="/es/disclosure">
+  <section class="section">
+    <div class="container narrow">
+      <span class="tag">Legal</span>
+      <h1 style="margin-top:10px">Aviso para Anunciantes</h1>
+      <p class="byline">Última actualización {updated}</p>
+
+      <p>
+        {SITE.legalName} ("nosotros") es un editor independiente. Para mantener
+        este sitio gratis, ganamos dinero de algunas formas transparentes. Esta
+        página explica exactamente cómo, de acuerdo con las directrices de la
+        Comisión Federal de Comercio (FTC) de EE. UU. sobre recomendaciones y
+        divulgaciones.
+      </p>
+
+      <h2>Cómo generamos ingresos</h2>
+      <ul class="lead-list">
+        <li>
+          <strong>Referencias de socios.</strong> Cuando envías nuestro formulario
+          de conexión con herramientas y te conectamos con un proveedor externo de
+          herramientas para construir crédito, podemos recibir una tarifa de
+          referencia o que nos paguen cuando completas una solicitud o abres una
+          cuenta.
+        </li>
+        <li>
+          <strong>Enlaces de afiliados.</strong> Algunos enlaces a tarjetas de
+          crédito, préstamos para crédito u otros productos financieros son
+          enlaces de afiliados (incluso a través de redes como Commission
+          Junction). Si haces clic y calificas o te registras, podemos ganar una
+          comisión.
+        </li>
+        <li>
+          <strong>Publicidad.</strong> Mostramos anuncios, incluso a través de
+          Google AdSense. Nos pagan según las impresiones o clics en esos anuncios.
+        </li>
+      </ul>
+
+      <h2>Qué significa esto para ti</h2>
+      <ul class="lead-list">
+        <li>
+          <strong>Nunca es un costo para ti.</strong> La compensación viene de
+          nuestros socios, no de tu bolsillo. No pagas más por usar nuestros
+          enlaces.
+        </li>
+        <li>
+          <strong>Puede afectar la ubicación.</strong> La compensación puede
+          influir en qué productos destacamos y dónde aparecen en una página. No
+          influye en la exactitud de los hechos de nuestra guía ni en las ventajas
+          y desventajas que revelamos.
+        </li>
+        <li>
+          <strong>No cubrimos todas las opciones.</strong> Nuestro sitio no
+          incluye todos los productos o proveedores para construir crédito
+          disponibles en el mercado.
+        </li>
+      </ul>
+
+      <h2>Nuestra promesa editorial</h2>
+      <p>
+        Las opiniones, comparaciones y recomendaciones son propias y no las
+        proporciona, revisa ni aprueba ningún anunciante o socio. Buscamos darte
+        información precisa y útil para que tomes tu propia decisión. Si alguna vez
+        nos equivocamos, <a href="/es/contact">avísanos</a> y lo corregiremos.
+      </p>
+
+      <h2>No es asesoría financiera</h2>
+      <p>
+        Nada en este sitio es asesoría financiera, legal o fiscal, y no somos un
+        buró de crédito, una organización de reparación de crédito, un prestamista
+        ni un asesor financiero. Confirma siempre las tasas, términos y
+        elegibilidad actuales directamente con el proveedor antes de solicitar.
+        Consulta nuestros <a href="/es/terms">Términos de Uso</a>.
+      </p>
+    </div>
+  </section>
+</BaseLayout>

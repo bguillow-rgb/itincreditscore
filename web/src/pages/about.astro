@@ -1,0 +1,106 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PersonSchema from '../components/schema/PersonSchema.astro';
+import AboutPageSchema from '../components/schema/AboutPageSchema.astro';
+import { SITE } from '../consts';
+
+const title = 'About ITIN Credit Score';
+const description =
+  'ITINCreditScore.com is an independent resource helping ITIN holders understand, build, and improve their U.S. credit score — no SSN required. Learn who we are, our editorial standards, and how we make money.';
+---
+<BaseLayout title={title} description={description} path="/about">
+  <Fragment slot="head">
+    <PersonSchema />
+    <AboutPageSchema />
+  </Fragment>
+
+  <section class="section">
+    <div class="container narrow">
+      <span class="tag">About</span>
+      <h1 style="margin-top:10px">About ITIN Credit Score</h1>
+
+      <p class="lede" style="color:var(--muted)">
+        ITINCreditScore.com exists because ITIN holders are routinely told they
+        "have no credit" — and then given almost no useful guidance about what
+        to do next. We're here to fix that.
+      </p>
+
+      <h2>Why this site exists</h2>
+      <p>
+        More than 5 million people in the United States file taxes every year
+        using an Individual Taxpayer Identification Number. Many of them are
+        employed, financially stable, and ready to build a real credit history —
+        but they keep hitting a wall. Banks assume they need an SSN. Credit
+        advice assumes the reader has a credit file. When an ITIN holder searches
+        "how do I build credit," most results were written for someone else.
+      </p>
+      <p>
+        The reality is that ITIN holders <em>can</em> have a U.S. credit score.
+        The three major bureaus — Experian, Equifax, and TransUnion — accept
+        ITINs. Secured cards, credit-builder loans, and rent reporting services
+        accept ITINs. The information exists; it's just fragmented, inconsistent,
+        and buried under generic advice that doesn't apply. This site assembles
+        that information in one place, written specifically for ITIN holders,
+        and keeps it accurate and up to date.
+      </p>
+
+      <h2>Who runs this site</h2>
+      <p>
+        ITINCreditScore.com is published by <strong>{SITE.founder.name}</strong>,
+        {SITE.founder.role}. Our content is researched against primary sources —
+        the IRS, the Consumer Financial Protection Bureau (CFPB), the Federal
+        Trade Commission (FTC), and official bureau documentation — and reviewed
+        for accuracy before publishing. Where guidance is general, we say so.
+        Where eligibility depends on a specific institution's current policy, we
+        say that too and direct you to verify directly. We update articles when
+        policies change.
+      </p>
+
+      <h2>Editorial standards</h2>
+      <p>
+        We don't publish content we can't source. FICO factor weights,
+        score ranges, and bureau processes are documented in publicly available
+        materials from FICO, the CFPB, and the bureaus themselves. We don't
+        fabricate statistics or overstate what tools can do. We tell you what
+        moves your score, how fast, and why — based on how the scoring models
+        are documented to work, not on optimistic marketing copy.
+      </p>
+      <p>
+        We do not recommend specific providers without disclosing that we may
+        be compensated if you use them. Our editorial guidance is not for sale:
+        the guides say what they say regardless of who advertises on the site.
+      </p>
+
+      <h2>How we make money</h2>
+      <p>
+        This site is free to use because we earn referral and advertising
+        revenue. When you get matched with a credit-building tool, complete an
+        application through one of our partner links, or click certain ads,
+        we may be compensated. This never changes the price you pay, and it
+        does not change our editorial guidance. See our full
+        <a href="/disclosure">Advertiser Disclosure</a> for details.
+      </p>
+
+      <h2>What we are — and aren't</h2>
+      <p>
+        We are an independent information and referral resource. We are
+        <strong>not</strong> a credit bureau, credit-repair organization, lender,
+        or financial advisor. We do not provide credit scores, repair credit,
+        originate loans, or give legal, tax, or immigration advice. All
+        credit-building products are offered by third-party providers under
+        their own terms and applicable law. Nothing on this site constitutes
+        financial, legal, or tax advice. Always verify current product eligibility
+        and terms directly with the provider before applying.
+      </p>
+
+      <div class="inline-cta">
+        <h3>Questions or corrections?</h3>
+        <p style="color:var(--muted);max-width:34em;margin:0 auto 18px">
+          If something on the site is wrong or out of date, we want to know.
+          We take accuracy seriously and update content when policies change.
+        </p>
+        <a class="btn btn-primary btn-lg" href="/contact">Contact us</a>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

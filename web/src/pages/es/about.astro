@@ -1,0 +1,115 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PersonSchema from '../../components/schema/PersonSchema.astro';
+import AboutPageSchema from '../../components/schema/AboutPageSchema.astro';
+import { SITE } from '../../consts';
+
+const title = 'Acerca de ITIN Credit Score';
+const description =
+  'ITINCreditScore.com es un recurso independiente que ayuda a las personas con ITIN a entender, construir y mejorar su puntaje de crédito en EE. UU. — sin Seguro Social. Conoce quiénes somos, nuestros estándares editoriales y cómo ganamos dinero.';
+---
+<BaseLayout title={title} description={description} path="/es/about">
+  <Fragment slot="head">
+    <PersonSchema />
+    <AboutPageSchema />
+  </Fragment>
+
+  <section class="section">
+    <div class="container narrow">
+      <span class="tag">Nosotros</span>
+      <h1 style="margin-top:10px">Acerca de ITIN Credit Score</h1>
+
+      <p class="lede" style="color:var(--muted)">
+        ITINCreditScore.com existe porque a las personas con ITIN se les dice
+        rutinariamente que "no tienen crédito" — y luego casi no se les da
+        ninguna guía útil sobre qué hacer después. Estamos aquí para arreglar eso.
+      </p>
+
+      <h2>Por qué existe este sitio</h2>
+      <p>
+        Más de 5 millones de personas en Estados Unidos declaran impuestos cada
+        año usando un Número de Identificación Personal del Contribuyente. Muchas
+        de ellas tienen empleo, son estables financieramente y están listas para
+        construir un historial crediticio real — pero siguen chocando con una
+        pared. Los bancos asumen que necesitan un Seguro Social. Los consejos de
+        crédito asumen que el lector ya tiene un expediente de crédito. Cuando una
+        persona con ITIN busca "cómo construyo crédito", la mayoría de los
+        resultados fueron escritos para alguien más.
+      </p>
+      <p>
+        La realidad es que las personas con ITIN <em>sí</em> pueden tener un
+        puntaje de crédito en EE. UU. Los tres burós principales — Experian,
+        Equifax y TransUnion — aceptan ITIN. Las tarjetas aseguradas, los
+        préstamos para crédito y los servicios de reporte de renta aceptan ITIN.
+        La información existe; solo está fragmentada, es inconsistente y queda
+        enterrada bajo consejos genéricos que no aplican. Este sitio reúne esa
+        información en un solo lugar, escrita específicamente para personas con
+        ITIN, y la mantiene precisa y actualizada.
+      </p>
+
+      <h2>Quién maneja este sitio</h2>
+      <p>
+        ITINCreditScore.com lo publica <strong>{SITE.founder.name}</strong>,
+        {SITE.founder.role}. Nuestro contenido se investiga contra fuentes
+        primarias — el IRS, la Oficina de Protección Financiera del Consumidor
+        (CFPB), la Comisión Federal de Comercio (FTC) y la documentación oficial
+        de los burós — y se revisa para verificar su exactitud antes de publicar.
+        Donde la guía es general, lo decimos. Donde la elegibilidad depende de la
+        política actual de una institución específica, también lo decimos y te
+        dirigimos a verificar directamente. Actualizamos los artículos cuando
+        cambian las políticas.
+      </p>
+
+      <h2>Estándares editoriales</h2>
+      <p>
+        No publicamos contenido que no podamos sustentar. Los pesos de los
+        factores FICO, los rangos de puntaje y los procesos de los burós están
+        documentados en materiales públicamente disponibles de FICO, la CFPB y los
+        propios burós. No inventamos estadísticas ni exageramos lo que pueden
+        hacer las herramientas. Te decimos qué mueve tu puntaje, qué tan rápido y
+        por qué — con base en cómo está documentado que funcionan los modelos de
+        puntaje, no en copia de marketing optimista.
+      </p>
+      <p>
+        No recomendamos proveedores específicos sin revelar que podemos recibir
+        compensación si los usas. Nuestra guía editorial no está a la venta: las
+        guías dicen lo que dicen sin importar quién se anuncie en el sitio.
+      </p>
+
+      <h2>Cómo ganamos dinero</h2>
+      <p>
+        Este sitio es gratis de usar porque ganamos ingresos por referencias y
+        publicidad. Cuando te conectas con una herramienta para construir crédito,
+        completas una solicitud a través de uno de nuestros enlaces asociados o
+        haces clic en ciertos anuncios, podemos recibir compensación. Esto nunca
+        cambia el precio que pagas y no cambia nuestra guía editorial. Consulta
+        nuestro <a href="/es/disclosure">Aviso para Anunciantes</a> completo para
+        más detalles.
+      </p>
+
+      <h2>Lo que somos — y lo que no</h2>
+      <p>
+        Somos un recurso independiente de información y referencia.
+        <strong>No</strong> somos un buró de crédito, una organización de
+        reparación de crédito, un prestamista ni un asesor financiero. No
+        entregamos puntajes de crédito, no reparamos crédito, no originamos
+        préstamos ni damos asesoría legal, fiscal o migratoria. Todos los
+        productos para construir crédito los ofrecen proveedores externos bajo sus
+        propios términos y la ley aplicable. Nada en este sitio constituye
+        asesoría financiera, legal o fiscal. Verifica siempre la elegibilidad y
+        los términos actuales del producto directamente con el proveedor antes de
+        solicitar.
+      </p>
+
+      <div class="inline-cta">
+        <h3>¿Preguntas o correcciones?</h3>
+        <p style="color:var(--muted);max-width:34em;margin:0 auto 18px">
+          Si algo en el sitio está mal o desactualizado, queremos saberlo.
+          Tomamos la exactitud en serio y actualizamos el contenido cuando
+          cambian las políticas.
+        </p>
+        <a class="btn btn-primary btn-lg" href="/es/contact">Contáctanos</a>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

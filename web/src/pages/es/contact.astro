@@ -1,0 +1,47 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { SITE } from '../../consts';
+
+const title = 'Contacta a ITIN Credit Score';
+const description =
+  'Ponte en contacto con ITINCreditScore.com. Preguntas sobre construir crédito con un ITIN, correcciones a una guía o consultas de colaboración — leemos cada mensaje.';
+---
+<BaseLayout title={title} description={description} path="/es/contact">
+  <section class="section">
+    <div class="container narrow">
+      <span class="tag">Contacto</span>
+      <h1 style="margin-top:10px">Contáctanos</h1>
+      <p class="lede" style="color:var(--muted)">
+        ¿Preguntas sobre construir crédito con un ITIN, una corrección a una guía
+        o una idea de colaboración? Nos encantaría saber de ti.
+      </p>
+
+      <div class="form-card">
+        <h3 class="mt-0">Correo electrónico</h3>
+        <p>
+          La forma más rápida de contactarnos es por correo. Normalmente
+          respondemos en dos días hábiles.
+        </p>
+        <p>
+          <a class="btn btn-primary btn-lg" href={`mailto:${SITE.supportEmail}`}>
+            {SITE.supportEmail}
+          </a>
+        </p>
+        <p class="form-note">
+          Por favor no envíes datos personales o financieros sensibles (ITIN
+          completo, números de cuenta) por correo. Si buscas conectarte con
+          herramientas para construir crédito, usa nuestro
+          <a href="/es/apply">formulario seguro</a> en su lugar.
+        </p>
+      </div>
+
+      <h2>¿Buscas empezar a construir crédito?</h2>
+      <p>
+        Si quieres conectarte con herramientas para construir crédito que aceptan
+        ITIN, el <a href="/es/apply">formulario de conexión con herramientas</a>
+        es el lugar correcto para empezar — es gratis y no afectará tu puntaje de
+        crédito.
+      </p>
+    </div>
+  </section>
+</BaseLayout>

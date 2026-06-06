@@ -1,0 +1,80 @@
+---
+import MoneyPageLayout from '../../layouts/MoneyPageLayout.astro';
+
+const faqs = [
+  {
+    q: '¿Puedo revisar mi puntaje de crédito con un ITIN en lugar de un Seguro Social?',
+    a: 'Sí. Si tienes un expediente de crédito en cualquiera de los tres burós, puedes acceder a tu reporte y puntaje usando tu ITIN como identificación fiscal. AnnualCreditReport.com es la fuente oficial y gratuita de reportes; algunos servicios también ofrecen acceso gratis al puntaje FICO o VantageScore para personas con ITIN.',
+  },
+  {
+    q: '¿Qué pasa si el buró dice "no se encontró expediente"?',
+    a: '"No se encontró expediente" solo significa que el buró todavía no tiene registro de tus cuentas financieras — no que estés bloqueado para tener un puntaje. Abre una cuenta que reporta (tarjeta asegurada o préstamo para crédito) y tendrás un expediente en unos meses.',
+  },
+  {
+    q: '¿Es seguro AnnualCreditReport.com?',
+    a: 'Sí. AnnualCreditReport.com es el único sitio autorizado a nivel federal para reportes de crédito gratis. Lo administran en conjunto Experian, Equifax y TransUnion bajo la Ley de Informe Justo de Crédito. Evita sitios imitadores con nombres parecidos.',
+  },
+  {
+    q: '¿Con qué frecuencia puedo revisar mi crédito gratis?',
+    a: 'Bajo la Ley de Informe Justo de Crédito puedes solicitar tu reporte de cada buró gratis una vez cada 12 meses a través de AnnualCreditReport.com. Muchas tarjetas de crédito y apps bancarias ahora ofrecen monitoreo continuo gratis del puntaje que no genera una consulta dura.',
+  },
+  {
+    q: '¿Revisar mi puntaje de crédito lo daña?',
+    a: 'Revisar tu propio puntaje de crédito es una consulta suave y no afecta tu puntaje en absoluto. Solo una consulta dura — cuando un prestamista saca tu crédito para tomar una decisión de préstamo — puede bajar temporalmente tu puntaje.',
+  },
+];
+
+const quickAnswer =
+  'Las personas con ITIN pueden revisar su reporte de crédito gratis en AnnualCreditReport.com (el sitio oficial autorizado a nivel federal) y solicitar reportes de Experian, Equifax y TransUnion. Si todavía no existe un expediente, "no se encontró expediente" es normal — abre una cuenta que reporta y se construye un expediente en unos meses. Revisar tu propio puntaje es una consulta suave y nunca daña tu crédito.';
+---
+<MoneyPageLayout
+  title="Cómo Revisar tu Puntaje de Crédito con un ITIN (2026)"
+  h1="Cómo Revisar tu Puntaje de Crédito con un ITIN"
+  description="Guía paso a paso para revisar tu puntaje y reporte de crédito en EE. UU. usando un ITIN. Qué hacer cuando no existe expediente, qué servicios aceptan un ITIN y cómo disputar errores."
+  path="/es/check-credit-score-with-itin"
+  eyebrow="Revisa tu puntaje"
+  lede="Revisar tu puntaje de crédito es el primer paso para entender dónde estás parado y qué mejorar. Aquí te decimos cómo hacerlo como persona con ITIN — incluido qué hacer si el buró dice 'no se encontró expediente'."
+  quickAnswer={quickAnswer}
+  faqs={faqs}
+  heroImage="/img/credit-building.webp"
+  heroAlt="Una persona revisando su puntaje de crédito en una laptop"
+>
+
+  <h2>¿Por qué tu puntaje podría no aparecer de inmediato?</h2>
+  <p>FICO requiere al menos una cuenta abierta durante seis meses y reportada en los últimos seis meses para calcular un puntaje. Si nunca has abierto una cuenta de crédito en EE. UU. — o solo abriste una recientemente — el buró puede responder "expediente no encontrado" o "datos insuficientes para puntuar". Esto es muy común en personas con ITIN nuevas en el sistema financiero de EE. UU. No significa que tengas mal crédito; significa que tu historial crediticio todavía no existe. La solución es abrir una cuenta que reporta (mira nuestra <a href="/es/build-credit-history-with-itin">guía para construir crédito</a>) y darle seis meses para generar un expediente con puntaje.</p>
+
+  <h2>¿Cómo solicitas tu reporte de crédito con un ITIN?</h2>
+  <p><strong>AnnualCreditReport.com</strong> es la fuente oficial autorizada a nivel federal de reportes de crédito gratis. La administran en conjunto Experian, Equifax y TransUnion bajo la Ley de Informe Justo de Crédito. Puedes solicitar un reporte gratis de cada buró cada 12 meses — o los tres a la vez. Al llenar el formulario, ingresa tu ITIN en el campo de Seguro Social. El sitio no distingue entre Seguro Social e ITIN en el proceso.</p>
+  <p>También puedes contactar a cada buró directamente:</p>
+  <ul class="lead-list">
+    <li><strong>Experian:</strong> experian.com o 1-888-397-3742</li>
+    <li><strong>Equifax:</strong> equifax.com o 1-800-685-1111</li>
+    <li><strong>TransUnion:</strong> transunion.com o 1-800-916-8800</li>
+  </ul>
+  <p>Solicita siempre los tres reportes — no solo uno. Los prestamistas a menudo revisan un solo buró, y tus datos pueden diferir entre ellos. Los errores en el expediente de un buró pueden no aparecer en otro.</p>
+
+  <h2>Formas de revisar tu puntaje de crédito con un ITIN</h2>
+  <table>
+    <thead>
+      <tr><th>Método</th><th>Costo</th><th>Tipo de puntaje</th><th>Notas</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>AnnualCreditReport.com</td><td>Gratis (1 vez/año por buró)</td><td>Solo reporte (sin puntaje)</td><td>Acceso oficial obligatorio por ley federal</td></tr>
+      <tr><td>Cuenta gratis de Experian</td><td>Gratis</td><td>FICO Score 8</td><td>La aceptación del ITIN varía; revisa la política actual</td></tr>
+      <tr><td>App del emisor de la tarjeta</td><td>Gratis (si tienes tarjeta)</td><td>FICO o VantageScore</td><td>Muchas tarjetas aseguradas incluyen acceso continuo al puntaje</td></tr>
+      <tr><td>App del préstamo para crédito</td><td>Gratis (si tienes préstamo)</td><td>VantageScore o FICO</td><td>La mayoría de las plataformas lo incluyen como función</td></tr>
+      <tr><td>Monitoreo de crédito de pago</td><td>$10–$30/mes</td><td>FICO o VantageScore</td><td>Incluye alertas de cuentas y consultas nuevas</td></tr>
+    </tbody>
+  </table>
+
+  <h2>¿Qué pasa si el buró responde "no se encontró expediente"?</h2>
+  <p>Una respuesta de "no se encontró expediente" significa que el buró no tiene registro de cuentas financieras asociadas a tu ITIN. Esto es normal en personas con ITIN que todavía no han abierto cuentas de crédito en EE. UU. No es un rechazo. El camino a seguir es sencillo: abre una cuenta que acepte ITIN y reporte a los burós — una tarjeta de crédito asegurada es la opción más accesible — y en seis meses de pagos a tiempo tendrás un expediente con puntaje. Mira la guía completa para <a href="/es/build-credit-history-with-itin">construir historial crediticio con un ITIN</a> para conocer herramientas iniciales específicas.</p>
+
+  <h2>Cómo disputar errores en tu reporte de crédito</h2>
+  <p>Las personas con ITIN son algo más propensas a sufrir errores de expediente mezclado — donde la cuenta de otra persona aparece en tu expediente — porque los algoritmos de coincidencia de los burós no estaban históricamente optimizados para ITIN. Si encuentras un error, tienes derecho a disputarlo bajo la Ley de Informe Justo de Crédito. Cada buró ofrece un proceso de disputa en línea, por teléfono y por correo. Cuando envías una disputa, el buró debe investigar y responder en un plazo de 30 días. Aporta toda la documentación posible: copias de tu carta de ITIN, documentos de identidad y cualquier registro que muestre que la cuenta no es tuya.</p>
+  <p>Para los procesos específicos de cada buró y cómo interactúan los ITIN con la coincidencia de expedientes, mira nuestra <a href="/es/credit-bureaus-and-itin">guía de burós de crédito e ITIN</a>.</p>
+
+  <h2>¿Qué sigue después de revisar tu puntaje?</h2>
+  <p>Una vez que conoces tu punto de partida, puedes armar un plan claro. Si todavía no tienes expediente, <a href="/es/build-credit-history-with-itin">empieza a construir uno</a>. Si tienes un puntaje pero lo quieres más alto, sigue la <a href="/es/improve-credit-score">guía para mejorar el puntaje</a>. Si ves errores, disputalos primero — corregir inexactitudes es la forma legítima más rápida de mejorar un puntaje. ¿Listo para conectarte con herramientas que aceptan ITIN? <a href="/es/apply">Empieza aquí</a>.</p>
+
+</MoneyPageLayout>
