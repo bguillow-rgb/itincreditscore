@@ -1,6 +1,5 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
-import PersonSchema from '../../components/schema/PersonSchema.astro';
 import AboutPageSchema from '../../components/schema/AboutPageSchema.astro';
 import { SITE } from '../../consts';
 
@@ -10,7 +9,6 @@ const description =
 ---
 <BaseLayout title={title} description={description} path="/es/about">
   <Fragment slot="head">
-    <PersonSchema />
     <AboutPageSchema />
   </Fragment>
 
@@ -49,8 +47,8 @@ const description =
 
       <h2>Quién maneja este sitio</h2>
       <p>
-        ITINCreditScore.com lo publica <strong>{SITE.founder.name}</strong>,
-        {SITE.founder.role}. Nuestro contenido se investiga contra fuentes
+        ITINCreditScore.com lo publica <strong>{SITE.publisher.name}</strong>
+        y lo redacta el {SITE.editorial.name}. Nuestro contenido se investiga contra fuentes
         primarias — el IRS, la Oficina de Protección Financiera del Consumidor
         (CFPB), la Comisión Federal de Comercio (FTC) y la documentación oficial
         de los burós — y se revisa para verificar su exactitud antes de publicar.
