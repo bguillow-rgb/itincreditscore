@@ -14,6 +14,7 @@ publishedAt: "2026-06-06"
 author: "ITIN Credit Score Editorial Team"
 category: "Credit Cards"
 relatedSlugs:
+  - "credit-builder-loan-with-itin"
   - "how-to-build-credit-with-itin-number"
   - "can-you-have-a-credit-score-with-an-itin"
 faqs:
