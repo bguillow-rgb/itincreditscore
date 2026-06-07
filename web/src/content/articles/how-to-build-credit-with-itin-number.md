@@ -11,7 +11,7 @@ relatedQueries:
   - "how to establish credit as an immigrant"
 quickAnswer: "You can build U.S. credit with an ITIN by opening a secured credit card or credit-builder loan that reports to all three bureaus, then paying on time every month. Most ITIN holders generate their first credit score in 3–6 months and reach a \"good\" score (670+) within 12–24 months."
 publishedAt: "2026-06-06"
-author: "Bob Guillow"
+author: "ITIN Credit Score Editorial Team"
 category: "Credit Score"
 relatedSlugs: []
 faqs:

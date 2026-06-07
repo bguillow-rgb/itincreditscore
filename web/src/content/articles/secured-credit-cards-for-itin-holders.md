@@ -11,7 +11,7 @@ relatedQueries:
   - "credit builder card for immigrants"
 quickAnswer: "ITIN holders can open secured credit cards without an SSN. Cards like OpenSky Secured Visa, Capital One Platinum Secured, and the Current Build Card all accept ITINs, require no prior U.S. credit history, and report to all three major credit bureaus — making them the fastest way to start building a U.S. credit score."
 publishedAt: "2026-06-06"
-author: "Bob Guillow"
+author: "ITIN Credit Score Editorial Team"
 category: "Credit Cards"
 relatedSlugs: []
 faqs:
