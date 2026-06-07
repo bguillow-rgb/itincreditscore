@@ -12,7 +12,9 @@ quickAnswer: "Yes. ITIN holders can have a U.S. credit score. Experian, Equifax,
 publishedAt: "2026-06-05"
 author: "ITIN Credit Score Editorial Team"
 category: "Credit Basics"
-relatedSlugs: []
+relatedSlugs:
+  - "how-to-build-credit-with-itin-number"
+  - "secured-credit-cards-for-itin-holders"
 faqs:
   - q: "Does having an ITIN automatically give you a credit score?"
     a: "No. An ITIN on its own doesn't generate a credit score. You need to open at least one credit account — such as a secured card or credit-builder loan — that reports your payment activity to the bureaus. After six months of reported history, a FICO score can be calculated."

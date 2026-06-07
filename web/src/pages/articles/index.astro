@@ -1,6 +1,8 @@
 ---
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import CollectionPageSchema from '../../components/schema/CollectionPageSchema.astro';
+import { SITE } from '../../consts';
 
 const includeDrafts = import.meta.env.DEV;
 const posts = (
@@ -12,8 +14,21 @@ const posts = (
 const title = 'ITIN Credit Score Guides';
 const description =
   'Plain-English guides to building, checking, and improving a U.S. credit score with an ITIN — covering the credit bureaus, FICO factors, secured cards, credit-builder loans, and more.';
+
+const itemList = posts.map((p) => ({
+  name: p.data.title,
+  url: `${SITE.url}/articles/${p.slug}`,
+}));
 ---
 <BaseLayout title={title} description={description} path="/articles">
+  <Fragment slot="head">
+    <CollectionPageSchema
+      name={title}
+      description={description}
+      url={`${SITE.url}/articles`}
+      items={itemList}
+    />
+  </Fragment>
   <section class="section">
     <div class="container narrow">
       <span class="tag">Guides</span>
