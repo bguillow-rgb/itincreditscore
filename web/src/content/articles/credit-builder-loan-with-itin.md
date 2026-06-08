@@ -15,6 +15,7 @@ author: "ITIN Credit Score Editorial Team"
 category: "Credit"
 relatedSlugs:
   - "secured-credit-cards-for-itin-holders"
+  - "transfer-itin-credit-history-to-ssn"
   - "can-you-have-a-credit-score-with-an-itin"
   - "how-to-build-credit-with-itin-number"
 faqs:

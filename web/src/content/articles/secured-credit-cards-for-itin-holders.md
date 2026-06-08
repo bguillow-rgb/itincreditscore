@@ -16,6 +16,7 @@ category: "Credit Cards"
 relatedSlugs:
   - "credit-builder-loan-with-itin"
   - "how-to-build-credit-with-itin-number"
+  - "transfer-itin-credit-history-to-ssn"
   - "can-you-have-a-credit-score-with-an-itin"
 faqs:
   - q: "Can I get a secured credit card with only an ITIN and no SSN?"

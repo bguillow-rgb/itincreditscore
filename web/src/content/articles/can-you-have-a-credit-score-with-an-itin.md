@@ -14,6 +14,7 @@ author: "ITIN Credit Score Editorial Team"
 category: "Credit Basics"
 relatedSlugs:
   - "how-to-build-credit-with-itin-number"
+  - "transfer-itin-credit-history-to-ssn"
   - "credit-builder-loan-with-itin"
   - "secured-credit-cards-for-itin-holders"
 faqs:

@@ -15,6 +15,7 @@ author: "ITIN Credit Score Editorial Team"
 category: "Puntaje de Crédito"
 relatedSlugs:
   - "can-you-have-a-credit-score-with-an-itin"
+  - "transfer-itin-credit-history-to-ssn"
   - "secured-credit-cards-for-itin-holders"
   - "credit-builder-loan-with-itin"
 faqs:
