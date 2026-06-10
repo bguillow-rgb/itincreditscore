@@ -15,9 +15,9 @@ author: "ITIN Credit Score Editorial Team"
 category: "Puntaje de Crédito"
 relatedSlugs:
   - "can-you-have-a-credit-score-with-an-itin"
+  - "how-to-check-credit-score-with-itin-number"
   - "transfer-itin-credit-history-to-ssn"
   - "secured-credit-cards-for-itin-holders"
-  - "credit-builder-loan-with-itin"
 faqs:
   - q: "¿Puedo construir crédito con un ITIN en lugar de un SSN?"
     a: "Sí. Las tres principales bureaus de crédito —Equifax, Experian y TransUnion— aceptan y registran cuentas abiertas con un ITIN. Tu historial crediticio se construye y se califica de la misma forma que uno basado en un SSN, siempre que tengas una cuenta activa que reporte."

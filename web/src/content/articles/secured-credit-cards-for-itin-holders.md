@@ -15,9 +15,9 @@ author: "ITIN Credit Score Editorial Team"
 category: "Credit Cards"
 relatedSlugs:
   - "credit-builder-loan-with-itin"
+  - "how-to-check-credit-score-with-itin-number"
   - "how-to-build-credit-with-itin-number"
   - "transfer-itin-credit-history-to-ssn"
-  - "can-you-have-a-credit-score-with-an-itin"
 faqs:
   - q: "Can I get a secured credit card with only an ITIN and no SSN?"
     a: "Yes. Several major issuers — including OpenSky, Capital One, and Bank of America — accept an ITIN in place of an SSN for secured card applications. You will also need a valid government-issued ID (such as a passport), proof of a U.S. address, and the funds to cover the security deposit."
