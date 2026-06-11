@@ -17,7 +17,7 @@ relatedSlugs:
   - "how-to-build-credit-with-itin-number"
   - "secured-credit-cards-for-itin-holders"
   - "credit-builder-loan-with-itin"
-  - "how-long-to-build-credit-with-itin"
+  - "credit-cards-that-accept-itin"
 faqs:
   - q: "¿Puedo consultar mi puntaje de crédito con un ITIN en lugar de un SSN?"
     a: "Sí. Tu puntaje de crédito se calcula a partir de tu historial crediticio, no de si tienes un SSN o un ITIN. Una vez que tengas al menos 3 a 6 meses de actividad crediticia reportada bajo tu ITIN, se puede generar un puntaje. Puedes consultarlo a través de myEquifax en línea, Credit Karma, myFICO, la app de Bilt Rewards, o enviando una solicitud escrita por correo a cualquiera de los tres burós."
