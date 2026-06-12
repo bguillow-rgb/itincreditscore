@@ -14,10 +14,10 @@ publishedAt: "2026-06-11"
 author: "ITIN Credit Score Editorial Team"
 category: "Loans"
 relatedSlugs:
+  - "personal-loan-with-itin-number"
   - "can-you-have-a-credit-score-with-an-itin"
   - "credit-builder-loan-with-itin"
   - "credit-cards-that-accept-itin"
-  - "transfer-itin-credit-history-to-ssn"
 faqs:
   - q: "Can I get a car loan with an ITIN and no credit history?"
     a: "Yes. Some credit unions — such as KeyPoint Credit Union and Keys Federal Credit Union — explicitly offer ITIN auto loans with no prior U.S. credit history required. Specialty online lenders like Lendbuzz use alternative data instead of traditional credit scores to evaluate ITIN applicants."
