@@ -1,0 +1,304 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import QuickAnswer from '../components/QuickAnswer.astro';
+import FAQ from '../components/FAQ.astro';
+import Disclosure from '../components/Disclosure.astro';
+import BreadcrumbSchema from '../components/schema/BreadcrumbSchema.astro';
+import { SITE } from '../consts';
+
+const path = '/credit-readiness-calculator';
+const fullUrl = `${SITE.url}${path}`;
+const title = 'ITIN Credit Readiness Calculator (Free, 2026)';
+const h1 = 'ITIN Credit Readiness Calculator';
+const description =
+  'Free tool for ITIN holders: answer 7 questions and get a 0–100 credit-readiness estimate, an approximate score band, and personalized next steps to build credit without an SSN.';
+
+const quickAnswer =
+  'This free calculator estimates how "credit-ready" an ITIN holder is on a 0–100 scale using the same factors lenders weigh — payment history, credit utilization, length of history, credit mix, and recent inquiries. It is an educational self-assessment, not your real FICO score, and it returns tailored next steps to build or raise your credit with an ITIN.';
+
+const faqs = [
+  {
+    q: 'Is this my real credit score?',
+    a: 'No. This is an educational self-assessment that estimates your credit readiness from the same five factors the FICO and VantageScore models weigh. Your actual score comes from the bureaus based on your real credit file. To see your real number, check your credit score with an ITIN through myEquifax, Credit Karma, or your card issuer.',
+  },
+  {
+    q: 'Does using this calculator affect my credit?',
+    a: 'No. Nothing here touches your credit file or triggers an inquiry. The calculation runs entirely in your browser — no data you enter is sent anywhere or stored.',
+  },
+  {
+    q: 'Why does it ask whether I have any reporting accounts?',
+    a: 'A credit score can only exist once at least one account reports to a bureau for about six months. If you have no reporting accounts yet, your readiness focuses on opening your first one — a secured card or credit-builder loan — rather than on optimizing an existing file.',
+  },
+  {
+    q: 'How accurate is the estimated score band?',
+    a: 'The band is a rough guide, not a guarantee. Real scoring models use dozens of data points and exact balances. Use the band to understand roughly where you stand and which factor to work on next, then confirm with a real score check.',
+  },
+  {
+    q: 'Can ITIN holders build credit the same way as SSN holders?',
+    a: 'Yes. The scoring formula is identical regardless of whether your file is keyed to an ITIN or SSN. Payment history, utilization, history length, mix, and inquiries are the only factors. The main difference is which lenders and tools accept an ITIN at signup.',
+  },
+];
+
+const appSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'WebApplication',
+  name: h1,
+  url: fullUrl,
+  applicationCategory: 'FinanceApplication',
+  operatingSystem: 'All',
+  description,
+  inLanguage: 'en-US',
+  isAccessibleForFree: true,
+  offers: { '@type': 'Offer', price: '0', priceCurrency: 'USD' },
+  provider: {
+    '@type': 'Organization',
+    name: SITE.name,
+    legalName: SITE.publisher.name,
+    url: SITE.url,
+  },
+};
+
+const speakableSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'WebPage',
+  '@id': fullUrl,
+  url: fullUrl,
+  name: title,
+  inLanguage: 'en-US',
+  speakable: { '@type': 'SpeakableSpecification', cssSelector: ['#quick-answer'] },
+};
+---
+<BaseLayout title={title} description={description} path={path} ogImage="/og.png">
+  <Fragment slot="head">
+    <BreadcrumbSchema crumbs={[{ name: h1, url: fullUrl }]} />
+    <script type="application/ld+json" set:html={JSON.stringify(appSchema)} />
+    <script type="application/ld+json" set:html={JSON.stringify(speakableSchema)} />
+  </Fragment>
+
+  <section class="hero hero--accent" style="--hero-accent:#15803D">
+    <div class="container">
+      <p class="crumbs"><a href="/">Home</a> &rsaquo; <a href="/itin-credit-score-guide">Credit Score Guide</a> &rsaquo; <span>Readiness Calculator</span></p>
+      <span class="eyebrow">Free tool</span>
+      <h1>{h1}</h1>
+      <p class="lede">Answer 7 quick questions and get a 0–100 credit-readiness estimate, an approximate score band, and the exact next step to take — built for ITIN holders, no SSN required.</p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container narrow">
+      <Disclosure />
+      <QuickAnswer text={quickAnswer} />
+
+      <form class="calc" id="calc" novalidate>
+        <fieldset class="calc-field">
+          <legend>1. Do you already have any U.S. credit account that reports to a bureau? <span class="hint">(secured/unsecured card, credit-builder loan, auto/personal loan)</span></legend>
+          <label><input type="radio" name="hasfile" value="yes" checked /> Yes, at least one</label>
+          <label><input type="radio" name="hasfile" value="no" /> No, not yet</label>
+        </fieldset>
+
+        <div id="file-questions">
+          <fieldset class="calc-field">
+            <legend>2. How long has your oldest account been open?</legend>
+            <label><input type="radio" name="age" value="0" /> Less than 6 months</label>
+            <label><input type="radio" name="age" value="40" checked /> 6–12 months</label>
+            <label><input type="radio" name="age" value="70" /> 1–3 years</label>
+            <label><input type="radio" name="age" value="100" /> 3+ years</label>
+          </fieldset>
+
+          <fieldset class="calc-field">
+            <legend>3. How many accounts report to the bureaus for you?</legend>
+            <label><input type="radio" name="accounts" value="20" /> 1</label>
+            <label><input type="radio" name="accounts" value="70" checked /> 2–3</label>
+            <label><input type="radio" name="accounts" value="100" /> 4 or more</label>
+          </fieldset>
+
+          <fieldset class="calc-field">
+            <legend>4. Your payment record so far</legend>
+            <label><input type="radio" name="payments" value="100" checked /> Every payment on time</label>
+            <label><input type="radio" name="payments" value="55" /> 1–2 late payments</label>
+            <label><input type="radio" name="payments" value="15" /> Several late, or a collection/default</label>
+          </fieldset>
+
+          <fieldset class="calc-field">
+            <legend>5. Credit utilization <span class="hint">(card balances ÷ card limits)</span></legend>
+            <label><input type="radio" name="util" value="100" checked /> Under 10%</label>
+            <label><input type="radio" name="util" value="80" /> 10–30%</label>
+            <label><input type="radio" name="util" value="45" /> 30–50%</label>
+            <label><input type="radio" name="util" value="15" /> Over 50%</label>
+            <label><input type="radio" name="util" value="90" /> No credit cards yet</label>
+          </fieldset>
+
+          <fieldset class="calc-field">
+            <legend>6. Credit mix</legend>
+            <label><input type="radio" name="mix" value="100" /> Both a card and a loan</label>
+            <label><input type="radio" name="mix" value="60" checked /> Only cards (revolving)</label>
+            <label><input type="radio" name="mix" value="60" /> Only a loan (installment)</label>
+          </fieldset>
+
+          <fieldset class="calc-field">
+            <legend>7. Hard inquiries (new credit applications) in the last 12 months</legend>
+            <label><input type="radio" name="inq" value="100" checked /> 0–1</label>
+            <label><input type="radio" name="inq" value="65" /> 2–3</label>
+            <label><input type="radio" name="inq" value="25" /> 4 or more</label>
+          </fieldset>
+        </div>
+
+        <button type="button" class="btn btn-primary btn-lg" id="calc-go">Calculate my readiness</button>
+      </form>
+
+      <div class="result" id="result" hidden aria-live="polite">
+        <div class="gauge"><span class="gauge-num" id="score-num">0</span><span class="gauge-of">/100</span></div>
+        <p class="band" id="band"></p>
+        <p class="band-est" id="band-est"></p>
+        <div class="steps" id="steps"></div>
+      </div>
+
+      <h2>How the readiness score works</h2>
+      <p>The calculator mirrors the five factors every U.S. scoring model uses, with weights close to FICO's published breakdown: payment history (35%), credit utilization (30%), length of history (15%), credit mix (10%), and recent inquiries (10%). Each answer maps to a 0–100 sub-score; the weighted average is your readiness number. It runs entirely in your browser — nothing you enter is sent anywhere.</p>
+      <p><strong>This is a learning tool, not your real score.</strong> Your actual number comes from your credit file at the bureaus. When you're ready to see it, here's <a href="/check-credit-score-with-itin">how to check your credit score with an ITIN</a>. To start or grow the file behind that number, see <a href="/build-credit-history-with-itin">building credit history with an ITIN</a> and <a href="/improve-credit-score">how to improve your credit score</a>.</p>
+
+      <h2>What to do with your result</h2>
+      <table>
+        <thead>
+          <tr><th>Your band</th><th>What it means</th><th>Best next move</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>Just starting (no file)</td><td>No scoreable history yet</td><td>Open one reporting account; wait ~6 months</td></tr>
+          <tr><td>Building (0–49)</td><td>A file exists but is thin or has dings</td><td>Make every payment on time; lower card balances</td></tr>
+          <tr><td>Established (50–79)</td><td>A solid, scoreable profile</td><td>Keep utilization under 10%; add a second account type</td></tr>
+          <tr><td>Strong (80–100)</td><td>Prime-range habits</td><td>Maintain; you're ready for bigger credit goals</td></tr>
+        </tbody>
+      </table>
+
+      <FAQ faqs={faqs} />
+    </div>
+  </section>
+
+  <script is:inline>
+    (function () {
+      var form = document.getElementById('calc');
+      if (!form) return;
+      var go = document.getElementById('calc-go');
+      var result = document.getElementById('result');
+      var fileQs = document.getElementById('file-questions');
+
+      function val(name) {
+        var el = form.querySelector('input[name="' + name + '"]:checked');
+        return el ? Number(el.value) : 0;
+      }
+      function hasFile() {
+        var el = form.querySelector('input[name="hasfile"]:checked');
+        return el ? el.value === 'yes' : true;
+      }
+      function syncFile() {
+        var on = hasFile();
+        fileQs.style.opacity = on ? '1' : '0.45';
+        fileQs.querySelectorAll('input').forEach(function (i) { i.disabled = !on; });
+      }
+      form.querySelectorAll('input[name="hasfile"]').forEach(function (i) {
+        i.addEventListener('change', syncFile);
+      });
+      syncFile();
+
+      function render(score, band, est, steps) {
+        document.getElementById('score-num').textContent = score;
+        var bandEl = document.getElementById('band');
+        bandEl.textContent = band;
+        document.getElementById('band-est').textContent = est;
+        var s = document.getElementById('steps');
+        s.innerHTML = '';
+        var ul = document.createElement('ul');
+        ul.className = 'lead-list';
+        steps.forEach(function (h) {
+          var li = document.createElement('li');
+          li.innerHTML = h;
+          ul.appendChild(li);
+        });
+        s.appendChild(ul);
+        result.hidden = false;
+        result.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }
+
+      go.addEventListener('click', function () {
+        if (!hasFile()) {
+          render(
+            0,
+            'Just starting — no credit file yet',
+            'Estimated score: none yet (a score needs ~6 months of reporting history).',
+            [
+              'Open one account that accepts an ITIN and reports to all three bureaus — a <a href="/build-credit-history-with-itin">secured card or credit-builder loan</a> is the most accessible start.',
+              'Set up autopay so every payment lands on time from day one.',
+              'After about six months, <a href="/check-credit-score-with-itin">check your credit score with an ITIN</a> to confirm a file has formed.'
+            ]
+          );
+          return;
+        }
+        var weights = { payments: 0.35, util: 0.30, age: 0.15, mix: 0.10, inq: 0.10 };
+        var raw =
+          val('payments') * weights.payments +
+          val('util') * weights.util +
+          val('age') * weights.age +
+          val('mix') * weights.mix +
+          val('inq') * weights.inq;
+        var score = Math.round(raw);
+
+        var band, est, steps;
+        if (score < 50) {
+          band = 'Building';
+          est = 'Estimated score band: roughly 500–620.';
+          steps = [
+            'Payment history is the biggest lever — bring every account current and keep it that way.',
+            'If a card balance is high, pay it down: target under 30%, then under 10% of the limit.',
+            'Read <a href="/improve-credit-score">how to improve your credit score</a> for the fastest legitimate wins.'
+          ];
+        } else if (score < 80) {
+          band = 'Established';
+          est = 'Estimated score band: roughly 620–700.';
+          steps = [
+            'Keep utilization under 10% in the statement that reports each month.',
+            'Add the account type you\'re missing (a loan if you only have cards, or a card if you only have a loan) to round out your <a href="/credit-builder-loans">credit mix</a>.',
+            'Avoid new applications you don\'t need — space out hard inquiries.'
+          ];
+        } else {
+          band = 'Strong';
+          est = 'Estimated score band: roughly 700–780+.';
+          steps = [
+            'You\'re in prime territory — maintain on-time payments and low balances.',
+            'Don\'t close your oldest account; length of history is working for you.',
+            'You\'re positioned for bigger goals; see <a href="/check-credit-score-with-itin">how to confirm your exact score</a> before you apply.'
+          ];
+        }
+        render(score, band + ' — ' + score + '/100', est, steps);
+      });
+    })();
+  </script>
+
+  <style>
+    .calc { margin: 24px 0; }
+    .calc-field {
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 16px 18px;
+      margin: 0 0 14px;
+    }
+    .calc-field legend { font-weight: 600; padding: 0 6px; }
+    .calc-field .hint { font-weight: 400; color: var(--muted); font-size: 0.9em; }
+    .calc-field label { display: block; padding: 6px 0; cursor: pointer; }
+    .calc-field input { margin-right: 8px; }
+    .result {
+      margin: 28px 0;
+      padding: 24px;
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      background: var(--surface);
+      text-align: center;
+    }
+    .gauge { display: flex; align-items: baseline; justify-content: center; gap: 4px; }
+    .gauge-num { font-size: 3.4rem; font-weight: 800; color: var(--primary); line-height: 1; }
+    .gauge-of { font-size: 1.2rem; color: var(--muted); }
+    .band { font-size: 1.25rem; font-weight: 700; margin: 10px 0 2px; }
+    .band-est { color: var(--muted); margin: 0 0 12px; }
+    .result .steps { text-align: left; max-width: 560px; margin: 0 auto; }
+  </style>
+</BaseLayout>
+</content>

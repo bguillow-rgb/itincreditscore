@@ -169,6 +169,7 @@ export const NAV = [
   { label: 'Home', labelEs: 'Inicio', href: '/' },
   { label: 'Credit Score Guide', labelEs: 'Guía de Puntaje', href: '/itin-credit-score-guide' },
   { label: 'Build Credit', labelEs: 'Construir Crédito', href: '/build-credit-history-with-itin' },
+  { label: 'Calculator', labelEs: 'Calculadora', href: '/credit-readiness-calculator' },
   { label: 'Guides', labelEs: 'Guías', href: '/articles' },
   { label: 'About', labelEs: 'Nosotros', href: '/about' },
 ];

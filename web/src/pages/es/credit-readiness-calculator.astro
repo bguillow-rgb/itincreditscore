@@ -1,0 +1,303 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import QuickAnswer from '../../components/QuickAnswer.astro';
+import FAQ from '../../components/FAQ.astro';
+import Disclosure from '../../components/Disclosure.astro';
+import BreadcrumbSchema from '../../components/schema/BreadcrumbSchema.astro';
+import { SITE } from '../../consts';
+
+const path = '/es/credit-readiness-calculator';
+const fullUrl = `${SITE.url}${path}`;
+const title = 'Calculadora de Preparación Crediticia con ITIN (Gratis, 2026)';
+const h1 = 'Calculadora de Preparación Crediticia con ITIN';
+const description =
+  'Herramienta gratuita para personas con ITIN: responde 7 preguntas y obtén una estimación de preparación crediticia de 0 a 100, un rango aproximado de puntaje y los próximos pasos personalizados para construir crédito sin Seguro Social.';
+
+const quickAnswer =
+  'Esta calculadora gratuita estima qué tan "listo" está un titular de ITIN para el crédito en una escala de 0 a 100, usando los mismos factores que evalúan los prestamistas: historial de pagos, utilización del crédito, antigüedad del historial, variedad de créditos y consultas recientes. Es una autoevaluación educativa, no tu puntaje FICO real, y devuelve próximos pasos personalizados para construir o subir tu crédito con un ITIN.';
+
+const faqs = [
+  {
+    q: '¿Este es mi puntaje de crédito real?',
+    a: 'No. Es una autoevaluación educativa que estima tu preparación crediticia con los mismos cinco factores que pesan los modelos FICO y VantageScore. Tu puntaje real proviene de los burós según tu expediente de crédito. Para ver tu número real, consulta tu puntaje de crédito con un ITIN a través de myEquifax, Credit Karma o tu emisor de tarjeta.',
+  },
+  {
+    q: '¿Usar esta calculadora afecta mi crédito?',
+    a: 'No. Nada aquí toca tu expediente de crédito ni genera una consulta. El cálculo se ejecuta completamente en tu navegador: ningún dato que ingreses se envía ni se guarda.',
+  },
+  {
+    q: '¿Por qué pregunta si tengo cuentas que reportan?',
+    a: 'Un puntaje de crédito solo puede existir una vez que al menos una cuenta reporta a un buró durante unos seis meses. Si todavía no tienes cuentas que reporten, tu preparación se centra en abrir la primera —una tarjeta asegurada o un préstamo para construir crédito— en lugar de optimizar un expediente existente.',
+  },
+  {
+    q: '¿Qué tan preciso es el rango de puntaje estimado?',
+    a: 'El rango es una guía aproximada, no una garantía. Los modelos reales usan docenas de datos y saldos exactos. Usa el rango para entender aproximadamente dónde estás y en qué factor trabajar, y luego confírmalo con una consulta de puntaje real.',
+  },
+  {
+    q: '¿Las personas con ITIN pueden construir crédito igual que quienes tienen SSN?',
+    a: 'Sí. La fórmula del puntaje es idéntica sin importar si tu expediente está vinculado a un ITIN o a un SSN. El historial de pagos, la utilización, la antigüedad, la variedad y las consultas son los únicos factores. La diferencia principal es qué prestamistas y herramientas aceptan un ITIN al registrarte.',
+  },
+];
+
+const appSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'WebApplication',
+  name: h1,
+  url: fullUrl,
+  applicationCategory: 'FinanceApplication',
+  operatingSystem: 'All',
+  description,
+  inLanguage: 'es-419',
+  isAccessibleForFree: true,
+  offers: { '@type': 'Offer', price: '0', priceCurrency: 'USD' },
+  provider: {
+    '@type': 'Organization',
+    name: SITE.name,
+    legalName: SITE.publisher.name,
+    url: SITE.url,
+  },
+};
+
+const speakableSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'WebPage',
+  '@id': fullUrl,
+  url: fullUrl,
+  name: title,
+  inLanguage: 'es-419',
+  speakable: { '@type': 'SpeakableSpecification', cssSelector: ['#quick-answer'] },
+};
+---
+<BaseLayout title={title} description={description} path={path} ogImage="/og.png">
+  <Fragment slot="head">
+    <BreadcrumbSchema crumbs={[{ name: h1, url: fullUrl }]} />
+    <script type="application/ld+json" set:html={JSON.stringify(appSchema)} />
+    <script type="application/ld+json" set:html={JSON.stringify(speakableSchema)} />
+  </Fragment>
+
+  <section class="hero hero--accent" style="--hero-accent:#15803D">
+    <div class="container">
+      <p class="crumbs"><a href="/es/">Inicio</a> &rsaquo; <a href="/es/itin-credit-score-guide">Guía de Puntaje</a> &rsaquo; <span>Calculadora de Preparación</span></p>
+      <span class="eyebrow">Herramienta gratuita</span>
+      <h1>{h1}</h1>
+      <p class="lede">Responde 7 preguntas rápidas y obtén una estimación de preparación crediticia de 0 a 100, un rango aproximado de puntaje y el siguiente paso exacto a tomar — hecha para personas con ITIN, sin Seguro Social.</p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container narrow">
+      <Disclosure />
+      <QuickAnswer text={quickAnswer} />
+
+      <form class="calc" id="calc" novalidate>
+        <fieldset class="calc-field">
+          <legend>1. ¿Ya tienes alguna cuenta de crédito en EE. UU. que reporte a un buró? <span class="hint">(tarjeta asegurada/sin garantía, préstamo para construir crédito, préstamo de auto/personal)</span></legend>
+          <label><input type="radio" name="hasfile" value="yes" checked /> Sí, al menos una</label>
+          <label><input type="radio" name="hasfile" value="no" /> No, todavía no</label>
+        </fieldset>
+
+        <div id="file-questions">
+          <fieldset class="calc-field">
+            <legend>2. ¿Hace cuánto abriste tu cuenta más antigua?</legend>
+            <label><input type="radio" name="age" value="0" /> Menos de 6 meses</label>
+            <label><input type="radio" name="age" value="40" checked /> 6–12 meses</label>
+            <label><input type="radio" name="age" value="70" /> 1–3 años</label>
+            <label><input type="radio" name="age" value="100" /> Más de 3 años</label>
+          </fieldset>
+
+          <fieldset class="calc-field">
+            <legend>3. ¿Cuántas cuentas reportan a los burós a tu nombre?</legend>
+            <label><input type="radio" name="accounts" value="20" /> 1</label>
+            <label><input type="radio" name="accounts" value="70" checked /> 2–3</label>
+            <label><input type="radio" name="accounts" value="100" /> 4 o más</label>
+          </fieldset>
+
+          <fieldset class="calc-field">
+            <legend>4. Tu historial de pagos hasta ahora</legend>
+            <label><input type="radio" name="payments" value="100" checked /> Todos los pagos a tiempo</label>
+            <label><input type="radio" name="payments" value="55" /> 1–2 pagos atrasados</label>
+            <label><input type="radio" name="payments" value="15" /> Varios atrasos, o una cuenta en cobro/incumplimiento</label>
+          </fieldset>
+
+          <fieldset class="calc-field">
+            <legend>5. Utilización del crédito <span class="hint">(saldos de tarjetas ÷ límites)</span></legend>
+            <label><input type="radio" name="util" value="100" checked /> Menos del 10%</label>
+            <label><input type="radio" name="util" value="80" /> 10–30%</label>
+            <label><input type="radio" name="util" value="45" /> 30–50%</label>
+            <label><input type="radio" name="util" value="15" /> Más del 50%</label>
+            <label><input type="radio" name="util" value="90" /> Todavía no tengo tarjetas</label>
+          </fieldset>
+
+          <fieldset class="calc-field">
+            <legend>6. Variedad de créditos</legend>
+            <label><input type="radio" name="mix" value="100" /> Una tarjeta y un préstamo</label>
+            <label><input type="radio" name="mix" value="60" checked /> Solo tarjetas (rotativo)</label>
+            <label><input type="radio" name="mix" value="60" /> Solo un préstamo (a plazos)</label>
+          </fieldset>
+
+          <fieldset class="calc-field">
+            <legend>7. Consultas duras (solicitudes de nuevo crédito) en los últimos 12 meses</legend>
+            <label><input type="radio" name="inq" value="100" checked /> 0–1</label>
+            <label><input type="radio" name="inq" value="65" /> 2–3</label>
+            <label><input type="radio" name="inq" value="25" /> 4 o más</label>
+          </fieldset>
+        </div>
+
+        <button type="button" class="btn btn-primary btn-lg" id="calc-go">Calcular mi preparación</button>
+      </form>
+
+      <div class="result" id="result" hidden aria-live="polite">
+        <div class="gauge"><span class="gauge-num" id="score-num">0</span><span class="gauge-of">/100</span></div>
+        <p class="band" id="band"></p>
+        <p class="band-est" id="band-est"></p>
+        <div class="steps" id="steps"></div>
+      </div>
+
+      <h2>Cómo funciona el puntaje de preparación</h2>
+      <p>La calculadora refleja los cinco factores que usan todos los modelos de puntaje en EE. UU., con pesos cercanos al desglose publicado de FICO: historial de pagos (35%), utilización del crédito (30%), antigüedad del historial (15%), variedad de créditos (10%) y consultas recientes (10%). Cada respuesta se traduce en un subpuntaje de 0 a 100; el promedio ponderado es tu número de preparación. Todo se ejecuta en tu navegador: nada de lo que ingresas se envía a ningún lado.</p>
+      <p><strong>Esto es una herramienta de aprendizaje, no tu puntaje real.</strong> Tu número real proviene de tu expediente en los burós. Cuando estés listo para verlo, aquí tienes <a href="/es/check-credit-score-with-itin">cómo consultar tu puntaje de crédito con un ITIN</a>. Para iniciar o hacer crecer el expediente detrás de ese número, consulta <a href="/es/build-credit-history-with-itin">cómo construir historial crediticio con un ITIN</a> y <a href="/es/improve-credit-score">cómo mejorar tu puntaje de crédito</a>.</p>
+
+      <h2>Qué hacer con tu resultado</h2>
+      <table>
+        <thead>
+          <tr><th>Tu nivel</th><th>Qué significa</th><th>Mejor próximo paso</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>Empezando (sin expediente)</td><td>Aún no hay historial con puntaje</td><td>Abre una cuenta que reporte; espera ~6 meses</td></tr>
+          <tr><td>Construyendo (0–49)</td><td>Hay expediente pero es delgado o tiene daños</td><td>Paga todo a tiempo; baja los saldos de tarjetas</td></tr>
+          <tr><td>Establecido (50–79)</td><td>Un perfil sólido con puntaje</td><td>Mantén la utilización bajo 10%; agrega otro tipo de cuenta</td></tr>
+          <tr><td>Fuerte (80–100)</td><td>Hábitos de rango prime</td><td>Mantén; estás listo para metas de crédito mayores</td></tr>
+        </tbody>
+      </table>
+
+      <FAQ faqs={faqs} />
+    </div>
+  </section>
+
+  <script is:inline>
+    (function () {
+      var form = document.getElementById('calc');
+      if (!form) return;
+      var go = document.getElementById('calc-go');
+      var result = document.getElementById('result');
+      var fileQs = document.getElementById('file-questions');
+
+      function val(name) {
+        var el = form.querySelector('input[name="' + name + '"]:checked');
+        return el ? Number(el.value) : 0;
+      }
+      function hasFile() {
+        var el = form.querySelector('input[name="hasfile"]:checked');
+        return el ? el.value === 'yes' : true;
+      }
+      function syncFile() {
+        var on = hasFile();
+        fileQs.style.opacity = on ? '1' : '0.45';
+        fileQs.querySelectorAll('input').forEach(function (i) { i.disabled = !on; });
+      }
+      form.querySelectorAll('input[name="hasfile"]').forEach(function (i) {
+        i.addEventListener('change', syncFile);
+      });
+      syncFile();
+
+      function render(score, band, est, steps) {
+        document.getElementById('score-num').textContent = score;
+        document.getElementById('band').textContent = band;
+        document.getElementById('band-est').textContent = est;
+        var s = document.getElementById('steps');
+        s.innerHTML = '';
+        var ul = document.createElement('ul');
+        ul.className = 'lead-list';
+        steps.forEach(function (h) {
+          var li = document.createElement('li');
+          li.innerHTML = h;
+          ul.appendChild(li);
+        });
+        s.appendChild(ul);
+        result.hidden = false;
+        result.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }
+
+      go.addEventListener('click', function () {
+        if (!hasFile()) {
+          render(
+            0,
+            'Empezando — todavía sin expediente de crédito',
+            'Puntaje estimado: ninguno aún (un puntaje necesita ~6 meses de historial que reporte).',
+            [
+              'Abre una cuenta que acepte ITIN y reporte a los tres burós — una <a href="/es/build-credit-history-with-itin">tarjeta asegurada o un préstamo para construir crédito</a> es el inicio más accesible.',
+              'Configura el pago automático para que todo llegue a tiempo desde el primer día.',
+              'Después de unos seis meses, <a href="/es/check-credit-score-with-itin">consulta tu puntaje de crédito con un ITIN</a> para confirmar que ya hay expediente.'
+            ]
+          );
+          return;
+        }
+        var weights = { payments: 0.35, util: 0.30, age: 0.15, mix: 0.10, inq: 0.10 };
+        var raw =
+          val('payments') * weights.payments +
+          val('util') * weights.util +
+          val('age') * weights.age +
+          val('mix') * weights.mix +
+          val('inq') * weights.inq;
+        var score = Math.round(raw);
+
+        var band, est, steps;
+        if (score < 50) {
+          band = 'Construyendo — ' + score + '/100';
+          est = 'Rango de puntaje estimado: aproximadamente 500–620.';
+          steps = [
+            'El historial de pagos es la mayor palanca: pon todas las cuentas al día y mantenlas así.',
+            'Si el saldo de una tarjeta está alto, redúcelo: apunta a menos del 30%, y luego menos del 10% del límite.',
+            'Lee <a href="/es/improve-credit-score">cómo mejorar tu puntaje de crédito</a> para las mejoras legítimas más rápidas.'
+          ];
+        } else if (score < 80) {
+          band = 'Establecido — ' + score + '/100';
+          est = 'Rango de puntaje estimado: aproximadamente 620–700.';
+          steps = [
+            'Mantén la utilización bajo 10% en el estado de cuenta que reporta cada mes.',
+            'Agrega el tipo de cuenta que te falta (un préstamo si solo tienes tarjetas, o una tarjeta si solo tienes un préstamo) para completar tu <a href="/es/credit-builder-loans">variedad de créditos</a>.',
+            'Evita solicitudes nuevas que no necesites — espacia las consultas duras.'
+          ];
+        } else {
+          band = 'Fuerte — ' + score + '/100';
+          est = 'Rango de puntaje estimado: aproximadamente 700–780+.';
+          steps = [
+            'Estás en territorio prime — mantén los pagos a tiempo y los saldos bajos.',
+            'No cierres tu cuenta más antigua; la antigüedad del historial trabaja a tu favor.',
+            'Estás listo para metas mayores; revisa <a href="/es/check-credit-score-with-itin">cómo confirmar tu puntaje exacto</a> antes de solicitar.'
+          ];
+        }
+        render(score, band, est, steps);
+      });
+    })();
+  </script>
+
+  <style>
+    .calc { margin: 24px 0; }
+    .calc-field {
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 16px 18px;
+      margin: 0 0 14px;
+    }
+    .calc-field legend { font-weight: 600; padding: 0 6px; }
+    .calc-field .hint { font-weight: 400; color: var(--muted); font-size: 0.9em; }
+    .calc-field label { display: block; padding: 6px 0; cursor: pointer; }
+    .calc-field input { margin-right: 8px; }
+    .result {
+      margin: 28px 0;
+      padding: 24px;
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      background: var(--surface);
+      text-align: center;
+    }
+    .gauge { display: flex; align-items: baseline; justify-content: center; gap: 4px; }
+    .gauge-num { font-size: 3.4rem; font-weight: 800; color: var(--primary); line-height: 1; }
+    .gauge-of { font-size: 1.2rem; color: var(--muted); }
+    .band { font-size: 1.25rem; font-weight: 700; margin: 10px 0 2px; }
+    .band-est { color: var(--muted); margin: 0 0 12px; }
+    .result .steps { text-align: left; max-width: 560px; margin: 0 auto; }
+  </style>
+</BaseLayout>
+</content>
