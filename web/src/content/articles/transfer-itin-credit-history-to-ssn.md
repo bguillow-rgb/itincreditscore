@@ -15,8 +15,8 @@ author: "ITIN Credit Score Editorial Team"
 category: "Credit Score"
 relatedSlugs:
   - "how-to-build-credit-with-itin-number"
-  - "how-to-check-credit-score-with-itin-number"
   - "how-long-to-build-credit-with-itin"
+  - "how-to-check-credit-score-with-itin-number"
   - "can-you-have-a-credit-score-with-an-itin"
 faqs:
   - q: "Will my credit score drop when I transfer from an ITIN to an SSN?"

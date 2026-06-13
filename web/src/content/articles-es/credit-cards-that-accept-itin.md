@@ -17,7 +17,7 @@ relatedSlugs:
   - "secured-credit-cards-for-itin-holders"
   - "can-you-have-a-credit-score-with-an-itin"
   - "car-loan-with-itin-number"
-  - "personal-loan-with-itin-number"
+  - "itin-mortgage-loan"
 faqs:
   - q: "¿Puedo obtener una tarjeta de crédito solo con un ITIN y sin historial crediticio en EE. UU.?"
     a: "Sí. Tarjetas como la OpenSky Secured y la Current Build Card no requieren verificación de crédito, así que no necesitas historial crediticio previo en EE. UU. Sí necesitarás un ITIN vigente, una dirección postal en EE. UU. y una identificación oficial como un pasaporte."

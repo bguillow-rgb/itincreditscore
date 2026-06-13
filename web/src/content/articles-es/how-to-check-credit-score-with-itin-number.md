@@ -15,7 +15,7 @@ author: "ITIN Credit Score Editorial Team"
 category: "Puntaje de Crédito"
 relatedSlugs:
   - "car-loan-with-itin-number"
-  - "how-to-build-credit-with-itin-number"
+  - "itin-mortgage-loan"
   - "secured-credit-cards-for-itin-holders"
   - "credit-builder-loan-with-itin"
 faqs:

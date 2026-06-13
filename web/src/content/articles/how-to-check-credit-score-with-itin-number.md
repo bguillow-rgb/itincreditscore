@@ -16,8 +16,8 @@ category: "Credit Score"
 relatedSlugs:
   - "transfer-itin-credit-history-to-ssn"
   - "how-to-build-credit-with-itin-number"
-  - "secured-credit-cards-for-itin-holders"
-  - "credit-builder-loan-with-itin"
+  - "how-long-to-build-credit-with-itin"
+  - "can-you-have-a-credit-score-with-an-itin"
 faqs:
   - q: "Can I get my credit report with an ITIN instead of an SSN?"
     a: "Yes. All three bureaus maintain your credit file under your ITIN and will release your report for free — just not through AnnualCreditReport.com's online form, which requires an SSN. Use myEquifax online (ITIN in the SSN field), Experian's document-upload tool or mail request, and TransUnion's live-chat or mail request. Each bureau is contacted individually."

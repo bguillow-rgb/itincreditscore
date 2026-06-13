@@ -15,8 +15,8 @@ author: "ITIN Credit Score Editorial Team"
 category: "Credit"
 relatedSlugs:
   - "secured-credit-cards-for-itin-holders"
+  - "itin-mortgage-loan"
   - "personal-loan-with-itin-number"
-  - "how-to-check-credit-score-with-itin-number"
   - "transfer-itin-credit-history-to-ssn"
 faqs:
   - q: "Can I get a credit builder loan with just an ITIN and no SSN?"

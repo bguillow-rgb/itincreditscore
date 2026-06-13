@@ -14,10 +14,10 @@ publishedAt: "2026-06-07"
 author: "ITIN Credit Score Editorial Team"
 category: "Crédito"
 relatedSlugs:
+  - "itin-mortgage-loan"
   - "secured-credit-cards-for-itin-holders"
   - "car-loan-with-itin-number"
   - "personal-loan-with-itin-number"
-  - "how-to-check-credit-score-with-itin-number"
 faqs:
   - q: "¿Puedo obtener un préstamo para construir crédito solo con mi ITIN y sin SSN?"
     a: "Sí. Varios prestamistas — entre ellos Self, muchas cooperativas de crédito e instituciones financieras de desarrollo comunitario (CDFIs) — aceptan el ITIN en lugar del Número de Seguro Social. Por lo general necesitas presentar tu ITIN, una identificación oficial con foto como un pasaporte, comprobante de domicilio en EE. UU. y evidencia de ingresos o actividad bancaria."

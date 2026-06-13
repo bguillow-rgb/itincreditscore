@@ -16,8 +16,8 @@ category: "Tarjetas de crédito"
 relatedSlugs:
   - "credit-cards-that-accept-itin"
   - "credit-builder-loan-with-itin"
+  - "itin-mortgage-loan"
   - "car-loan-with-itin-number"
-  - "how-to-check-credit-score-with-itin-number"
 faqs:
   - q: "¿Puedo obtener una tarjeta de crédito asegurada solo con ITIN y sin SSN?"
     a: "Sí. Varios emisores importantes —entre ellos OpenSky, Capital One y Bank of America— aceptan el ITIN en lugar del SSN para solicitudes de tarjetas aseguradas. También necesitarás una identificación oficial vigente (como un pasaporte), comprobante de domicilio en EE. UU. y los fondos para cubrir el depósito de seguridad."

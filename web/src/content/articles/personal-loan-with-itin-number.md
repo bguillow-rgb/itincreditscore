@@ -16,7 +16,7 @@ category: "Loans"
 relatedSlugs:
   - "credit-builder-loan-with-itin"
   - "car-loan-with-itin-number"
-  - "how-to-check-credit-score-with-itin-number"
+  - "itin-mortgage-loan"
   - "secured-credit-cards-for-itin-holders"
 faqs:
   - q: "Can I get a personal loan with only an ITIN and no credit history?"

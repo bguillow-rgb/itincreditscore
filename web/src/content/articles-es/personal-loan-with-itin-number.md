@@ -15,9 +15,9 @@ author: "ITIN Credit Score Editorial Team"
 category: "Préstamos"
 relatedSlugs:
   - "car-loan-with-itin-number"
+  - "itin-mortgage-loan"
   - "credit-builder-loan-with-itin"
   - "credit-cards-that-accept-itin"
-  - "how-to-check-credit-score-with-itin-number"
 faqs:
   - q: "¿Puedo obtener un préstamo personal solo con ITIN y sin historial crediticio?"
     a: "Algunos prestamistas — especialmente las cooperativas de crédito y las instituciones financieras de desarrollo comunitario (CDFI) — aceptan documentación crediticia alternativa, como recibos de renta, facturas de servicios y comprobantes de pago de teléfono, en lugar de un puntaje de crédito tradicional. Es probable que enfrentes tasas más altas y límites de préstamo más bajos, pero sí es posible."
