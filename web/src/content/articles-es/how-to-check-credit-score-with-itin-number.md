@@ -1,15 +1,15 @@
 ---
-title: "Cómo ver tu puntaje de crédito con un ITIN (2026)"
-description: "Sí, los titulares de ITIN pueden consultar su puntaje de crédito gratis, pero el proceso es diferente al de quienes tienen SSN. Aquí están todos los métodos, herramientas y opciones por buró que funcionan en 2026."
+title: "Cómo obtener tu reporte de crédito gratis con un ITIN (los 3 burós, 2026)"
+description: "AnnualCreditReport.com no acepta tu ITIN en línea, pero los tres burós sí. Aquí está la forma exacta y gratuita de obtener tus reportes de Equifax, Experian y TransUnion con un ITIN en 2026."
 tier: detail
-targetQuery: "cómo ver mi puntaje de crédito con número ITIN"
+targetQuery: "cómo obtener mi reporte de crédito con ITIN"
 relatedQueries:
-  - "consultar crédito sin número de seguro social"
   - "reporte de crédito gratis con ITIN"
-  - "cómo obtener mi reporte de crédito con ITIN"
-  - "puntaje de crédito con ITIN sin seguro social"
-  - "puntaje de crédito Equifax con ITIN"
-quickAnswer: "Los titulares de ITIN pueden consultar su puntaje de crédito gratis con herramientas como myEquifax (en línea, ingresa tu ITIN en el campo del SSN), Credit Karma o myFICO, o enviando documentos de identidad por correo postal a cada buró. AnnualCreditReport.com no acepta ITINs en línea, pero los tres burós aceptan solicitudes escritas por correo sin ningún costo."
+  - "cómo obtener mi reporte de crédito con ITIN por correo"
+  - "reporte de crédito gratis sin número de seguro social"
+  - "reporte Equifax Experian TransUnion con ITIN"
+  - "annualcreditreport.com con ITIN"
+quickAnswer: "Los titulares de ITIN pueden obtener sus tres reportes de crédito gratis, pero no por el formulario en línea de AnnualCreditReport.com, que requiere un SSN. Usa myEquifax en línea (ingresa tu ITIN en el campo del SSN), la herramienta de carga de documentos de Experian y el chat en vivo o solicitud por correo de TransUnion. Cada buró acepta una solicitud escrita por correo sin costo."
 publishedAt: "2026-06-10"
 author: "ITIN Credit Score Editorial Team"
 category: "Puntaje de Crédito"
@@ -19,8 +19,8 @@ relatedSlugs:
   - "secured-credit-cards-for-itin-holders"
   - "credit-builder-loan-with-itin"
 faqs:
-  - q: "¿Puedo consultar mi puntaje de crédito con un ITIN en lugar de un SSN?"
-    a: "Sí. Tu puntaje de crédito se calcula a partir de tu historial crediticio, no de si tienes un SSN o un ITIN. Una vez que tengas al menos 3 a 6 meses de actividad crediticia reportada bajo tu ITIN, se puede generar un puntaje. Puedes consultarlo a través de myEquifax en línea, Credit Karma, myFICO, la app de Bilt Rewards, o enviando una solicitud escrita por correo a cualquiera de los tres burós."
+  - q: "¿Puedo obtener mi reporte de crédito con un ITIN en lugar de un SSN?"
+    a: "Sí. Los tres burós mantienen tu historial crediticio bajo tu ITIN y entregan tu reporte gratis, pero no a través del formulario en línea de AnnualCreditReport.com, que requiere un SSN. Usa myEquifax en línea (ITIN en el campo del SSN), la herramienta de carga de documentos o solicitud por correo de Experian, y el chat en vivo o solicitud por correo de TransUnion. Cada buró se contacta por separado."
   - q: "¿Consultar mi puntaje de crédito afecta mi historial?"
     a: "No. Consultar tu propio puntaje de crédito a través de cualquier servicio de monitoreo o portal de un buró siempre es una consulta suave (soft inquiry), lo cual no tiene ningún impacto en tu puntaje. Solo las solicitudes de nuevo crédito (consultas duras o hard inquiries) pueden bajar tu puntaje temporalmente entre 5 y 10 puntos."
   - q: "¿Por qué AnnualCreditReport.com no funciona para titulares de ITIN?"
@@ -34,7 +34,7 @@ faqs:
 published: true
 ---
 
-Tienes un ITIN y quieres ver tu puntaje de crédito. Abres AnnualCreditReport.com, empiezas el formulario y te pide un número de Seguro Social. Te topas con una pared. Esta es la frustración más común entre los titulares de ITIN, y tiene una solución real. El proceso funciona de manera diferente al de quienes tienen SSN, pero cada opción es gratuita y completamente legal.
+Tienes un ITIN y quieres obtener tu reporte de crédito completo. Abres AnnualCreditReport.com, empiezas el formulario y te pide un número de Seguro Social. Te topas con una pared. Esta es la frustración más común entre los titulares de ITIN al solicitar sus reportes, y tiene una solución real. El proceso para obtener tus reportes de Equifax, Experian y TransUnion funciona de manera diferente al de quienes tienen SSN, pero cada opción es gratuita y completamente legal. Si lo que en realidad quieres es el número de tres dígitos y no el reporte completo, consulta nuestra guía principal sobre cómo [ver tu puntaje de crédito con un ITIN](https://itincreditscore.com/es/check-credit-score-with-itin).
 
 ---
 

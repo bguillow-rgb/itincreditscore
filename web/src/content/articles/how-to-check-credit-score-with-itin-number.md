@@ -1,15 +1,15 @@
 ---
-title: "How to Check Your Credit Score With an ITIN (2026)"
-description: "Yes, ITIN holders can check their credit score for free — but the process differs from SSN holders. Here's every method, tool, and bureau option that works in 2026."
+title: "How to Get Your Free Credit Report With an ITIN (All 3 Bureaus, 2026)"
+description: "AnnualCreditReport.com won't accept your ITIN online — but all three bureaus will. Here's the exact free way to pull your Equifax, Experian, and TransUnion reports with an ITIN in 2026."
 tier: detail
-targetQuery: "how to check your credit score with an ITIN number"
+targetQuery: "how to get your credit report with an ITIN"
 relatedQueries:
-  - "check credit score without SSN"
   - "ITIN credit report free"
-  - "how to get credit report with ITIN"
-  - "credit score ITIN number no social security"
-  - "Equifax credit score ITIN"
-quickAnswer: "ITIN holders can check their credit score for free using tools like myEquifax (online, enter ITIN in the SSN field), Credit Karma, or myFICO — or by mailing identity documents to each bureau. AnnualCreditReport.com does not accept ITINs online, but all three bureaus accept written mail requests at no cost."
+  - "how to get credit report with ITIN by mail"
+  - "free credit report without SSN"
+  - "Equifax Experian TransUnion ITIN report"
+  - "annualcreditreport.com ITIN"
+quickAnswer: "ITIN holders can get all three free credit reports, but not through AnnualCreditReport.com's online form, which requires an SSN. Use myEquifax online (enter your ITIN in the SSN field), Experian's document-upload tool, and TransUnion's live-chat or mail request. Each bureau accepts a written mail request at no cost."
 publishedAt: "2026-06-10"
 author: "ITIN Credit Score Editorial Team"
 category: "Credit Score"
@@ -19,8 +19,8 @@ relatedSlugs:
   - "secured-credit-cards-for-itin-holders"
   - "credit-builder-loan-with-itin"
 faqs:
-  - q: "Can I check my credit score with an ITIN instead of an SSN?"
-    a: "Yes. Your credit score is calculated from your credit file, not from whether you have an SSN or ITIN. Once you have at least 3–6 months of reported credit activity under your ITIN, a score can be generated. You can check it via myEquifax online, Credit Karma, myFICO, the Bilt Rewards app, or by mailing a written request to any of the three bureaus."
+  - q: "Can I get my credit report with an ITIN instead of an SSN?"
+    a: "Yes. All three bureaus maintain your credit file under your ITIN and will release your report for free — just not through AnnualCreditReport.com's online form, which requires an SSN. Use myEquifax online (ITIN in the SSN field), Experian's document-upload tool or mail request, and TransUnion's live-chat or mail request. Each bureau is contacted individually."
   - q: "Does checking my credit score hurt my credit?"
     a: "No. Checking your own credit score through any monitoring service or bureau portal is always a soft inquiry, which has zero impact on your score. Only applications for new credit (hard inquiries) can temporarily lower your score by 5–10 points."
   - q: "Why doesn't AnnualCreditReport.com work for ITIN holders?"
@@ -34,7 +34,7 @@ faqs:
 published: true
 ---
 
-You have an ITIN and you want to see your credit score. You open AnnualCreditReport.com, start the form — and it asks for a Social Security Number. You hit a wall. This is the most common frustration ITIN holders run into, and it has a real solution. The process works differently than it does for SSN holders, but every path is free and fully legal. For the full step-by-step playbook, see our main guide on how to [check your credit score with an ITIN](https://itincreditscore.com/check-credit-score-with-itin) — and for the bigger picture of building and improving your number, the [complete ITIN credit score guide](https://itincreditscore.com/itin-credit-score-guide).
+You have an ITIN and you want to pull your full credit report. You open AnnualCreditReport.com, start the form — and it asks for a Social Security Number. You hit a wall. This is the most common frustration ITIN holders run into when requesting their reports, and it has a real solution. The process for getting your Equifax, Experian, and TransUnion reports works differently than it does for SSN holders, but every path is free and fully legal. If what you actually want is the three-digit number rather than the full report, see our main guide on how to [check your credit score with an ITIN](https://itincreditscore.com/check-credit-score-with-itin) — and for the bigger picture, the [complete ITIN credit score guide](https://itincreditscore.com/itin-credit-score-guide).
 
 ---
 
