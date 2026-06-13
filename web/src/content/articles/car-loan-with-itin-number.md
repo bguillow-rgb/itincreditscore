@@ -108,7 +108,7 @@ According to Experian's Q4 2025 Lending Conditions Chartbook, ITIN holders maint
 
 Keep in mind: according to Experian's February 2026 white paper authored by Theresa Nguyen, 76.9% of ITIN holders remained current on trades after 12 months, a rate 15% higher than SSN consumers — confirming that ITIN holders are disciplined payers. That's a strong argument to make to any lender who seems uncertain.
 
-If you're still in the early stages of building your file, read our guide on [how to check your credit score with an ITIN](https://itincreditscore.com/how-to-check-credit-score-with-itin-number) before applying — knowing where you stand prevents surprises during underwriting.
+If you're still in the early stages of building your file, read our guide on [how to check your credit score with an ITIN](https://itincreditscore.com/check-credit-score-with-itin) before applying — knowing where you stand prevents surprises during underwriting.
 
 ---
 
@@ -140,4 +140,4 @@ An ITIN credit score can be used to qualify for a mortgage or auto loan, though 
 
 ## The bottom line
 
-Getting a car loan with an ITIN is achievable in 2026 — it just requires knowing where to look and arriving prepared. Credit unions with dedicated ITIN programs, specialty lenders like Lendbuzz, and some national banks will work with you. And every on-time monthly payment you make on that loan builds the credit history that eventually unlocks better rates, better cards, and bigger financial goals. Start by checking [whether you already have a credit score](https://itincreditscore.com/can-you-have-a-credit-score-with-an-itin) before you walk into any lender's office.
+Getting a car loan with an ITIN is achievable in 2026 — it just requires knowing where to look and arriving prepared. Credit unions with dedicated ITIN programs, specialty lenders like Lendbuzz, and some national banks will work with you. And every on-time monthly payment you make on that loan builds the credit history that eventually unlocks better rates, better cards, and bigger financial goals. Start by checking [whether you already have a credit score](https://itincreditscore.com/can-you-have-a-credit-score-with-an-itin) before you walk into any lender's office, and use our [complete ITIN credit score guide](https://itincreditscore.com/itin-credit-score-guide) as your roadmap for everything that comes next.

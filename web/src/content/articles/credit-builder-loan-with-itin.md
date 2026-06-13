@@ -148,7 +148,7 @@ This is one of the most overlooked — and most important — questions for ITIN
 
 If you had an Individual Taxpayer Identification Number and later get a Social Security Number, your credit history is not automatically transferred. You'll need to contact all three credit bureaus and request them to transfer your credit history.
 
-If you get an SSN later, you can request that your credit file be merged with your new SSN. Contact the credit bureaus to request this consolidation. Your credit history will carry over. Write to each bureau separately — Experian, Equifax, and TransUnion — explaining the situation and including copies of both your ITIN documentation and your new SSN card. Every month of on-time payments you've built under your ITIN transfers to your SSN profile, so none of that work is lost.
+If you get an SSN later, you can request that your credit file be merged with your new SSN. Contact the credit bureaus to request this consolidation. Your credit history will carry over. Write to each bureau separately — Experian, Equifax, and TransUnion — explaining the situation and including copies of both your ITIN documentation and your new SSN card. Every month of on-time payments you've built under your ITIN transfers to your SSN profile, so none of that work is lost. For the full picture of how building, checking, and improving your number fits together, see our [complete ITIN credit score guide](/itin-credit-score-guide).
 
 ---
 

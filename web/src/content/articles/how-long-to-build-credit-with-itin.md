@@ -93,7 +93,7 @@ According to Experian's 2026 white paper, the IRS has issued more than 27 millio
 | Equifax | myEquifax account (enter ITIN) or mail | Online portal often works; up to 6 free reports/year |
 | TransUnion | Live chat or mail | Chat agents can initiate a mailed report without you sending documents |
 
-For a full walkthrough of how to pull your reports from each bureau, see our guide on [how to check your credit score with an ITIN](/how-to-check-credit-score-with-itin-number).
+For a full walkthrough of how to pull your reports from each bureau, see our guide on [how to check your credit score with an ITIN](/check-credit-score-with-itin).
 
 ## "What single mistake will set my timeline back the most?"
 
@@ -115,6 +115,6 @@ Here is a concrete action sequence that reflects what consistently works:
 
 **Months 12–18:** With a fair-to-good score established, apply for a second card — ideally an unsecured one with no annual fee. Keep your original secured card open even after upgrading; closing your oldest account shortens your credit history and can lower your score.
 
-**Month 18 and beyond:** With two accounts, a clean payment history, and improving credit age, a score above 700 is within reach. At this point, better loan terms, apartment approvals, and lower insurance rates all become meaningfully more accessible — the practical payoff of the timeline you just completed.
+**Month 18 and beyond:** With two accounts, a clean payment history, and improving credit age, a score above 700 is within reach. At this point, better loan terms, apartment approvals, and lower insurance rates all become meaningfully more accessible — the practical payoff of the timeline you just completed. For the full roadmap of how building, checking, and improving your credit fit together, see our [complete ITIN credit score guide](/itin-credit-score-guide).
 
 The most important thing to understand: the timeline for ITIN holders is not longer than for SSN holders. The scoring formulas are identical, and according to a 2026 study by Cookson et al., immigrants are actually 4.6 percentage points more likely to reach prime credit scores (VantageScore above 660) by age 30 than non-immigrant counterparts — a statistic that reflects the discipline that ITIN holders bring to their credit-building journey.

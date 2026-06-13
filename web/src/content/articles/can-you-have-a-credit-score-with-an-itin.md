@@ -122,11 +122,13 @@ is the single most effective way to protect your progress.
 ## What's the first step?
 
 If you haven't checked whether a credit file already exists under your ITIN,
-start there. Visit AnnualCreditReport.com — the official federally authorized
-site — and enter your ITIN where the form asks for a Social Security Number.
-Pull reports from all three bureaus.
+start there. Our walkthrough on how to [check your credit score with an ITIN](/check-credit-score-with-itin)
+covers every free method — including what to do when the bureau says "no file
+found." In short: pull reports from all three bureaus and enter your ITIN where
+the form asks for a Social Security Number.
 
 If a file exists, review it for errors. If no file exists, the next step is
 opening one reporting account. For a step-by-step guide, see
-[how to build credit history with an ITIN](/build-credit-history-with-itin), or
+[how to build credit history with an ITIN](/build-credit-history-with-itin), the
+[complete ITIN credit score guide](/itin-credit-score-guide), or
 [get matched with ITIN-friendly tools](/apply) right now.

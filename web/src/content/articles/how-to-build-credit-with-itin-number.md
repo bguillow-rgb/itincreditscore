@@ -121,7 +121,7 @@ This is where ITIN holders face a genuine friction point. Standard online tools 
 - **Request reports by mail** directly from each bureau. Experian, TransUnion, and Equifax each accept written requests with copies of your government ID and proof of address. Equifax also allows ITIN holders to create a myEquifax account online to access up to six free reports annually.
 - **Use your bank or card issuer's free FICO score tool.** Many issuers — including Bank of America, Capital One, and others — provide free FICO score access within their apps to account holders, which works regardless of whether you used an ITIN or SSN to open the account.
 
-For a deeper look at exactly how ITIN holders can check their credit score without an SSN, see our guide on [checking your credit score with an ITIN](/can-you-have-a-credit-score-with-an-itin).
+For a deeper look at exactly how ITIN holders can check their credit score without an SSN, see our guide on [checking your credit score with an ITIN](/check-credit-score-with-itin), part of our [complete ITIN credit score guide](/itin-credit-score-guide).
 
 ## What If You Later Receive an SSN?
 

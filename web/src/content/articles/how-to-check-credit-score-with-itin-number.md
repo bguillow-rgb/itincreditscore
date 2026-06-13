@@ -34,7 +34,7 @@ faqs:
 published: true
 ---
 
-You have an ITIN and you want to see your credit score. You open AnnualCreditReport.com, start the form — and it asks for a Social Security Number. You hit a wall. This is the most common frustration ITIN holders run into, and it has a real solution. The process works differently than it does for SSN holders, but every path is free and fully legal.
+You have an ITIN and you want to see your credit score. You open AnnualCreditReport.com, start the form — and it asks for a Social Security Number. You hit a wall. This is the most common frustration ITIN holders run into, and it has a real solution. The process works differently than it does for SSN holders, but every path is free and fully legal. For the full step-by-step playbook, see our main guide on how to [check your credit score with an ITIN](https://itincreditscore.com/check-credit-score-with-itin) — and for the bigger picture of building and improving your number, the [complete ITIN credit score guide](https://itincreditscore.com/itin-credit-score-guide).
 
 ---
 

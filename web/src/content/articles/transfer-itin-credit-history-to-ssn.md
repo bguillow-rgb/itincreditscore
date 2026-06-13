@@ -138,4 +138,4 @@ If a legitimate account is still missing after the merge, you have the right to 
 
 ---
 
-Once the transfer is complete, the same credit-building rules apply as they did under your ITIN. If you want to understand how your score is calculated or explore tools to keep building from your existing file, our guides on [how to build credit with an ITIN number](/how-to-build-credit-with-itin-number) and [credit builder loans with an ITIN](/credit-builder-loan-with-itin) walk through what moves the needle most.
+Once the transfer is complete, the same credit-building rules apply as they did under your ITIN. If you want to understand how your score is calculated or explore tools to keep building from your existing file, our guides on [how to build credit with an ITIN number](/how-to-build-credit-with-itin-number) and [credit builder loans with an ITIN](/credit-builder-loan-with-itin) walk through what moves the needle most — and our [complete ITIN credit score guide](/itin-credit-score-guide) ties it all together.

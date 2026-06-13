@@ -122,7 +122,7 @@ A few practical tips for the moment you're ready to upgrade:
 - Use Capital One's pre-qualification tool to check your odds with a soft pull before submitting a full application.
 - Don't close your first card — the length of your credit history matters, and keeping your first card open after you qualify for better options preserves that history.
 - Keep utilization below 30% across all cards. If your limit is $500, keep your balance under $150.
-- If you already [check your credit score with your ITIN](/how-to-check-credit-score-with-itin-number) regularly, you'll know the exact moment your score crosses the threshold — removing the guesswork from timing a new application.
+- If you already [check your credit score with your ITIN](/check-credit-score-with-itin) regularly, you'll know the exact moment your score crosses the threshold — removing the guesswork from timing a new application.
 
 ---
 
@@ -142,4 +142,4 @@ And if you eventually receive an SSN, you don't lose the credit history you buil
 
 Applying for too many cards too quickly. Each application that includes a hard credit check creates an inquiry on your file. Most credit card applications trigger a hard inquiry, which can temporarily lower your score by 5 to 15 points. Two or three applications in a short window signal risk to lenders and can sink an approval you would have otherwise received.
 
-The smarter sequence: start with one no-credit-check card (OpenSky or Current Build), build six to twelve months of payment history, [understand how your score is calculated](/can-you-have-a-credit-score-with-an-itin) during that time, and then apply for your first traditional issuer card when your score is solidly above 650. Patience in the first year pays off substantially in the second.
+The smarter sequence: start with one no-credit-check card (OpenSky or Current Build), build six to twelve months of payment history, [understand how your score is calculated](/can-you-have-a-credit-score-with-an-itin) during that time, and then apply for your first traditional issuer card when your score is solidly above 650. Patience in the first year pays off substantially in the second. Our [complete ITIN credit score guide](/itin-credit-score-guide) maps out that full sequence end to end.
