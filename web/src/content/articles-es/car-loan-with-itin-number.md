@@ -16,8 +16,8 @@ category: "Préstamos"
 relatedSlugs:
   - "personal-loan-with-itin-number"
   - "itin-mortgage-loan"
+  - "does-paying-rent-build-credit-with-itin"
   - "credit-builder-loan-with-itin"
-  - "secured-credit-cards-for-itin-holders"
 faqs:
   - q: "¿Puedo obtener un préstamo de auto con ITIN y sin historial crediticio?"
     a: "Sí. Algunas cooperativas de crédito — como KeyPoint Credit Union y Keys Federal Credit Union — ofrecen expresamente préstamos de auto para titulares de ITIN sin necesidad de historial crediticio previo en EE. UU. Prestamistas en línea especializados como Lendbuzz utilizan datos alternativos en lugar de puntajes crediticios tradicionales para evaluar a los solicitantes con ITIN."

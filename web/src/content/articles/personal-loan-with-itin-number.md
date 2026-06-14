@@ -16,8 +16,8 @@ category: "Loans"
 relatedSlugs:
   - "credit-builder-loan-with-itin"
   - "car-loan-with-itin-number"
+  - "does-paying-rent-build-credit-with-itin"
   - "itin-mortgage-loan"
-  - "secured-credit-cards-for-itin-holders"
 faqs:
   - q: "Can I get a personal loan with only an ITIN and no credit history?"
     a: "Some lenders — especially credit unions and community development financial institutions (CDFIs) — accept alternative credit documentation such as rent receipts, utility bills, and phone payment history in place of a traditional credit score. You'll likely face higher rates and smaller loan limits, but it is possible."
