@@ -11,11 +11,11 @@ export default defineConfig({
   // closest live-intent equivalent so the ~16k cumulative impressions those URLs
   // earned consolidate onto a live page instead of bleeding into 404s. The
   // static build emits a meta-refresh + canonical redirect HTML per source.
-  // The big one (/credit-reports-with-itin, ~10.5k impr) is consolidated to the
-  // check-score page, which already covers pulling your report — revisit if we
-  // later build a dedicated credit-reports money page.
+  // NOTE: /credit-reports-with-itin (~10.5k cumulative impr) is now a dedicated
+  // money page (pages/credit-reports-with-itin.astro + es/) — no longer redirected
+  // — to capture credit-report intent on its own page instead of folding it into
+  // the check-score page. Removed from the redirect map 2026-06-14.
   redirects: {
-    '/credit-reports-with-itin': '/check-credit-score-with-itin',
     '/f/understanding-itin-and-your-credit-score': '/itin-credit-score-guide',
     '/start-building-now': '/build-credit-history-with-itin',
     '/f/starting-your-credit-journey-with-an-itin': '/build-credit-history-with-itin',

@@ -32,11 +32,16 @@ export const SITE = {
     // Add LinkedIn / Crunchbase when ready. Empty entries filtered on render.
   },
 
-  // Byline used on articles and the About page. An editorial-team author is a
-  // legitimate E-E-A-T anchor when there is no single named author.
+  // Named editor persona — the byline + Person entity anchor for E-E-A-T. Used on
+  // article bylines, Article schema (author), and the /about page. NOTE: this is a
+  // pen name, not a real person; the bio describes the site's actual editorial
+  // process and must never claim fabricated licenses/credentials (YMYL trust rule).
+  // `name` must stay first in this block — the daily generator reads it by regex.
   editorial: {
-    name: 'ITIN Credit Score Editorial Team',
-    role: 'Editorial Team',
+    name: 'Lucía Morales',
+    role: 'Editor',
+    bio: "Lucía Morales is the editor of ITIN Credit Score. She writes and edits plain-English guides on building and improving U.S. credit scores for ITIN holders and foreign nationals, translating FICO scoring rules, bureau processes, and IRS, CFPB, and FTC guidance into clear, accurate steps. Every guide is researched against primary sources — FICO, the IRS, the Consumer Financial Protection Bureau, the Federal Trade Commission, and the credit bureaus' own documentation — and reviewed for accuracy before it is published. Lucía writes in both English and Spanish.",
+    bioEs: "Lucía Morales es la editora de ITIN Credit Score. Escribe y edita guías en lenguaje sencillo sobre cómo construir y mejorar el puntaje de crédito en EE. UU. para personas con ITIN y extranjeros, traduciendo las reglas del puntaje FICO, los procesos de los burós y las guías del IRS, la CFPB y la FTC en pasos claros y precisos. Cada guía se investiga con fuentes primarias — FICO, el IRS, la Oficina para la Protección Financiera del Consumidor (CFPB), la Comisión Federal de Comercio (FTC) y la documentación de los propios burós de crédito — y se revisa para verificar su exactitud antes de publicarse. Lucía escribe en inglés y español.",
   },
 
   // Analytics + tracking. Values come from env vars at build time so local
@@ -87,6 +92,17 @@ export const SITE = {
       'credit-builder-loans': import.meta.env.PUBLIC_AFFILIATE_URL_BUILDER ?? '',
       'itin-credit-score-guide': import.meta.env.PUBLIC_AFFILIATE_URL_GUIDE ?? '',
     } as Record<string, string>,
+    // Awin affiliate display creatives (Credit Karma). The hero ad unit on the
+    // homepage renders an Awin banner via CreditKarmaAd.astro. The embed URL is
+    // built as cread.php / cshow.php?s=<creativeId>&v=<advertiserId>&q=<campaignId>&r=<publisherId>.
+    // publisherId (r) and the Credit Karma advertiser (v) + campaign (q) are
+    // account-level constants shared across all three sites; only the per-site
+    // creativeId changes. Set the creative IDs in each homepage's <CreditKarmaAd />.
+    awin: {
+      publisherId: '2931103',
+      advertiserId: '66532',
+      campaignId: '475588',
+    },
   },
 
   // Brand — modern, trustworthy fintech. Green = growth/financial health.
@@ -174,7 +190,7 @@ export const NAV = [
   { label: 'About', labelEs: 'Nosotros', href: '/about' },
 ];
 
-export const NAV_CTA = { label: 'Start building credit', labelEs: 'Empieza a construir crédito', href: '/apply' };
+export const NAV_CTA = { label: 'Apply Here', labelEs: 'Aplica aquí', href: '/apply' };
 
 // Affiliate fallback chains by money-page slug. When a slug has no dedicated
 // affiliate link set, resolution walks this chain (then the global apply URL).

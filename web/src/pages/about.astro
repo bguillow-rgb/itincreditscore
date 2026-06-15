@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import AboutPageSchema from '../components/schema/AboutPageSchema.astro';
+import PersonSchema from '../components/schema/PersonSchema.astro';
 import { SITE } from '../consts';
 
 const title = 'About ITIN Credit Score';
@@ -10,6 +11,7 @@ const description =
 <BaseLayout title={title} description={description} path="/about">
   <Fragment slot="head">
     <AboutPageSchema />
+    <PersonSchema />
   </Fragment>
 
   <section class="section">
@@ -44,14 +46,21 @@ const description =
 
       <h2>Who runs this site</h2>
       <p>
-        ITINCreditScore.com is published by <strong>{SITE.publisher.name}</strong>
-        and written by the {SITE.editorial.name}. Our content is researched against primary sources —
-        the IRS, the Consumer Financial Protection Bureau (CFPB), the Federal
-        Trade Commission (FTC), and official bureau documentation — and reviewed
-        for accuracy before publishing. Where guidance is general, we say so.
-        Where eligibility depends on a specific institution's current policy, we
-        say that too and direct you to verify directly. We update articles when
-        policies change.
+        ITINCreditScore.com is published by <strong>{SITE.publisher.name}</strong>.
+        Its guides are written and edited by <strong>{SITE.editorial.name}</strong>,
+        {SITE.editorial.role.toLowerCase()}.
+      </p>
+      <div class="author-card">
+        <p class="author-name">{SITE.editorial.name} <span class="author-role">· {SITE.editorial.role}</span></p>
+        <p>{SITE.editorial.bio}</p>
+      </div>
+      <p>
+        Our content is researched against primary sources — the IRS, the Consumer
+        Financial Protection Bureau (CFPB), the Federal Trade Commission (FTC), and
+        official bureau documentation — and reviewed for accuracy before publishing.
+        Where guidance is general, we say so. Where eligibility depends on a specific
+        institution's current policy, we say that too and direct you to verify
+        directly. We update articles when policies change.
       </p>
 
       <h2>Editorial standards</h2>

@@ -1,0 +1,95 @@
+---
+import MoneyPageLayout from '../layouts/MoneyPageLayout.astro';
+
+const faqs = [
+  {
+    q: 'Can I get my credit report with an ITIN instead of an SSN?',
+    a: 'Yes. If a bureau has a file on you, you can request your full credit report using your ITIN as your tax ID. AnnualCreditReport.com — the only federally authorized free source — accepts an ITIN in the Social Security Number field, and you can request one free report from each bureau every 12 months.',
+  },
+  {
+    q: 'Is a credit report the same as a credit score?',
+    a: 'No. Your credit report is the detailed record of your accounts, payment history, balances, and inquiries. Your score is a single number calculated from that report. AnnualCreditReport.com gives you the report for free but not the score; many card and bank apps show the score separately.',
+  },
+  {
+    q: 'What if my credit report says "no record found"?',
+    a: '"No record found" means the bureau has no file on your ITIN yet — normal if you haven\'t opened a U.S. credit account. It is not a rejection. Open one reporting account (a secured card is the most accessible) and a file builds within a few months.',
+  },
+  {
+    q: 'Can I freeze my credit or place a fraud alert with an ITIN?',
+    a: 'Yes. The Fair Credit Reporting Act gives every consumer with a credit file — including ITIN holders — the right to a free security freeze and fraud alert at all three bureaus. You request each freeze directly with Experian, Equifax, and TransUnion using your ITIN.',
+  },
+  {
+    q: 'How do I fix an error on my ITIN credit report?',
+    a: 'Dispute it with the bureau that shows the error, online, by phone, or by mail, including a copy of your ITIN assignment letter and a government photo ID. The bureau must investigate and respond within 30 days under the Fair Credit Reporting Act.',
+  },
+];
+
+const quickAnswer =
+  'ITIN holders can get their full credit report for free from all three bureaus at AnnualCreditReport.com by entering the ITIN in the Social Security Number field — one free report from each bureau every 12 months. The report lists your accounts, payment history, balances, and inquiries (the score is separate). If it returns "no record found," that is normal until you open a reporting account.';
+---
+<MoneyPageLayout
+  title="How to Get Your Credit Report With an ITIN (2026)"
+  h1="How to Get Your Credit Report With an ITIN"
+  description="How to request, read, and fix your U.S. credit report using an ITIN. Pull all three bureau reports free at AnnualCreditReport.com, understand what's inside, dispute errors, and freeze your credit."
+  path="/credit-reports-with-itin"
+  eyebrow="Pull your report"
+  lede="Your credit report is the full record lenders see — accounts, payments, balances, and inquiries. Here's how to request it from all three bureaus with an ITIN, read it, and fix anything that's wrong."
+  quickAnswer={quickAnswer}
+  faqs={faqs}
+  heroImage="/img/credit-building.webp"
+  heroAlt="A person reviewing a printed credit report at a desk"
+>
+
+  <h2>What is a credit report, and how is it different from your score?</h2>
+  <p>Your <strong>credit report</strong> is the detailed file each bureau keeps on you: every account, your payment history, current balances, credit limits, and who has pulled your credit. Your <strong>credit score</strong> is a single three-digit number a model calculates <em>from</em> that report. The report is the raw record; the score is the summary. AnnualCreditReport.com gives you the full report for free but not the score — for the number itself, see our guide to <a href="/check-credit-score-with-itin">checking your credit score with an ITIN</a>. Read the report first: errors in the report are what drag the score down, and you can only fix what you can see.</p>
+
+  <h2>How do you get your credit report with an ITIN?</h2>
+  <p><strong>AnnualCreditReport.com</strong> is the only federally authorized source for free credit reports, run jointly by Experian, Equifax, and TransUnion under the Fair Credit Reporting Act. Enter your ITIN in the field labeled Social Security Number — the process does not distinguish between an SSN and an ITIN. You can request one free report from each bureau every 12 months, or pull all three at once. Steps:</p>
+  <ul class="lead-list">
+    <li>Go to AnnualCreditReport.com (avoid copycat sites with similar names).</li>
+    <li>Enter your name, current address, date of birth, and your ITIN in the SSN field.</li>
+    <li>Answer the identity-verification questions, or request by mail if the site can't match you online.</li>
+    <li>Select all three bureaus and download or save each report.</li>
+  </ul>
+  <p>If the site can't verify you automatically, request your reports by mail with a copy of your <a href="/how-to-get-an-itin">ITIN assignment letter</a> and a government photo ID. Always pull all three — lenders often check only one bureau, and your file can differ across them.</p>
+
+  <h2>Which bureaus let you pull a report with an ITIN?</h2>
+  <p>All three nationwide bureaus can hold a file on an ITIN holder, and each accepts the ITIN to release your report. Here's how they compare:</p>
+  <table>
+    <thead>
+      <tr><th>Bureau / source</th><th>Accepts ITIN?</th><th>How to request your report</th><th>Cost</th></tr>
+    </thead>
+    <tbody>
+      <tr><td><strong>AnnualCreditReport.com</strong></td><td>Yes — enter ITIN in the SSN field</td><td>Official federal site; one free report from each bureau every 12 months</td><td>Free</td></tr>
+      <tr><td><strong>Experian</strong></td><td>Yes</td><td>experian.com or 1-888-397-3742; free account option</td><td>Free report; paid monitoring optional</td></tr>
+      <tr><td><strong>TransUnion</strong></td><td>Yes</td><td>transunion.com or 1-800-916-8800</td><td>Free report; paid monitoring optional</td></tr>
+      <tr><td><strong>Equifax</strong></td><td>Yes</td><td>equifax.com or 1-800-685-1111</td><td>Free report; paid monitoring optional</td></tr>
+    </tbody>
+  </table>
+  <p>For how each bureau matches an ITIN to your file — and why mixed files are slightly more common for ITIN holders — see our <a href="/credit-bureaus-and-itin">credit bureaus and ITIN guide</a>.</p>
+
+  <h2>What's inside your credit report?</h2>
+  <p>Every bureau report is organized into the same four sections:</p>
+  <ul class="lead-list">
+    <li><strong>Personal information</strong> — name, current and former addresses, date of birth, and your ITIN. Check this first for mismatches that signal a mixed file.</li>
+    <li><strong>Accounts (tradelines)</strong> — each credit card, loan, and line of credit, with the open date, balance, limit, and a month-by-month payment history.</li>
+    <li><strong>Inquiries</strong> — who pulled your credit. Hard inquiries (from applications) can affect your score; soft inquiries (your own checks) do not.</li>
+    <li><strong>Public records and collections</strong> — bankruptcies and accounts sent to collections, if any.</li>
+  </ul>
+
+  <h2>How do you read your credit report?</h2>
+  <p>Work top to bottom. Confirm the personal information is yours and only yours — an unfamiliar address or name variant is the classic sign of a mixed file. In the accounts section, check that every tradeline is one you opened and that the payment history is accurate; a single account wrongly marked late can cost dozens of points. In inquiries, make sure each hard pull matches an application you actually made. Flag anything you don't recognize for a dispute.</p>
+
+  <h2>What if your report returns "no record found"?</h2>
+  <p>A "no record found" or "unable to locate" response means the bureau has no file tied to your ITIN yet. This is normal for ITIN holders new to the U.S. system and is <em>not</em> a denial. Open one account that accepts an ITIN and reports to the bureaus — a secured credit card is the most accessible — and a scoreable file builds within a few months. See the full walkthrough in <a href="/build-credit-history-with-itin">building credit history with an ITIN</a>.</p>
+
+  <h2>How do you dispute errors on your ITIN credit report?</h2>
+  <p>Under the Fair Credit Reporting Act you have the right to dispute any inaccurate item, and the bureau must investigate and respond within 30 days. Dispute with the bureau showing the error — online, by phone, or by mail — and include a copy of your ITIN assignment letter, identity documents, and anything that supports your case. ITIN holders see mixed-file errors (another person's account on your file) slightly more often because matching algorithms weren't historically tuned for ITINs, so review all three reports, not just one. For bureau-specific dispute steps, see our <a href="/credit-bureaus-and-itin">credit bureaus and ITIN guide</a>.</p>
+
+  <h2>Can you freeze your credit or place a fraud alert with an ITIN?</h2>
+  <p>Yes. Every consumer with a credit file — ITIN holders included — has the right to a free <strong>security freeze</strong> and <strong>fraud alert</strong> at all three bureaus under federal law. A freeze blocks new lenders from pulling your file (you lift it temporarily when you apply for credit); a fraud alert tells lenders to take extra steps to verify your identity. Request each directly with Experian, Equifax, and TransUnion using your ITIN. A freeze does not affect your score and is the strongest free protection against identity theft.</p>
+
+  <h2>What to do after you pull your report</h2>
+  <p>Once you've reviewed all three reports: dispute any errors first — fixing inaccuracies is the fastest legitimate way to lift a score. If you have no file yet, <a href="/build-credit-history-with-itin">start building one</a>. If you have a file and want the number, learn <a href="/check-credit-score-with-itin">how to check your credit score with an ITIN</a>, then follow the <a href="/improve-credit-score">score improvement guide</a>. Ready to get matched with credit tools that accept an ITIN? <a href="/apply">Start here</a>.</p>
+
+</MoneyPageLayout>

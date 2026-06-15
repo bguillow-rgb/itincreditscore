@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import AboutPageSchema from '../../components/schema/AboutPageSchema.astro';
+import PersonSchema from '../../components/schema/PersonSchema.astro';
 import { SITE } from '../../consts';
 
 const title = 'Acerca de ITIN Credit Score';
@@ -10,6 +11,7 @@ const description =
 <BaseLayout title={title} description={description} path="/es/about">
   <Fragment slot="head">
     <AboutPageSchema />
+    <PersonSchema />
   </Fragment>
 
   <section class="section">
@@ -47,15 +49,21 @@ const description =
 
       <h2>Quién maneja este sitio</h2>
       <p>
-        ITINCreditScore.com lo publica <strong>{SITE.publisher.name}</strong>
-        y lo redacta el {SITE.editorial.name}. Nuestro contenido se investiga contra fuentes
-        primarias — el IRS, la Oficina de Protección Financiera del Consumidor
-        (CFPB), la Comisión Federal de Comercio (FTC) y la documentación oficial
-        de los burós — y se revisa para verificar su exactitud antes de publicar.
-        Donde la guía es general, lo decimos. Donde la elegibilidad depende de la
-        política actual de una institución específica, también lo decimos y te
-        dirigimos a verificar directamente. Actualizamos los artículos cuando
-        cambian las políticas.
+        ITINCreditScore.com lo publica <strong>{SITE.publisher.name}</strong>. Sus
+        guías son escritas y editadas por <strong>{SITE.editorial.name}</strong>, editora.
+      </p>
+      <div class="author-card">
+        <p class="author-name">{SITE.editorial.name} <span class="author-role">· Editora</span></p>
+        <p>{SITE.editorial.bioEs}</p>
+      </div>
+      <p>
+        Nuestro contenido se investiga contra fuentes primarias — el IRS, la Oficina
+        de Protección Financiera del Consumidor (CFPB), la Comisión Federal de Comercio
+        (FTC) y la documentación oficial de los burós — y se revisa para verificar su
+        exactitud antes de publicar. Donde la guía es general, lo decimos. Donde la
+        elegibilidad depende de la política actual de una institución específica, también
+        lo decimos y te dirigimos a verificar directamente. Actualizamos los artículos
+        cuando cambian las políticas.
       </p>
 
       <h2>Estándares editoriales</h2>
