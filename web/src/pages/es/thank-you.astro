@@ -1,8 +1,7 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
-import AdSlot from '../../components/AdSlot.astro';
+import CreditKarmaAd from '../../components/CreditKarmaAd.astro';
 import Icon from '../../components/Icon.astro';
-import { SITE } from '../../consts';
 
 const title = 'Gracias — Recibimos Tu Solicitud';
 const description =
@@ -19,7 +18,7 @@ const description =
         afecta tu puntaje de crédito.
       </p>
 
-      <AdSlot slot={SITE.monetize.adSlots.thankYou} />
+      <CreditKarmaAd topic="score" inline={true} />
 
       <div class="card" style="text-align:left;margin:28px 0">
         <h2 class="mt-0">Mientras esperas</h2>
@@ -33,7 +32,7 @@ const description =
         </ul>
       </div>
 
-      <AdSlot slot={SITE.monetize.adSlots.thankYou} />
+      <CreditKarmaAd topic="finance" inline={true} />
 
       <a href="/es/" class="btn btn-primary btn-lg" style="margin-top:8px">Volver al inicio</a>
     </div>
