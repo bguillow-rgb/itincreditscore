@@ -11,10 +11,10 @@ const fullUrl = `${SITE.url}${path}`;
 const title = 'ITIN Credit Readiness Calculator (Free, 2026)';
 const h1 = 'ITIN Credit Readiness Calculator';
 const description =
-  'Free tool for ITIN holders: answer 7 questions and get a 0–100 credit-readiness estimate, an approximate score band, and personalized next steps to build credit without an SSN.';
+  'Free tool for ITIN holders: answer 7 questions and get a 0-100 credit-readiness estimate, an approximate score band, and personalized next steps to build credit without an SSN.';
 
 const quickAnswer =
-  'This free calculator estimates how "credit-ready" an ITIN holder is on a 0–100 scale using the same factors lenders weigh — payment history, credit utilization, length of history, credit mix, and recent inquiries. It is an educational self-assessment, not your real FICO score, and it returns tailored next steps to build or raise your credit with an ITIN.';
+  'This free calculator estimates how "credit-ready" an ITIN holder is on a 0-100 scale using the same factors lenders weigh, payment history, credit utilization, length of history, credit mix, and recent inquiries. It is an educational self-assessment, not your real FICO score, and it returns tailored next steps to build or raise your credit with an ITIN.';
 
 const faqs = [
   {
@@ -23,11 +23,11 @@ const faqs = [
   },
   {
     q: 'Does using this calculator affect my credit?',
-    a: 'No. Nothing here touches your credit file or triggers an inquiry. The calculation runs entirely in your browser — no data you enter is sent anywhere or stored.',
+    a: 'No. Nothing here touches your credit file or triggers an inquiry. The calculation runs entirely in your browser, no data you enter is sent anywhere or stored.',
   },
   {
     q: 'Why does it ask whether I have any reporting accounts?',
-    a: 'A credit score can only exist once at least one account reports to a bureau for about six months. If you have no reporting accounts yet, your readiness focuses on opening your first one — a secured card or credit-builder loan — rather than on optimizing an existing file.',
+    a: 'A credit score can only exist once at least one account reports to a bureau for about six months. If you have no reporting accounts yet, your readiness focuses on opening your first one, a secured card or credit-builder loan, rather than on optimizing an existing file.',
   },
   {
     q: 'How accurate is the estimated score band?',
@@ -80,7 +80,7 @@ const speakableSchema = {
       <p class="crumbs"><a href="/">Home</a> &rsaquo; <a href="/itin-credit-score-guide">Credit Score Guide</a> &rsaquo; <span>Readiness Calculator</span></p>
       <span class="eyebrow">Free tool</span>
       <h1>{h1}</h1>
-      <p class="lede">Answer 7 quick questions and get a 0–100 credit-readiness estimate, an approximate score band, and the exact next step to take — built for ITIN holders, no SSN required.</p>
+      <p class="lede">Answer 7 quick questions and get a 0-100 credit-readiness estimate, an approximate score band, and the exact next step to take, built for ITIN holders, no SSN required.</p>
     </div>
   </section>
 
@@ -100,30 +100,30 @@ const speakableSchema = {
           <fieldset class="calc-field">
             <legend>2. How long has your oldest account been open?</legend>
             <label><input type="radio" name="age" value="0" /> Less than 6 months</label>
-            <label><input type="radio" name="age" value="40" checked /> 6–12 months</label>
-            <label><input type="radio" name="age" value="70" /> 1–3 years</label>
+            <label><input type="radio" name="age" value="40" checked /> 6-12 months</label>
+            <label><input type="radio" name="age" value="70" /> 1-3 years</label>
             <label><input type="radio" name="age" value="100" /> 3+ years</label>
           </fieldset>
 
           <fieldset class="calc-field">
             <legend>3. How many accounts report to the bureaus for you?</legend>
             <label><input type="radio" name="accounts" value="20" /> 1</label>
-            <label><input type="radio" name="accounts" value="70" checked /> 2–3</label>
+            <label><input type="radio" name="accounts" value="70" checked /> 2-3</label>
             <label><input type="radio" name="accounts" value="100" /> 4 or more</label>
           </fieldset>
 
           <fieldset class="calc-field">
             <legend>4. Your payment record so far</legend>
             <label><input type="radio" name="payments" value="100" checked /> Every payment on time</label>
-            <label><input type="radio" name="payments" value="55" /> 1–2 late payments</label>
+            <label><input type="radio" name="payments" value="55" /> 1-2 late payments</label>
             <label><input type="radio" name="payments" value="15" /> Several late, or a collection/default</label>
           </fieldset>
 
           <fieldset class="calc-field">
             <legend>5. Credit utilization <span class="hint">(card balances ÷ card limits)</span></legend>
             <label><input type="radio" name="util" value="100" checked /> Under 10%</label>
-            <label><input type="radio" name="util" value="80" /> 10–30%</label>
-            <label><input type="radio" name="util" value="45" /> 30–50%</label>
+            <label><input type="radio" name="util" value="80" /> 10-30%</label>
+            <label><input type="radio" name="util" value="45" /> 30-50%</label>
             <label><input type="radio" name="util" value="15" /> Over 50%</label>
             <label><input type="radio" name="util" value="90" /> No credit cards yet</label>
           </fieldset>
@@ -137,8 +137,8 @@ const speakableSchema = {
 
           <fieldset class="calc-field">
             <legend>7. Hard inquiries (new credit applications) in the last 12 months</legend>
-            <label><input type="radio" name="inq" value="100" checked /> 0–1</label>
-            <label><input type="radio" name="inq" value="65" /> 2–3</label>
+            <label><input type="radio" name="inq" value="100" checked /> 0-1</label>
+            <label><input type="radio" name="inq" value="65" /> 2-3</label>
             <label><input type="radio" name="inq" value="25" /> 4 or more</label>
           </fieldset>
         </div>
@@ -154,7 +154,7 @@ const speakableSchema = {
       </div>
 
       <h2>How the readiness score works</h2>
-      <p>The calculator mirrors the five factors every U.S. scoring model uses, with weights close to FICO's published breakdown: payment history (35%), credit utilization (30%), length of history (15%), credit mix (10%), and recent inquiries (10%). Each answer maps to a 0–100 sub-score; the weighted average is your readiness number. It runs entirely in your browser — nothing you enter is sent anywhere.</p>
+      <p>The calculator mirrors the five factors every U.S. scoring model uses, with weights close to FICO's published breakdown: payment history (35%), credit utilization (30%), length of history (15%), credit mix (10%), and recent inquiries (10%). Each answer maps to a 0-100 sub-score; the weighted average is your readiness number. It runs entirely in your browser, nothing you enter is sent anywhere.</p>
       <p><strong>This is a learning tool, not your real score.</strong> Your actual number comes from your credit file at the bureaus. When you're ready to see it, here's <a href="/check-credit-score-with-itin">how to check your credit score with an ITIN</a>. To start or grow the file behind that number, see <a href="/build-credit-history-with-itin">building credit history with an ITIN</a> and <a href="/improve-credit-score">how to improve your credit score</a>.</p>
 
       <h2>What to do with your result</h2>
@@ -164,9 +164,9 @@ const speakableSchema = {
         </thead>
         <tbody>
           <tr><td>Just starting (no file)</td><td>No scoreable history yet</td><td>Open one reporting account; wait ~6 months</td></tr>
-          <tr><td>Building (0–49)</td><td>A file exists but is thin or has dings</td><td>Make every payment on time; lower card balances</td></tr>
-          <tr><td>Established (50–79)</td><td>A solid, scoreable profile</td><td>Keep utilization under 10%; add a second account type</td></tr>
-          <tr><td>Strong (80–100)</td><td>Prime-range habits</td><td>Maintain; you're ready for bigger credit goals</td></tr>
+          <tr><td>Building (0-49)</td><td>A file exists but is thin or has dings</td><td>Make every payment on time; lower card balances</td></tr>
+          <tr><td>Established (50-79)</td><td>A solid, scoreable profile</td><td>Keep utilization under 10%; add a second account type</td></tr>
+          <tr><td>Strong (80-100)</td><td>Prime-range habits</td><td>Maintain; you're ready for bigger credit goals</td></tr>
         </tbody>
       </table>
 
@@ -223,10 +223,10 @@ const speakableSchema = {
         if (!hasFile()) {
           render(
             0,
-            'Just starting — no credit file yet',
+            'Just starting, no credit file yet',
             'Estimated score: none yet (a score needs ~6 months of reporting history).',
             [
-              'Open one account that accepts an ITIN and reports to all three bureaus — a <a href="/build-credit-history-with-itin">secured card or credit-builder loan</a> is the most accessible start.',
+              'Open one account that accepts an ITIN and reports to all three bureaus, a <a href="/build-credit-history-with-itin">secured card or credit-builder loan</a> is the most accessible start.',
               'Set up autopay so every payment lands on time from day one.',
               'After about six months, <a href="/check-credit-score-with-itin">check your credit score with an ITIN</a> to confirm a file has formed.'
             ]
@@ -245,30 +245,30 @@ const speakableSchema = {
         var band, est, steps;
         if (score < 50) {
           band = 'Building';
-          est = 'Estimated score band: roughly 500–620.';
+          est = 'Estimated score band: roughly 500-620.';
           steps = [
-            'Payment history is the biggest lever — bring every account current and keep it that way.',
+            'Payment history is the biggest lever, bring every account current and keep it that way.',
             'If a card balance is high, pay it down: target under 30%, then under 10% of the limit.',
             'Read <a href="/improve-credit-score">how to improve your credit score</a> for the fastest legitimate wins.'
           ];
         } else if (score < 80) {
           band = 'Established';
-          est = 'Estimated score band: roughly 620–700.';
+          est = 'Estimated score band: roughly 620-700.';
           steps = [
             'Keep utilization under 10% in the statement that reports each month.',
             'Add the account type you\'re missing (a loan if you only have cards, or a card if you only have a loan) to round out your <a href="/credit-builder-loans">credit mix</a>.',
-            'Avoid new applications you don\'t need — space out hard inquiries.'
+            'Avoid new applications you don\'t need, space out hard inquiries.'
           ];
         } else {
           band = 'Strong';
-          est = 'Estimated score band: roughly 700–780+.';
+          est = 'Estimated score band: roughly 700-780+.';
           steps = [
-            'You\'re in prime territory — maintain on-time payments and low balances.',
+            'You\'re in prime territory, maintain on-time payments and low balances.',
             'Don\'t close your oldest account; length of history is working for you.',
             'You\'re positioned for bigger goals; see <a href="/check-credit-score-with-itin">how to confirm your exact score</a> before you apply.'
           ];
         }
-        render(score, band + ' — ' + score + '/100', est, steps);
+        render(score, band + ', ' + score + '/100', est, steps);
       });
     })();
   </script>

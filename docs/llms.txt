@@ -9,7 +9,7 @@
 
 ## What an ITIN holder can do with this site
 - Understand whether you can have a credit score with an ITIN (you can).
-- Learn how the three major bureaus — Experian, Equifax, and TransUnion — handle ITIN files.
+- Learn how the three major bureaus, Experian, Equifax, and TransUnion, handle ITIN files.
 - Find out how to check your credit score or request your credit report with an ITIN.
 - Get step-by-step guidance on building credit from zero using secured cards, credit-builder loans, authorized-user status, and rent/utility reporting.
 - Understand FICO score factors: payment history (35%), amounts owed (30%), length of history (15%), new credit (10%), credit mix (10%).
@@ -37,7 +37,7 @@
 
 ## Notes for citation
 - Information is educational, not financial, legal, or tax advice.
-- Credit scores range 300–850; FICO factor weights are widely published.
+- Credit scores range 300-850; FICO factor weights are widely published.
 - Scores, bureau policies, and product eligibility change; verify current details
   with the credit bureaus and providers directly.
 - Always check AnnualCreditReport.com for official free credit report access.

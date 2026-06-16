@@ -7,8 +7,8 @@ import FAQ from '../components/FAQ.astro';
 import { SITE, PRODUCTS } from '../consts';
 
 // Surface the latest guides directly from the homepage (the highest-authority
-// page) so interior article URLs get a strong internal link and get crawled —
-// the fix for "Discovered – currently not indexed".
+// page) so interior article URLs get a strong internal link and get crawled, 
+// the fix for "Discovered - currently not indexed".
 const includeDrafts = import.meta.env.DEV;
 const latestPosts = (
   await getCollection('articles', ({ data }) => (includeDrafts ? true : data.published))
@@ -19,11 +19,11 @@ const latestPosts = (
 const faqs = [
   {
     q: 'Can you have a credit score with an ITIN?',
-    a: 'Yes. The three major credit bureaus — Experian, Equifax, and TransUnion — can create a credit file under an ITIN. Once you open at least one reporting account and make on-time payments for six months, a FICO score is generated. There is no legal barrier preventing ITIN holders from having a U.S. credit score.',
+    a: 'Yes. The three major credit bureaus, Experian, Equifax, and TransUnion, can create a credit file under an ITIN. Once you open at least one reporting account and make on-time payments for six months, a FICO score is generated. There is no legal barrier preventing ITIN holders from having a U.S. credit score.',
   },
   {
     q: 'What credit score range do I need for common financial products?',
-    a: 'U.S. credit scores run from 300 to 850. Secured cards and credit-builder loans typically require no minimum score — they\'re designed for thin-file borrowers. Standard unsecured products usually require 580–640+. A score of 670 is the entry point for "good" credit and better interest rates.',
+    a: 'U.S. credit scores run from 300 to 850. Secured cards and credit-builder loans typically require no minimum score, they\'re designed for thin-file borrowers. Standard unsecured products usually require 580-640+. A score of 670 is the entry point for "good" credit and better interest rates.',
   },
   {
     q: 'How long does it take to build a credit score with an ITIN?',
@@ -50,7 +50,7 @@ const faqs = [
         <p class="lede">
           You don't need a Social Security Number to have a U.S. credit score.
           We help ITIN holders understand how credit scoring works, check their
-          reports, and build a strong credit history from scratch — step by step,
+          reports, and build a strong credit history from scratch, step by step,
           in plain English.
         </p>
         <div class="hero-cta">
@@ -64,7 +64,7 @@ const faqs = [
         </div>
       </div>
       <div>
-        <CreditKarmaAd creativeId="3597059" cta="See your credit score here" alt="Credit Karma — see your credit score free" />
+        <CreditKarmaAd creativeId="3597059" cta="See your credit score here" alt="Credit Karma, see your credit score free" />
       </div>
     </div>
   </section>
@@ -100,7 +100,7 @@ const faqs = [
         <div class="step">
           <div class="num">1</div>
           <h3>Check your starting point</h3>
-          <p>Learn <a href="/check-credit-score-with-itin">how to check your credit score with an ITIN</a> — pull your report from all three bureaus at AnnualCreditReport.com using your ITIN. If no file exists yet, that just means you haven't opened a reporting account — it's not a barrier.</p>
+          <p>Learn <a href="/check-credit-score-with-itin">how to check your credit score with an ITIN</a>, pull your report from all three bureaus at AnnualCreditReport.com using your ITIN. If no file exists yet, that just means you haven't opened a reporting account, it's not a barrier.</p>
         </div>
         <div class="step">
           <div class="num">2</div>
@@ -120,7 +120,7 @@ const faqs = [
   <section class="section-tight">
     <div class="container">
       <div class="stats">
-        <div class="stat"><div class="big">300–850</div><div class="lbl">U.S. credit score range</div></div>
+        <div class="stat"><div class="big">300-850</div><div class="lbl">U.S. credit score range</div></div>
         <div class="stat"><div class="big">35%</div><div class="lbl">Payment history weight in FICO</div></div>
         <div class="stat"><div class="big">3</div><div class="lbl">Major credit bureaus</div></div>
         <div class="stat"><div class="big">$0</div><div class="lbl">Cost to check your reports</div></div>

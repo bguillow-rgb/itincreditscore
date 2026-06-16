@@ -27,7 +27,7 @@ const faqs = [
   },
   {
     q: '¿Por qué pregunta si tengo cuentas que reportan?',
-    a: 'Un puntaje de crédito solo puede existir una vez que al menos una cuenta reporta a un buró durante unos seis meses. Si todavía no tienes cuentas que reporten, tu preparación se centra en abrir la primera —una tarjeta asegurada o un préstamo para construir crédito— en lugar de optimizar un expediente existente.',
+    a: 'Un puntaje de crédito solo puede existir una vez que al menos una cuenta reporta a un buró durante unos seis meses. Si todavía no tienes cuentas que reporten, tu preparación se centra en abrir la primera, una tarjeta asegurada o un préstamo para construir crédito, en lugar de optimizar un expediente existente.',
   },
   {
     q: '¿Qué tan preciso es el rango de puntaje estimado?',
@@ -80,7 +80,7 @@ const speakableSchema = {
       <p class="crumbs"><a href="/es/">Inicio</a> &rsaquo; <a href="/es/itin-credit-score-guide">Guía de Puntaje</a> &rsaquo; <span>Calculadora de Preparación</span></p>
       <span class="eyebrow">Herramienta gratuita</span>
       <h1>{h1}</h1>
-      <p class="lede">Responde 7 preguntas rápidas y obtén una estimación de preparación crediticia de 0 a 100, un rango aproximado de puntaje y el siguiente paso exacto a tomar — hecha para personas con ITIN, sin Seguro Social.</p>
+      <p class="lede">Responde 7 preguntas rápidas y obtén una estimación de preparación crediticia de 0 a 100, un rango aproximado de puntaje y el siguiente paso exacto a tomar, hecha para personas con ITIN, sin Seguro Social.</p>
     </div>
   </section>
 
@@ -100,30 +100,30 @@ const speakableSchema = {
           <fieldset class="calc-field">
             <legend>2. ¿Hace cuánto abriste tu cuenta más antigua?</legend>
             <label><input type="radio" name="age" value="0" /> Menos de 6 meses</label>
-            <label><input type="radio" name="age" value="40" checked /> 6–12 meses</label>
-            <label><input type="radio" name="age" value="70" /> 1–3 años</label>
+            <label><input type="radio" name="age" value="40" checked /> 6-12 meses</label>
+            <label><input type="radio" name="age" value="70" /> 1-3 años</label>
             <label><input type="radio" name="age" value="100" /> Más de 3 años</label>
           </fieldset>
 
           <fieldset class="calc-field">
             <legend>3. ¿Cuántas cuentas reportan a los burós a tu nombre?</legend>
             <label><input type="radio" name="accounts" value="20" /> 1</label>
-            <label><input type="radio" name="accounts" value="70" checked /> 2–3</label>
+            <label><input type="radio" name="accounts" value="70" checked /> 2-3</label>
             <label><input type="radio" name="accounts" value="100" /> 4 o más</label>
           </fieldset>
 
           <fieldset class="calc-field">
             <legend>4. Tu historial de pagos hasta ahora</legend>
             <label><input type="radio" name="payments" value="100" checked /> Todos los pagos a tiempo</label>
-            <label><input type="radio" name="payments" value="55" /> 1–2 pagos atrasados</label>
+            <label><input type="radio" name="payments" value="55" /> 1-2 pagos atrasados</label>
             <label><input type="radio" name="payments" value="15" /> Varios atrasos, o una cuenta en cobro/incumplimiento</label>
           </fieldset>
 
           <fieldset class="calc-field">
             <legend>5. Utilización del crédito <span class="hint">(saldos de tarjetas ÷ límites)</span></legend>
             <label><input type="radio" name="util" value="100" checked /> Menos del 10%</label>
-            <label><input type="radio" name="util" value="80" /> 10–30%</label>
-            <label><input type="radio" name="util" value="45" /> 30–50%</label>
+            <label><input type="radio" name="util" value="80" /> 10-30%</label>
+            <label><input type="radio" name="util" value="45" /> 30-50%</label>
             <label><input type="radio" name="util" value="15" /> Más del 50%</label>
             <label><input type="radio" name="util" value="90" /> Todavía no tengo tarjetas</label>
           </fieldset>
@@ -137,8 +137,8 @@ const speakableSchema = {
 
           <fieldset class="calc-field">
             <legend>7. Consultas duras (solicitudes de nuevo crédito) en los últimos 12 meses</legend>
-            <label><input type="radio" name="inq" value="100" checked /> 0–1</label>
-            <label><input type="radio" name="inq" value="65" /> 2–3</label>
+            <label><input type="radio" name="inq" value="100" checked /> 0-1</label>
+            <label><input type="radio" name="inq" value="65" /> 2-3</label>
             <label><input type="radio" name="inq" value="25" /> 4 o más</label>
           </fieldset>
         </div>
@@ -164,9 +164,9 @@ const speakableSchema = {
         </thead>
         <tbody>
           <tr><td>Empezando (sin expediente)</td><td>Aún no hay historial con puntaje</td><td>Abre una cuenta que reporte; espera ~6 meses</td></tr>
-          <tr><td>Construyendo (0–49)</td><td>Hay expediente pero es delgado o tiene daños</td><td>Paga todo a tiempo; baja los saldos de tarjetas</td></tr>
-          <tr><td>Establecido (50–79)</td><td>Un perfil sólido con puntaje</td><td>Mantén la utilización bajo 10%; agrega otro tipo de cuenta</td></tr>
-          <tr><td>Fuerte (80–100)</td><td>Hábitos de rango prime</td><td>Mantén; estás listo para metas de crédito mayores</td></tr>
+          <tr><td>Construyendo (0-49)</td><td>Hay expediente pero es delgado o tiene daños</td><td>Paga todo a tiempo; baja los saldos de tarjetas</td></tr>
+          <tr><td>Establecido (50-79)</td><td>Un perfil sólido con puntaje</td><td>Mantén la utilización bajo 10%; agrega otro tipo de cuenta</td></tr>
+          <tr><td>Fuerte (80-100)</td><td>Hábitos de rango prime</td><td>Mantén; estás listo para metas de crédito mayores</td></tr>
         </tbody>
       </table>
 
@@ -222,10 +222,10 @@ const speakableSchema = {
         if (!hasFile()) {
           render(
             0,
-            'Empezando — todavía sin expediente de crédito',
+            'Empezando, todavía sin expediente de crédito',
             'Puntaje estimado: ninguno aún (un puntaje necesita ~6 meses de historial que reporte).',
             [
-              'Abre una cuenta que acepte ITIN y reporte a los tres burós — una <a href="/es/build-credit-history-with-itin">tarjeta asegurada o un préstamo para construir crédito</a> es el inicio más accesible.',
+              'Abre una cuenta que acepte ITIN y reporte a los tres burós, una <a href="/es/build-credit-history-with-itin">tarjeta asegurada o un préstamo para construir crédito</a> es el inicio más accesible.',
               'Configura el pago automático para que todo llegue a tiempo desde el primer día.',
               'Después de unos seis meses, <a href="/es/check-credit-score-with-itin">consulta tu puntaje de crédito con un ITIN</a> para confirmar que ya hay expediente.'
             ]
@@ -243,26 +243,26 @@ const speakableSchema = {
 
         var band, est, steps;
         if (score < 50) {
-          band = 'Construyendo — ' + score + '/100';
-          est = 'Rango de puntaje estimado: aproximadamente 500–620.';
+          band = 'Construyendo, ' + score + '/100';
+          est = 'Rango de puntaje estimado: aproximadamente 500-620.';
           steps = [
             'El historial de pagos es la mayor palanca: pon todas las cuentas al día y mantenlas así.',
             'Si el saldo de una tarjeta está alto, redúcelo: apunta a menos del 30%, y luego menos del 10% del límite.',
             'Lee <a href="/es/improve-credit-score">cómo mejorar tu puntaje de crédito</a> para las mejoras legítimas más rápidas.'
           ];
         } else if (score < 80) {
-          band = 'Establecido — ' + score + '/100';
-          est = 'Rango de puntaje estimado: aproximadamente 620–700.';
+          band = 'Establecido, ' + score + '/100';
+          est = 'Rango de puntaje estimado: aproximadamente 620-700.';
           steps = [
             'Mantén la utilización bajo 10% en el estado de cuenta que reporta cada mes.',
             'Agrega el tipo de cuenta que te falta (un préstamo si solo tienes tarjetas, o una tarjeta si solo tienes un préstamo) para completar tu <a href="/es/credit-builder-loans">variedad de créditos</a>.',
-            'Evita solicitudes nuevas que no necesites — espacia las consultas duras.'
+            'Evita solicitudes nuevas que no necesites, espacia las consultas duras.'
           ];
         } else {
-          band = 'Fuerte — ' + score + '/100';
-          est = 'Rango de puntaje estimado: aproximadamente 700–780+.';
+          band = 'Fuerte, ' + score + '/100';
+          est = 'Rango de puntaje estimado: aproximadamente 700-780+.';
           steps = [
-            'Estás en territorio prime — mantén los pagos a tiempo y los saldos bajos.',
+            'Estás en territorio prime, mantén los pagos a tiempo y los saldos bajos.',
             'No cierres tu cuenta más antigua; la antigüedad del historial trabaja a tu favor.',
             'Estás listo para metas mayores; revisa <a href="/es/check-credit-score-with-itin">cómo confirmar tu puntaje exacto</a> antes de solicitar.'
           ];
