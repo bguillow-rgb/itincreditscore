@@ -17,7 +17,7 @@ relatedSlugs:
   - "how-to-build-credit-with-itin-number"
   - "how-long-to-build-credit-with-itin"
   - "how-to-check-credit-score-with-itin-number"
-  - "can-you-have-a-credit-score-with-an-itin"
+  - "how-to-raise-credit-score-with-itin"
 faqs:
   - q: "Will my credit score drop when I transfer from an ITIN to an SSN?"
     a: "It should not. The transfer merges your existing file under a new identifier, your account ages, payment history, and utilization all carry over intact. The start date of your credit history stays the same."
