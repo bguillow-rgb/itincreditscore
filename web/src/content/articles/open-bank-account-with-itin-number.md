@@ -16,8 +16,8 @@ category: "Guides"
 relatedSlugs:
   - "credit-cards-that-accept-itin"
   - "car-loan-with-itin-number"
+  - "authorized-user-credit-card-itin"
   - "can-you-have-a-credit-score-with-an-itin"
-  - "credit-builder-loan-with-itin"
 faqs:
   - q: "Can I open a bank account with an ITIN number online?"
     a: "Usually not at major traditional banks. Most require you to visit a branch in person when using an ITIN instead of an SSN. A few neobanks and apps, such as Current, allow online or app-based account opening with an ITIN. Always call ahead to confirm before you make the trip."

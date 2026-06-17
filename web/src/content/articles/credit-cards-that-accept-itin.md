@@ -16,8 +16,8 @@ category: "Credit Cards"
 relatedSlugs:
   - "secured-credit-cards-for-itin-holders"
   - "open-bank-account-with-itin-number"
+  - "authorized-user-credit-card-itin"
   - "can-you-have-a-credit-score-with-an-itin"
-  - "car-loan-with-itin-number"
 faqs:
   - q: "Can I get a credit card with only an ITIN and no U.S. credit history?"
     a: "Yes. Cards like the OpenSky Secured and the Current Build Card require no credit check at all, so no existing U.S. credit history is needed. You will need a valid ITIN, a U.S. mailing address, and proof of identity such as a passport."
