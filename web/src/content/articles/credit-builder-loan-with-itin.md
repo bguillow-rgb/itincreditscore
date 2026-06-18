@@ -16,8 +16,8 @@ category: "Credit"
 relatedSlugs:
   - "does-paying-rent-build-credit-with-itin"
   - "transfer-itin-credit-history-to-ssn"
-  - "authorized-user-with-itin-credit-building"
   - "can-you-have-a-credit-score-with-an-itin"
+  - "how-to-build-credit-with-itin-number"
 faqs:
   - q: "Can I get a credit builder loan with just an ITIN and no SSN?"
     a: "Yes. Multiple lenders, including Self, many credit unions, and community development financial institutions (CDFIs), accept an ITIN in place of a Social Security Number. You typically need to provide your ITIN, a government-issued photo ID such as a passport, proof of a U.S. address, and evidence of income or bank account activity."
