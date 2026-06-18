@@ -15,9 +15,9 @@ author: "Lucía Morales"
 category: "Puntaje Crediticio"
 relatedSlugs:
   - "how-to-build-credit-with-itin-number"
+  - "credit-age-itin-holders"
+  - "payment-history-itin-credit-score"
   - "does-paying-rent-build-credit-with-itin"
-  - "can-you-have-a-credit-score-with-an-itin"
-  - "how-to-raise-credit-score-with-itin"
 faqs:
   - q: "¿Cuántos meses toma obtener el primer puntaje crediticio con un ITIN?"
     a: "Necesitas tener al menos una cuenta abierta durante seis meses, con al menos un reporte enviado a un buró en los últimos seis meses, antes de que se pueda calcular un puntaje FICO. En la práctica, la mayoría de los titulares de ITIN ven su primer puntaje entre el tercer y el sexto mes cuando usan un producto que reporta a los tres burós mensualmente."

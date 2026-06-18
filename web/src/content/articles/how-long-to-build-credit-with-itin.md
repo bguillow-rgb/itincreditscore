@@ -15,9 +15,9 @@ author: "Lucía Morales"
 category: "Credit Score"
 relatedSlugs:
   - "how-to-build-credit-with-itin-number"
-  - "how-to-raise-credit-score-with-itin"
-  - "transfer-itin-credit-history-to-ssn"
-  - "can-you-have-a-credit-score-with-an-itin"
+  - "hard-inquiries-itin-credit-score"
+  - "authorized-user-with-itin-credit-building"
+  - "credit-age-itin-holders"
 faqs:
   - q: "How many months does it take to get a first credit score with an ITIN?"
     a: "You need at least one account open for six months, with at least one report sent to a bureau within the past six months, before a FICO score can be calculated. In practice, most ITIN holders see their first score between the 3- and 6-month mark when they use a product that reports to all three bureaus monthly."

@@ -16,8 +16,8 @@ category: "Credit Score"
 relatedSlugs:
   - "how-long-to-build-credit-with-itin"
   - "transfer-itin-credit-history-to-ssn"
-  - "how-to-raise-credit-score-with-itin"
-  - "can-you-have-a-credit-score-with-an-itin"
+  - "authorized-user-with-itin-credit-building"
+  - "credit-mix-with-itin"
 faqs:
   - q: "Can I build credit with an ITIN instead of an SSN?"
     a: "Yes. All three major credit bureaus, Equifax, Experian, and TransUnion, accept and track accounts opened with an ITIN. Your credit file is built and scored the same way as an SSN-based file once you have an active, reporting account."
