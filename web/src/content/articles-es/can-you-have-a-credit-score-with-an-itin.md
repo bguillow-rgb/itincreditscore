@@ -10,13 +10,13 @@ relatedQueries:
   - "los titulares de ITIN tienen puntaje de crédito"
 quickAnswer: "Sí. Los titulares de ITIN pueden tener un puntaje de crédito en EE. UU. Experian, Equifax y TransUnion crean archivos de crédito bajo un ITIN. Una vez que abres al menos una cuenta que reporta a un buró y haces pagos a tiempo durante seis meses, se genera un puntaje FICO. La escala de 300 a 850 aplica para todos, ya sea que uses SSN o ITIN."
 publishedAt: "2026-06-05"
-author: "ITIN Credit Score Editorial Team"
+author: "Daniel Okafor"
 category: "Crédito Básico"
 relatedSlugs:
   - "does-paying-rent-build-credit-with-itin"
-  - "authorized-user-credit-card-itin"
-  - "car-loan-with-itin-number"
-  - "credit-cards-that-accept-itin"
+  - "how-to-build-credit-with-itin-number"
+  - "how-long-to-build-credit-with-itin"
+  - "credit-builder-loan-with-itin"
 faqs:
   - q: "¿Tener un ITIN me da automáticamente un puntaje de crédito?"
     a: "No. El ITIN por sí solo no genera un puntaje de crédito. Necesitas abrir al menos una cuenta de crédito, como una tarjeta asegurada o un préstamo para construir crédito, que reporte tu actividad de pagos a los burós. Después de seis meses de historial reportado, se puede calcular un puntaje FICO."

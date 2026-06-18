@@ -11,7 +11,7 @@ relatedQueries:
   - "annualcreditreport.com ITIN"
 quickAnswer: "ITIN holders can get all three free credit reports, but not through AnnualCreditReport.com's online form, which requires an SSN. Use myEquifax online (enter your ITIN in the SSN field), Experian's document-upload tool, and TransUnion's live-chat or mail request. Each bureau accepts a written mail request at no cost."
 publishedAt: "2026-06-10"
-author: "ITIN Credit Score Editorial Team"
+author: "Camila Ortega"
 category: "Credit Score"
 relatedSlugs:
   - "transfer-itin-credit-history-to-ssn"

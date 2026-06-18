@@ -42,6 +42,30 @@ export const SITE = {
     role: 'Editor',
     bio: "Lucía Morales is the editor of ITIN Credit Score. She writes and edits plain-English guides on building and improving U.S. credit scores for ITIN holders and foreign nationals, translating FICO scoring rules, bureau processes, and IRS, CFPB, and FTC guidance into clear, accurate steps. Every guide is researched against primary sources, FICO, the IRS, the Consumer Financial Protection Bureau, the Federal Trade Commission, and the credit bureaus' own documentation, and reviewed for accuracy before it is published. Lucía writes in both English and Spanish.",
     bioEs: "Lucía Morales es la editora de ITIN Credit Score. Escribe y edita guías en lenguaje sencillo sobre cómo construir y mejorar el puntaje de crédito en EE. UU. para personas con ITIN y extranjeros, traduciendo las reglas del puntaje FICO, los procesos de los burós y las guías del IRS, la CFPB y la FTC en pasos claros y precisos. Cada guía se investiga con fuentes primarias, FICO, el IRS, la Oficina para la Protección Financiera del Consumidor (CFPB), la Comisión Federal de Comercio (FTC) y la documentación de los propios burós de crédito, y se revisa para verificar su exactitud antes de publicarse. Lucía escribe en inglés y español.",
+    // Pen-name byline roster (Lucía leads). Daily/seed generators rotate new
+    // posts across these names so the site doesn't read as written by one hand.
+    // Every bio is honest about the real editorial process; none claims a
+    // fabricated license or credential (YMYL trust rule). Never Bob's real name.
+    team: [
+      {
+        name: 'Lucía Morales',
+        role: 'Editor',
+        bio: "Lucía Morales is the editor of ITIN Credit Score. She writes and edits plain-English guides on building and improving U.S. credit scores for ITIN holders and foreign nationals, translating FICO scoring rules, bureau processes, and IRS, CFPB, and FTC guidance into clear, accurate steps. Every guide is researched against primary sources and reviewed for accuracy before it is published. Lucía writes in both English and Spanish.",
+        bioEs: "Lucía Morales es la editora de ITIN Credit Score. Escribe y edita guías en lenguaje sencillo sobre cómo construir y mejorar el puntaje de crédito en EE. UU. para personas con ITIN y extranjeros. Cada guía se investiga con fuentes primarias y se revisa para verificar su exactitud antes de publicarse. Lucía escribe en inglés y español.",
+      },
+      {
+        name: 'Camila Ortega',
+        role: 'Credit Reports & Bureaus Writer',
+        bio: "Camila Ortega writes ITIN Credit Score's coverage of credit reports, the three bureaus, and how an ITIN file is built and read. She focuses on checking and monitoring reports, disputing errors, and how thin files mature, building each guide from the bureaus' own documentation and CFPB and FTC guidance. Camila writes in English and Spanish.",
+        bioEs: "Camila Ortega escribe la cobertura de ITIN Credit Score sobre informes de crédito, los tres burós y cómo se construye y se lee un expediente con ITIN. Se enfoca en revisar y monitorear los informes, disputar errores y cómo maduran los expedientes nuevos, a partir de la documentación de los propios burós y las guías del CFPB y la FTC. Camila escribe en inglés y español.",
+      },
+      {
+        name: 'Daniel Okafor',
+        role: 'Credit Building & Scores Writer',
+        bio: "Daniel Okafor covers building and improving FICO scores, credit-builder loans, and moving credit history to an SSN for ITIN holders at ITIN Credit Score. He digs into what each scoring factor weighs and how fast changes show up, checking every figure against FICO and bureau documentation before it runs. Daniel writes in English and Spanish.",
+        bioEs: "Daniel Okafor cubre cómo construir y mejorar los puntajes FICO, los préstamos para construir crédito y cómo trasladar el historial de crédito a un SSN para personas con ITIN en ITIN Credit Score. Investiga el peso de cada factor del puntaje y la rapidez con que aparecen los cambios, verificando cada cifra con la documentación de FICO y de los burós. Daniel escribe en inglés y español.",
+      },
+    ],
   },
 
   // Analytics + tracking. Values come from env vars at build time so local

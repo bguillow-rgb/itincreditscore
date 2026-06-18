@@ -11,7 +11,7 @@ relatedQueries:
   - "ITIN credit building milestones"
 quickAnswer: "Most ITIN holders generate their first credit score within 3-6 months of opening an account that reports to the bureaus. Reaching a fair score (580-669) typically takes 4-6 months; a good score (670-739) usually takes 12-18 months of consistent on-time payments and low credit utilization."
 publishedAt: "2026-06-11"
-author: "ITIN Credit Score Editorial Team"
+author: "Lucía Morales"
 category: "Credit Score"
 relatedSlugs:
   - "how-to-build-credit-with-itin-number"

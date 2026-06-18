@@ -11,13 +11,13 @@ relatedQueries:
   - "build credit with rent payments no social security number"
 quickAnswer: "Yes, ITIN holders can use rent reporting services to build U.S. credit history. Services like Self, Boom, and Ava report your on-time rent payments to Equifax, Experian, and/or TransUnion using your name, address, and date of birth rather than an SSN. Most charge $0-$8.95/month and require no landlord involvement."
 publishedAt: "2026-06-14"
-author: "ITIN Credit Score Editorial Team"
+author: "Daniel Okafor"
 category: "Credit"
 relatedSlugs:
   - "credit-builder-loan-with-itin"
-  - "authorized-user-credit-card-itin"
-  - "secured-credit-cards-for-itin-holders"
   - "can-you-have-a-credit-score-with-an-itin"
+  - "how-to-build-credit-with-itin-number"
+  - "how-to-check-credit-score-with-itin-number"
 faqs:
   - q: "Can I report rent to the credit bureaus if I only have an ITIN, not an SSN?"
     a: "Yes. Several rent reporting services, including Self, Boom, and Rental Kharma, can match you to your credit file using your name, address, and date of birth. They do not universally require an SSN to submit your payment history to the bureaus."
