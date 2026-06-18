@@ -14,10 +14,10 @@ publishedAt: "2026-06-18"
 author: "Daniel Okafor"
 category: "Puntaje de crédito"
 relatedSlugs:
+  - "authorized-user-credit-building-itin"
   - "how-to-raise-credit-score-with-itin"
   - "credit-age-itin-holders"
   - "credit-mix-with-itin"
-  - "expired-itin-credit-score-impact"
 faqs:
   - q: "¿Puedo congelar mi crédito con un ITIN en lugar de un SSN?"
     a: "Sí. Los tres burós principales aceptan el ITIN para verificar tu identidad cuando solicitas un congelamiento de seguridad. Equifax acepta expresamente tu ITIN en lugar del SSN durante el proceso de registro en línea. Experian y TransUnion pueden requerir una solicitud por correo postal o por teléfono si la verificación en línea no funciona, pero el derecho al congelamiento es exactamente el mismo."

@@ -14,10 +14,10 @@ publishedAt: "2026-06-18"
 author: "Daniel Okafor"
 category: "Credit Score"
 relatedSlugs:
+  - "authorized-user-credit-building-itin"
   - "credit-age-itin-holders"
   - "hard-inquiries-itin-credit-score"
   - "how-to-raise-credit-score-with-itin"
-  - "payment-history-itin-credit-score"
 faqs:
   - q: "Can I freeze my credit with an ITIN instead of an SSN?"
     a: "Yes. All three major bureaus accept ITINs for identity verification when you request a security freeze. Equifax explicitly accepts your ITIN in place of an SSN during the online sign-up process. Experian and TransUnion may require a mailed or phone request if online verification fails, but the freeze right itself is the same."

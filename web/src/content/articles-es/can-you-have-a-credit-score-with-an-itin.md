@@ -15,8 +15,8 @@ category: "Crédito Básico"
 relatedSlugs:
   - "does-paying-rent-build-credit-with-itin"
   - "foreign-credit-history-itin-us-credit-score"
+  - "authorized-user-credit-building-itin"
   - "credit-monitoring-with-itin"
-  - "how-to-build-credit-with-itin-number"
 faqs:
   - q: "¿Tener un ITIN me da automáticamente un puntaje de crédito?"
     a: "No. El ITIN por sí solo no genera un puntaje de crédito. Necesitas abrir al menos una cuenta de crédito, como una tarjeta asegurada o un préstamo para construir crédito, que reporte tu actividad de pagos a los burós. Después de seis meses de historial reportado, se puede calcular un puntaje FICO."
