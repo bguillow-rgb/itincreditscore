@@ -11,13 +11,13 @@ relatedQueries:
   - "factores del puntaje de crédito para titulares de ITIN"
 quickAnswer: "Puedes subir tu puntaje de crédito con un ITIN de la misma manera que cualquier prestatario en EE. UU.: paga cada factura a tiempo, mantén el saldo de tus tarjetas de crédito por debajo del 30% de tu límite, agrega un segundo tipo de cuenta, disputa errores en tu reporte y evita abrir muchas cuentas nuevas al mismo tiempo. La mayoría de los titulares de ITIN ven mejoras notables dentro de 3-6 meses de acción constante."
 publishedAt: "2026-06-17"
-author: "Lucía Morales"
+author: "Camila Ortega"
 category: "Puntaje de crédito"
 relatedSlugs:
   - "does-paying-rent-build-credit-with-itin"
   - "how-to-build-credit-with-itin-number"
-  - "secured-credit-cards-for-itin-holders"
   - "transfer-itin-credit-history-to-ssn"
+  - "can-you-have-a-credit-score-with-an-itin"
 faqs:
   - q: "¿Tener un ITIN en lugar de un SSN dificulta subir mi puntaje de crédito?"
     a: "No. Los modelos FICO y VantageScore calculan tu puntaje de la misma manera, ya sea que tu expediente esté vinculado a un ITIN o a un SSN. Los factores de puntuación (historial de pagos, utilización, antigüedad de las cuentas, combinación de créditos y consultas nuevas) son idénticos. La única diferencia real es que algunas herramientas de monitoreo en línea están diseñadas para SSN, por lo que los titulares de ITIN a veces necesitan usar opciones por correo o directamente con las agencias de crédito para acceder a sus reportes."

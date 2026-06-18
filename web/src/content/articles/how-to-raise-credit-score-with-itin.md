@@ -11,7 +11,7 @@ relatedQueries:
   - "credit score factors for ITIN holders"
 quickAnswer: "You can raise your credit score with an ITIN the same way any U.S. borrower does: pay every bill on time, keep credit card balances below 30% of your limit, add a second account type, dispute errors on your report, and avoid opening too many new accounts at once. Most ITIN holders see measurable improvement within 3-6 months of consistent action."
 publishedAt: "2026-06-17"
-author: "Lucía Morales"
+author: "Camila Ortega"
 category: "Credit Score"
 relatedSlugs:
   - "how-long-to-build-credit-with-itin"
