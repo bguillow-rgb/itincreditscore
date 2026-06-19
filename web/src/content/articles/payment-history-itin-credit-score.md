@@ -17,7 +17,7 @@ relatedSlugs:
   - "credit-age-itin-holders"
   - "expired-itin-credit-score-impact"
   - "hard-inquiries-itin-credit-score"
-  - "credit-mix-with-itin"
+  - "itin-credit-building-immigration-status"
 faqs:
   - q: "Does payment history work the same way for ITIN holders as it does for SSN holders?"
     a: "Yes. The scoring models, FICO and VantageScore, evaluate payment behavior the same way regardless of whether your file is tied to an ITIN or an SSN. The only difference is the identification number used to link your accounts to your credit file, not how your on-time or late payments are scored."

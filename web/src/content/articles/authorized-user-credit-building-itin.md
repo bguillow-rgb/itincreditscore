@@ -15,9 +15,9 @@ author: "Camila Ortega"
 category: "Credit Score"
 relatedSlugs:
   - "credit-age-itin-holders"
+  - "itin-credit-building-immigration-status"
   - "credit-mix-with-itin"
   - "foreign-credit-history-itin-us-credit-score"
-  - "hard-inquiries-itin-credit-score"
 faqs:
   - q: "Can I be added as an authorized user if I only have an ITIN and no SSN?"
     a: "Yes. Several major issuers, including Capital One, Chase, and Citi, do not require an SSN to add an authorized user. They may only ask for a name, date of birth, and address. American Express and some other issuers do require an SSN or ITIN at the time of the request, so always confirm the policy before the primary cardholder applies."

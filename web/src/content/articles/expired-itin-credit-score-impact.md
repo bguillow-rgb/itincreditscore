@@ -14,10 +14,10 @@ publishedAt: "2026-06-18"
 author: "Camila Ortega"
 category: "Credit Score"
 relatedSlugs:
+  - "itin-credit-building-immigration-status"
   - "payment-history-itin-credit-score"
   - "credit-age-itin-holders"
   - "credit-utilization-itin-holders"
-  - "hard-inquiries-itin-credit-score"
 faqs:
   - q: "Will my credit score drop immediately if my ITIN expires?"
     a: "No, expiration alone does not trigger an instant score drop. Your existing accounts and payment history remain on file. The risk is that new payments may stop being reported, which can stall progress and eventually hurt scores through inactivity or missed updates."
