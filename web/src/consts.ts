@@ -5,7 +5,7 @@
 export const SITE = {
   name: 'ITIN Credit Score',
   legalName: 'ITINCreditScore.com',
-  tagline: 'Build & Check Your Credit Score With an ITIN',
+  tagline: 'Build a U.S. Credit Score With an ITIN, No SSN Needed',
   taglineEs: 'Puntaje de Crédito y Construcción de Crédito para Personas con ITIN',
   description:
     'ITINCreditScore.com helps ITIN holders build a U.S. credit history, check their credit score without an SSN, and raise it, covering the credit bureaus, credit-builder tools, and what actually moves your score. Independent guides and tools matching.',
