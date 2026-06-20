@@ -17,7 +17,7 @@ relatedSlugs:
   - "credit-age-itin-holders"
   - "credit-mix-with-itin"
   - "credit-monitoring-with-itin"
-  - "how-to-freeze-credit-with-itin"
+  - "experian-boost-alternative-data-itin"
 faqs:
   - q: "¿Tener un ITIN en lugar de un SSN dificulta subir mi puntaje de crédito?"
     a: "No. Los modelos FICO y VantageScore calculan tu puntaje de la misma manera, ya sea que tu expediente esté vinculado a un ITIN o a un SSN. Los factores de puntuación (historial de pagos, utilización, antigüedad de las cuentas, combinación de créditos y consultas nuevas) son idénticos. La única diferencia real es que algunas herramientas de monitoreo en línea están diseñadas para SSN, por lo que los titulares de ITIN a veces necesitan usar opciones por correo o directamente con las agencias de crédito para acceder a sus reportes."

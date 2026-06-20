@@ -14,10 +14,10 @@ publishedAt: "2026-06-14"
 author: "Daniel Okafor"
 category: "Crédito"
 relatedSlugs:
+  - "experian-boost-alternative-data-itin"
   - "credit-builder-loan-with-itin"
   - "credit-monitoring-with-itin"
   - "how-to-check-credit-score-with-itin-number"
-  - "can-you-have-a-credit-score-with-an-itin"
 faqs:
   - q: "¿Puedo reportar mi renta a los burós de crédito si solo tengo un ITIN y no un SSN?"
     a: "Sí. Varios servicios de reporte de renta, entre ellos Self, Boom y Rental Kharma, pueden asociarte a tu expediente crediticio usando tu nombre, dirección y fecha de nacimiento. No exigen un SSN de forma universal para enviar tu historial de pagos a los burós."
