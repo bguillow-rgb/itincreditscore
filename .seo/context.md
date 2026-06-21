@@ -50,6 +50,7 @@ surface: web
 - google_analytics_4: set up
 - google_ads_keyword_planner: not set up
 - keyword_surfer_extension: not set up
-- bing_webmaster_tools: not set up
+- bing_webmaster_tools: set up — API key wired to seo-pulse (.secrets/bing_api_key.txt) 2026-06-20; feeds rankings skill Bing-position column + ChatGPT-citation surface
+- serper_dev: set up — API key wired to seo-pulse (.secrets/serper_api_key.txt) 2026-06-20; live absolute-SERP rank (Google+Bing), 2,500 free credits, cached 12h
 - semrush: not used (free path)
 - ahrefs: not used (free path)
