@@ -17,7 +17,7 @@ relatedSlugs:
   - "credit-utilization-itin-holders"
   - "hard-inquiries-itin-credit-score"
   - "payment-history-itin-credit-score"
-  - "credit-monitoring-with-itin"
+  - "secured-credit-card-credit-score-itin"
 faqs:
   - q: "¿Se calcula el puntaje de crédito con ITIN de forma diferente al de SSN?"
     a: "No. FICO y VantageScore usan exactamente la misma fórmula sin importar si tu identificador es un ITIN o un SSN. Los modelos evalúan el historial de pagos, la utilización del crédito, la antigüedad del historial, la combinación de créditos y las consultas recientes de la misma manera. La única diferencia es el identificador que usa la agencia para vincular tus cuentas a tu archivo."

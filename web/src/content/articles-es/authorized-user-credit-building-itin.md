@@ -15,9 +15,9 @@ author: "Camila Ortega"
 category: "Puntaje de crédito"
 relatedSlugs:
   - "how-to-freeze-credit-with-itin"
+  - "secured-credit-card-credit-score-itin"
   - "can-you-have-a-credit-score-with-an-itin"
   - "credit-age-itin-holders"
-  - "how-to-raise-credit-score-with-itin"
 faqs:
   - q: "¿Puedo ser agregado como usuario autorizado si solo tengo un ITIN y no tengo SSN?"
     a: "Sí. Varios emisores importantes, incluidos Capital One, Chase y Citi, no requieren un SSN para agregar a un usuario autorizado. Es posible que solo pidan nombre completo, fecha de nacimiento y dirección. American Express y algunos otros emisores sí requieren un SSN o ITIN al momento de la solicitud, así que confirma siempre la política antes de que el titular principal haga la gestión."

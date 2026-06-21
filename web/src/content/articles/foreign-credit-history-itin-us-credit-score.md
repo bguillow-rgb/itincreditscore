@@ -14,10 +14,10 @@ publishedAt: "2026-06-18"
 author: "Daniel Okafor"
 category: "Credit Score"
 relatedSlugs:
+  - "secured-credit-card-credit-score-itin"
   - "thin-credit-file-itin-holder"
   - "transfer-itin-credit-history-to-ssn"
   - "authorized-user-credit-building-itin"
-  - "credit-age-itin-holders"
 faqs:
   - q: "Does my credit score from Mexico, India, Canada, or the UK automatically appear in my U.S. credit file?"
     a: "No. The three major U.S. bureaus (Equifax, TransUnion, Experian) only track U.S. account activity. Your foreign score does not appear in the U.S. system automatically, even if a bureau shares a name with one you used abroad."

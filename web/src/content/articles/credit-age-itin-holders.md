@@ -14,10 +14,10 @@ publishedAt: "2026-06-18"
 author: "Camila Ortega"
 category: "Credit Score"
 relatedSlugs:
+  - "secured-credit-card-credit-score-itin"
   - "payment-history-itin-credit-score"
   - "hard-inquiries-itin-credit-score"
   - "authorized-user-credit-building-itin"
-  - "credit-mix-with-itin"
 faqs:
   - q: "Does credit age work the same way with an ITIN as with an SSN?"
     a: "Yes. The FICO and VantageScore models calculate length of credit history identically regardless of whether your file is linked to an ITIN or an SSN. Your account open dates, average account age, and oldest account age are all evaluated the same way."

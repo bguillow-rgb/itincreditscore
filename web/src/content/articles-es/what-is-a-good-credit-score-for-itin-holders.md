@@ -15,9 +15,9 @@ author: "Lucía Morales"
 category: "Puntaje de crédito"
 relatedSlugs:
   - "credit-age-itin-holders"
+  - "secured-credit-card-credit-score-itin"
   - "why-credit-score-different-each-bureau-itin"
   - "credit-mix-with-itin"
-  - "expired-itin-credit-score-impact"
 faqs:
   - q: "¿La escala de puntaje de crédito es diferente para personas con ITIN que para quienes tienen SSN?"
     a: "No. Las personas con ITIN se evalúan con la misma escala de 300 a 850. Una vez que una cuenta queda registrada en los burós de crédito bajo tu ITIN, el modelo de puntuación la trata de forma idéntica a cualquier cuenta vinculada a un SSN. Tu historial de pagos, tu nivel de utilización y la antigüedad de tus cuentas influyen exactamente de la misma manera."
