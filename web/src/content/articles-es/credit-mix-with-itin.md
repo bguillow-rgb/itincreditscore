@@ -16,8 +16,8 @@ category: "Puntaje de crédito"
 relatedSlugs:
   - "credit-age-itin-holders"
   - "thin-credit-file-itin-holder"
+  - "fico-vs-vantagescore-itin-holders"
   - "how-to-raise-credit-score-with-itin"
-  - "how-to-freeze-credit-with-itin"
 faqs:
   - q: "¿La mezcla de crédito afecta mi puntaje FICO si uso un ITIN en lugar de un SSN?"
     a: "Sí. El modelo de puntuación trata tu archivo de la misma manera sin importar si está vinculado a un ITIN o a un SSN. La mezcla de crédito representa alrededor del 10% de un puntaje FICO estándar, y ese porcentaje aplica para los titulares de ITIN igual que para cualquier otro consumidor."
