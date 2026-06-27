@@ -29,40 +29,43 @@ const faqs = [
 ];
 ---
 <BaseLayout title={SITE.name} ogImage="/og/home.png">
-  <!-- Hero -->
-  <section class="hero hero--image">
-    <img class="hero-bg" src="/img/credit-building.webp" alt="Una persona revisando su puntaje de crédito en crecimiento en el teléfono" loading="eager" fetchpriority="high" decoding="async" />
-    <div class="container hero-grid">
-      <div>
-        <span class="eyebrow">Sin Seguro Social</span>
+  <!-- Hero: diseño "guía" invertido, visual a la izquierda, texto amplio a la
+       derecha. Marcado y clases distintos de los sitios hermanos. -->
+  <section class="guide-hero">
+    <div class="container guide-hero-inner">
+      <div class="guide-hero-visual">
+        <figure class="guide-hero-figure">
+          <img src="/img/credit-building.webp" alt="Una persona revisando su puntaje de crédito en crecimiento en el teléfono" width="640" height="480" loading="eager" fetchpriority="high" decoding="async" />
+        </figure>
+        <div class="guide-note-card">
+          <p class="note-title">Qué hace diferente a esta guía</p>
+          <ul class="guide-note-list">
+            <li><span class="tick">&#10003;</span> <strong>Hecha solo para personas con ITIN</strong>, cada guía asume que tienes un ITIN, no un Seguro Social.</li>
+            <li><span class="tick">&#10003;</span> <strong>Con base en registros primarios</strong>, FICO, el IRS, la CFPB, la FTC y los tres burós.</li>
+            <li><span class="tick">&#10003;</span> <strong>Pasos en español claro</strong>, sin jerga, sin promesas falsas de "reparación de crédito".</li>
+            <li><span class="tick">&#10003;</span> <strong>Herramientas gratis</strong>, incluida nuestra <a href="/es/credit-readiness-calculator">calculadora de preparación crediticia</a>.</li>
+          </ul>
+          <a href="/es/credit-readiness-calculator" class="btn btn-secondary">Prueba la calculadora gratis &rarr;</a>
+          <p class="guide-note-foot">Independiente &middot; cómo ganamos dinero está en nuestra página de <a href="/es/disclosure">aviso</a>.</p>
+        </div>
+      </div>
+      <div class="guide-hero-copy">
+        <span class="guide-eyebrow">Sin Seguro Social</span>
         <h1>Construye y revisa tu puntaje de crédito con un ITIN</h1>
-        <p class="lede">
+        <p class="guide-lede">
           No necesitas un Seguro Social para tener un puntaje de crédito en
           EE. UU. Ayudamos a las personas con ITIN a entender cómo funciona el
           puntaje de crédito, revisar sus reportes y construir un historial
           crediticio sólido desde cero, paso a paso, en español claro.
         </p>
-        <div class="hero-cta">
+        <div class="guide-hero-actions">
           <a href="/es/apply" class="btn btn-primary btn-lg">Empieza a construir crédito</a>
           <a href="/es/itin-credit-score-guide" class="btn btn-secondary btn-lg">Cómo funciona</a>
         </div>
-        <div class="hero-trust">
-          <span><span class="check">&#10003;</span> Sin Seguro Social</span>
-          <span><span class="check">&#10003;</span> Revisar tu puntaje no lo afecta</span>
-          <span><span class="check">&#10003;</span> Los 50 estados</span>
-        </div>
-      </div>
-      <div>
-        <div class="hero-panel">
-          <p class="hero-panel-eyebrow">Por qué las personas con ITIN usan este sitio</p>
-          <ul class="hero-panel-list">
-            <li><span class="check">&#10003;</span> <strong>Hecho solo para personas con ITIN</strong>, cada guía asume que tienes un ITIN, no un Seguro Social.</li>
-            <li><span class="check">&#10003;</span> <strong>Con base en registros primarios</strong>, FICO, el IRS, la CFPB, la FTC y los tres burós.</li>
-            <li><span class="check">&#10003;</span> <strong>Pasos en español claro</strong>, sin jerga, sin promesas falsas de "reparación de crédito".</li>
-            <li><span class="check">&#10003;</span> <strong>Herramientas gratis</strong>, incluida nuestra <a href="/es/credit-readiness-calculator">calculadora de preparación crediticia</a>.</li>
-          </ul>
-          <a href="/es/credit-readiness-calculator" class="btn btn-secondary">Prueba la calculadora gratis &rarr;</a>
-          <p class="hero-panel-note">Independiente &middot; cómo ganamos dinero está en nuestra página de <a href="/es/disclosure">aviso</a>.</p>
+        <div class="guide-hero-assurances">
+          <span><span class="tick">&#10003;</span> Sin Seguro Social</span>
+          <span><span class="tick">&#10003;</span> Revisar tu puntaje no lo afecta</span>
+          <span><span class="tick">&#10003;</span> Los 50 estados</span>
         </div>
       </div>
     </div>
@@ -153,41 +156,3 @@ const faqs = [
     </div>
   </section>
 </BaseLayout>
-
-<style>
-  .hero-panel {
-    background: var(--surface, #f1f8f3);
-    border: 1px solid var(--border, #ddeae1);
-    border-radius: 16px;
-    padding: 24px 24px 22px;
-  }
-  .hero-panel-eyebrow {
-    margin: 0 0 14px;
-    font-weight: 700;
-    font-size: 0.95rem;
-    color: var(--primary-dark, #166534);
-  }
-  .hero-panel-list {
-    list-style: none;
-    margin: 0 0 18px;
-    padding: 0;
-    display: grid;
-    gap: 12px;
-  }
-  .hero-panel-list li {
-    font-size: 0.97rem;
-    line-height: 1.5;
-    color: var(--muted, #4f6256);
-  }
-  .hero-panel-list strong { color: var(--text, #0f2418); }
-  .hero-panel-list .check {
-    color: var(--primary, #15803d);
-    font-weight: 700;
-    margin-right: 4px;
-  }
-  .hero-panel-note {
-    margin: 14px 0 0;
-    font-size: 0.85rem;
-    color: var(--muted, #4f6256);
-  }
-</style>

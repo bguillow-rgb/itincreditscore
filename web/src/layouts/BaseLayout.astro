@@ -56,6 +56,17 @@ const fullTitle =
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <!-- Brand typography: Syne (display headings) + Source Sans 3 (body).
+         Preconnect for faster fetch; display=swap so text paints immediately.
+         Weights limited (Syne 600/700, Source Sans 3 400/600) to protect LCP. -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600&family=Syne:wght@600;700&display=swap"
+    />
+
     <title>{fullTitle}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonical} />

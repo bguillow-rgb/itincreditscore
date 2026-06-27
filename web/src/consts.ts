@@ -142,18 +142,27 @@ export const SITE = {
     },
   },
 
-  // Brand, modern, trustworthy fintech. Green = growth/financial health.
+  // Brand identity: "Educational / calm / approachable guide". Green = growth
+  // and financial health, paired with a calm blue secondary for a reassuring,
+  // teacher-like feel. Soft, light surfaces and generous breathing room set
+  // this site apart from its two sister sites (no shared system-font template).
+  // Typography: Syne (geometric display) for headings, Source Sans 3 for body,
+  // both loaded via Google Fonts with font-display:swap (see BaseLayout +
+  // global.css). fontHead / fontBody mirror the --font-head / --font-body CSS
+  // tokens; they replace the old shared --font system stack.
   theme: {
     bg: '#FFFFFF',
-    surface: '#F1F8F3',
-    surfaceAlt: '#E3F0E8',
-    text: '#0F2418',
-    muted: '#4F6256',
+    surface: '#F4F8F6',
+    surfaceAlt: '#EAF2F6',
+    text: '#16271D',
+    muted: '#566A60',
     primary: '#15803D',
     primaryDark: '#166534',
     accent: '#2563EB',
     accentDark: '#1D4ED8',
-    border: '#DDEAE1',
+    border: '#E1EBE5',
+    fontHead: "'Syne', system-ui, -apple-system, sans-serif",
+    fontBody: "'Source Sans 3', system-ui, -apple-system, sans-serif",
   },
 };
 

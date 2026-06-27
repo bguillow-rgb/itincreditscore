@@ -40,41 +40,44 @@ const faqs = [
 ];
 ---
 <BaseLayout title={SITE.name} ogImage="/og/home.png">
-  <!-- Hero -->
-  <section class="hero hero--image">
-    <img class="hero-bg" src="/img/credit-building.webp" alt="A person reviewing their growing credit score on a phone" loading="eager" fetchpriority="high" decoding="async" />
-    <div class="container hero-grid">
-      <div>
-        <span class="eyebrow">No SSN required</span>
+  <!-- Hero: flipped "guide" layout, calm visual on the left, generous reassuring
+       copy on the right. Distinct markup/class names from the sister sites. -->
+  <section class="guide-hero">
+    <div class="container guide-hero-inner">
+      <div class="guide-hero-visual">
+        <figure class="guide-hero-figure">
+          <img src="/img/credit-building.webp" alt="A person reviewing their growing credit score on a phone" width="640" height="480" loading="eager" fetchpriority="high" decoding="async" />
+        </figure>
+        <div class="guide-note-card">
+          <p class="note-title">What makes this guide different</p>
+          <ul class="guide-note-list">
+            <li><span class="tick">&#10003;</span> <strong>Written only for ITIN holders</strong>, every guide assumes you have an ITIN, not an SSN.</li>
+            <li><span class="tick">&#10003;</span> <strong>Sourced from primary records</strong>, FICO, the IRS, CFPB, FTC, and the three bureaus.</li>
+            <li><span class="tick">&#10003;</span> <strong>Plain-English steps</strong>, no jargon, no "credit repair" hype, no false promises.</li>
+            <li><span class="tick">&#10003;</span> <strong>Free tools</strong>, including our <a href="/credit-readiness-calculator">credit-readiness calculator</a> to see where you stand.</li>
+          </ul>
+          <a href="/credit-readiness-calculator" class="btn btn-secondary">Try the free calculator &rarr;</a>
+          <p class="guide-note-foot">Independent &middot; how we make money is on our <a href="/disclosure">disclosure</a> page.</p>
+        </div>
+      </div>
+      <div class="guide-hero-copy">
+        <span class="guide-eyebrow">No SSN required</span>
         <h1>Build your credit score with an ITIN</h1>
-        <p class="lede">
+        <p class="guide-lede">
           You don't need a Social Security Number to have a U.S. credit score.
           We help ITIN holders understand how credit scoring works and build a
           strong credit history from scratch, step by step, in plain English.
           Already have a file? Here's how to check your <a href="/check-credit-score-with-itin">credit
           score with an ITIN</a>.
         </p>
-        <div class="hero-cta">
+        <div class="guide-hero-actions">
           <a href="/apply" class="btn btn-primary btn-lg">Start building credit</a>
           <a href="/itin-credit-score-guide" class="btn btn-secondary btn-lg">How it works</a>
         </div>
-        <div class="hero-trust">
-          <span><span class="check">&#10003;</span> No SSN needed</span>
-          <span><span class="check">&#10003;</span> Checking your score won't hurt it</span>
-          <span><span class="check">&#10003;</span> All 50 states</span>
-        </div>
-      </div>
-      <div>
-        <div class="hero-panel">
-          <p class="hero-panel-eyebrow">Why ITIN holders use this site</p>
-          <ul class="hero-panel-list">
-            <li><span class="check">&#10003;</span> <strong>Built only for ITIN holders</strong>, every guide assumes you have an ITIN, not an SSN.</li>
-            <li><span class="check">&#10003;</span> <strong>Sourced from primary records</strong>, FICO, the IRS, CFPB, FTC, and the three bureaus.</li>
-            <li><span class="check">&#10003;</span> <strong>Plain-English steps</strong>, no jargon, no "credit repair" hype, no false promises.</li>
-            <li><span class="check">&#10003;</span> <strong>Free tools</strong>, including our <a href="/credit-readiness-calculator">credit-readiness calculator</a> to see where you stand.</li>
-          </ul>
-          <a href="/credit-readiness-calculator" class="btn btn-secondary">Try the free calculator &rarr;</a>
-          <p class="hero-panel-note">Independent &middot; how we make money is on our <a href="/disclosure">disclosure</a> page.</p>
+        <div class="guide-hero-assurances">
+          <span><span class="tick">&#10003;</span> No SSN needed</span>
+          <span><span class="tick">&#10003;</span> Checking your score won't hurt it</span>
+          <span><span class="tick">&#10003;</span> All 50 states</span>
         </div>
       </div>
     </div>
@@ -190,41 +193,3 @@ const faqs = [
     </div>
   </section>
 </BaseLayout>
-
-<style>
-  .hero-panel {
-    background: var(--surface, #f1f8f3);
-    border: 1px solid var(--border, #ddeae1);
-    border-radius: 16px;
-    padding: 24px 24px 22px;
-  }
-  .hero-panel-eyebrow {
-    margin: 0 0 14px;
-    font-weight: 700;
-    font-size: 0.95rem;
-    color: var(--primary-dark, #166534);
-  }
-  .hero-panel-list {
-    list-style: none;
-    margin: 0 0 18px;
-    padding: 0;
-    display: grid;
-    gap: 12px;
-  }
-  .hero-panel-list li {
-    font-size: 0.97rem;
-    line-height: 1.5;
-    color: var(--muted, #4f6256);
-  }
-  .hero-panel-list strong { color: var(--text, #0f2418); }
-  .hero-panel-list .check {
-    color: var(--primary, #15803d);
-    font-weight: 700;
-    margin-right: 4px;
-  }
-  .hero-panel-note {
-    margin: 14px 0 0;
-    font-size: 0.85rem;
-    color: var(--muted, #4f6256);
-  }
-</style>
