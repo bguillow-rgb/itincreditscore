@@ -53,7 +53,17 @@ const faqs = [
         </div>
       </div>
       <div>
-        <CreditKarmaAd creativeId="3597059" cta="Mira tu puntaje de crédito aquí" alt="Credit Karma, mira tu puntaje de crédito gratis" />
+        <div class="hero-panel">
+          <p class="hero-panel-eyebrow">Por qué las personas con ITIN usan este sitio</p>
+          <ul class="hero-panel-list">
+            <li><span class="check">&#10003;</span> <strong>Hecho solo para personas con ITIN</strong>, cada guía asume que tienes un ITIN, no un Seguro Social.</li>
+            <li><span class="check">&#10003;</span> <strong>Con base en registros primarios</strong>, FICO, el IRS, la CFPB, la FTC y los tres burós.</li>
+            <li><span class="check">&#10003;</span> <strong>Pasos en español claro</strong>, sin jerga, sin promesas falsas de "reparación de crédito".</li>
+            <li><span class="check">&#10003;</span> <strong>Herramientas gratis</strong>, incluida nuestra <a href="/es/credit-readiness-calculator">calculadora de preparación crediticia</a>.</li>
+          </ul>
+          <a href="/es/credit-readiness-calculator" class="btn btn-secondary">Prueba la calculadora gratis &rarr;</a>
+          <p class="hero-panel-note">Independiente &middot; cómo ganamos dinero está en nuestra página de <a href="/es/disclosure">aviso</a>.</p>
+        </div>
       </div>
     </div>
   </section>
@@ -117,6 +127,14 @@ const faqs = [
     </div>
   </section>
 
+  <!-- Unidad de socio bajo el pliegue: reubicada desde el hero para que la
+       portada lidere con valor, no con un anuncio. Etiquetada "Publicidad". -->
+  <section class="section-tight">
+    <div class="container narrow" style="text-align:center">
+      <CreditKarmaAd creativeId="3597059" cta="Mira tu puntaje de crédito aquí" alt="Credit Karma, mira tu puntaje de crédito gratis" inline={true} />
+    </div>
+  </section>
+
   <!-- CTA band -->
   <section class="section">
     <div class="container">
@@ -135,3 +153,41 @@ const faqs = [
     </div>
   </section>
 </BaseLayout>
+
+<style>
+  .hero-panel {
+    background: var(--surface, #f1f8f3);
+    border: 1px solid var(--border, #ddeae1);
+    border-radius: 16px;
+    padding: 24px 24px 22px;
+  }
+  .hero-panel-eyebrow {
+    margin: 0 0 14px;
+    font-weight: 700;
+    font-size: 0.95rem;
+    color: var(--primary-dark, #166534);
+  }
+  .hero-panel-list {
+    list-style: none;
+    margin: 0 0 18px;
+    padding: 0;
+    display: grid;
+    gap: 12px;
+  }
+  .hero-panel-list li {
+    font-size: 0.97rem;
+    line-height: 1.5;
+    color: var(--muted, #4f6256);
+  }
+  .hero-panel-list strong { color: var(--text, #0f2418); }
+  .hero-panel-list .check {
+    color: var(--primary, #15803d);
+    font-weight: 700;
+    margin-right: 4px;
+  }
+  .hero-panel-note {
+    margin: 14px 0 0;
+    font-size: 0.85rem;
+    color: var(--muted, #4f6256);
+  }
+</style>

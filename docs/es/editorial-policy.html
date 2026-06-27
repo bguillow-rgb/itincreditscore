@@ -1,0 +1,155 @@
+<!DOCTYPE html><html lang="es"> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Política Editorial y Cómo Investigamos | ITIN Credit Score</title><meta name="description" content="Cómo ITINCreditScore.com investiga, escribe, verifica y actualiza sus guías: fuentes primarias (IRS, CFPB, FTC, FICO, los burós), nuestro equipo editorial y nuestra política de correcciones."><link rel="canonical" href="https://itincreditscore.com/es/editorial-policy"><link rel="alternate" hreflang="en" href="https://itincreditscore.com/editorial-policy"><link rel="alternate" hreflang="es" href="https://itincreditscore.com/es/editorial-policy"><link rel="alternate" hreflang="x-default" href="https://itincreditscore.com/editorial-policy"><meta property="og:type" content="website"><meta property="og:title" content="Política Editorial y Cómo Investigamos | ITIN Credit Score"><meta property="og:description" content="Cómo ITINCreditScore.com investiga, escribe, verifica y actualiza sus guías: fuentes primarias (IRS, CFPB, FTC, FICO, los burós), nuestro equipo editorial y nuestra política de correcciones."><meta property="og:url" content="https://itincreditscore.com/es/editorial-policy"><meta property="og:site_name" content="ITIN Credit Score"><meta property="og:image" content="https://itincreditscore.com/og.png"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="Política Editorial y Cómo Investigamos | ITIN Credit Score"><meta name="twitter:description" content="Cómo ITINCreditScore.com investiga, escribe, verifica y actualiza sus guías: fuentes primarias (IRS, CFPB, FTC, FICO, los burós), nuestro equipo editorial y nuestra política de correcciones."><meta name="twitter:image" content="https://itincreditscore.com/og.png"><link rel="icon" href="/favicon.ico" sizes="any"><link rel="icon" href="/favicon.svg" type="image/svg+xml"><link rel="icon" href="/favicon.png" sizes="32x32" type="image/png"><link rel="apple-touch-icon" href="/icon-180.png"><meta name="theme-color" content="#15803D"><link rel="alternate" type="application/rss+xml" title="ITIN Credit Score | Guides" href="/rss.xml"><script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","@id":"https://itincreditscore.com/#organization","name":"ITIN Credit Score","legalName":"Timberline Ventures LLC","url":"https://itincreditscore.com","logo":"https://itincreditscore.com/icon-512.png","description":"ITINCreditScore.com helps ITIN holders build a U.S. credit history, check their credit score without an SSN, and raise it, covering the credit bureaus, credit-builder tools, and what actually moves your score. Independent guides and tools matching.","sameAs":["https://www.wikidata.org/wiki/Q140083287","https://www.wikidata.org/wiki/Q140082434"],"publisher":{"@type":"Organization","name":"Timberline Ventures LLC","url":"https://timberlineventuresllc.com","sameAs":["https://www.wikidata.org/wiki/Q140082434"]}}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"ITIN Credit Score","url":"https://itincreditscore.com","description":"ITINCreditScore.com ayuda a las personas con ITIN a construir un historial crediticio en EE. UU., revisar su puntaje de crédito sin Seguro Social y subirlo, cubriendo los burós de crédito, las herramientas para construir crédito y lo que realmente mueve tu puntaje. Guías independientes y conexión con herramientas.","inLanguage":"es-419","potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://itincreditscore.com/articles?q={search_term_string}"},"query-input":"required name=search_term_string"}}</script><script async src="https://www.googletagmanager.com/gtag/js?id=G-HDM7H448J9"></script><script>(function(){const ga4Id = "G-HDM7H448J9";
+
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', ga4Id, { anonymize_ip: true, send_page_view: true });
+    })();</script><meta name="google-adsense-account" content="ca-pub-1426577294682977"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1426577294682977" crossorigin="anonymous"></script><script>
+  (function () {
+    function itrack(name, params) {
+      if (window.gtag) window.gtag('event', name, params || {});
+    }
+    window.itrack = itrack;
+
+    // Conversion: the thank-you page is the lead-submit destination. Fire the
+    // conversion here (robust even if the submit handler changes), reading the
+    // product the user picked from ?for=<money-page-slug>.
+    if (location.pathname.indexOf('thank-you') > -1) {
+      var product = new URLSearchParams(location.search).get('for') || '';
+      itrack('thank_you_view', { product: product });
+      itrack('generate_lead', { product: product });
+    }
+
+    // Lead-form engagement: first focus into a lead form, once per page.
+    var leadStarted = false;
+    document.addEventListener('focusin', function (e) {
+      if (leadStarted || !e.target.closest) return;
+      if (e.target.closest('form[data-leadform]')) {
+        leadStarted = true;
+        itrack('lead_form_start', { page_path: location.pathname });
+      }
+    });
+
+    // Outbound affiliate clicks (CJ deep links carry rel="sponsored") and the
+    // primary apply CTA. page_path gives per-product attribution on money pages.
+    document.addEventListener('click', function (e) {
+      var a = e.target.closest && e.target.closest('a[href]');
+      if (!a) return;
+      var rel = a.getAttribute('rel') || '';
+      var href = a.getAttribute('href') || '';
+      if (rel.indexOf('sponsored') > -1) {
+        itrack('affiliate_click', { link_url: href, page_path: location.pathname });
+      } else if (a.classList.contains('btn-primary') && href.indexOf('apply') > -1) {
+        itrack('cta_click', { link_url: href, page_path: location.pathname });
+      }
+    });
+  })();
+</script><style>.author-card[data-astro-cid-cz5nj23c]{margin:14px 0;padding:16px 18px;border:1px solid var(--border, #e2e6ee);border-radius:12px;background:var(--surface-2, #f7f9fc)}.author-name[data-astro-cid-cz5nj23c]{margin:0 0 6px;font-weight:700}.author-role[data-astro-cid-cz5nj23c]{font-weight:400;color:var(--muted, #5a6473)}.author-card[data-astro-cid-cz5nj23c] p[data-astro-cid-cz5nj23c]:last-child{margin-bottom:0;font-size:.95rem;line-height:1.55}
+</style>
+<link rel="stylesheet" href="/_astro/_slug_.BfTxnh-c.css"></head> <body> <header class="site-header" id="site-header"> <div class="container nav-inner"> <a href="/es" class="brand">ITIN Credit Score<span class="dot">.</span></a> <nav class="nav-right" aria-label="Primary"> <ul class="nav-links"> <li><a href="/es">Inicio</a></li><li><a href="/es/itin-credit-score-guide">Guía de Puntaje</a></li><li><a href="/es/build-credit-history-with-itin">Construir Crédito</a></li><li><a href="/es/credit-readiness-calculator">Calculadora</a></li><li><a href="/es/articles">Guías</a></li><li><a href="/es/about">Nosotros</a></li> </ul> <a href="/editorial-policy.html" class="lang-toggle" aria-label="Ver en English" hreflang="en"> <svg class="globe" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><circle cx="12" cy="12" r="9"></circle><path d="M3 12h18M12 3a14 14 0 0 1 0 18M12 3a14 14 0 0 0 0 18"></path></svg> English </a> <a href="/es/apply" class="btn btn-primary">Aplica aquí</a> <button class="nav-toggle" id="nav-toggle" aria-label="Menu" aria-expanded="false" aria-controls="nav-drawer"> <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"></path></svg> </button> </nav> </div> <div class="nav-drawer" id="nav-drawer"> <ul> <li><a href="/es">Inicio</a></li><li><a href="/es/itin-credit-score-guide">Guía de Puntaje</a></li><li><a href="/es/build-credit-history-with-itin">Construir Crédito</a></li><li><a href="/es/credit-readiness-calculator">Calculadora</a></li><li><a href="/es/articles">Guías</a></li><li><a href="/es/about">Nosotros</a></li> <li><a class="btn btn-primary btn-block" href="/es/apply">Aplica aquí</a></li> </ul> </div> </header> <script>
+  (function () {
+    var header = document.getElementById('site-header');
+    var toggle = document.getElementById('nav-toggle');
+    var drawer = document.getElementById('nav-drawer');
+    if (toggle && drawer) {
+      toggle.addEventListener('click', function () {
+        var open = drawer.classList.toggle('open');
+        toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+      });
+    }
+    function onScroll() {
+      if (!header) return;
+      header.classList.toggle('scrolled', window.scrollY > 4);
+    }
+    window.addEventListener('scroll', onScroll, { passive: true });
+    onScroll();
+  })();
+</script> <main>  <section class="section" data-astro-cid-cz5nj23c> <div class="container narrow" data-astro-cid-cz5nj23c> <span class="tag" data-astro-cid-cz5nj23c>Editorial</span> <h1 style="margin-top:10px" data-astro-cid-cz5nj23c>Política Editorial y Cómo Investigamos</h1> <p class="byline" data-astro-cid-cz5nj23c>Última actualización 27 de junio de 2026</p> <p class="lede" style="color:var(--muted)" data-astro-cid-cz5nj23c>
+La orientación sobre crédito para personas con ITIN es un tema de alto
+        riesgo: si se equivoca, un lector puede perder dinero, perder el reembolso
+        de un depósito o solicitar un producto que no acepta su número de
+        identificación fiscal. Esta página explica exactamente cómo investigamos,
+        escribimos, verificamos y actualizamos todo lo que publicamos, para que
+        puedas decidir si confiar en ello.
+</p> <h2 data-astro-cid-cz5nj23c>Quién escribe este sitio</h2> <p data-astro-cid-cz5nj23c>
+ITINCreditScore.com es publicado por Timberline Ventures LLC y escrito por un
+        pequeño equipo editorial. Los nombres a continuación son
+<strong data-astro-cid-cz5nj23c>seudónimos</strong>, una firma constante para cada área temática, no
+        afirmaciones sobre una persona específica con licencia. Usamos firmas para
+        que veas quién cubre qué y para que la cobertura sea consistente con el
+        tiempo. Ninguno de nuestros escritores afirma tener una licencia
+        financiera, una designación de contador (CPA) ni una credencial legal o
+        fiscal, porque ninguno ejerce en esos campos. Lo que aportan es un proceso
+        de investigación disciplinado y una redacción en lenguaje sencillo. Cuando
+        una pregunta realmente requiere un profesional con licencia (tu situación
+        fiscal específica, tu estatus migratorio o una disputa legal), lo decimos y
+        te indicamos que consultes a uno.
+</p> <div class="author-card" data-astro-cid-cz5nj23c> <p class="author-name" data-astro-cid-cz5nj23c>Lucía Morales <span class="author-role" data-astro-cid-cz5nj23c>&middot; Editor</span></p> <p data-astro-cid-cz5nj23c>Lucía Morales es la editora de ITIN Credit Score. Escribe y edita guías en lenguaje sencillo sobre cómo construir y mejorar el puntaje de crédito en EE. UU. para personas con ITIN y extranjeros. Cada guía se investiga con fuentes primarias y se revisa para verificar su exactitud antes de publicarse. Lucía escribe en inglés y español.</p> </div><div class="author-card" data-astro-cid-cz5nj23c> <p class="author-name" data-astro-cid-cz5nj23c>Camila Ortega <span class="author-role" data-astro-cid-cz5nj23c>&middot; Credit Reports &amp; Bureaus Writer</span></p> <p data-astro-cid-cz5nj23c>Camila Ortega escribe la cobertura de ITIN Credit Score sobre informes de crédito, los tres burós y cómo se construye y se lee un expediente con ITIN. Se enfoca en revisar y monitorear los informes, disputar errores y cómo maduran los expedientes nuevos, a partir de la documentación de los propios burós y las guías del CFPB y la FTC. Camila escribe en inglés y español.</p> </div><div class="author-card" data-astro-cid-cz5nj23c> <p class="author-name" data-astro-cid-cz5nj23c>Daniel Okafor <span class="author-role" data-astro-cid-cz5nj23c>&middot; Credit Building &amp; Scores Writer</span></p> <p data-astro-cid-cz5nj23c>Daniel Okafor cubre cómo construir y mejorar los puntajes FICO, los préstamos para construir crédito y cómo trasladar el historial de crédito a un SSN para personas con ITIN en ITIN Credit Score. Investiga el peso de cada factor del puntaje y la rapidez con que aparecen los cambios, verificando cada cifra con la documentación de FICO y de los burós. Daniel escribe en inglés y español.</p> </div> <h2 data-astro-cid-cz5nj23c>De dónde viene nuestra información</h2> <p data-astro-cid-cz5nj23c>
+Construimos las guías primero a partir de fuentes primarias, las
+        organizaciones que realmente fijan las reglas, en lugar de otros blogs.
+        Nuestras fuentes recurrentes incluyen:
+</p> <ul class="lead-list" data-astro-cid-cz5nj23c> <li data-astro-cid-cz5nj23c><strong data-astro-cid-cz5nj23c>El IRS</strong>, para todo lo relacionado con el ITIN en sí, el Formulario W-7, la elegibilidad, las renovaciones y la expiración.</li> <li data-astro-cid-cz5nj23c><strong data-astro-cid-cz5nj23c>FICO</strong>, para cómo se calcula el puntaje y el peso documentado de cada factor (historial de pagos 35%, montos adeudados 30%, antigüedad del historial 15%, crédito nuevo 10%, combinación de crédito 10%).</li> <li data-astro-cid-cz5nj23c><strong data-astro-cid-cz5nj23c>La Oficina para la Protección Financiera del Consumidor (CFPB)</strong>, para los derechos del consumidor, los procesos de disputa y cómo funcionan los informes de crédito.</li> <li data-astro-cid-cz5nj23c><strong data-astro-cid-cz5nj23c>La Comisión Federal de Comercio (FTC)</strong>, para la Ley de Informe Justo de Crédito, los datos sobre errores en los informes y las guías contra estafas de reparación de crédito.</li> <li data-astro-cid-cz5nj23c><strong data-astro-cid-cz5nj23c>Experian, Equifax y TransUnion</strong>, los tres burós nacionales, para su propia documentación sobre la creación de expedientes, la coincidencia con ITIN y el acceso a los informes.</li> </ul> <p data-astro-cid-cz5nj23c>
+Cuando damos una cifra, un rango de puntaje, el peso de un factor, un plazo
+        legal, la vinculamos a una de estas fuentes en lugar de afirmarla por
+        nuestra propia autoridad. Los detalles específicos de un producto (montos
+        de depósito, tarifas, a qué burós reporta una tarjeta) provienen de los
+        términos publicados por el propio proveedor, que cambian, así que te decimos
+        que verifiques los términos actuales con el proveedor antes de actuar.
+</p> <h2 data-astro-cid-cz5nj23c>Lo que no haremos</h2> <p data-astro-cid-cz5nj23c>
+No inventamos estadísticas, no fabricamos afirmaciones de "lo probamos" ni
+        presentamos texto de marketing como un hecho. No prometemos aumentos
+        específicos de puntaje en un plazo específico, porque ninguna fuente honesta
+        puede hacerlo. No te decimos que un producto acepta un ITIN a menos que esa
+        sea la política declarada del proveedor, y señalamos claramente cuando la
+        aceptación del ITIN "varía, verifica directamente". Si no podemos respaldar
+        una afirmación, no va en el sitio.
+</p> <h2 data-astro-cid-cz5nj23c>Verificación de datos y revisión</h2> <p data-astro-cid-cz5nj23c>
+Cada guía se revisa para verificar su exactitud antes de publicarse: las
+        afirmaciones se cotejan con las fuentes primarias anteriores, se confirma
+        que los enlaces internos apunten a páginas relevantes y las cifras se
+        verifican dos veces con la documentación. Como este es un tema YMYL (Tu
+        Dinero o Tu Vida), exigimos al contenido financiero un estándar más alto que
+        a un blog de interés general.
+</p> <h2 data-astro-cid-cz5nj23c>Con qué frecuencia actualizamos</h2> <p data-astro-cid-cz5nj23c>
+Las reglas de crédito, los procesos de los burós y los términos de los
+        productos cambian. Revisamos nuestras guías principales de forma recurrente
+        y las actualizamos cada vez que cambia una política que citamos, cambian los
+        términos de un producto o un lector señala algo. Cuando hacemos un cambio
+        sustantivo, no solo un cambio de fecha, lo reflejamos en la fecha de
+        "actualización" de la página. No cambiamos una fecha sin cambiar el
+        contenido.
+</p> <h2 data-astro-cid-cz5nj23c>Política de correcciones</h2> <p data-astro-cid-cz5nj23c>
+Si algo en este sitio está mal o desactualizado, queremos corregirlo.
+        Escríbenos a <a href="mailto:bguillow@gmail.com" data-astro-cid-cz5nj23c>bguillow@gmail.com</a>
+o usa nuestra <a href="/es/contact" data-astro-cid-cz5nj23c>página de contacto</a>. Revisamos cada
+        corrección y actualizamos la guía afectada con prontitud cuando el reporte
+        es válido. La exactitud es el propósito de este sitio, así que tratamos las
+        correcciones como una prioridad, no como una molestia.
+</p> <h2 data-astro-cid-cz5nj23c>Independencia de la publicidad</h2> <p data-astro-cid-cz5nj23c>
+Este sitio gana dinero con publicidad y enlaces de afiliados. Ese ingreso
+        financia la investigación pero no compra una recomendación. Nuestras
+        conclusiones editoriales se toman de forma independiente de cualquier
+        acuerdo comercial y serían idénticas si no ganáramos nada. Para el desglose
+        completo de cómo nos pagan y la separación que mantenemos, consulta nuestro
+<a href="/es/disclosure" data-astro-cid-cz5nj23c>Aviso para Anunciantes</a>.
+</p> <h2 data-astro-cid-cz5nj23c>Esto es educación, no asesoría</h2> <p data-astro-cid-cz5nj23c>
+Todo lo que publicamos es información educativa general, no asesoría
+        financiera, legal, fiscal ni migratoria, y no somos un buró de crédito, una
+        organización de reparación de crédito, un prestamista ni un asesor
+        financiero. Para decisiones que dependen de tus circunstancias específicas,
+        consulta a un profesional calificado y verifica los términos actuales
+        directamente con el proveedor. Conoce más en nuestra
+<a href="/es/about" data-astro-cid-cz5nj23c>página de información</a>.
+</p> </div> </section>  </main> <footer class="site-footer"> <div class="container"> <div class="footer-grid"> <div> <div class="footer-brand">ITIN Credit Score<span style="color:var(--accent)">.</span></div> <p>Puntaje de Crédito y Construcción de Crédito para Personas con ITIN.</p> <h4>Por qué confiar en nosotros</h4> <ul class="footer-trust"> <li><span class="tick">&#10003;</span> Independientes, no somos prestamista ni bróker</li> <li><span class="tick">&#10003;</span> Siempre gratis</li> <li><span class="tick">&#10003;</span> Tu información se mantiene privada</li> </ul> <p style="margin-top:14px"><a href="mailto:bguillow@gmail.com">Contact</a></p> </div> <div> <h4>Temas de Crédito</h4> <ul class="footer-links"> <li><a href="/es/check-credit-score-with-itin">Revisa tu Puntaje</a></li><li><a href="/es/build-credit-history-with-itin">Construir Historial</a></li><li><a href="/es/improve-credit-score">Mejora tu Puntaje</a></li><li><a href="/es/credit-bureaus-and-itin">Burós de Crédito e ITIN</a></li><li><a href="/es/credit-builder-loans">Préstamos para Crédito</a></li><li><a href="/es/how-to-get-an-itin">Cómo Obtener un ITIN</a></li> </ul> </div> <div> <h4>Recursos</h4> <ul class="footer-links"> <li><a href="/es/itin-credit-score-guide">Guía de Puntaje</a></li><li><a href="/es/articles">Todas las Guías</a></li><li><a href="/es/apply">Empieza a construir crédito</a></li><li><a href="/es/about">Nosotros</a></li><li><a href="/es/contact">Contacto</a></li> </ul> </div> <div> <h4>Legal</h4> <ul class="footer-links"> <li><a href="/es/editorial-policy">Política Editorial</a></li><li><a href="/es/privacy">Política de Privacidad</a></li><li><a href="/es/terms">Términos de Uso</a></li><li><a href="/es/disclosure">Aviso para Anunciantes</a></li> </ul> </div> </div> <div class="footer-disclaimer"> <p>
+&copy; 2026 ITINCreditScore.com, operado por Timberline Ventures LLC. Todos los derechos reservados.
+ITIN Credit Score es un recurso independiente de información y referencia. No
+          somos un banco, prestamista, buró de crédito ni asesor financiero, y
+          no tomamos decisiones de crédito, no fijamos tu puntaje ni originamos
+          préstamos. La información de este sitio tiene fines educativos generales
+          y no constituye asesoría financiera, legal ni fiscal. Los productos de
+          crédito y los modelos de puntaje los controlan prestamistas y burós
+          externos y están sujetos a su aprobación y a la ley
+          aplicable. Podemos recibir compensación cuando haces clic en ciertos
+          enlaces o te conectamos con un prestamista o producto de crédito, consulta nuestro
+<a href="/es/disclosure">Aviso para Anunciantes</a>.
+</p> </div> </div> </footer> </body></html> 

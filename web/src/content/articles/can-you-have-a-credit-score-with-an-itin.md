@@ -59,9 +59,26 @@ two, and your file and score can differ across all three bureaus because of this
 
 ITIN holders are somewhat more likely to encounter **mixed-file errors**, where
 another person's account data appears on your report due to matching on name,
-address, and date of birth rather than a unique SSN. If you pull your report
-and see accounts you don't recognize, dispute them immediately through the
-bureau's online dispute process.
+address, and date of birth rather than a unique SSN. A 2012 Federal Trade
+Commission study of credit reports found that one in five consumers had an error
+on at least one of their three reports, and the matching weaknesses behind those
+errors hit thin-file and ITIN consumers hardest. If you pull your report and see
+accounts you don't recognize, dispute them immediately through the bureau's
+online dispute process. Under the Fair Credit Reporting Act, the bureau has 30
+days to investigate and must remove anything it cannot verify.
+
+## Why does your ITIN credit score differ at each bureau?
+
+People are often surprised to pull all three reports and find three different
+scores. This is normal, and it isn't a mistake. Each bureau only knows what its
+own data furnishers report to it. If your secured card reports to Experian and
+TransUnion but not Equifax, your Equifax file will look thinner, and score lower,
+than the other two. Lenders also use different scoring models (FICO has multiple
+versions; VantageScore is a separate model entirely), so the same underlying data
+can produce different numbers. For ITIN holders specifically, the practical
+takeaway is to confirm that any account you open **reports to all three bureaus**,
+not just one, so you build three files in parallel instead of one strong file and
+two empty ones.
 
 ## How does a credit score get generated for an ITIN holder?
 
@@ -101,6 +118,45 @@ reliable options for ITIN holders starting from zero:
 
 See the full comparison in our [building credit history with an ITIN guide](/build-credit-history-with-itin).
 
+## Which starter account should you open first?
+
+The four tools above all work, but they aren't interchangeable for a given
+person. Use this decision framework to pick your first account instead of opening
+all four at once (which would stack hard inquiries and waste deposits):
+
+- **If you have cash for a refundable deposit and want a card you'll actually
+  use, start with a secured credit card.** It is the most flexible first
+  account: it builds payment history *and* teaches you to manage utilization, the
+  two factors that make up 65% of a FICO score. Look for one with a low or no
+  annual fee that reports to all three bureaus and graduates you to unsecured
+  after 6-12 months.
+- **If you have very little cash to lock up but steady monthly income, start with
+  a credit-builder loan.** You make small fixed payments (often $25-$150) and get
+  the money back at the end, so it doubles as forced savings. It adds installment
+  history and credit mix that a card alone can't.
+- **If a close family member has a long, clean credit card and is willing to add
+  you, get added as an authorized user first.** It's the only tool that can give
+  you *length of history* you didn't earn yourself, and it requires no deposit and
+  no application. Confirm the issuer reports authorized users to the bureaus
+  before relying on it.
+- **If you're already paying rent on time and want a free head start, enroll in
+  rent or utility reporting.** It converts a bill you already pay into positive
+  history, but on its own it's usually not enough to generate a score, so pair it
+  with one of the accounts above.
+
+A common, low-cost sequence that works for many ITIN holders: open a secured card
+first, add a credit-builder loan two to three months later, and layer rent
+reporting on top. That combination builds payment history, utilization,
+installment history, and credit mix simultaneously without a burst of hard
+inquiries.
+
+| Starter tool | Cash needed up front | Builds which factors | Score in ~6 mo.? | Best first pick if… |
+|---|---|---|---|---|
+| Secured credit card | Refundable deposit ($200-$500) | Payment history + utilization | Yes (alone) | You can lock up a deposit |
+| Credit-builder loan | None (payments held, returned at end) | Payment history + credit mix | Yes (alone) | You want forced savings |
+| Authorized user | None | Length of history (+ payment history) | Sometimes | A trusted relative will add you |
+| Rent / utility reporting | $0-$10/month | Payment history | Rarely alone | You already pay rent on time |
+
 ## How long does it take to get a score?
 
 Six months of reported activity is the minimum. Most ITIN holders who open a
@@ -117,7 +173,68 @@ The pace depends mainly on:
 
 Missing even one payment can set the timeline back significantly, since payment
 history is 35% of the score. Setting up autopay for at least the minimum payment
-is the single most effective way to protect your progress.
+is the single most effective way to protect your progress. According to the CFPB,
+a single payment reported 30 or more days late can stay on your credit report for
+**seven years**, which is why protecting an unbroken on-time streak matters more
+than any clever optimization.
+
+## Does an ITIN credit score "count" as real credit?
+
+Yes, with one nuance worth understanding. The credit file you build under an ITIN
+is a real, scoreable file that lenders read the same way they read an SSN holder's
+file. Some banks and credit unions will lend to you on that file directly. Others,
+particularly large national banks for certain products, still ask for an SSN at
+the application stage even though the underlying credit history is identical. This
+is a *policy* gap at specific institutions, not a flaw in your score. The
+practical fix is to apply with ITIN-friendly lenders (many credit unions,
+community banks, and fintechs are), and to know that the history you build now is
+portable.
+
+## Myths vs. facts about ITIN credit scores
+
+A lot of the confusion ITIN holders run into comes from advice written for SSN
+holders, or from outright myths. Here's what's actually true:
+
+| Common claim | Reality |
+|---|---|
+| "You can't have a credit score without an SSN." | False. An ITIN can anchor a full credit file at all three bureaus. The 300-850 scale applies to everyone. |
+| "An ITIN gives you a starting score." | False. You start with *no file*, not a low score. A score only appears after ~6 months of reported activity. |
+| "Checking your own credit hurts your score." | False. Checking your own report or score is a soft inquiry and never affects your score. |
+| "ITIN holders get a special, lower kind of score." | False. There is no separate ITIN scoring model. FICO and VantageScore treat the file identically. |
+| "Building credit takes years before anything happens." | Partly false. A scoreable file can form in as little as 6 months; reaching "good" (670+) is what takes longer. |
+| "Credit repair companies can erase real late payments." | False, and a red flag. Accurate negative items legally stay up to 7 years. Only *errors* can be removed. |
+
+## What mistakes set ITIN holders back the most?
+
+Building from zero is forgiving if you avoid a handful of specific, common
+mistakes. Each of these disproportionately hurts a thin file:
+
+- **Opening an account that reports to only one bureau.** You end up with one
+  strong file and two empty ones. Always confirm all-three-bureau reporting.
+- **Letting utilization spike on a new secured card.** A $200 limit fills up
+  fast. Keep the reported balance under 30%, ideally under 10%, even if you pay
+  in full, because the balance at statement close is what gets reported.
+- **Applying for several products at once.** Each application is a hard inquiry,
+  and a burst of them signals risk on a young file. Space applications out.
+- **Closing your first account once you "upgrade."** That first account anchors
+  your length of history (15% of the score). Keep it open even if you stop using
+  it.
+- **Trusting a "credit repair" promise.** If a company guarantees a specific
+  jump or offers to remove accurate negatives, walk away, the FTC warns these
+  are classic scam markers.
+
+Avoid those five and consistent on-time payments do the rest.
+
+## Can you move your ITIN credit history to an SSN later?
+
+If you eventually receive a Social Security Number, you do not start over. You can
+contact each bureau and ask them to merge or transfer the credit history built
+under your ITIN onto your new SSN, so the age and payment record you worked for
+follow you. Bring documentation tying the two identifiers together (your ITIN
+assignment letter and SSN card). The years of on-time payments you logged as an
+ITIN holder are not wasted, they become the foundation of your SSN-based file.
+We cover the exact steps in our guide on
+[transferring ITIN credit history to an SSN](/articles/transfer-itin-credit-history-to-ssn).
 
 ## What's the first step?
 
