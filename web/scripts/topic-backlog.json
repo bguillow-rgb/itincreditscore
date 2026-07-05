@@ -1,0 +1,18 @@
+{
+  "_comment": "Topic hints for daily-post.mjs. Seeded 2026-07-05 from GSC content-gap queries (real search demand where itincreditscore.com ranks pos 44-71; 'how to check credit score with itin' alone = 303 impressions/28d). 'flagship' = Monday deep original-data pieces (cluster owners); 'cluster' = Wed/Fri detail posts. Rotated weekly by daily-post.mjs; existingList dedup prevents repeats. Update as GSC reveals new buried-but-real-demand queries.",
+  "flagship": [
+    "How to check your credit score with an ITIN in 2026: every method tested, which free and paid services actually accept an ITIN",
+    "How long it really takes to build a 700 credit score with an ITIN: a realistic month-by-month timeline",
+    "Which credit monitoring and free-score services accept an ITIN: a verified, tested comparison",
+    "How to read and dispute your credit report with an ITIN: the full bureau-by-bureau walkthrough"
+  ],
+  "cluster": [
+    "itin credit score",
+    "itin number credit score",
+    "itin credit report",
+    "check credit score with itin",
+    "itin credit check",
+    "credit report with itin number",
+    "can you build credit with itin"
+  ]
+}
