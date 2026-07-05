@@ -14,10 +14,10 @@ publishedAt: "2026-06-18"
 author: "Daniel Okafor"
 category: "Credit Score"
 relatedSlugs:
+  - "how-to-check-credit-score-with-itin-free-paid-services"
   - "how-to-raise-credit-score-with-itin"
   - "credit-utilization-itin-holders"
   - "fico-vs-vantagescore-itin-holders"
-  - "how-to-build-credit-with-itin-number"
 faqs:
   - q: "Can I use Credit Karma to monitor my credit with an ITIN?"
     a: "Yes. Credit Karma accepts ITINs at signup and provides VantageScore 3.0 scores sourced from TransUnion and Equifax, along with credit monitoring alerts. Some ITIN holders report needing to enter their ITIN in the SSN field during registration. If the online flow fails, contacting Credit Karma support usually resolves the issue."
