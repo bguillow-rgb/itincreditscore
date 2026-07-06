@@ -4,6 +4,8 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import Icon from '../components/Icon.astro';
 import CreditKarmaAd from '../components/CreditKarmaAd.astro';
 import FAQ from '../components/FAQ.astro';
+import LeadForm from '../components/LeadForm.astro';
+import FhaPromo from '../components/FhaPromo.astro';
 import { SITE, PRODUCTS } from '../consts';
 
 // Surface the latest guides directly from the homepage (the highest-authority
@@ -48,16 +50,8 @@ const faqs = [
         <figure class="guide-hero-figure">
           <img src="/img/credit-building.webp" alt="A person reviewing their growing credit score on a phone" width="640" height="480" loading="eager" fetchpriority="high" decoding="async" />
         </figure>
-        <div class="guide-note-card">
-          <p class="note-title">What makes this guide different</p>
-          <ul class="guide-note-list">
-            <li><span class="tick">&#10003;</span> <strong>Written only for ITIN holders</strong>, every guide assumes you have an ITIN, not an SSN.</li>
-            <li><span class="tick">&#10003;</span> <strong>Sourced from primary records</strong>, FICO, the IRS, CFPB, FTC, and the three bureaus.</li>
-            <li><span class="tick">&#10003;</span> <strong>Plain-English steps</strong>, no jargon, no "credit repair" hype, no false promises.</li>
-            <li><span class="tick">&#10003;</span> <strong>Free tools</strong>, including our <a href="/credit-readiness-calculator">credit-readiness calculator</a> to see where you stand.</li>
-          </ul>
-          <a href="/credit-readiness-calculator" class="btn btn-secondary">Try the free calculator &rarr;</a>
-          <p class="guide-note-foot">Independent &middot; how we make money is on our <a href="/disclosure">disclosure</a> page.</p>
+        <div class="ihero-form" id="lead">
+          <LeadForm compact heading="Start building credit — free" />
         </div>
       </div>
       <div class="guide-hero-copy">
@@ -71,7 +65,7 @@ const faqs = [
           score with an ITIN</a>.
         </p>
         <div class="guide-hero-actions">
-          <a href="/apply" class="btn btn-primary btn-lg">Start building credit</a>
+          <a href="#lead" class="btn btn-primary btn-lg">Start building credit</a>
           <a href="/itin-credit-score-guide" class="btn btn-secondary btn-lg">How it works</a>
         </div>
         <div class="guide-hero-assurances">
@@ -82,6 +76,9 @@ const faqs = [
       </div>
     </div>
   </section>
+
+  <!-- FHA-for-ITIN partner promo (cross-sell home financing). CTA → hero form. -->
+  <FhaPromo href="#lead" />
 
   <!-- Products -->
   <section class="section">
