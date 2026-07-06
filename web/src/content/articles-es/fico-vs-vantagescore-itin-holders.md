@@ -16,8 +16,8 @@ category: "Puntaje de crédito"
 relatedSlugs:
   - "why-credit-score-different-each-bureau-itin"
   - "credit-mix-with-itin"
+  - "free-paid-services-check-credit-score-itin-2026"
   - "credit-age-itin-holders"
-  - "credit-monitoring-with-itin"
 faqs:
   - q: "¿Pueden los titulares de ITIN obtener un puntaje FICO?"
     a: "Sí. FICO genera un puntaje para cualquier persona que tenga al menos una cuenta de crédito con seis meses de antigüedad y que haya sido reportada a una agencia crediticia en los últimos seis meses. Tu ITIN vincula los datos de esa cuenta a tu expediente, así que el modelo funciona exactamente igual que para los titulares de SSN."

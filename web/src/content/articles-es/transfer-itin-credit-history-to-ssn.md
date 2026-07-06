@@ -16,8 +16,8 @@ category: "Puntaje de crédito"
 relatedSlugs:
   - "secured-credit-card-credit-score-itin"
   - "credit-age-itin-holders"
+  - "free-paid-services-check-credit-score-itin-2026"
   - "how-to-build-credit-with-itin-number"
-  - "how-to-raise-credit-score-with-itin"
 faqs:
   - q: "¿Bajará mi puntaje de crédito cuando transfiera del ITIN al SSN?"
     a: "No debería. La transferencia fusiona tu archivo existente bajo un nuevo identificador, la antigüedad de tus cuentas, tu historial de pagos y tu nivel de uso del crédito se mantienen intactos. La fecha de inicio de tu historial de crédito sigue siendo la misma."
