@@ -3,6 +3,8 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import Icon from '../../components/Icon.astro';
 import CreditKarmaAd from '../../components/CreditKarmaAd.astro';
 import FAQ from '../../components/FAQ.astro';
+import LeadForm from '../../components/LeadForm.astro';
+import FhaPromo from '../../components/FhaPromo.astro';
 import { SITE, PRODUCTS } from '../../consts';
 
 const faqs = [
@@ -37,16 +39,8 @@ const faqs = [
         <figure class="guide-hero-figure">
           <img src="/img/credit-building.webp" alt="Una persona revisando su puntaje de crédito en crecimiento en el teléfono" width="640" height="480" loading="eager" fetchpriority="high" decoding="async" />
         </figure>
-        <div class="guide-note-card">
-          <p class="note-title">Qué hace diferente a esta guía</p>
-          <ul class="guide-note-list">
-            <li><span class="tick">&#10003;</span> <strong>Hecha solo para personas con ITIN</strong>, cada guía asume que tienes un ITIN, no un Seguro Social.</li>
-            <li><span class="tick">&#10003;</span> <strong>Con base en registros primarios</strong>, FICO, el IRS, la CFPB, la FTC y los tres burós.</li>
-            <li><span class="tick">&#10003;</span> <strong>Pasos en español claro</strong>, sin jerga, sin promesas falsas de "reparación de crédito".</li>
-            <li><span class="tick">&#10003;</span> <strong>Herramientas gratis</strong>, incluida nuestra <a href="/es/credit-readiness-calculator">calculadora de preparación crediticia</a>.</li>
-          </ul>
-          <a href="/es/credit-readiness-calculator" class="btn btn-secondary">Prueba la calculadora gratis &rarr;</a>
-          <p class="guide-note-foot">Independiente &middot; cómo ganamos dinero está en nuestra página de <a href="/es/disclosure">aviso</a>.</p>
+        <div class="ihero-form" id="lead">
+          <LeadForm compact heading="Empieza a construir crédito — gratis" />
         </div>
       </div>
       <div class="guide-hero-copy">
@@ -59,7 +53,7 @@ const faqs = [
           crediticio sólido desde cero, paso a paso, en español claro.
         </p>
         <div class="guide-hero-actions">
-          <a href="/es/apply" class="btn btn-primary btn-lg">Empieza a construir crédito</a>
+          <a href="#lead" class="btn btn-primary btn-lg">Empieza a construir crédito</a>
           <a href="/es/itin-credit-score-guide" class="btn btn-secondary btn-lg">Cómo funciona</a>
         </div>
         <div class="guide-hero-assurances">
@@ -70,6 +64,9 @@ const faqs = [
       </div>
     </div>
   </section>
+
+  <!-- Promo de socio FHA-para-ITIN. El CTA principal salta al formulario del hero (#lead). -->
+  <FhaPromo href="#lead" />
 
   <!-- Products -->
   <section class="section">
