@@ -11,6 +11,7 @@ relatedQueries:
   - "cuánto tarda una disputa de crédito con ITIN"
 quickAnswer: "Los titulares de ITIN tienen el mismo derecho legal a disputar errores en su reporte de crédito que los titulares de SSN, según la Ley de Informes de Crédito Justos (FCRA). Puedes disputar en línea, por teléfono o por correo certificado con cada buró por separado. Las burós deben investigar en un plazo de 30 días y eliminar cualquier información incorrecta o no verificable, sin costo alguno para ti."
 publishedAt: "2026-06-18"
+updatedAt: "2026-07-07"
 author: "Camila Ortega"
 category: "Puntaje de crédito"
 relatedSlugs:
@@ -29,6 +30,17 @@ faqs:
     a: "Según la FCRA, las burós de crédito deben completar su investigación en un plazo de 30 días a partir de recibir tu disputa. Ese plazo se extiende a 45 días si envías documentos adicionales durante la investigación. Deben notificarte los resultados por escrito."
   - q: "¿Qué puedo hacer si la buró se niega a corregir un error real?"
     a: "Si la buró mantiene un elemento que consideras incorrecto, puedes solicitar una nueva investigación con documentación adicional, agregar una declaración del consumidor de 100 palabras a tu expediente, presentar una queja ante el CFPB en consumerfinance.gov/complaint, o consultar a un abogado especializado en FCRA. Las burós que violen deliberadamente la FCRA pueden ser responsables por daños y honorarios legales."
+howToSteps:
+  - name: "Revisa tus tres reportes de crédito en busca de errores"
+    text: "Busca cuentas que nunca abriste, pagos marcados como atrasados incorrectamente, cuentas duplicadas, saldos o límites equivocados, cuentas de un archivo mezclado que pertenecen a otra persona, o elementos negativos vencidos que ya deberían haber salido."
+  - name: "Reúne tu documentación"
+    text: "Junta tu nombre legal completo, ITIN, fecha de nacimiento y domicilio actual; una copia del reporte con el error resaltado; copias (nunca originales) de comprobantes como recibos de pago o estados de cuenta; y una explicación clara y por escrito de qué está mal."
+  - name: "Presenta una disputa separada con cada buró"
+    text: "Las tres burós no comparten correcciones automáticamente. Disputa con Equifax, Experian y TransUnion por separado — en línea, por teléfono o por correo (el correo certificado con acuse de recibo vale la pena para disputas complejas o de archivo mezclado)."
+  - name: "Espera la investigación"
+    text: "Según la FCRA, las burós deben investigar en un plazo de 30 días (45 días si envías más documentación durante ese periodo) y notificarte los resultados por escrito."
+  - name: "Escala si la buró mantiene un elemento que consideras incorrecto"
+    text: "Solicita una nueva investigación con evidencia adicional, agrega una declaración del consumidor de 100 palabras a tu expediente, presenta una queja ante el CFPB en consumerfinance.gov/complaint, o consulta a un abogado especializado en FCRA — las burós que violen deliberadamente la FCRA pueden ser responsables por daños y honorarios legales."
 published: true
 ---
 

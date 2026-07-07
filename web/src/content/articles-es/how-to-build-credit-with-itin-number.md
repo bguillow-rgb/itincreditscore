@@ -11,6 +11,7 @@ relatedQueries:
   - "cómo establecer crédito siendo inmigrante en EE. UU."
 quickAnswer: "Puedes construir crédito en EE. UU. con un ITIN abriendo una tarjeta de crédito asegurada o un préstamo para construir crédito que reporte a las tres bureaus, y pagando a tiempo cada mes. La mayoría de los titulares de ITIN generan su primer puntaje crediticio en 3 a 6 meses y alcanzan un puntaje \"bueno\" (670+) en 12 a 24 meses."
 publishedAt: "2026-06-06"
+updatedAt: "2026-07-07"
 author: "Daniel Okafor"
 category: "Puntaje de Crédito"
 relatedSlugs:
@@ -31,6 +32,17 @@ faqs:
     a: "Tu historial crediticio NO se transfiere automáticamente. Una vez que recibes un SSN, debes notificar al IRS (que cancela tu ITIN), actualizar tus datos con todos tus acreedores y escribir a las tres bureaus solicitando la transferencia. El proceso suele tomar entre 30 y 60 días y no debería afectar tus puntajes."
   - q: "¿Puedo revisar mi puntaje crediticio con un ITIN?"
     a: "Las herramientas en línea estándar como AnnualCreditReport.com no funcionan bien para los titulares de ITIN, porque sus sistemas de verificación de identidad están diseñados para SSN. Tendrás que solicitar tus reportes por correo a cada bureau, o usar un banco o emisor de tarjeta que ofrezca acceso gratuito a tu puntaje FICO a los titulares de cuenta."
+howToSteps:
+  - name: "Elige una herramienta que reporte a las burós"
+    text: "Elige una tarjeta de crédito asegurada, un préstamo para construir crédito, o un lugar como usuario autorizado en la tarjeta de alguien de confianza — confirma que reporte a las tres burós (Equifax, Experian, TransUnion) antes de comprometerte."
+  - name: "Reúne tus documentos y solicita"
+    text: "Lleva tu carta de confirmación del ITIN, una identificación oficial con foto, comprobante de domicilio en EE. UU. (factura de servicios, estado de cuenta o contrato de arrendamiento de los últimos 60-90 días) y comprobante de ingresos. Muchos bancos grandes requieren solicitar en sucursal para cuentas con ITIN — llama antes para confirmar que la sucursal pueda procesarlo."
+  - name: "Paga a tiempo y mantén bajo tu uso de crédito"
+    text: "El historial de pagos es el 35% de tu puntaje FICO y el uso de crédito es otro 30%. Configura pago automático y mantén tu saldo reportado por debajo del 30% de tu límite (idealmente bajo el 10%)."
+  - name: "Agrega un préstamo para construir crédito alrededor del mes 6"
+    text: "Agregar crédito a plazos junto con tu tarjeta revolvente mejora tu \"mezcla de crédito\", lo cual mejora tu puntaje. Productos como Self y Ava aceptan titulares de ITIN para préstamos de construcción de crédito."
+  - name: "Revisa tu puntaje por el canal correcto"
+    text: "La verificación de identidad de AnnualCreditReport.com está diseñada para SSN y suele fallar con titulares de ITIN. Solicita tus reportes por correo a cada buró, o usa la herramienta gratuita de puntaje FICO de tu banco o emisor de tarjeta en su aplicación."
 published: true
 ---
 

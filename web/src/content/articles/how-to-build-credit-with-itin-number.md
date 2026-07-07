@@ -11,6 +11,7 @@ relatedQueries:
   - "how to establish credit as an immigrant"
 quickAnswer: "You can build U.S. credit with an ITIN by opening a secured credit card or credit-builder loan that reports to all three bureaus, then paying on time every month. Most ITIN holders generate their first credit score in 3-6 months and reach a \"good\" score (670+) within 12-24 months."
 publishedAt: "2026-06-06"
+updatedAt: "2026-07-07"
 author: "Daniel Okafor"
 category: "Credit Score"
 relatedSlugs:
@@ -31,6 +32,17 @@ faqs:
     a: "Your credit history does NOT automatically transfer. Once you receive an SSN, you must notify the IRS (which rescinds your ITIN), update your creditors, and write to all three credit bureaus requesting the transfer. The process typically takes 30-60 days and should not affect your scores."
   - q: "Can I check my credit score with an ITIN?"
     a: "Standard online tools like AnnualCreditReport.com don't work well for ITIN holders because their identity systems are built around SSNs. You'll need to request reports by mail from each bureau or use a bank or card issuer that provides a free FICO score to account holders."
+howToSteps:
+  - name: "Choose a reporting tool"
+    text: "Pick a secured credit card, credit-builder loan, or authorized-user spot on a trusted person's card — confirm it reports to all three bureaus (Equifax, Experian, TransUnion) before you commit."
+  - name: "Gather your documents and apply"
+    text: "Bring your ITIN confirmation letter, a government-issued photo ID, proof of U.S. address (utility bill, bank statement, or lease within 60-90 days), and proof of income. Many major banks require an in-person branch application for ITIN accounts — call ahead to confirm the branch can process one."
+  - name: "Make on-time payments and keep utilization low"
+    text: "Payment history is 35% of your FICO score and utilization is another 30%. Set up autopay and keep your reported balance under 30% of your limit (ideally under 10%)."
+  - name: "Add a credit-builder loan around the 6-month mark"
+    text: "Adding installment credit alongside your revolving card builds \"credit mix,\" which improves your score. Products like Self and Ava accept ITIN holders for credit-builder loans."
+  - name: "Check your score through the right channel"
+    text: "AnnualCreditReport.com's identity verification is built around SSNs and often fails for ITIN holders. Request reports by mail from each bureau instead, or use your bank/card issuer's free FICO score tool in their app."
 published: true
 ---
 

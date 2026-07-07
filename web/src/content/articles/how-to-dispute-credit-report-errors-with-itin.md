@@ -11,6 +11,7 @@ relatedQueries:
   - "how long does a credit dispute take ITIN"
 quickAnswer: "ITIN holders have the same legal right to dispute credit report errors as SSN holders under the Fair Credit Reporting Act. You can dispute online, by phone, or by certified mail with each bureau separately. Bureaus must investigate within 30 days and remove anything inaccurate or unverifiable at no cost to you."
 publishedAt: "2026-06-18"
+updatedAt: "2026-07-07"
 author: "Camila Ortega"
 category: "Credit Score"
 relatedSlugs:
@@ -29,6 +30,17 @@ faqs:
     a: "Under the FCRA, credit bureaus must complete their investigation within 30 days of receiving your dispute. That window extends to 45 days if you submit additional supporting documents during the investigation. They must notify you of the results in writing."
   - q: "What can I do if the bureau refuses to fix a genuine error?"
     a: "If a bureau upholds an item you believe is wrong, you can request a reinvestigation with new documentation, add a 100-word consumer statement to your file, file a complaint with the CFPB at consumerfinance.gov/complaint, or consult an FCRA attorney. Bureaus that willfully violate the FCRA can be held liable for damages and attorney fees."
+howToSteps:
+  - name: "Review all three credit reports for errors"
+    text: "Look for accounts you never opened, payments marked late incorrectly, duplicate accounts, wrong balances or limits, mixed-file accounts belonging to someone else, or outdated negative items past the reporting window."
+  - name: "Gather your documentation"
+    text: "Collect your full legal name, ITIN, date of birth, and current address; a copy of the report with the error highlighted; supporting copies (never originals) like payment receipts or account statements; and a clear written explanation of what's wrong."
+  - name: "File a separate dispute with each bureau"
+    text: "The three bureaus don't share corrections automatically. Dispute with Equifax, Experian, and TransUnion individually — online, by phone, or by mail (certified mail with return receipt is worth it for complex or mixed-file disputes)."
+  - name: "Wait for the investigation"
+    text: "Under the FCRA, bureaus must investigate within 30 days (45 days if you submit more documentation during the window) and notify you of the results in writing."
+  - name: "Escalate if the bureau upholds an item you believe is wrong"
+    text: "Request a reinvestigation with new evidence, add a 100-word consumer statement to your file, file a complaint with the CFPB at consumerfinance.gov/complaint, or consult an FCRA attorney — bureaus that willfully violate the FCRA can be liable for damages and attorney fees."
 published: true
 ---
 
