@@ -32,15 +32,15 @@ faqs:
     a: "If a bureau upholds an item you believe is wrong, you can request a reinvestigation with new documentation, add a 100-word consumer statement to your file, file a complaint with the CFPB at consumerfinance.gov/complaint, or consult an FCRA attorney. Bureaus that willfully violate the FCRA can be held liable for damages and attorney fees."
 howToSteps:
   - name: "Review all three credit reports for errors"
-    text: "Look for accounts you never opened, payments marked late incorrectly, duplicate accounts, wrong balances or limits, mixed-file accounts belonging to someone else, or outdated negative items past the reporting window."
+    text: "Look for accounts you never opened, payments marked late that weren't, duplicate accounts, wrong balances or limits, mixed-file accounts that belong to someone else, or negative items that should have aged off by now."
   - name: "Gather your documentation"
-    text: "Collect your full legal name, ITIN, date of birth, and current address; a copy of the report with the error highlighted; supporting copies (never originals) like payment receipts or account statements; and a clear written explanation of what's wrong."
+    text: "Your full legal name, ITIN, date of birth, and current address. A copy of the report with the error highlighted. Supporting copies, never originals, like payment receipts or account statements. And a clear written explanation of what's wrong."
   - name: "File a separate dispute with each bureau"
-    text: "The three bureaus don't share corrections automatically. Dispute with Equifax, Experian, and TransUnion individually — online, by phone, or by mail (certified mail with return receipt is worth it for complex or mixed-file disputes)."
+    text: "The three bureaus don't share corrections automatically, so dispute with Equifax, Experian, and TransUnion individually. Online, by phone, or by mail. Certified mail with return receipt is worth the extra cost for complex or mixed-file disputes."
   - name: "Wait for the investigation"
-    text: "Under the FCRA, bureaus must investigate within 30 days (45 days if you submit more documentation during the window) and notify you of the results in writing."
+    text: "Bureaus have 30 days to investigate under the FCRA, 45 if you send more documentation during that window, and they have to tell you the results in writing."
   - name: "Escalate if the bureau upholds an item you believe is wrong"
-    text: "Request a reinvestigation with new evidence, add a 100-word consumer statement to your file, file a complaint with the CFPB at consumerfinance.gov/complaint, or consult an FCRA attorney — bureaus that willfully violate the FCRA can be liable for damages and attorney fees."
+    text: "Request a reinvestigation with new evidence. Add a 100-word consumer statement to your file. File a complaint with the CFPB at consumerfinance.gov/complaint. Or talk to an FCRA attorney, since bureaus that willfully violate the FCRA can be on the hook for damages and attorney fees."
 published: true
 ---
 

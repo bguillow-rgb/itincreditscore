@@ -34,15 +34,15 @@ faqs:
     a: "Las herramientas en línea estándar como AnnualCreditReport.com no funcionan bien para los titulares de ITIN, porque sus sistemas de verificación de identidad están diseñados para SSN. Tendrás que solicitar tus reportes por correo a cada bureau, o usar un banco o emisor de tarjeta que ofrezca acceso gratuito a tu puntaje FICO a los titulares de cuenta."
 howToSteps:
   - name: "Elige una herramienta que reporte a las burós"
-    text: "Elige una tarjeta de crédito asegurada, un préstamo para construir crédito, o un lugar como usuario autorizado en la tarjeta de alguien de confianza — confirma que reporte a las tres burós (Equifax, Experian, TransUnion) antes de comprometerte."
+    text: "Una tarjeta de crédito asegurada, un préstamo para construir crédito, o un lugar como usuario autorizado en la tarjeta de alguien de confianza, todos funcionan. Solo confirma que reporte a las tres burós (Equifax, Experian, TransUnion) antes de comprometerte con uno."
   - name: "Reúne tus documentos y solicita"
-    text: "Lleva tu carta de confirmación del ITIN, una identificación oficial con foto, comprobante de domicilio en EE. UU. (factura de servicios, estado de cuenta o contrato de arrendamiento de los últimos 60-90 días) y comprobante de ingresos. Muchos bancos grandes requieren solicitar en sucursal para cuentas con ITIN — llama antes para confirmar que la sucursal pueda procesarlo."
+    text: "Lleva tu carta de confirmación del ITIN, una identificación oficial con foto, comprobante de domicilio en EE. UU. (factura de servicios, estado de cuenta o contrato de arrendamiento de los últimos 60-90 días) y comprobante de ingresos. Muchos bancos grandes piden solicitar en sucursal para cuentas con ITIN, así que llama antes y confirma que esa sucursal de verdad pueda procesarlo."
   - name: "Paga a tiempo y mantén bajo tu uso de crédito"
-    text: "El historial de pagos es el 35% de tu puntaje FICO y el uso de crédito es otro 30%. Configura pago automático y mantén tu saldo reportado por debajo del 30% de tu límite (idealmente bajo el 10%)."
+    text: "El historial de pagos es el 35% de tu puntaje FICO, el uso de crédito es otro 30%. Configura pago automático y mantén tu saldo reportado por debajo del 30% de tu límite. Bajo el 10% es todavía mejor."
   - name: "Agrega un préstamo para construir crédito alrededor del mes 6"
-    text: "Agregar crédito a plazos junto con tu tarjeta revolvente mejora tu \"mezcla de crédito\", lo cual mejora tu puntaje. Productos como Self y Ava aceptan titulares de ITIN para préstamos de construcción de crédito."
+    text: "El crédito a plazos junto con tu tarjeta revolvente crea lo que se llama \"mezcla de crédito\", y eso ayuda a tu puntaje. Self y Ava aceptan titulares de ITIN para préstamos de construcción de crédito."
   - name: "Revisa tu puntaje por el canal correcto"
-    text: "La verificación de identidad de AnnualCreditReport.com está diseñada para SSN y suele fallar con titulares de ITIN. Solicita tus reportes por correo a cada buró, o usa la herramienta gratuita de puntaje FICO de tu banco o emisor de tarjeta en su aplicación."
+    text: "La verificación de identidad de AnnualCreditReport.com está pensada para SSN y con frecuencia simplemente falla con titulares de ITIN. Solicita tus reportes por correo a cada buró en su lugar, o usa la herramienta gratuita de puntaje FICO de tu banco o emisor de tarjeta en su aplicación."
 published: true
 ---
 

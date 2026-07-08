@@ -32,15 +32,15 @@ faqs:
     a: "Si la buró mantiene un elemento que consideras incorrecto, puedes solicitar una nueva investigación con documentación adicional, agregar una declaración del consumidor de 100 palabras a tu expediente, presentar una queja ante el CFPB en consumerfinance.gov/complaint, o consultar a un abogado especializado en FCRA. Las burós que violen deliberadamente la FCRA pueden ser responsables por daños y honorarios legales."
 howToSteps:
   - name: "Revisa tus tres reportes de crédito en busca de errores"
-    text: "Busca cuentas que nunca abriste, pagos marcados como atrasados incorrectamente, cuentas duplicadas, saldos o límites equivocados, cuentas de un archivo mezclado que pertenecen a otra persona, o elementos negativos vencidos que ya deberían haber salido."
+    text: "Busca cuentas que nunca abriste, pagos marcados como atrasados sin serlo, cuentas duplicadas, saldos o límites equivocados, cuentas de un archivo mezclado que pertenecen a otra persona, o elementos negativos que ya deberían haber salido."
   - name: "Reúne tu documentación"
-    text: "Junta tu nombre legal completo, ITIN, fecha de nacimiento y domicilio actual; una copia del reporte con el error resaltado; copias (nunca originales) de comprobantes como recibos de pago o estados de cuenta; y una explicación clara y por escrito de qué está mal."
+    text: "Tu nombre legal completo, ITIN, fecha de nacimiento y domicilio actual. Una copia del reporte con el error resaltado. Copias, nunca originales, de comprobantes como recibos de pago o estados de cuenta. Y una explicación clara y por escrito de qué está mal."
   - name: "Presenta una disputa separada con cada buró"
-    text: "Las tres burós no comparten correcciones automáticamente. Disputa con Equifax, Experian y TransUnion por separado — en línea, por teléfono o por correo (el correo certificado con acuse de recibo vale la pena para disputas complejas o de archivo mezclado)."
+    text: "Las tres burós no comparten correcciones automáticamente, así que disputa con Equifax, Experian y TransUnion por separado. En línea, por teléfono o por correo. El correo certificado con acuse de recibo vale la pena para disputas complejas o de archivo mezclado."
   - name: "Espera la investigación"
-    text: "Según la FCRA, las burós deben investigar en un plazo de 30 días (45 días si envías más documentación durante ese periodo) y notificarte los resultados por escrito."
+    text: "Las burós tienen 30 días para investigar según la FCRA, 45 si envías más documentación durante ese periodo, y tienen que darte los resultados por escrito."
   - name: "Escala si la buró mantiene un elemento que consideras incorrecto"
-    text: "Solicita una nueva investigación con evidencia adicional, agrega una declaración del consumidor de 100 palabras a tu expediente, presenta una queja ante el CFPB en consumerfinance.gov/complaint, o consulta a un abogado especializado en FCRA — las burós que violen deliberadamente la FCRA pueden ser responsables por daños y honorarios legales."
+    text: "Solicita una nueva investigación con evidencia adicional. Agrega una declaración del consumidor de 100 palabras a tu expediente. Presenta una queja ante el CFPB en consumerfinance.gov/complaint. O consulta a un abogado especializado en FCRA, porque las burós que violen deliberadamente la ley pueden responder por daños y honorarios legales."
 published: true
 ---
 
