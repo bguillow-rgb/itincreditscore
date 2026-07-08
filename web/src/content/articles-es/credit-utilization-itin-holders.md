@@ -16,8 +16,8 @@ category: "Puntaje de Crédito"
 relatedSlugs:
   - "payment-history-itin-credit-score"
   - "foreign-credit-history-itin-us-credit-score"
+  - "cosigning-with-itin-credit-score-impact"
   - "credit-age-itin-holders"
-  - "credit-monitoring-with-itin"
 faqs:
   - q: "¿El uso del crédito funciona diferente para titulares de ITIN que para titulares de SSN?"
     a: "No. Los modelos de puntaje crediticio evalúan el comportamiento financiero, no el tipo de número de identificación registrado. Ya sea que tus cuentas reporten con un ITIN o un SSN, el porcentaje de uso se calcula y se pondera de forma idéntica tanto en los modelos FICO como en VantageScore."
