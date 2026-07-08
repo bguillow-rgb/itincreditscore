@@ -11,7 +11,7 @@ relatedQueries:
   - "construir crédito con pagos de renta sin seguro social"
 quickAnswer: "Sí, los titulares de ITIN pueden usar servicios de reporte de renta para construir su historial crediticio en EE. UU. Servicios como Self, Boom y Ava reportan tus pagos de renta puntuales a Equifax, Experian y/o TransUnion usando tu nombre, dirección y fecha de nacimiento en lugar de un SSN. La mayoría cobran entre $0 y $8.95 al mes y no requieren la participación de tu arrendador."
 publishedAt: "2026-06-14"
-author: "Daniel Okafor"
+author: "Research Desk"
 category: "Crédito"
 relatedSlugs:
   - "experian-boost-alternative-data-itin"

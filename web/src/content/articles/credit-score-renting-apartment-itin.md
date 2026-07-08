@@ -11,7 +11,7 @@ relatedQueries:
   - "renting with thin credit file ITIN"
 quickAnswer: "Yes. Landlords can run a credit check using your ITIN, and the score they see is calculated exactly the same way as any SSN-based score. Most landlords look for a score of at least 620-650. If your file is thin or new, you can still rent by showing income proof, offering a larger deposit, or using a co-signer while you build credit."
 publishedAt: "2026-06-25"
-author: "Camila Ortega"
+author: "Editorial Staff"
 category: "Credit Score"
 relatedSlugs:
   - "thin-credit-file-itin-holder"

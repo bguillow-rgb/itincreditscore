@@ -11,7 +11,7 @@ relatedQueries:
   - "ITIN vencido construcción de crédito detenida"
 quickAnswer: "Un ITIN vencido no borra tu historial de crédito existente, pero puede hacer que los prestamistas detengan o dejen de reportar nueva actividad a las agencias de crédito, congelando tu progreso. Renovar tu ITIN a tiempo con el Formulario W-7 del IRS mantiene tu archivo de crédito activo y tu puntaje en crecimiento."
 publishedAt: "2026-06-18"
-author: "Camila Ortega"
+author: "Editorial Staff"
 category: "Puntaje de crédito"
 relatedSlugs:
   - "credit-age-itin-holders"

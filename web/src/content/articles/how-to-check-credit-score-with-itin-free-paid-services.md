@@ -11,7 +11,7 @@ relatedQueries:
   - "credit score monitoring without SSN 2026"
 quickAnswer: "ITIN holders can check their U.S. credit score through myEquifax (free, online), the Equifax Core Credit program, the Bilt app (Experian FICO 9), Capital One CreditWise, and ITIN-specific platforms. AnnualCreditReport.com does not support online ITIN access, but every bureau accepts written or chat-based requests at no cost."
 publishedAt: "2026-07-05"
-author: "Camila Ortega"
+author: "Editorial Staff"
 category: "Credit Score"
 relatedSlugs:
   - "free-paid-services-check-credit-score-itin-2026"

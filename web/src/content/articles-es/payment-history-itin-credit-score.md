@@ -11,7 +11,7 @@ relatedQueries:
   - "historial de pagos en el reporte de crédito para titulares de ITIN"
 quickAnswer: "Sí, el historial de pagos es el factor más importante en tu puntaje de crédito con ITIN, y representa aproximadamente el 35%-41% de tu puntaje según los modelos FICO y VantageScore. Cada pago a tiempo fortalece tu expediente. Incluso un solo pago atrasado puede causar una baja notable. Pagar a tiempo de forma constante es el camino legal más rápido para mejorar tu puntaje."
 publishedAt: "2026-06-18"
-author: "Lucía Morales"
+author: "Editorial Team"
 category: "Puntaje de Crédito"
 relatedSlugs:
   - "credit-age-itin-holders"

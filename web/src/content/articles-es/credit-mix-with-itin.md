@@ -11,7 +11,7 @@ relatedQueries:
   - "qué cuentas construyen crédito con un ITIN"
 quickAnswer: "Sí, la mezcla de crédito importa con un ITIN exactamente igual que para cualquier archivo de crédito en EE. UU. Representa aproximadamente el 10% de tu puntaje FICO. Los titulares de ITIN pueden construir una mezcla saludable combinando una tarjeta asegurada (crédito revolvente) con un préstamo para construir crédito (crédito a plazos), ambos accesibles sin un número de Seguro Social."
 publishedAt: "2026-06-18"
-author: "Daniel Okafor"
+author: "Research Desk"
 category: "Puntaje de crédito"
 relatedSlugs:
   - "credit-age-itin-holders"

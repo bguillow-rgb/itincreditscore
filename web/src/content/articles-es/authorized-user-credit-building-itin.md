@@ -11,7 +11,7 @@ relatedQueries:
   - "piggybacking de crédito con ITIN"
 quickAnswer: "Sí, los titulares de ITIN pueden ser agregados como usuarios autorizados en la cuenta de tarjeta de crédito de otra persona. El historial de pagos positivo y la utilización baja del titular principal pueden aparecer en tu reporte de crédito, ayudándote a construir un puntaje de crédito en EE. UU. sin necesitar tu propia cuenta primero. Algunos emisores requieren un SSN; otros aceptan un ITIN o simplemente datos personales básicos."
 publishedAt: "2026-06-18"
-author: "Camila Ortega"
+author: "Editorial Staff"
 category: "Puntaje de crédito"
 relatedSlugs:
   - "how-to-freeze-credit-with-itin"

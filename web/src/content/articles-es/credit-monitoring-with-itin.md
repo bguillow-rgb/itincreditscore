@@ -11,7 +11,7 @@ relatedQueries:
   - "monitoreo de crédito gratis con ITIN"
 quickAnswer: "Los titulares de ITIN pueden monitorear su crédito usando herramientas como el portal myEquifax, Credit Karma y plataformas especializadas para ITIN. La mayoría acepta tu ITIN en lugar de un SSN. El monitoreo regular detecta errores, registra el avance de tu puntaje y te alerta sobre actividad no autorizada, todo sin necesidad de un Número de Seguro Social."
 publishedAt: "2026-06-18"
-author: "Daniel Okafor"
+author: "Research Desk"
 category: "Puntaje de Crédito"
 relatedSlugs:
   - "does-paying-rent-build-credit-with-itin"

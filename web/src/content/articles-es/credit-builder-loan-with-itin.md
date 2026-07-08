@@ -11,7 +11,7 @@ relatedQueries:
   - "préstamo para construir crédito para inmigrantes"
 quickAnswer: "Sí, los titulares de ITIN pueden obtener préstamos para construir crédito con prestamistas como Self, cooperativas de crédito y CDFIs, sin necesidad de un Número de Seguro Social. Estos préstamos reportan los pagos puntuales a las tres agencias de crédito, generando un historial crediticio calificable en 3 a 6 meses y mejorando tu puntaje de forma significativa dentro de 12 meses."
 publishedAt: "2026-06-07"
-author: "Camila Ortega"
+author: "Editorial Staff"
 category: "Crédito"
 relatedSlugs:
   - "does-paying-rent-build-credit-with-itin"

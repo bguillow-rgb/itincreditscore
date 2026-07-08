@@ -11,7 +11,7 @@ relatedQueries:
   - "alternative credit data ITIN credit score"
 quickAnswer: "Utility bills do not automatically build credit with an ITIN. Most utility providers only report missed payments, not on-time ones. However, third-party reporting services like eCredable Lift can add your utility payment history to one or more credit bureaus, potentially lifting a thin-file ITIN score meaningfully."
 publishedAt: "2026-06-26"
-author: "Camila Ortega"
+author: "Editorial Staff"
 category: "Credit Score"
 relatedSlugs:
   - "experian-boost-alternative-data-itin"

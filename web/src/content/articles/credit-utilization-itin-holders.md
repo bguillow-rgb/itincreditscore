@@ -11,7 +11,7 @@ relatedQueries:
   - "credit utilization ITIN credit building"
 quickAnswer: "Credit utilization affects your ITIN credit score exactly the same way it affects an SSN-based score. It makes up roughly 30% of your FICO score. Keeping your usage below 30% of your total credit limit, and ideally below 10%, is one of the fastest ways to raise your score without opening new accounts."
 publishedAt: "2026-06-18"
-author: "Camila Ortega"
+author: "Editorial Staff"
 category: "Credit Score"
 relatedSlugs:
   - "credit-age-itin-holders"

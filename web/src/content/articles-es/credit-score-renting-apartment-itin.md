@@ -11,7 +11,7 @@ relatedQueries:
   - "alquilar con historial de crédito escaso ITIN"
 quickAnswer: "Sí. Los arrendadores pueden hacer una revisión de crédito usando tu ITIN, y el puntaje que ven se calcula exactamente igual que cualquier puntaje basado en SSN. La mayoría de los arrendadores busca un puntaje de al menos 620-650. Si tu historial es escaso o nuevo, igual puedes alquilar mostrando comprobante de ingresos, ofreciendo un depósito mayor o usando un co-firmante mientras construyes tu crédito."
 publishedAt: "2026-06-25"
-author: "Camila Ortega"
+author: "Editorial Staff"
 category: "Puntaje de Crédito"
 relatedSlugs:
   - "credit-monitoring-with-itin"

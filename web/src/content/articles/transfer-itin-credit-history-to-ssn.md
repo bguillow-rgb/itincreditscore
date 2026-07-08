@@ -11,7 +11,7 @@ relatedQueries:
   - "how long does ITIN credit transfer take"
 quickAnswer: "Your ITIN credit history does NOT transfer automatically when you get an SSN. You must: (1) notify the IRS to rescind your ITIN, (2) update your lenders with your new SSN, and (3) write all three credit bureaus requesting the merge. The process typically takes 30-60 days and should not hurt your score."
 publishedAt: "2026-06-08"
-author: "Daniel Okafor"
+author: "Research Desk"
 category: "Credit Score"
 relatedSlugs:
   - "secured-credit-card-credit-score-itin"

@@ -11,7 +11,7 @@ relatedQueries:
   - "what to do if identity theft on ITIN credit file"
 quickAnswer: "Identity theft can damage an ITIN holder's credit score by 100 or more points through fraudulent accounts, hard inquiries, and unpaid balances. Recovery requires disputing errors with all three bureaus, placing a fraud alert or credit freeze, and filing an FTC Identity Theft Report. The FCRA protects ITIN holders and SSN holders equally."
 publishedAt: "2026-06-23"
-author: "Lucía Morales"
+author: "Editorial Team"
 category: "Credit Score"
 relatedSlugs:
   - "mixed-credit-file-itin-holder"

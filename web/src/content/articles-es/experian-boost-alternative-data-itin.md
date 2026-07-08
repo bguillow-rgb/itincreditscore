@@ -11,7 +11,7 @@ relatedQueries:
   - "construir crédito sin tradelines con ITIN"
 quickAnswer: "Experian Boost puede funcionar con un ITIN, pero debes completar la verificación de identidad sin un SSN, lo que a veces requiere un paso manual. Además de Boost, los titulares de ITIN también pueden usar servicios de terceros para reportar renta y servicios básicos que aceptan ITINs, lo que agrega historial de pagos positivo a las tres agencias de crédito y sube el puntaje."
 publishedAt: "2026-06-20"
-author: "Daniel Okafor"
+author: "Research Desk"
 category: "Puntaje de crédito"
 relatedSlugs:
   - "does-paying-rent-build-credit-with-itin"

@@ -11,7 +11,7 @@ relatedQueries:
   - "longitud del historial de crédito para titulares de ITIN"
 quickAnswer: "El historial de crédito representa aproximadamente el 15% de tu puntaje FICO y VantageScore lo califica como \"muy influyente\". Con un ITIN aplican las mismas reglas: cuanto más antiguas sean tus cuentas abiertas, mayor será tu edad crediticia promedio y mejor será su efecto en tu puntaje. Conserva tus primeras cuentas abiertas y evita cerrarlas sin necesidad."
 publishedAt: "2026-06-18"
-author: "Camila Ortega"
+author: "Editorial Staff"
 category: "Puntaje de crédito"
 relatedSlugs:
   - "secured-credit-card-credit-score-itin"

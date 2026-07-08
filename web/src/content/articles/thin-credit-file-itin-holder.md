@@ -11,7 +11,7 @@ relatedQueries:
   - "how many accounts do I need for a credit score with an ITIN"
 quickAnswer: "A thin credit file means your credit report has too few accounts or too short a history for scoring models to generate a reliable score. Most ITIN holders start here because their foreign credit history does not transfer to U.S. bureaus. Adding 2-3 reporting accounts over 6-12 months is the standard fix."
 publishedAt: "2026-06-18"
-author: "Lucía Morales"
+author: "Editorial Team"
 category: "Credit Score"
 relatedSlugs:
   - "credit-score-renting-apartment-itin"

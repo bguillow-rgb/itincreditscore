@@ -11,7 +11,7 @@ relatedQueries:
   - "demasiadas consultas duras con ITIN"
 quickAnswer: "Sí. Una consulta dura generada por una solicitud de crédito baja tu puntaje de crédito con ITIN aproximadamente 2-5 puntos y permanece en tu reporte durante dos años, aunque normalmente deja de afectar tu puntaje después de doce meses. Las consultas suaves, como revisar tu propio puntaje, nunca afectan tu puntaje."
 publishedAt: "2026-06-18"
-author: "Daniel Okafor"
+author: "Research Desk"
 category: "Puntaje de Crédito"
 relatedSlugs:
   - "payment-history-itin-credit-score"

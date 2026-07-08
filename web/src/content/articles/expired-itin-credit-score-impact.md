@@ -11,7 +11,7 @@ relatedQueries:
   - "ITIN expired credit building stopped"
 quickAnswer: "An expired ITIN does not erase your existing credit history, but it can cause lenders to pause or stop reporting new activity to the bureaus, freezing your credit-building progress. Renewing your ITIN promptly via IRS Form W-7 keeps your credit file active and your score climbing."
 publishedAt: "2026-06-18"
-author: "Camila Ortega"
+author: "Editorial Staff"
 category: "Credit Score"
 relatedSlugs:
   - "itin-credit-building-immigration-status"

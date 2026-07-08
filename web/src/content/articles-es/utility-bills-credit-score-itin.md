@@ -11,7 +11,7 @@ relatedQueries:
   - "datos alternativos de crédito para puntaje con ITIN"
 quickAnswer: "Las facturas de servicios públicos no construyen crédito automáticamente con un ITIN. La mayoría de los proveedores solo reportan los pagos que se atrasaron, no los que se hicieron a tiempo. Sin embargo, servicios de reporte de terceros como eCredable Lift pueden agregar tu historial de pagos a una o más agencias de crédito, lo que puede subir tu puntaje de manera significativa si tu archivo de crédito es delgado."
 publishedAt: "2026-06-26"
-author: "Camila Ortega"
+author: "Editorial Staff"
 category: "Puntaje de crédito"
 relatedSlugs:
   - "experian-boost-alternative-data-itin"

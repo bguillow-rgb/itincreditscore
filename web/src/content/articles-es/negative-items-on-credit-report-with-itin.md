@@ -11,7 +11,7 @@ relatedQueries:
   - "cómo recuperar el puntaje de crédito con ITIN después de un pago perdido"
 quickAnswer: "Los elementos negativos como pagos atrasados, cuentas en cobro y cancelaciones afectan un historial de crédito con ITIN de la misma manera que uno con SSN. La mayoría de las marcas negativas permanecen en tu reporte durante siete años según la Ley de Informes de Crédito Justos (Fair Credit Reporting Act). Tu puntaje puede mejorar antes de que desaparezcan si agregas historial de pagos positivos y mantienes baja tu utilización de crédito."
 publishedAt: "2026-06-18"
-author: "Lucía Morales"
+author: "Editorial Team"
 category: "Puntaje de crédito"
 relatedSlugs:
   - "credit-age-itin-holders"

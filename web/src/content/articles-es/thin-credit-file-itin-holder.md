@@ -11,7 +11,7 @@ relatedQueries:
   - "cuántas cuentas necesito para tener puntaje de crédito con ITIN"
 quickAnswer: "Un expediente de crédito delgado significa que tu reporte de crédito tiene muy pocas cuentas o un historial demasiado corto para que los modelos de puntuación generen un puntaje confiable. La mayoría de los titulares de ITIN comienzan aquí porque su historial crediticio extranjero no se transfiere a los burós de crédito de EE. UU. Agregar 2-3 cuentas que reporten actividad durante 6-12 meses es la solución estándar."
 publishedAt: "2026-06-18"
-author: "Lucía Morales"
+author: "Editorial Team"
 category: "Puntaje de crédito"
 relatedSlugs:
   - "credit-age-itin-holders"

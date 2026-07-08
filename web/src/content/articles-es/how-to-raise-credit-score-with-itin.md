@@ -11,7 +11,7 @@ relatedQueries:
   - "factores del puntaje de crédito para titulares de ITIN"
 quickAnswer: "Puedes subir tu puntaje de crédito con un ITIN de la misma manera que cualquier prestatario en EE. UU.: paga cada factura a tiempo, mantén el saldo de tus tarjetas de crédito por debajo del 30% de tu límite, agrega un segundo tipo de cuenta, disputa errores en tu reporte y evita abrir muchas cuentas nuevas al mismo tiempo. La mayoría de los titulares de ITIN ven mejoras notables dentro de 3-6 meses de acción constante."
 publishedAt: "2026-06-17"
-author: "Camila Ortega"
+author: "Editorial Staff"
 category: "Puntaje de crédito"
 relatedSlugs:
   - "credit-age-itin-holders"

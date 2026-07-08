@@ -11,7 +11,7 @@ relatedQueries:
   - "credit score tiers for ITIN holders"
 quickAnswer: "A good credit score for an ITIN holder is 670 or higher on the standard 300-850 scale used by FICO and VantageScore. ITIN holders use the exact same scoring scale as SSN holders. A score of 670-739 opens most mainstream credit products, and 740+ qualifies you for the best rates."
 publishedAt: "2026-06-18"
-author: "Lucía Morales"
+author: "Editorial Team"
 category: "Credit Score"
 relatedSlugs:
   - "thin-credit-file-itin-holder"

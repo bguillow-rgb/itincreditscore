@@ -11,7 +11,7 @@ relatedQueries:
   - "credit builder loan for immigrants"
 quickAnswer: "Yes, ITIN holders can get credit builder loans from lenders like Self, credit unions, and CDFIs without a Social Security Number. These loans report on-time payments to all three credit bureaus, typically generating a scorable credit file within 3-6 months and meaningfully improving your score within 12 months."
 publishedAt: "2026-06-07"
-author: "Camila Ortega"
+author: "Editorial Staff"
 category: "Credit"
 relatedSlugs:
   - "does-paying-rent-build-credit-with-itin"

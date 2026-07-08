@@ -11,7 +11,7 @@ relatedQueries:
   - "too many hard inquiries ITIN holder"
 quickAnswer: "Yes. A hard inquiry triggered by a credit application lowers your ITIN credit score by roughly 2-5 points and stays on your report for two years, though it typically stops affecting your score after twelve months. Soft inquiries, such as checking your own score, never hurt your score at all."
 publishedAt: "2026-06-18"
-author: "Daniel Okafor"
+author: "Research Desk"
 category: "Credit Score"
 relatedSlugs:
   - "credit-age-itin-holders"

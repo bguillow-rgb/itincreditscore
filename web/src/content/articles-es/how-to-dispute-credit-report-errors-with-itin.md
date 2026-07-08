@@ -12,7 +12,7 @@ relatedQueries:
 quickAnswer: "Los titulares de ITIN tienen el mismo derecho legal a disputar errores en su reporte de crédito que los titulares de SSN, según la Ley de Informes de Crédito Justos (FCRA). Puedes disputar en línea, por teléfono o por correo certificado con cada buró por separado. Las burós deben investigar en un plazo de 30 días y eliminar cualquier información incorrecta o no verificable, sin costo alguno para ti."
 publishedAt: "2026-06-18"
 updatedAt: "2026-07-07"
-author: "Camila Ortega"
+author: "Editorial Staff"
 category: "Puntaje de crédito"
 relatedSlugs:
   - "credit-age-itin-holders"

@@ -10,7 +10,7 @@ relatedQueries:
   - "do itin holders have credit scores"
 quickAnswer: "Yes. ITIN holders can have a U.S. credit score. Experian, Equifax, and TransUnion all create credit files under an ITIN. Once you open at least one account that reports to a bureau and make on-time payments for six months, a FICO score is generated. The 300-850 scale applies to everyone, SSN or ITIN."
 publishedAt: "2026-06-05"
-author: "Daniel Okafor"
+author: "Research Desk"
 category: "Credit Basics"
 relatedSlugs:
   - "authorized-user-credit-building-itin"

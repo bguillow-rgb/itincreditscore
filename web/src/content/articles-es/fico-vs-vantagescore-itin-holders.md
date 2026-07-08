@@ -11,7 +11,7 @@ relatedQueries:
   - "pueden los titulares de ITIN obtener un puntaje FICO"
 quickAnswer: "Sí, los titulares de ITIN obtienen tanto un puntaje FICO como un VantageScore, y los dos números suelen diferir entre 10 y 30 puntos. FICO domina los préstamos hipotecarios y de autos, mientras que VantageScore aparece en la mayoría de las herramientas gratuitas de monitoreo. Ambos usan la misma escala de 300 a 850 y el mismo historial crediticio vinculado a tu ITIN."
 publishedAt: "2026-06-24"
-author: "Camila Ortega"
+author: "Editorial Staff"
 category: "Puntaje de crédito"
 relatedSlugs:
   - "why-credit-score-different-each-bureau-itin"

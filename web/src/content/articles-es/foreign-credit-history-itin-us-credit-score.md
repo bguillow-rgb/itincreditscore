@@ -11,7 +11,7 @@ relatedQueries:
   - "el historial de crédito de otro país sirve en Estados Unidos"
 quickAnswer: "No. Tu puntaje crediticio de tu país de origen no se transfiere automáticamente a las agencias de crédito de EE. UU., aunque tengas un ITIN. Servicios como Nova Credit pueden compartir una versión traducida de tu historial extranjero con ciertos prestamistas en EE. UU., pero igual necesitas abrir cuentas estadounidenses que reporten actividad a Equifax, TransUnion o Experian para construir un puntaje real en este país."
 publishedAt: "2026-06-18"
-author: "Daniel Okafor"
+author: "Research Desk"
 category: "Puntaje de Crédito"
 relatedSlugs:
   - "credit-monitoring-with-itin"

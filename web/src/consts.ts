@@ -32,38 +32,39 @@ export const SITE = {
     // Add LinkedIn / Crunchbase when ready. Empty entries filtered on render.
   },
 
-  // Named editor persona, the byline + Person entity anchor for E-E-A-T. Used on
-  // article bylines, Article schema (author), and the /about page. NOTE: this is a
-  // pen name, not a real person; the bio describes the site's actual editorial
-  // process and must never claim fabricated licenses/credentials (YMYL trust rule).
+  // Editorial byline identity. Bylines are NON-PERSONAL ("Editorial Team",
+  // "Editorial Staff", "Research Desk"), never a human name (per Bob's rule,
+  // 2026-07-07). Article schema `author` is the Organization, not a Person, so
+  // there is no fake individual to anchor. Bios describe the real editorial
+  // process and must never claim fabricated licenses/credentials (YMYL trust).
   // `name` must stay first in this block, the daily generator reads it by regex.
   editorial: {
-    name: 'Lucía Morales',
-    role: 'Editor',
-    bio: "Lucía Morales is the editor of ITIN Credit Score. She writes and edits plain-English guides on building and improving U.S. credit scores for ITIN holders and foreign nationals, translating FICO scoring rules, bureau processes, and IRS, CFPB, and FTC guidance into clear, accurate steps. Every guide is researched against primary sources, FICO, the IRS, the Consumer Financial Protection Bureau, the Federal Trade Commission, and the credit bureaus' own documentation, and reviewed for accuracy before it is published. Lucía writes in both English and Spanish.",
-    bioEs: "Lucía Morales es la editora de ITIN Credit Score. Escribe y edita guías en lenguaje sencillo sobre cómo construir y mejorar el puntaje de crédito en EE. UU. para personas con ITIN y extranjeros, traduciendo las reglas del puntaje FICO, los procesos de los burós y las guías del IRS, la CFPB y la FTC en pasos claros y precisos. Cada guía se investiga con fuentes primarias, FICO, el IRS, la Oficina para la Protección Financiera del Consumidor (CFPB), la Comisión Federal de Comercio (FTC) y la documentación de los propios burós de crédito, y se revisa para verificar su exactitud antes de publicarse. Lucía escribe en inglés y español.",
-    // Pen-name byline roster (Lucía leads). Daily/seed generators rotate new
-    // posts across these names so the site doesn't read as written by one hand.
-    // Every bio is honest about the real editorial process; none claims a
-    // fabricated license or credential (YMYL trust rule). Never Bob's real name.
+    name: 'Editorial Team',
+    role: 'ITIN Credit Score',
+    bio: "ITIN Credit Score's guides are written and reviewed by our editorial team. We translate FICO scoring rules, bureau processes, and IRS, CFPB, and FTC guidance into clear, accurate, plain-English steps on building and improving U.S. credit scores for ITIN holders and foreign nationals. Every guide is researched against primary sources, FICO, the IRS, the Consumer Financial Protection Bureau, the Federal Trade Commission, and the credit bureaus' own documentation, and reviewed for accuracy before it goes live. We publish in both English and Spanish.",
+    bioEs: "Las guías de ITIN Credit Score las escribe y revisa nuestro equipo editorial. Traducimos las reglas del puntaje FICO, los procesos de los burós y las guías del IRS, la CFPB y la FTC en pasos claros, precisos y en lenguaje sencillo sobre cómo construir y mejorar el puntaje de crédito en EE. UU. para personas con ITIN y extranjeros. Cada guía se investiga con fuentes primarias, FICO, el IRS, la Oficina para la Protección Financiera del Consumidor (CFPB), la Comisión Federal de Comercio (FTC) y la documentación de los propios burós de crédito, y se revisa antes de publicarse. Publicamos en inglés y español.",
+    // Non-personal byline roster. Daily/seed generators rotate new posts across
+    // these labels so the site doesn't read as written by one hand, without ever
+    // attaching a human name. Every bio is honest about the real editorial
+    // process; none claims a fabricated license or credential (YMYL trust rule).
     team: [
       {
-        name: 'Lucía Morales',
-        role: 'Editor',
-        bio: "Lucía Morales is the editor of ITIN Credit Score. She writes and edits plain-English guides on building and improving U.S. credit scores for ITIN holders and foreign nationals, translating FICO scoring rules, bureau processes, and IRS, CFPB, and FTC guidance into clear, accurate steps. Every guide is researched against primary sources and reviewed for accuracy before it is published. Lucía writes in both English and Spanish.",
-        bioEs: "Lucía Morales es la editora de ITIN Credit Score. Escribe y edita guías en lenguaje sencillo sobre cómo construir y mejorar el puntaje de crédito en EE. UU. para personas con ITIN y extranjeros. Cada guía se investiga con fuentes primarias y se revisa para verificar su exactitud antes de publicarse. Lucía escribe en inglés y español.",
+        name: 'Editorial Team',
+        role: 'Credit Scores & Building',
+        bio: "ITIN Credit Score's editorial team writes and edits our plain-English guides on building and improving U.S. credit scores for ITIN holders and foreign nationals. Every guide is built from primary sources, FICO, the IRS, the CFPB, the FTC, and the credit bureaus' own documentation, and reviewed for accuracy before it is published. We publish in both English and Spanish.",
+        bioEs: "El equipo editorial de ITIN Credit Score escribe y edita nuestras guías en lenguaje sencillo sobre cómo construir y mejorar el puntaje de crédito en EE. UU. para personas con ITIN y extranjeros. Cada guía se construye a partir de fuentes primarias, FICO, el IRS, el CFPB, la FTC y la documentación de los propios burós de crédito, y se revisa antes de publicarse. Publicamos en inglés y español.",
       },
       {
-        name: 'Camila Ortega',
-        role: 'Credit Reports & Bureaus Writer',
-        bio: "Camila Ortega writes ITIN Credit Score's coverage of credit reports, the three bureaus, and how an ITIN file is built and read. She focuses on checking and monitoring reports, disputing errors, and how thin files mature, building each guide from the bureaus' own documentation and CFPB and FTC guidance. Camila writes in English and Spanish.",
-        bioEs: "Camila Ortega escribe la cobertura de ITIN Credit Score sobre informes de crédito, los tres burós y cómo se construye y se lee un expediente con ITIN. Se enfoca en revisar y monitorear los informes, disputar errores y cómo maduran los expedientes nuevos, a partir de la documentación de los propios burós y las guías del CFPB y la FTC. Camila escribe en inglés y español.",
+        name: 'Editorial Staff',
+        role: 'Credit Reports & Bureaus',
+        bio: "Our editorial staff covers credit reports, the three bureaus, and how an ITIN file is built and read. We focus on checking and monitoring reports, disputing errors, and how thin files mature, building each guide from the bureaus' own documentation and CFPB and FTC guidance. We publish in English and Spanish.",
+        bioEs: "Nuestro equipo editorial cubre informes de crédito, los tres burós y cómo se construye y se lee un expediente con ITIN. Nos enfocamos en revisar y monitorear los informes, disputar errores y cómo maduran los expedientes nuevos, a partir de la documentación de los propios burós y las guías del CFPB y la FTC. Publicamos en inglés y español.",
       },
       {
-        name: 'Daniel Okafor',
-        role: 'Credit Building & Scores Writer',
-        bio: "Daniel Okafor covers building and improving FICO scores, credit-builder loans, and moving credit history to an SSN for ITIN holders at ITIN Credit Score. He digs into what each scoring factor weighs and how fast changes show up, checking every figure against FICO and bureau documentation before it runs. Daniel writes in English and Spanish.",
-        bioEs: "Daniel Okafor cubre cómo construir y mejorar los puntajes FICO, los préstamos para construir crédito y cómo trasladar el historial de crédito a un SSN para personas con ITIN en ITIN Credit Score. Investiga el peso de cada factor del puntaje y la rapidez con que aparecen los cambios, verificando cada cifra con la documentación de FICO y de los burós. Daniel escribe en inglés y español.",
+        name: 'Research Desk',
+        role: 'Scores & Credit Building',
+        bio: "ITIN Credit Score's research desk covers building and improving FICO scores, credit-builder loans, and moving credit history to an SSN for ITIN holders. We dig into what each scoring factor weighs and how fast changes show up, checking every figure against FICO and bureau documentation before it runs. We publish in English and Spanish.",
+        bioEs: "El equipo de investigación de ITIN Credit Score cubre cómo construir y mejorar los puntajes FICO, los préstamos para construir crédito y cómo trasladar el historial de crédito a un SSN para personas con ITIN. Investigamos el peso de cada factor del puntaje y la rapidez con que aparecen los cambios, verificando cada cifra con la documentación de FICO y de los burós. Publicamos en inglés y español.",
       },
     ],
   },

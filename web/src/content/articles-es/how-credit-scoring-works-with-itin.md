@@ -11,7 +11,7 @@ relatedQueries:
   - "qué factores afectan el puntaje de crédito con ITIN"
 quickAnswer: "El puntaje de crédito funciona igual con un ITIN que con un SSN. Las tres agencias principales (Experian, Equifax, TransUnion) usan tu ITIN como identificador único, los prestamistas reportan tu actividad mensualmente, y los modelos FICO y VantageScore calculan un puntaje de 300 a 850 con los mismos cinco factores: historial de pagos, utilización, antigüedad del historial, combinación de créditos y consultas recientes."
 publishedAt: "2026-06-18"
-author: "Camila Ortega"
+author: "Editorial Staff"
 category: "Puntaje de Crédito"
 relatedSlugs:
   - "credit-utilization-itin-holders"

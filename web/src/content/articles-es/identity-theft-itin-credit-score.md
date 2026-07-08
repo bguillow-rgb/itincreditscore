@@ -11,7 +11,7 @@ relatedQueries:
   - "qué hacer si hubo robo de identidad en mi expediente de crédito con ITIN"
 quickAnswer: "El robo de identidad puede dañar el puntaje de crédito de un titular de ITIN en 100 puntos o más mediante cuentas fraudulentas, consultas no autorizadas y saldos impagos. Para recuperarte necesitas disputar los errores con las tres agencias de crédito, colocar una alerta de fraude o congelar tu crédito, y presentar un Reporte de Robo de Identidad ante la FTC. La ley FCRA protege a los titulares de ITIN y de SSN por igual."
 publishedAt: "2026-06-23"
-author: "Lucía Morales"
+author: "Editorial Team"
 category: "Puntaje de crédito"
 relatedSlugs:
   - "itin-credit-building-immigration-status"

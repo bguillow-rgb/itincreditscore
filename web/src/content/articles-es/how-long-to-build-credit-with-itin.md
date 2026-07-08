@@ -11,7 +11,7 @@ relatedQueries:
   - "hitos para construir crédito con ITIN"
 quickAnswer: "La mayoría de los titulares de ITIN generan su primer puntaje crediticio dentro de los 3 a 6 meses de abrir una cuenta que reporta a los burós. Alcanzar un puntaje aceptable (580-669) suele tomar 4 a 6 meses; un buen puntaje (670-739) generalmente requiere 12 a 18 meses de pagos puntuales constantes y un bajo uso del crédito."
 publishedAt: "2026-06-11"
-author: "Lucía Morales"
+author: "Editorial Team"
 category: "Puntaje Crediticio"
 relatedSlugs:
   - "how-to-build-credit-with-itin-number"

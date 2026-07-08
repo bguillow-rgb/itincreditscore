@@ -11,7 +11,7 @@ relatedQueries:
   - "niveles de puntaje de crédito para personas con ITIN"
 quickAnswer: "Un buen puntaje de crédito para una persona con ITIN es 670 o más, dentro de la escala estándar de 300 a 850 que usan FICO y VantageScore. Las personas con ITIN usan exactamente la misma escala que quienes tienen SSN. Un puntaje de 670 a 739 te abre la mayoría de los productos de crédito convencionales, y con 740 o más accedes a las mejores tasas."
 publishedAt: "2026-06-18"
-author: "Lucía Morales"
+author: "Editorial Team"
 category: "Puntaje de crédito"
 relatedSlugs:
   - "credit-age-itin-holders"

@@ -11,7 +11,7 @@ relatedQueries:
   - "fraud alert vs credit freeze ITIN"
 quickAnswer: "ITIN holders can place a free security freeze at all three bureaus (Equifax, Experian, and TransUnion) with no SSN required. A freeze blocks new lenders from accessing your credit file, costs nothing to place or lift, and has zero effect on your credit score. You must contact each bureau separately."
 publishedAt: "2026-06-18"
-author: "Daniel Okafor"
+author: "Research Desk"
 category: "Credit Score"
 relatedSlugs:
   - "authorized-user-credit-building-itin"

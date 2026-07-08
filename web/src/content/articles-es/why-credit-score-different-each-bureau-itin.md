@@ -11,7 +11,7 @@ relatedQueries:
   - "por qué mi puntaje de crédito con ITIN varía"
 quickAnswer: "Tu puntaje de crédito con ITIN difiere entre Equifax, Experian y TransUnion porque cada buró recopila información de forma independiente, no todos los prestamistas reportan a los tres, y cada buró puede usar un modelo o versión de puntuación diferente. Una diferencia de 20 a 50 puntos entre burós es completamente normal para quienes tienen ITIN."
 publishedAt: "2026-06-18"
-author: "Daniel Okafor"
+author: "Research Desk"
 category: "Puntaje de crédito"
 relatedSlugs:
   - "fico-vs-vantagescore-itin-holders"

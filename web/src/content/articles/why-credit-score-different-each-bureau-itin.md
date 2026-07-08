@@ -11,7 +11,7 @@ relatedQueries:
   - "why does my ITIN credit score vary"
 quickAnswer: "Your ITIN credit score differs across Equifax, Experian, and TransUnion because each bureau collects data independently, not all lenders report to all three, and each bureau may use a different scoring model or version. A gap of 20-50 points between bureaus is completely normal for ITIN holders."
 publishedAt: "2026-06-18"
-author: "Daniel Okafor"
+author: "Research Desk"
 category: "Credit Score"
 relatedSlugs:
   - "fico-vs-vantagescore-itin-holders"

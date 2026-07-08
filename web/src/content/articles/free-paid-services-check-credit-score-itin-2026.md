@@ -11,7 +11,7 @@ relatedQueries:
   - "how to get credit report with ITIN all three bureaus"
 quickAnswer: "ITIN holders can check their credit score and report using several free and paid services in 2026. Equifax.com and myFICO both accept ITINs online and return a real score. All three bureaus also accept mail-in requests for free reports. AnnualCreditReport.com does not work reliably with an ITIN for online access."
 publishedAt: "2026-07-06"
-author: "Lucía Morales"
+author: "Editorial Team"
 category: "Credit Score"
 relatedSlugs:
   - "how-to-check-credit-score-with-itin-free-paid-services"

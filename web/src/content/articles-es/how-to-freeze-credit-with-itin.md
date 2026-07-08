@@ -11,7 +11,7 @@ relatedQueries:
   - "alerta de fraude vs congelamiento de crédito ITIN"
 quickAnswer: "Los titulares de ITIN pueden colocar un congelamiento de seguridad gratuito en los tres burós (Equifax, Experian y TransUnion) sin necesidad de un SSN. Un congelamiento impide que nuevos prestamistas accedan a tu expediente de crédito, no tiene ningún costo colocarlo ni levantarlo, y no afecta en absoluto tu puntaje de crédito. Debes contactar a cada buró por separado."
 publishedAt: "2026-06-18"
-author: "Daniel Okafor"
+author: "Research Desk"
 category: "Puntaje de crédito"
 relatedSlugs:
   - "authorized-user-credit-building-itin"

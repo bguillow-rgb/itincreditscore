@@ -11,7 +11,7 @@ relatedQueries:
   - "can ITIN holders get a FICO score"
 quickAnswer: "Yes, ITIN holders get both a FICO score and a VantageScore, and the two numbers frequently differ by 10-30 points. FICO dominates mortgage and auto lending, while VantageScore appears in most free monitoring tools. Both use the same 300-850 range and the same underlying credit file tied to your ITIN."
 publishedAt: "2026-06-24"
-author: "Camila Ortega"
+author: "Editorial Staff"
 category: "Credit Score"
 relatedSlugs:
   - "why-credit-score-different-each-bureau-itin"

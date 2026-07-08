@@ -11,7 +11,7 @@ relatedQueries:
   - "discrepancia de identidad en crédito ITIN"
 quickAnswer: "Un archivo de crédito mixto ocurre cuando un buró combina las cuentas de otra persona con tu reporte de crédito ITIN, o divide tus propias cuentas en varios archivos. Puede provocar caídas repentinas en tu puntaje o rechazos por créditos que nunca solicitaste. Para corregirlo, debes presentar una disputa por escrito ante cada buró y adjuntar documentos de identidad."
 publishedAt: "2026-06-22"
-author: "Daniel Okafor"
+author: "Research Desk"
 category: "Puntaje de crédito"
 relatedSlugs:
   - "how-to-dispute-credit-report-errors-with-itin"

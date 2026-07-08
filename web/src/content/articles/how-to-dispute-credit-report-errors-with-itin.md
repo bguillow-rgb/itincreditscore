@@ -12,7 +12,7 @@ relatedQueries:
 quickAnswer: "ITIN holders have the same legal right to dispute credit report errors as SSN holders under the Fair Credit Reporting Act. You can dispute online, by phone, or by certified mail with each bureau separately. Bureaus must investigate within 30 days and remove anything inaccurate or unverifiable at no cost to you."
 publishedAt: "2026-06-18"
 updatedAt: "2026-07-07"
-author: "Camila Ortega"
+author: "Editorial Staff"
 category: "Credit Score"
 relatedSlugs:
   - "mixed-credit-file-itin-holder"

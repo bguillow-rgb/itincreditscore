@@ -11,7 +11,7 @@ relatedQueries:
   - "cuánto tarda la transferencia de crédito de ITIN a SSN"
 quickAnswer: "Tu historial de crédito del ITIN NO se transfiere automáticamente cuando obtienes un SSN. Debes: (1) notificar al IRS para cancelar tu ITIN, (2) actualizar tu nuevo SSN con todos tus prestamistas, y (3) escribir a las tres agencias de crédito para solicitar la fusión de archivos. El proceso normalmente tarda entre 30 y 60 días y no debería afectar tu puntaje."
 publishedAt: "2026-06-08"
-author: "Daniel Okafor"
+author: "Research Desk"
 category: "Puntaje de crédito"
 relatedSlugs:
   - "secured-credit-card-credit-score-itin"

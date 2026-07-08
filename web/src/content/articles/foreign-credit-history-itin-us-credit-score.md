@@ -11,7 +11,7 @@ relatedQueries:
   - "does credit history from another country transfer to US"
 quickAnswer: "No. Your home-country credit score does not automatically transfer to U.S. bureaus, even with an ITIN. Services like Nova Credit can share a translated version of your foreign credit file with select U.S. lenders, but you still need to open U.S. accounts that report activity to Equifax, TransUnion, or Experian to build a real American score."
 publishedAt: "2026-06-18"
-author: "Daniel Okafor"
+author: "Research Desk"
 category: "Credit Score"
 relatedSlugs:
   - "secured-credit-card-credit-score-itin"

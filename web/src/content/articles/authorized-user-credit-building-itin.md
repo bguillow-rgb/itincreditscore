@@ -11,7 +11,7 @@ relatedQueries:
   - "piggybacking credit ITIN holder"
 quickAnswer: "Yes, ITIN holders can be added as authorized users on someone else's credit card account. The primary cardholder's positive payment history and low utilization can appear on your credit report, helping you build a U.S. credit score without needing your own account first. Some issuers require an SSN; others accept an ITIN or just basic personal details."
 publishedAt: "2026-06-18"
-author: "Camila Ortega"
+author: "Editorial Staff"
 category: "Credit Score"
 relatedSlugs:
   - "secured-credit-card-credit-score-itin"

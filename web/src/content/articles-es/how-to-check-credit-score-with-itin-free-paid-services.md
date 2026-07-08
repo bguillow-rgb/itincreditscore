@@ -11,7 +11,7 @@ relatedQueries:
   - "monitoreo de crédito sin SSN 2026"
 quickAnswer: "Los titulares de ITIN pueden consultar su puntaje de crédito en EE. UU. a través de myEquifax (gratis, en línea), el programa Equifax Core Credit, la app Bilt (Experian FICO 9), Capital One CreditWise y plataformas diseñadas específicamente para titulares de ITIN. AnnualCreditReport.com no permite el acceso en línea con ITIN, pero cada buró acepta solicitudes por correo o chat sin costo alguno."
 publishedAt: "2026-07-05"
-author: "Camila Ortega"
+author: "Editorial Staff"
 category: "Puntaje de crédito"
 relatedSlugs:
   - "free-paid-services-check-credit-score-itin-2026"

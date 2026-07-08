@@ -11,7 +11,7 @@ relatedQueries:
   - "payment history ITIN holder credit report"
 quickAnswer: "Yes, payment history is the single most important factor in your ITIN credit score, accounting for roughly 35%-41% of your score under FICO and VantageScore models. Every on-time payment strengthens your file. Even one late payment can cause a noticeable drop. Consistent, on-time payments are the fastest legal path to a stronger score."
 publishedAt: "2026-06-18"
-author: "Lucía Morales"
+author: "Editorial Team"
 category: "Credit Score"
 relatedSlugs:
   - "credit-age-itin-holders"

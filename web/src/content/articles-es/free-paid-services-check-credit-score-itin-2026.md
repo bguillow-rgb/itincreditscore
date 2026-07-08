@@ -11,7 +11,7 @@ relatedQueries:
   - "cómo obtener reporte de crédito con ITIN en los tres burós"
 quickAnswer: "Los titulares de ITIN pueden consultar su puntaje e historial de crédito usando varios servicios gratuitos y de pago en 2026. Equifax.com y myFICO aceptan ITINs en línea y muestran un puntaje real. Los tres burós también aceptan solicitudes por correo para obtener reportes gratuitos. AnnualCreditReport.com no funciona de forma confiable con un ITIN para el acceso en línea."
 publishedAt: "2026-07-06"
-author: "Lucía Morales"
+author: "Editorial Team"
 category: "Puntaje de crédito"
 relatedSlugs:
   - "how-to-check-credit-score-with-itin-free-paid-services"

@@ -11,7 +11,7 @@ relatedQueries:
   - "what accounts build credit with an ITIN"
 quickAnswer: "Yes, credit mix matters with an ITIN the same way it does for any U.S. credit file. It accounts for roughly 10% of your FICO score. ITIN holders can build a healthy mix using a secured card (revolving credit) combined with a credit-builder loan (installment credit), both of which are accessible without a Social Security number."
 publishedAt: "2026-06-18"
-author: "Daniel Okafor"
+author: "Research Desk"
 category: "Credit Score"
 relatedSlugs:
   - "credit-age-itin-holders"

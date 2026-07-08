@@ -11,7 +11,7 @@ relatedQueries:
   - "free credit monitoring ITIN"
 quickAnswer: "ITIN holders can monitor their credit using tools like Equifax's myEquifax portal, Credit Karma, and dedicated ITIN-focused platforms. Most work by accepting your ITIN in place of an SSN. Regular monitoring catches errors, tracks score progress, and alerts you to unauthorized activity, all without needing a Social Security Number."
 publishedAt: "2026-06-18"
-author: "Daniel Okafor"
+author: "Research Desk"
 category: "Credit Score"
 relatedSlugs:
   - "free-paid-services-check-credit-score-itin-2026"

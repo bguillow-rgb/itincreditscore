@@ -11,7 +11,7 @@ relatedQueries:
   - "credit history length ITIN holder"
 quickAnswer: "Length of credit history makes up about 15% of your FICO score and is rated \"highly influential\" by VantageScore. With an ITIN, the same rules apply: the older your open accounts, the higher your average credit age, and the more positively it influences your score. Keep your first accounts open and avoid unnecessary closures."
 publishedAt: "2026-06-18"
-author: "Camila Ortega"
+author: "Editorial Staff"
 category: "Credit Score"
 relatedSlugs:
   - "secured-credit-card-credit-score-itin"

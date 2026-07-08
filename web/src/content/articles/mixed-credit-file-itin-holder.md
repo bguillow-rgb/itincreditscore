@@ -11,7 +11,7 @@ relatedQueries:
   - "credit identity mismatch ITIN"
 quickAnswer: "A mixed credit file happens when a bureau merges another person's accounts into your ITIN credit report, or splits your own accounts across multiple files. It can cause sudden score drops or denials for credit you didn't take out. You fix it by disputing in writing with each bureau and supplying identity documents."
 publishedAt: "2026-06-22"
-author: "Daniel Okafor"
+author: "Research Desk"
 category: "Credit Score"
 relatedSlugs:
   - "how-to-dispute-credit-report-errors-with-itin"

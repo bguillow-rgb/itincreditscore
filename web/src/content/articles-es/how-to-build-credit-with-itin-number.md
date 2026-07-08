@@ -12,7 +12,7 @@ relatedQueries:
 quickAnswer: "Puedes construir crédito en EE. UU. con un ITIN abriendo una tarjeta de crédito asegurada o un préstamo para construir crédito que reporte a las tres bureaus, y pagando a tiempo cada mes. La mayoría de los titulares de ITIN generan su primer puntaje crediticio en 3 a 6 meses y alcanzan un puntaje \"bueno\" (670+) en 12 a 24 meses."
 publishedAt: "2026-06-06"
 updatedAt: "2026-07-07"
-author: "Daniel Okafor"
+author: "Research Desk"
 category: "Puntaje de Crédito"
 relatedSlugs:
   - "how-long-to-build-credit-with-itin"

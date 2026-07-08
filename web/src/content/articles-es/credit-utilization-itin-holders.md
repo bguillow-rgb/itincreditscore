@@ -11,7 +11,7 @@ relatedQueries:
   - "uso del crédito para construir historial con ITIN"
 quickAnswer: "El uso del crédito afecta tu puntaje con ITIN exactamente igual que un puntaje basado en SSN. Representa aproximadamente el 30% de tu puntaje FICO. Mantener tu uso por debajo del 30% de tu límite total de crédito, y de preferencia por debajo del 10%, es una de las formas más rápidas de subir tu puntaje sin abrir cuentas nuevas."
 publishedAt: "2026-06-18"
-author: "Camila Ortega"
+author: "Editorial Staff"
 category: "Puntaje de Crédito"
 relatedSlugs:
   - "payment-history-itin-credit-score"

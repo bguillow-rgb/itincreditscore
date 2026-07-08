@@ -11,7 +11,7 @@ relatedQueries:
   - "how to recover credit score with ITIN after missed payment"
 quickAnswer: "Negative items like late payments, collections, and charge-offs affect an ITIN credit file the same way they affect an SSN-based file. Most derogatory marks stay on your report for seven years under the Fair Credit Reporting Act. Your score can still improve before they drop off by adding positive payment history and keeping utilization low."
 publishedAt: "2026-06-18"
-author: "Lucía Morales"
+author: "Editorial Team"
 category: "Credit Score"
 relatedSlugs:
   - "hard-inquiries-itin-credit-score"

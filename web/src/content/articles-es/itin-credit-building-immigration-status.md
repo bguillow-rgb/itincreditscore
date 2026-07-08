@@ -11,7 +11,7 @@ relatedQueries:
   - "es seguro construir crédito con ITIN en 2026"
 quickAnswer: "Construir crédito con un ITIN no afecta tu estatus migratorio. La ley federal prohíbe a los burós de crédito compartir tu información con las autoridades migratorias de manera voluntaria, según la Ley de Privacidad Financiera. Solicitar crédito y construir un historial crediticio son procesos completamente separados de cualquier proceso migratorio."
 publishedAt: "2026-06-19"
-author: "Daniel Okafor"
+author: "Research Desk"
 category: "Puntaje de crédito"
 relatedSlugs:
   - "does-paying-rent-build-credit-with-itin"

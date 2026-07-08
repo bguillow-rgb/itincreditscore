@@ -11,7 +11,7 @@ relatedQueries:
   - "when to upgrade from secured to unsecured card ITIN"
 quickAnswer: "Yes, a secured credit card can build your ITIN credit score. When the issuer reports your account to Equifax, Experian, or TransUnion, on-time payments add positive payment history, and low utilization boosts your score. Most ITIN holders see a scoreable file within 3-6 months of opening their first secured card."
 publishedAt: "2026-06-21"
-author: "Camila Ortega"
+author: "Editorial Staff"
 category: "Credit Score"
 relatedSlugs:
   - "credit-age-itin-holders"

@@ -11,7 +11,7 @@ relatedQueries:
   - "is it safe to build credit with an ITIN 2026"
 quickAnswer: "Building credit with an ITIN does not affect your immigration status. Credit bureaus are legally prohibited from voluntarily sharing your data with immigration authorities under the Right to Financial Privacy Act. Applying for credit and building a credit history are entirely separate from any immigration enforcement process."
 publishedAt: "2026-06-19"
-author: "Daniel Okafor"
+author: "Research Desk"
 category: "Credit Score"
 relatedSlugs:
   - "expired-itin-credit-score-impact"

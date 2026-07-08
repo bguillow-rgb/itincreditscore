@@ -11,7 +11,7 @@ relatedQueries:
   - "annualcreditreport.com con ITIN"
 quickAnswer: "Los titulares de ITIN pueden obtener sus tres reportes de crédito gratis, pero no por el formulario en línea de AnnualCreditReport.com, que requiere un SSN. Usa myEquifax en línea (ingresa tu ITIN en el campo del SSN), la herramienta de carga de documentos de Experian y el chat en vivo o solicitud por correo de TransUnion. Cada buró acepta una solicitud escrita por correo sin costo."
 publishedAt: "2026-06-10"
-author: "Camila Ortega"
+author: "Editorial Staff"
 category: "Puntaje de Crédito"
 relatedSlugs:
   - "does-paying-rent-build-credit-with-itin"

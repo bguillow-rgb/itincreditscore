@@ -11,7 +11,7 @@ relatedQueries:
   - "cuándo pasar de tarjeta asegurada a tarjeta sin garantía con ITIN"
 quickAnswer: "Sí, una tarjeta de crédito asegurada puede construir tu puntaje de crédito con ITIN. Cuando el emisor reporta tu cuenta a Equifax, Experian o TransUnion, los pagos a tiempo agregan historial positivo y una utilización baja mejora tu puntaje. La mayoría de los titulares de ITIN obtienen un archivo con puntaje dentro de 3-6 meses de abrir su primera tarjeta asegurada."
 publishedAt: "2026-06-21"
-author: "Camila Ortega"
+author: "Editorial Staff"
 category: "Puntaje de crédito"
 relatedSlugs:
   - "credit-age-itin-holders"

@@ -11,7 +11,7 @@ relatedQueries:
   - "what factors affect ITIN credit score"
 quickAnswer: "Credit scoring works the same way with an ITIN as with an SSN. All three major bureaus (Experian, Equifax, TransUnion) use your ITIN as a unique identifier, lenders report your account activity monthly, and FICO and VantageScore models calculate a 300-850 score from the same five factors: payment history, utilization, history length, credit mix, and new inquiries."
 publishedAt: "2026-06-18"
-author: "Camila Ortega"
+author: "Editorial Staff"
 category: "Credit Score"
 relatedSlugs:
   - "fico-vs-vantagescore-itin-holders"
