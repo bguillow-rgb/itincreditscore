@@ -17,7 +17,7 @@ relatedSlugs:
   - "secured-credit-card-credit-score-itin"
   - "payment-history-itin-credit-score"
   - "credit-mix-with-itin"
-  - "expired-itin-credit-score-impact"
+  - "credit-score-car-insurance-rates-itin"
 faqs:
   - q: "¿La antigüedad del crédito funciona igual con un ITIN que con un SSN?"
     a: "Sí. Los modelos FICO y VantageScore calculan la antigüedad del historial crediticio de forma idéntica, sin importar si tu expediente está vinculado a un ITIN o a un SSN. La fecha de apertura de tus cuentas, la edad promedio y la antigüedad de tu cuenta más vieja se evalúan exactamente de la misma manera."

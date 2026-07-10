@@ -16,8 +16,8 @@ category: "Credit Score"
 relatedSlugs:
   - "thin-credit-file-itin-holder"
   - "credit-age-itin-holders"
+  - "credit-score-car-insurance-rates-itin"
   - "expired-itin-credit-score-impact"
-  - "identity-theft-itin-credit-score"
 faqs:
   - q: "Can a landlord pull my credit report if I only have an ITIN?"
     a: "Yes. All three major bureaus (Equifax, Experian, TransUnion) can generate a credit report tied to an ITIN. Landlords or tenant-screening services submit your ITIN in place of an SSN, and the bureaus match it to any credit file associated with that identifier. If you have reportable accounts, a full report and score will come back."

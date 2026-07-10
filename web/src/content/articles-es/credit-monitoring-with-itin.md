@@ -14,10 +14,10 @@ publishedAt: "2026-06-18"
 author: "Research Desk"
 category: "Puntaje de Crédito"
 relatedSlugs:
+  - "credit-score-car-insurance-rates-itin"
   - "does-paying-rent-build-credit-with-itin"
   - "foreign-credit-history-itin-us-credit-score"
   - "free-paid-services-check-credit-score-itin-2026"
-  - "credit-score-renting-apartment-itin"
 faqs:
   - q: "¿Puedo usar Credit Karma para monitorear mi crédito con un ITIN?"
     a: "Sí. Credit Karma acepta ITINs al registrarte y te proporciona puntajes VantageScore 3.0 de TransUnion y Equifax, además de alertas de monitoreo de crédito. Algunos titulares de ITIN reportan que necesitan ingresar su ITIN en el campo del SSN durante el registro. Si el proceso en línea falla, contactar al soporte de Credit Karma generalmente resuelve el problema."
