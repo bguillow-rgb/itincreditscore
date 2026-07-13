@@ -32,7 +32,7 @@ faqs:
 published: true
 ---
 
-When you are just starting to build credit with an ITIN, every point matters. One of the most confusing moments comes the first time a lender or service tells you that your application will trigger a "credit check." You wonder: will this hurt the score you have worked so hard to grow? The short answer is yes, a little, but the rules work exactly the same way they do for SSN holders, and the damage is almost always small and temporary.
+When you are just starting to build credit with an ITIN, every point matters. One of the most confusing moments comes the first time a lender or service tells you that your application will trigger a "credit check." You wonder: will this hurt the score you have worked so hard to grow? The short answer is yes, a little, but the rules work exactly the same way they do for SSN holders, and the damage is almost always small and temporary. To watch the impact for yourself, our guide on [how to check your credit score with an ITIN](/check-credit-score-with-itin) shows where to pull each number for free.
 
 ## What exactly is a hard inquiry, and when does one happen with an ITIN?
 

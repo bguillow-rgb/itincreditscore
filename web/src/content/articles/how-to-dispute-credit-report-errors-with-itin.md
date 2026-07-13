@@ -44,7 +44,7 @@ howToSteps:
 published: true
 ---
 
-Your credit report is the foundation of your U.S. financial life. When it contains errors, the consequences reach further than most people expect: a loan denial, a higher interest rate, a rejected rental application, or even a failed background check. If you are an ITIN holder, you may worry that disputing those errors is more complicated than it is for SSN holders. It is not. The process is the same, the rights are identical, and the bureaus are legally required to respond.
+Your credit report is the foundation of your U.S. financial life. When it contains errors, the consequences reach further than most people expect: a loan denial, a higher interest rate, a rejected rental application, or even a failed background check. If you are an ITIN holder, you may worry that disputing those errors is more complicated than it is for SSN holders. It is not. The process is the same, the rights are identical, and the bureaus are legally required to respond. To catch errors in the first place, start by learning [how to check your credit score with an ITIN](/check-credit-score-with-itin) and pull all three reports.
 
 ## Does an ITIN holder actually have the right to dispute credit report errors?
 

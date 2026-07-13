@@ -236,7 +236,7 @@ More than five million active ITINs are used by taxpayers in the United States, 
 **If I eventually get an SSN, what happens to my ITIN credit history?**
 Your credit history does not disappear. The bureaus merge your ITIN file with your new SSN file once you notify them and update your accounts. We cover this process in detail in our guide on [how to transfer your ITIN credit history to an SSN](/transfer-itin-credit-history-to-ssn).
 
-**Can I check my credit score with an ITIN if I live outside the United States?**
+**Can I [check my credit score with an ITIN](/check-credit-score-with-itin) if I live outside the United States?**
 Yes, your U.S. credit file exists regardless of where you physically are located. You can access online services from abroad, though some platforms use your IP address as part of identity verification and may flag a non-U.S. location as unusual. Using a U.S.-based connection can reduce friction during signup for some services.
 
 **Does my ITIN expiration affect my ability to see my credit score?**

@@ -32,7 +32,7 @@ faqs:
 published: true
 ---
 
-You open one credit monitoring app and see a 672. You check another tool and it shows 691. A third says 648. All three numbers claim to be your credit score, yet none of them match. If you are an ITIN holder, this is one of the most common and most confusing moments in your early credit-building journey. The good news: nothing is wrong with your file. The variation is built into how the U.S. credit system works, and understanding it will actually help you build a stronger profile across all three bureaus.
+You open one credit monitoring app and see a 672. You check another tool and it shows 691. A third says 648. All three numbers claim to be your credit score, yet none of them match. If you are an ITIN holder, this is one of the most common and most confusing moments in your early credit-building journey. The good news: nothing is wrong with your file. The variation is built into how the U.S. credit system works, and understanding it will actually help you build a stronger profile across all three bureaus. Before you compare numbers across apps, it helps to know [how to check your credit score with an ITIN](/check-credit-score-with-itin) at each bureau directly.
 
 ## Why do I have three different credit scores when I only have one credit file?
 
