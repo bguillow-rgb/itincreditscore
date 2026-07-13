@@ -17,7 +17,7 @@ relatedSlugs:
   - "free-paid-services-check-credit-score-itin-2026"
   - "credit-monitoring-with-itin"
   - "how-to-check-credit-score-with-itin-number"
-  - "authorized-user-credit-building-itin"
+  - "700-credit-score-timeline-itin-holders"
 faqs:
   - q: "Can I check my credit score with an ITIN instead of an SSN?"
     a: "Yes. Once you have at least one reporting account and roughly six months of payment history, you have a scoreable U.S. credit file under your ITIN. Multiple free and paid services can pull that file without requiring an SSN."

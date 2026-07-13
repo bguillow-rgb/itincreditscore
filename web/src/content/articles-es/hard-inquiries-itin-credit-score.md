@@ -15,9 +15,9 @@ author: "Research Desk"
 category: "Puntaje de Crédito"
 relatedSlugs:
   - "payment-history-itin-credit-score"
+  - "700-credit-score-timeline-itin-holders"
   - "how-credit-scoring-works-with-itin"
   - "how-to-build-credit-with-itin-number"
-  - "negative-items-on-credit-report-with-itin"
 faqs:
   - q: "¿Revisar mi propio crédito con un ITIN cuenta como consulta dura?"
     a: "No. Revisar tu propio reporte o puntaje de crédito siempre es una consulta suave, la cual no afecta tu puntaje sin importar con qué frecuencia lo hagas. Esto aplica ya sea que lo revises directamente con una agencia de crédito, a través de un servicio de monitoreo o en una plataforma especializada para titulares de ITIN."

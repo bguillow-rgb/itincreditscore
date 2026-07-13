@@ -15,9 +15,9 @@ author: "Research Desk"
 category: "Puntaje de Crédito"
 relatedSlugs:
   - "credit-score-car-insurance-rates-itin"
+  - "700-credit-score-timeline-itin-holders"
   - "cosigning-with-itin-credit-score-impact"
   - "credit-monitoring-with-itin"
-  - "credit-utilization-itin-holders"
 faqs:
   - q: "¿Mi puntaje de crédito de México, India, Canadá o el Reino Unido aparece automáticamente en mi historial crediticio en EE. UU.?"
     a: "No. Las tres principales agencias de crédito de EE. UU. (Equifax, TransUnion, Experian) solo registran actividad de cuentas estadounidenses. Tu puntaje extranjero no aparece en el sistema de EE. UU. de forma automática, aunque una agencia tenga el mismo nombre que la que usabas en tu país."

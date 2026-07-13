@@ -13,10 +13,10 @@ publishedAt: "2026-06-05"
 author: "Research Desk"
 category: "Credit Basics"
 relatedSlugs:
+  - "700-credit-score-timeline-itin-holders"
   - "authorized-user-credit-building-itin"
   - "credit-mix-with-itin"
   - "credit-score-car-insurance-rates-itin"
-  - "foreign-credit-history-itin-us-credit-score"
 faqs:
   - q: "Does having an ITIN automatically give you a credit score?"
     a: "No. An ITIN on its own doesn't generate a credit score. You need to open at least one credit account, such as a secured card or credit-builder loan, that reports your payment activity to the bureaus. After six months of reported history, a FICO score can be calculated."

@@ -14,10 +14,10 @@ publishedAt: "2026-06-17"
 author: "Editorial Staff"
 category: "Puntaje de crédito"
 relatedSlugs:
+  - "700-credit-score-timeline-itin-holders"
   - "credit-age-itin-holders"
   - "free-paid-services-check-credit-score-itin-2026"
   - "how-to-check-credit-score-with-itin-free-paid-services"
-  - "secured-credit-card-credit-score-itin"
 faqs:
   - q: "¿Tener un ITIN en lugar de un SSN dificulta subir mi puntaje de crédito?"
     a: "No. Los modelos FICO y VantageScore calculan tu puntaje de la misma manera, ya sea que tu expediente esté vinculado a un ITIN o a un SSN. Los factores de puntuación (historial de pagos, utilización, antigüedad de las cuentas, combinación de créditos y consultas nuevas) son idénticos. La única diferencia real es que algunas herramientas de monitoreo en línea están diseñadas para SSN, por lo que los titulares de ITIN a veces necesitan usar opciones por correo o directamente con las agencias de crédito para acceder a sus reportes."

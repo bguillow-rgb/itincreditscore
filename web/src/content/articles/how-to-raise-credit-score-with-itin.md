@@ -14,10 +14,10 @@ publishedAt: "2026-06-17"
 author: "Editorial Staff"
 category: "Credit Score"
 relatedSlugs:
+  - "700-credit-score-timeline-itin-holders"
   - "credit-mix-with-itin"
   - "credit-monitoring-with-itin"
   - "authorized-user-credit-building-itin"
-  - "credit-age-itin-holders"
 faqs:
   - q: "Does having an ITIN instead of an SSN make it harder to raise my credit score?"
     a: "No. The FICO and VantageScore models calculate your score identically whether your file is tied to an ITIN or an SSN. The scoring factors (payment history, utilization, account age, credit mix, and new inquiries) are the same. The only real difference is that some online monitoring tools are built around SSNs, so ITIN holders occasionally need to use mail-in or bureau-direct options to access their reports."

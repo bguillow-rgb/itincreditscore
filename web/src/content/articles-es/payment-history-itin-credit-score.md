@@ -14,10 +14,10 @@ publishedAt: "2026-06-18"
 author: "Editorial Team"
 category: "Puntaje de Crédito"
 relatedSlugs:
+  - "700-credit-score-timeline-itin-holders"
   - "credit-age-itin-holders"
   - "credit-utilization-itin-holders"
   - "cosigning-with-itin-credit-score-impact"
-  - "credit-score-car-insurance-rates-itin"
 faqs:
   - q: "¿El historial de pagos funciona igual para los titulares de ITIN que para los que tienen SSN?"
     a: "Sí. Los modelos de puntuación, FICO y VantageScore, evalúan el comportamiento de pago de la misma manera, sin importar si tu expediente está vinculado a un ITIN o a un SSN. La única diferencia es el número de identificación que se usa para enlazar tus cuentas a tu expediente de crédito, no la forma en que se califican tus pagos a tiempo o atrasados."
