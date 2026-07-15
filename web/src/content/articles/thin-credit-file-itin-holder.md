@@ -16,8 +16,8 @@ category: "Credit Score"
 relatedSlugs:
   - "credit-score-renting-apartment-itin"
   - "mixed-credit-file-itin-holder"
+  - "closing-credit-account-itin-credit-score"
   - "credit-age-itin-holders"
-  - "credit-mix-with-itin"
 faqs:
   - q: "How many accounts do I need to get a credit score with an ITIN?"
     a: "FICO requires at least one account open for six months and reported to a bureau for six months. VantageScore can generate a score from a single account with as little as one month of history. Opening two accounts, such as a credit-builder loan and a secured card, gives bureaus enough data to produce a reliable score faster."

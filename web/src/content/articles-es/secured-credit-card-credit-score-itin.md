@@ -17,7 +17,7 @@ relatedSlugs:
   - "credit-age-itin-holders"
   - "utility-bills-credit-score-itin"
   - "700-credit-score-timeline-itin-holders"
-  - "how-to-dispute-credit-report-errors-with-itin"
+  - "closing-credit-account-itin-credit-score"
 faqs:
   - q: "¿Abrir una tarjeta de crédito asegurada con mi ITIN va a bajar mi puntaje?"
     a: "Al solicitar la tarjeta se genera una consulta formal (hard inquiry), lo que normalmente baja tu puntaje unos 5 puntos de forma temporal. Esa caída suele recuperarse en 3-6 meses una vez que los pagos a tiempo comienzan a construir historial positivo. El beneficio a largo plazo supera con creces el impacto inicial."

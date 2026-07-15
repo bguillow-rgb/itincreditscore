@@ -15,9 +15,9 @@ author: "Editorial Staff"
 category: "Puntaje de crédito"
 relatedSlugs:
   - "credit-age-itin-holders"
+  - "closing-credit-account-itin-credit-score"
   - "identity-theft-itin-credit-score"
   - "itin-credit-building-immigration-status"
-  - "credit-score-car-insurance-rates-itin"
 faqs:
   - q: "¿Mi puntaje de crédito baja de inmediato si mi ITIN vence?"
     a: "No, el solo vencimiento no provoca una caída inmediata del puntaje. Tus cuentas existentes y tu historial de pagos permanecen en el archivo. El riesgo está en que los nuevos pagos dejen de reportarse, lo cual puede frenar tu avance y con el tiempo perjudicar tu puntaje por inactividad o falta de actualizaciones."
