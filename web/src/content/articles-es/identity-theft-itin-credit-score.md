@@ -17,7 +17,7 @@ relatedSlugs:
   - "itin-credit-building-immigration-status"
   - "expired-itin-credit-score-impact"
   - "credit-age-itin-holders"
-  - "how-to-freeze-credit-with-itin"
+  - "goodwill-letter-late-payment-itin-credit-score"
 faqs:
   - q: "¿Pueden robar mi ITIN y abrir cuentas de crédito a mi nombre?"
     a: "Sí. Los estafadores pueden usar tu ITIN junto con tu nombre y dirección para solicitar crédito. Como muchos expedientes vinculados a un ITIN tienen menos historial y se monitorean con menos frecuencia, las cuentas no autorizadas pueden pasar desapercibidas por más tiempo. Revisar regularmente tus reportes en las tres agencias es tu mejor sistema de alerta temprana."

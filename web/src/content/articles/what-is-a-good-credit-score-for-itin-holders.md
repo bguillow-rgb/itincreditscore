@@ -17,7 +17,7 @@ relatedSlugs:
   - "thin-credit-file-itin-holder"
   - "credit-age-itin-holders"
   - "credit-mix-with-itin"
-  - "how-to-raise-credit-score-with-itin"
+  - "goodwill-letter-late-payment-itin-credit-score"
 faqs:
   - q: "Is the credit score scale different for ITIN holders than for SSN holders?"
     a: "No. ITIN holders are scored on the exact same 300-850 scale. Once an account is reported to a bureau under your ITIN, the scoring model treats it identically to any SSN-linked account. Your payment history, utilization, and account age all factor in the same way."
