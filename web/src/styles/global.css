@@ -253,7 +253,8 @@ img { max-width: 100%; height: auto; }
   display: grid;
   grid-template-columns: 1.1fr 0.9fr;
   gap: 56px;
-  align-items: center;
+  /* Top-align: the trust rail is tall; centering pushed the copy mid-page. */
+  align-items: start;
 }
 /* Masthead eyebrow: a small-caps label over a short rule, not a pill. */
 .eyebrow {
@@ -302,8 +303,12 @@ img { max-width: 100%; height: auto; }
   display: grid;
   grid-template-columns: 0.85fr 1.15fr;  /* visual left, generous text right */
   gap: 64px;
-  align-items: center;
+  /* Top-align: the left column (image + form) is much taller than the copy;
+     centering pushed the headline mid-page and left dead air up top. */
+  align-items: start;
 }
+/* Nudge the copy to sit on the image's optical line, not the container edge. */
+.guide-hero-copy { padding-top: 8px; }
 .guide-hero-visual { order: 0; }
 .guide-hero-copy { order: 1; }
 .guide-hero-figure {
