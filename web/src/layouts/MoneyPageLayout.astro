@@ -5,6 +5,7 @@ import FAQ from '../components/FAQ.astro';
 import Disclosure from '../components/Disclosure.astro';
 import InlineCTA from '../components/InlineCTA.astro';
 import CreditKarmaAd from '../components/CreditKarmaAd.astro';
+import ScamShield from '../components/ScamShield.astro';
 import RelatedLinks from '../components/RelatedLinks.astro';
 import SourcesNote from '../components/SourcesNote.astro';
 import Icon from '../components/Icon.astro';
@@ -45,7 +46,9 @@ const {
   lede,
   quickAnswer,
   faqs,
-  updated = isEs ? '5 de junio de 2026' : 'June 5, 2026',
+  // No fake default: the "Updated" line renders ONLY when a page passes a real
+  // revision date. A shared hardcoded date is detectable fake freshness.
+  updated,
   heroImage,
   heroAlt = '',
 } = Astro.props;
@@ -54,19 +57,12 @@ const fullUrl = `${SITE.url}${path}`;
 const crumbs = [{ name: h1, url: fullUrl }];
 const affiliateUrl = affiliateUrlFor(path);
 const ogSlug = path.replace(/^\/(es\/)?/, '').replace(/^\//, '') || 'home';
-// Per-cluster hero identity: a distinct accent color + icon per page so each
-// money page's above-the-fold reads as its own page, not the same blue hero.
-// Icon + accent come from the matching PRODUCT, cycling the palette by the
-// product's order maximizes color spread between sibling pages. Pages not in
-// PRODUCTS fall back to a stable per-slug hash.
-const ACCENTS = ['#11366B', '#0E7490', '#6D28D9', '#15803D', '#B45309', '#BE123C'];
+// One institutional accent sitewide ("The Report" graphite). Pages are
+// differentiated by content and icon, never by a per-page rainbow — one
+// identity is the trust signal.
 const prodIndex = PRODUCTS.findIndex((p) => p.slug === ogSlug);
 const heroIcon = prodIndex >= 0 ? PRODUCTS[prodIndex].icon : 'doc';
-const accentKey =
-  prodIndex >= 0
-    ? prodIndex
-    : [...ogSlug].reduce((h, c) => (h * 31 + c.charCodeAt(0)) >>> 0, 7);
-const heroAccent = ACCENTS[accentKey % ACCENTS.length];
+const heroAccent = '#2E3A47';
 const loansLabel = isEs ? 'Guía de Puntaje' : 'Credit Score Guide';
 const updatedLabel = isEs ? 'Actualizado' : 'Updated';
 
@@ -105,9 +101,13 @@ const speakableSchema = {
         <div class="hero-cta">
           <a href={localizedHref('/apply', lang)} class="btn btn-primary btn-lg">{t('cta.qualify')}</a>
         </div>
-        <p class="byline" style="margin-top:16px">{updatedLabel} {updated}</p>
+        {updated && <p class="byline" style="margin-top:16px">{updatedLabel} {updated}</p>}
       </div>
-      <div>
+      <div class="hero-rail">
+        {/* Trust rail: disarm the scam fear first, then the recommended tool.
+            The Credit Karma unit stays here — clickable, restyled as a flat
+            recommendation, and its banner doubles as the Awin impression pixel. */}
+        <ScamShield />
         <CreditKarmaAd path={path} />
       </div>
     </div>

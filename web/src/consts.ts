@@ -13,7 +13,7 @@ export const SITE = {
     'ITINCreditScore.com ayuda a las personas con ITIN a construir un historial crediticio en EE. UU., revisar su puntaje de crédito sin Seguro Social y subirlo, cubriendo los burós de crédito, las herramientas para construir crédito y lo que realmente mueve tu puntaje. Guías independientes y conexión con herramientas.',
   url: 'https://itincreditscore.com',
   locale: 'en-US',
-  supportEmail: 'bguillow@gmail.com',
+  supportEmail: 'info@timberlineventuresllc.com',
 
   // Publisher (legal operating entity), drives Organization + Article
   // publisher schema and the footer copyright. The /about page is the
@@ -151,19 +151,23 @@ export const SITE = {
   // both loaded via Google Fonts with font-display:swap (see BaseLayout +
   // global.css). fontHead / fontBody mirror the --font-head / --font-body CSS
   // tokens; they replace the old shared --font system stack.
+  // "Civic Record — The Report" identity (2026-07-17 redesign). Ink-on-paper
+  // documentary system; graphite-blue accent (a credit report is a printed
+  // black-and-white document); oxblood reserved for scam warnings only.
   theme: {
-    bg: '#FFFFFF',
-    surface: '#F4F8F6',
-    surfaceAlt: '#EAF2F6',
-    text: '#16271D',
-    muted: '#566A60',
-    primary: '#15803D',
-    primaryDark: '#166534',
-    accent: '#2563EB',
-    accentDark: '#1D4ED8',
-    border: '#E1EBE5',
-    fontHead: "'Syne', system-ui, -apple-system, sans-serif",
-    fontBody: "'Source Sans 3', system-ui, -apple-system, sans-serif",
+    bg: '#FBFAF7',
+    surface: '#F1EFE9',
+    surfaceAlt: '#F1EFE9',
+    text: '#1A1D1A',
+    muted: '#5C6159',
+    primary: '#2E3A47',
+    primaryDark: '#1F2933',
+    accent: '#405264',
+    accentDark: '#2E3A47',
+    border: '#D8D4CB',
+    flag: '#9A3324',
+    fontHead: "'Newsreader Variable', Georgia, serif",
+    fontBody: "'Public Sans Variable', system-ui, -apple-system, sans-serif",
   },
 };
 

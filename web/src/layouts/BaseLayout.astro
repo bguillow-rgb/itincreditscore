@@ -6,6 +6,11 @@ import WebSiteSchema from '../components/schema/WebSiteSchema.astro';
 import Analytics from '../components/Analytics.astro';
 import Nav from '../components/Nav.astro';
 import Footer from '../components/Footer.astro';
+// Self-hosted brand typography ("The Report" identity): Newsreader for
+// headings/prose, Public Sans (the US federal design system face) for UI.
+// Bundled locally — no Google Fonts CDN request, no third-party call.
+import '@fontsource-variable/newsreader';
+import '@fontsource-variable/public-sans';
 import '../styles/global.css';
 
 interface Props {
@@ -57,16 +62,6 @@ const fullTitle =
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <!-- Brand typography: Syne (display headings) + Source Sans 3 (body).
-         Preconnect for faster fetch; display=swap so text paints immediately.
-         Weights limited (Syne 600/700, Source Sans 3 400/600) to protect LCP. -->
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600&family=Syne:wght@600;700&display=swap"
-    />
-
     <title>{fullTitle}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonical} />
@@ -102,8 +97,8 @@ const fullTitle =
   <body>
     <div class="announce-bar">
       {lang === 'es'
-        ? <>🏠 Nuevo: préstamos FHA para compradores con ITIN, solo 3.5% de enganche.* <a href="/es/apply">Verifica si calificas →</a></>
-        : <>🏠 New: FHA home loans for ITIN buyers — just 3.5% down.* <a href="/apply">See if you qualify →</a></>}
+        ? <>Préstamos FHA para compradores con ITIN, con 3.5% de enganche.* <a href="/es/apply">Verifica si calificas</a></>
+        : <>FHA home loans for ITIN buyers, with 3.5% down.* <a href="/apply">See if you qualify</a></>}
     </div>
     <Nav />
     <main>
