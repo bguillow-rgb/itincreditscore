@@ -122,7 +122,7 @@ According to Experian's Q4 2025 Lending Conditions Chartbook, ITIN holders maint
 
 *A question we hear often:* especially from people who've just obtained their ITIN and haven't opened any U.S. credit accounts.
 
-You need at least one open, reporting account before a score can exist. The two fastest paths for ITIN holders are a [secured credit card for ITIN holders](https://itincreditscore.com/secured-credit-cards-for-itin-holders) and a [credit-builder loan](https://itincreditscore.com/credit-builder-loan-with-itin). Both report to the bureaus monthly, and a score typically appears within three to six months of your first statement.
+You need at least one open, reporting account before a score can exist. The two fastest paths for ITIN holders are a [secured credit card for ITIN holders](/articles/secured-credit-card-credit-score-itin) and a [credit-builder loan](https://itincreditscore.com/credit-builder-loan-with-itin). Both report to the bureaus monthly, and a score typically appears within three to six months of your first statement.
 
 If you want to accelerate even further, becoming an authorized user on a family member's card with a long, clean history can add that account's age and payment record to your file immediately. According to a 2026 immigration study, only 9% of immigrant consumers have a credit score by age 22, but 75% achieve a credit score by age 26, demonstrating rapid convergence, evidence that consistent, early action pays off faster than most people expect.
 

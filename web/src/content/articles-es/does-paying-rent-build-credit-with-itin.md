@@ -96,7 +96,7 @@ Para un titular de ITIN típico que es nuevo en el crédito de EE. UU. y que tal
 
 El mecanismo es directo: el historial de pagos es el factor individual más importante tanto en los modelos FICO como VantageScore, y representa aproximadamente el 35% de tu puntaje FICO según los criterios de puntuación publicados por FICO. Cada pago de renta puntual reportado a los burós refuerza ese historial. Puede ser difícil para las personas, y en particular para los inquilinos, encontrar formas confiables de construir crédito. En respuesta, los principales modelos de puntuación crediticia están actualizando sus algoritmos para incluir los pagos de renta en el cálculo del puntaje.
 
-Si también estás trabajando con un [préstamo para construir crédito con tu ITIN](/credit-builder-loan-with-itin) o una [tarjeta de crédito asegurada para titulares de ITIN](/secured-credit-cards-for-itin-holders), agregar el reporte de renta crea una segunda línea comercial activa con una cadencia de pagos diferente, una combinación que construye tu expediente más rápido que cualquiera de las dos estrategias por separado.
+Si también estás trabajando con un [préstamo para construir crédito con tu ITIN](/credit-builder-loan-with-itin) o una [tarjeta de crédito asegurada para titulares de ITIN](/es/articles/secured-credit-card-credit-score-itin), agregar el reporte de renta crea una segunda línea comercial activa con una cadencia de pagos diferente, una combinación que construye tu expediente más rápido que cualquiera de las dos estrategias por separado.
 
 ---
 
@@ -146,7 +146,7 @@ El reporte de renta es una pieza del rompecabezas, no el cuadro completo. La may
 Una combinación práctica para un titular de ITIN que empieza desde cero en 2026:
 
 1. **Abre un préstamo para construir crédito**, reporta historial de pagos a plazos cada mes. Consulta nuestra guía de [préstamos para construir crédito con ITIN](/credit-builder-loan-with-itin).
-2. **Agrega una tarjeta de crédito asegurada**, establece una línea comercial de crédito rotativo. Nuestra guía de [tarjetas de crédito aseguradas para titulares de ITIN](/secured-credit-cards-for-itin-holders) cubre las mejores opciones.
+2. **Agrega una tarjeta de crédito asegurada**, establece una línea comercial de crédito rotativo. Nuestra guía de [tarjetas de crédito aseguradas para titulares de ITIN](/es/articles/secured-credit-card-credit-score-itin) cubre las mejores opciones.
 3. **Inscríbete en el reporte de renta**, agrega un segundo (o tercer) pago mensual positivo a tu expediente usando un gasto que ya estás pagando.
 4. **Mantén el uso de crédito por debajo del 30%** en cualquier tarjeta que abras.
 5. **Revisa tus reportes en los tres burós** cada seis meses para confirmar que la renta realmente está apareciendo.

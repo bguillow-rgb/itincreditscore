@@ -96,7 +96,7 @@ For a typical ITIN holder who is new to U.S. credit and may only have one secure
 
 The mechanism is straightforward: payment history is the single largest factor in both FICO and VantageScore models, accounting for roughly 35% of your FICO score according to FICO's published scoring criteria. Each on-time rent payment reported to the bureaus reinforces that history. It can be difficult for people, and particularly renters, to find reliable ways to build credit. In response, the major credit scoring models are updating their scoring algorithms to include rental payments in credit score calculations.
 
-If you're also working with a [credit builder loan with your ITIN](/credit-builder-loan-with-itin) or a [secured credit card for ITIN holders](/secured-credit-cards-for-itin-holders), adding rent reporting creates a second active tradeline with a different payment cadence, a combination that builds your file faster than either strategy alone.
+If you're also working with a [credit builder loan with your ITIN](/credit-builder-loan-with-itin) or a [secured credit card for ITIN holders](/articles/secured-credit-card-credit-score-itin), adding rent reporting creates a second active tradeline with a different payment cadence, a combination that builds your file faster than either strategy alone.
 
 ---
 
@@ -146,7 +146,7 @@ Rent reporting is one piece of the puzzle, not the whole picture. Most scoring m
 A practical stack for an ITIN holder starting from zero in 2026:
 
 1. **Open a credit builder loan**, reports installment payment history monthly. See our guide to [credit builder loans with an ITIN](/credit-builder-loan-with-itin).
-2. **Add a secured credit card**, establishes a revolving tradeline. Our [secured credit cards for ITIN holders](/secured-credit-cards-for-itin-holders) guide covers the best options.
+2. **Add a secured credit card**, establishes a revolving tradeline. Our [secured credit cards for ITIN holders](/articles/secured-credit-card-credit-score-itin) guide covers the best options.
 3. **Enroll in rent reporting**, adds a second (or third) monthly positive payment to your file using an expense you're already paying.
 4. **Keep credit utilization below 30%** on any cards you open.
 5. **Check your reports at all three bureaus** every six months to confirm rent is actually appearing.

@@ -120,7 +120,7 @@ Tener varios tipos de crédito, tarjetas y préstamos, demuestra a los prestamis
 
 La secuencia recomendada para la mayoría de los titulares de ITIN que empiezan desde cero:
 
-1. **Abre primero una tarjeta de crédito asegurada**, úsala para compras pequeñas y recurrentes y paga el saldo completo cada mes. Esto establece tu primera cuenta reportada e inicia el conteo de tu historial crediticio. (Consulta nuestra guía sobre [tarjetas de crédito aseguradas para titulares de ITIN](/secured-credit-cards-for-itin-holders) para ver las mejores opciones.)
+1. **Abre primero una tarjeta de crédito asegurada**, úsala para compras pequeñas y recurrentes y paga el saldo completo cada mes. Esto establece tu primera cuenta reportada e inicia el conteo de tu historial crediticio. (Consulta nuestra guía sobre [tarjetas de crédito aseguradas para titulares de ITIN](/es/articles/secured-credit-card-credit-score-itin) para ver las mejores opciones.)
 2. **Agrega un préstamo para construir crédito entre el mes 4 y el 6**, una vez que tu tarjeta asegurada esté reportando, añade el préstamo para construir crédito. La cuenta de cuotas diversifica tu combinación de crédito y acelera el crecimiento del puntaje.
 3. **Mantén ambas cuentas activas y al corriente**, no cierres la tarjeta asegurada cuando pases a una tarjeta sin depósito. La antigüedad de las cuentas importa.
 

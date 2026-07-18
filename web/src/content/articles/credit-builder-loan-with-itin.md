@@ -120,7 +120,7 @@ Having multiple types of credit, cards and loans, shows lenders you can manage d
 
 The recommended sequencing for most ITIN holders starting from scratch:
 
-1. **Open a secured credit card first**, use it for small, recurring purchases and pay the full balance every month. This establishes your first reported account and starts the clock on your credit history. (See our guide on [secured credit cards for ITIN holders](/secured-credit-cards-for-itin-holders) for the best options.)
+1. **Open a secured credit card first**, use it for small, recurring purchases and pay the full balance every month. This establishes your first reported account and starts the clock on your credit history. (See our guide on [secured credit cards for ITIN holders](/articles/secured-credit-card-credit-score-itin) for the best options.)
 2. **Add a credit builder loan at month 4-6**, once your secured card is reporting, layer in a credit builder loan. The installment account diversifies your credit mix and accelerates score growth.
 3. **Keep both accounts active and current**, don't close the secured card when you graduate to an unsecured card. Account age matters.
 
