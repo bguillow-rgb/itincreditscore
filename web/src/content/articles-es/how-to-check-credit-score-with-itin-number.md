@@ -17,7 +17,7 @@ relatedSlugs:
   - "does-paying-rent-build-credit-with-itin"
   - "free-paid-services-check-credit-score-itin-2026"
   - "credit-score-car-insurance-rates-itin"
-  - "credit-monitoring-with-itin"
+  - "collections-on-credit-report-itin-holders"
 faqs:
   - q: "¿Puedo obtener mi reporte de crédito con un ITIN en lugar de un SSN?"
     a: "Sí. Los tres burós mantienen tu historial crediticio bajo tu ITIN y entregan tu reporte gratis, pero no a través del formulario en línea de AnnualCreditReport.com, que requiere un SSN. Usa myEquifax en línea (ITIN en el campo del SSN), la herramienta de carga de documentos o solicitud por correo de Experian, y el chat en vivo o solicitud por correo de TransUnion. Cada buró se contacta por separado."

@@ -16,8 +16,8 @@ category: "Credit Score"
 relatedSlugs:
   - "how-to-check-credit-score-with-itin-free-paid-services"
   - "how-to-check-credit-score-with-itin-number"
+  - "collections-on-credit-report-itin-holders"
   - "credit-monitoring-with-itin"
-  - "secured-credit-card-credit-score-itin"
 faqs:
   - q: "Can I check my credit score online with an ITIN, or do I have to use mail?"
     a: "You can check online. Equifax.com allows ITIN holders to create an account and access a free VantageScore 3.0 monthly. myFICO's free plan delivers a FICO Score 8. Credit Karma provides an Equifax VantageScore with regular updates. Mail-in requests to all three bureaus also work and are free under the FCRA, but take 7-30 days."

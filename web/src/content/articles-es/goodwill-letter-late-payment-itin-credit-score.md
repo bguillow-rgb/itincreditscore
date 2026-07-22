@@ -14,10 +14,10 @@ publishedAt: "2026-07-17"
 author: "Editorial Team"
 category: "Puntaje de Crédito"
 relatedSlugs:
+  - "collections-on-credit-report-itin-holders"
   - "cosigning-with-itin-credit-score-impact"
   - "credit-score-car-insurance-rates-itin"
   - "payment-history-itin-credit-score"
-  - "credit-monitoring-with-itin"
 faqs:
   - q: "¿Puedo enviar una carta de buena voluntad siendo titular de ITIN y no de SSN?"
     a: "Sí. Una carta de buena voluntad es una solicitud directa a tu acreedor, no un formulario gubernamental. Tu ITIN o SSN no influye en si el acreedor considera o acepta la solicitud. Lo que importa es tu historial con ese prestamista en particular."

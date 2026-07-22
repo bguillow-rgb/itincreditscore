@@ -16,8 +16,8 @@ category: "Credit Score"
 relatedSlugs:
   - "secured-credit-card-credit-score-itin"
   - "700-credit-score-timeline-itin-holders"
+  - "collections-on-credit-report-itin-holders"
   - "foreign-credit-history-itin-us-credit-score"
-  - "how-to-build-credit-with-itin-number"
 faqs:
   - q: "Will my credit score drop when I transfer from an ITIN to an SSN?"
     a: "It should not. The transfer merges your existing file under a new identifier, your account ages, payment history, and utilization all carry over intact. The start date of your credit history stays the same."

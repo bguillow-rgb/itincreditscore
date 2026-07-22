@@ -14,10 +14,10 @@ publishedAt: "2026-07-08"
 author: "Editorial Team"
 category: "Puntaje de Crédito"
 relatedSlugs:
+  - "collections-on-credit-report-itin-holders"
   - "goodwill-letter-late-payment-itin-credit-score"
   - "authorized-user-credit-building-itin"
   - "foreign-credit-history-itin-us-credit-score"
-  - "how-to-build-credit-with-itin-number"
 faqs:
   - q: "¿Puede un titular de ITIN ser cofirmante en un préstamo?"
     a: "Sí. Muchos prestamistas, incluyendo cooperativas de crédito y algunos bancos, aceptan el ITIN como identificación válida para un cofirmante. Aun así, necesitarás cumplir con los requisitos de puntaje de crédito y relación deuda-ingreso del prestamista. No todos los prestamistas permiten cofirmantes con ITIN, así que confirma la política antes de solicitar."

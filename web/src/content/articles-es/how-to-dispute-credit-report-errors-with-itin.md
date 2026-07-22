@@ -15,10 +15,10 @@ updatedAt: "2026-07-07"
 author: "Editorial Staff"
 category: "Puntaje de crédito"
 relatedSlugs:
+  - "collections-on-credit-report-itin-holders"
   - "credit-age-itin-holders"
   - "secured-credit-card-credit-score-itin"
   - "mixed-credit-file-itin-holder"
-  - "closing-credit-account-itin-credit-score"
 faqs:
   - q: "¿Los titulares de ITIN tienen derecho a disputar errores en su reporte de crédito?"
     a: "Sí. La Ley de Informes de Crédito Justos (FCRA) se aplica a todos los consumidores, sin importar su estatus migratorio ni el identificador (ITIN o SSN) que figure en su expediente de crédito. Los titulares de ITIN tienen exactamente los mismos derechos legales para revisar, disputar y corregir información incorrecta en sus reportes de crédito."

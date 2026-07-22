@@ -14,10 +14,10 @@ publishedAt: "2026-06-18"
 author: "Research Desk"
 category: "Credit Score"
 relatedSlugs:
+  - "collections-on-credit-report-itin-holders"
   - "credit-age-itin-holders"
   - "payment-history-itin-credit-score"
   - "secured-credit-card-credit-score-itin"
-  - "cosigning-with-itin-credit-score-impact"
 faqs:
   - q: "Does checking my own credit with an ITIN count as a hard inquiry?"
     a: "No. Checking your own credit report or score is always a soft inquiry, which does not affect your score regardless of how often you check. This applies whether you check through a bureau directly, a credit monitoring service, or an ITIN-specific platform."

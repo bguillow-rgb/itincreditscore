@@ -14,10 +14,10 @@ publishedAt: "2026-06-21"
 author: "Editorial Staff"
 category: "Credit Score"
 relatedSlugs:
+  - "collections-on-credit-report-itin-holders"
   - "credit-age-itin-holders"
   - "cosigning-with-itin-credit-score-impact"
   - "700-credit-score-timeline-itin-holders"
-  - "authorized-user-credit-building-itin"
 faqs:
   - q: "Will opening a secured credit card with my ITIN hurt my credit score?"
     a: "Applying triggers a hard inquiry, which typically drops your score by about 5 points temporarily. That dip usually recovers within 3-6 months once on-time payments start building positive history. The long-term benefit far outweighs the short-term impact."

@@ -15,9 +15,9 @@ author: "Editorial Staff"
 category: "Puntaje de Crédito"
 relatedSlugs:
   - "credit-score-car-insurance-rates-itin"
+  - "collections-on-credit-report-itin-holders"
   - "cosigning-with-itin-credit-score-impact"
   - "credit-monitoring-with-itin"
-  - "credit-utilization-itin-holders"
 faqs:
   - q: "¿Puede un arrendador consultar mi reporte de crédito si solo tengo ITIN?"
     a: "Sí. Las tres principales agencias de crédito (Equifax, Experian, TransUnion) pueden generar un reporte de crédito vinculado a un ITIN. Los servicios de verificación de inquilinos y los arrendadores ingresan tu ITIN en lugar del SSN, y las agencias lo relacionan con cualquier historial crediticio asociado a ese número. Si tienes cuentas reportadas, recibirán un reporte completo con puntaje."

@@ -16,8 +16,8 @@ category: "Credit Score"
 relatedSlugs:
   - "goodwill-letter-late-payment-itin-credit-score"
   - "mixed-credit-file-itin-holder"
+  - "collections-on-credit-report-itin-holders"
   - "expired-itin-credit-score-impact"
-  - "negative-items-on-credit-report-with-itin"
 faqs:
   - q: "Can someone steal my ITIN and open credit accounts in my name?"
     a: "Yes. Fraudsters can use your ITIN, combined with your name and address, to apply for credit. Because many ITIN-linked files are thinner and monitored less frequently, unauthorized accounts may go undetected longer. Regularly checking all three bureau reports is your best early warning system."

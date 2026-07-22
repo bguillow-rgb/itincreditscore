@@ -16,8 +16,8 @@ category: "Puntaje de crédito"
 relatedSlugs:
   - "credit-age-itin-holders"
   - "payment-history-itin-credit-score"
+  - "collections-on-credit-report-itin-holders"
   - "itin-credit-building-immigration-status"
-  - "expired-itin-credit-score-impact"
 faqs:
   - q: "¿Los pagos atrasados afectan un puntaje de crédito con ITIN igual que uno con SSN?"
     a: "Sí. Los modelos de puntuación (FICO y VantageScore) tratan los pagos atrasados de forma idéntica sin importar si tu historial está vinculado a un ITIN o a un SSN. El historial de pagos es el factor más importante en ambos modelos, por lo que incluso un solo pago con 30 días de retraso puede bajar notablemente tu puntaje."

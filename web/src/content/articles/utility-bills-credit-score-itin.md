@@ -17,7 +17,7 @@ relatedSlugs:
   - "experian-boost-alternative-data-itin"
   - "does-paying-rent-build-credit-with-itin"
   - "secured-credit-card-credit-score-itin"
-  - "cosigning-with-itin-credit-score-impact"
+  - "collections-on-credit-report-itin-holders"
 faqs:
   - q: "Do utility companies report on-time payments to the credit bureaus for ITIN holders?"
     a: "Almost never automatically. Most utility providers only report accounts that go to collections. To get credit for on-time payments, ITIN holders need to use a third-party bill-reporting service that accepts ITINs, such as eCredable Lift."
