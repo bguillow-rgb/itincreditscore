@@ -36,7 +36,7 @@ When you are just starting to build credit with an ITIN, every point matters. On
 
 ## What exactly is a hard inquiry, and when does one happen with an ITIN?
 
-*A question we hear often:* ITIN holders sometimes assume their credit works differently at the application stage. It does not.
+ITIN holders sometimes assume their credit works differently at the application stage. It does not.
 
 A hard inquiry (also called a hard pull) is recorded on your credit report when a lender formally reviews your credit file as part of a credit decision. Hard inquiries occur when you apply for a new loan or line of credit, such as a mortgage or a credit card. The same trigger applies whether your file is identified by an SSN or an ITIN. Common events that generate a hard inquiry for ITIN holders include applying for a secured card, a [credit-builder loan](https://itincreditusa.com/credit-builder-loan-with-itin), an auto loan, or any other credit product where the lender needs to evaluate your creditworthiness before approving you.
 
@@ -52,7 +52,7 @@ It is also worth knowing that new credit inquiries are one of the smallest facto
 
 ## How long do hard inquiries stay on my ITIN credit report?
 
-*This one comes up a lot:* people worry that a hard inquiry will follow them for years.
+People worry that a hard inquiry will follow them for years.
 
 Hard inquiries remain on your credit report for two years but may affect your score for only one. That two-year window is the same for everyone, ITIN or SSN. This maximum time frame of two years is substantially shorter than other negative markers, such as bankruptcy, which can remain on your credit report for up to 10 years. So while an inquiry is visible to lenders who pull your full report, its scoring impact fades first, and then the entry ages off automatically. You do not have to do anything.
 
@@ -79,7 +79,7 @@ One practical tip before you formally apply anywhere: ask whether the lender off
 
 ## Does applying for a credit-builder loan or secured card cause a hard inquiry?
 
-*Readers frequently ask:* this is one of the most common questions from ITIN holders who are just getting started.
+This is one of the most common questions from ITIN holders who are just getting started.
 
 It depends on the specific product. Many credit-builder tools and secured cards popular with ITIN holders advertise that they do not require a hard credit check, precisely because they are designed for people with thin or no files. No hard check means no hard inquiry, and your score is completely unaffected by the application.
 

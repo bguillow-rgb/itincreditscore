@@ -36,7 +36,7 @@ Tu historial crediticio y los años que pasaste construyéndolo en tu país de o
 
 ## ¿Por qué mi puntaje de crédito de mi país no se transfiere automáticamente a EE. UU.?
 
-*Una pregunta que escuchamos con frecuencia:* un titular de ITIN llega desde India, Brasil o Canadá con una década de pagos puntuales, pero los prestamistas en EE. UU. lo tratan como si fuera un completo desconocido.
+Un titular de ITIN llega desde India, Brasil o Canadá con una década de pagos puntuales, pero los prestamistas en EE. UU. lo tratan como si fuera un completo desconocido.
 
 Las tres principales agencias de crédito de EE. UU. no importan historiales crediticios extranjeros. Tu puntaje en tu país de origen no aparece automáticamente en el sistema de EE. UU., aunque la agencia tenga el mismo nombre. La razón es estructural: cada país tiene sus propios sistemas de calificación crediticia que generalmente no son compatibles con los de EE. UU. Equifax Canadá y Equifax EE. UU. son bases de datos separadas, con formatos distintos, prestamistas distintos y metodologías de calificación distintas. Una no se comunica con la otra.
 
@@ -56,7 +56,7 @@ Una advertencia importante: esto no crea un puntaje de crédito en EE. UU. El Cr
 
 ## ¿Qué países cubre Nova Credit actualmente?
 
-*Esta pregunta surge mucho:* no todos los titulares de ITIN provienen de países que Nova cubre.
+No todos los titulares de ITIN provienen de países que Nova cubre.
 
 Los informes disponibles actualmente provienen de Australia, Austria, Brasil, Canadá, República Dominicana, Alemania, India, Kenia, México, Nigeria, Filipinas, Corea del Sur, España, Suiza y el Reino Unido. Nova también tiene alianzas en Colombia, Ghana y algunos mercados adicionales, y la lista sigue creciendo.
 
@@ -66,7 +66,7 @@ Si tu país no está disponible, el camino a seguir es el mismo que para cualqui
 
 ## ¿Qué prestamistas en EE. UU. aceptan el Credit Passport de Nova Credit?
 
-*Los lectores preguntan con frecuencia:* "Escuché que American Express usaba Nova Credit. ¿Sigue siendo así?"
+"Escuché que American Express usaba Nova Credit. ¿Sigue siendo así?"
 
 El panorama de prestamistas ha cambiado. Grandes prestamistas como American Express (la alianza terminó en 2025), Deserve y otros se han asociado con Nova Credit. Chase también acepta el Credit Passport para ciertas solicitudes de tarjetas. Ahora puedes usar tu historial de crédito de países seleccionados al solicitar una tarjeta de crédito de Chase.
 
@@ -101,7 +101,7 @@ El camino más sólido para la mayoría de los titulares de ITIN es el combinado
 
 ## ¿Mi historial extranjero cuenta para algo una vez que tengo un puntaje en EE. UU.?
 
-*Los lectores preguntan con frecuencia:* una vez que existe un expediente en EE. UU., ¿el historial extranjero se agrega retroactivamente?
+Una vez que existe un expediente en EE. UU., ¿el historial extranjero se agrega retroactivamente?
 
 No. Aunque hayas tenido un excelente historial crediticio en otro país, ese récord generalmente no se transfiere a Estados Unidos. Los informes de crédito en EE. UU. solo contienen información de prestamistas y acreedores estadounidenses. Tu FICO y VantageScore se calculan completamente a partir de lo que las agencias de EE. UU. pueden ver: cuentas domésticas, historial de pagos, saldos, consultas y antigüedad de las cuentas.
 

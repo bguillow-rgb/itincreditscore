@@ -40,8 +40,6 @@ This guide walks through exactly what needs to happen, in what order, and what t
 
 ## Will my ITIN credit score actually carry over to my new SSN?
 
-*A question we hear often:*
-
 Yes, but only if you take the right steps. You can have a credit history with an ITIN, but once you get a Social Security number, you must notify the credit bureaus to move your history under your new SSN. The underlying data, every on-time payment, every account age milestone, every credit limit, stays intact through the transfer. The date your credit history began is static; it won't change if the bank identifies you with your Social Security number instead of your ITIN.
 
 The scoring models don't care which nine-digit number sits at the top of your file. When a credit report is pulled, the mechanics of calculating credit scores remain the same, regardless of whether the individual uses an ITIN or SSN. What matters is that all your account data travels with you, and that only happens when you actively request the merge.
@@ -94,8 +92,6 @@ Pull your reports from all three bureaus after the transfer. Look for your oldes
 
 ## How long does the transfer take, and will it hurt my score?
 
-*This one comes up a lot:*
-
 The transfer shouldn't take more than 30-60 days and shouldn't affect your credit scores. Because the bureaus are merging an existing file rather than creating a new one, your score factors, payment history, account age, utilization, remain unchanged. The transfer is essentially a re-labeling of your identifier from ITIN to SSN.
 
 That said, there is a window of a few weeks between when you rescind your ITIN and when lenders finish updating their records, during which a hard pull by a new lender might temporarily return a thin or missing file under your SSN. If you're planning a major credit application, a mortgage, a car loan, give the full 60-day window to pass and then verify your reports before you apply.
@@ -115,8 +111,6 @@ There is also a practical risk: attempting to use both simultaneously is most li
 ---
 
 ## What if the bureaus can't find my ITIN file?
-
-*Readers frequently ask:*
 
 This occasionally happens when a lender reported your accounts using inconsistent identifying information, a common issue for ITIN holders whose names may appear slightly differently across different creditors. Errors can happen. These include duplicate accounts, incorrect balances, misreported late payments, accounts belonging to someone else, and identity confusion between ITIN and SSN records.
 

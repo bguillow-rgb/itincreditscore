@@ -38,7 +38,7 @@ You check your credit score on Credit Karma and see 672. You then log into myFIC
 
 ## Wait, are there really two different scoring systems, and do both work with an ITIN?
 
-*A question we hear often:* yes, and yes. The U.S. credit scoring industry is dominated by two competing models: FICO, introduced in 1989, and VantageScore, launched in 2006 through a joint effort by Experian, TransUnion, and Equifax to create a competing credit scoring system. Both run on the same underlying credit report data, and that data is tied to whichever tax ID number, SSN or ITIN, the credit bureaus have on file for you.
+Yes, and yes. The U.S. credit scoring industry is dominated by two competing models: FICO, introduced in 1989, and VantageScore, launched in 2006 through a joint effort by Experian, TransUnion, and Equifax to create a competing credit scoring system. Both run on the same underlying credit report data, and that data is tied to whichever tax ID number, SSN or ITIN, the credit bureaus have on file for you.
 
 According to Experian's 2026 white paper, the IRS has issued more than 27 million individual taxpayer identification numbers since 1996. ITIN credit scores function identically to SSN-based FICO and VantageScore models. The scoring engines do not know or care whether the identifier is an ITIN or an SSN. They read the tradelines your lenders report, run the math, and return a number.
 
@@ -65,7 +65,7 @@ The most visible result for new ITIN credit builders is this: because VantageSco
 
 ## Which score do actual lenders use when I apply for something?
 
-*This one comes up a lot.* The short answer: FICO dominates anywhere serious money is involved. FICO scores are used by 90% of top lenders. That includes most mortgage lenders, auto dealers, and major credit card issuers.
+The short answer: FICO dominates anywhere serious money is involved. FICO scores are used by 90% of top lenders. That includes most mortgage lenders, auto dealers, and major credit card issuers.
 
 FICO dominates mortgages, auto loans, and most traditional lending. VantageScore appears primarily in free monitoring tools and some credit card decisions. A "Good" VantageScore does not guarantee a "Good" FICO, as the tiers don't align exactly.
 
@@ -86,7 +86,7 @@ Note the mortgage shift: in October 2022, the Federal Housing Finance Agency app
 
 ## Where do I actually see each score if I have an ITIN?
 
-*Readers frequently ask:* free tools dominate daily monitoring, but none of them show FICO by default. Here is the practical breakdown for ITIN holders based on what is confirmed working in 2026:
+Free tools dominate daily monitoring, but none of them show FICO by default. Here is the practical breakdown for ITIN holders based on what is confirmed working in 2026:
 
 **Free VantageScore sources that accept an ITIN:**
 - Credit Karma (Equifax and TransUnion VantageScore 3.0, updates weekly)
@@ -111,7 +111,7 @@ Research consistently shows that ITIN holders are strong payers: according to Ex
 
 ## How do I improve both scores at the same time?
 
-*A question we hear often:* the good news is that the fundamentals that move FICO also move VantageScore, because they read the same credit report. You do not need separate strategies. The differences in weighting mean some actions have outsized effects in one model, but no action penalizes one while helping the other.
+The good news is that the fundamentals that move FICO also move VantageScore, because they read the same credit report. You do not need separate strategies. The differences in weighting mean some actions have outsized effects in one model, but no action penalizes one while helping the other.
 
 Four actions that improve both scores simultaneously for ITIN holders:
 

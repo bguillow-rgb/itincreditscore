@@ -44,7 +44,7 @@ Las agencias analizan el uso por tarjeta y en conjunto para todas tus tarjetas. 
 
 ## ¿El uso del crédito me aplica igual que a alguien con SSN?
 
-*Una pregunta que escuchamos con frecuencia:* Los titulares de ITIN a veces se preocupan porque las reglas de puntaje crediticio sean diferentes para ellos. No lo son.
+Los titulares de ITIN a veces se preocupan porque las reglas de puntaje crediticio sean diferentes para ellos. No lo son.
 
 Los modelos de puntaje crediticio generalmente evalúan el comportamiento financiero, no los números de identificación. Ya sea que las cuentas se reporten con un ITIN o un Número de Seguro Social, los porcentajes de uso siguen siendo un factor importante. Las fórmulas de FICO y VantageScore no tienen un cálculo separado para archivos vinculados a un ITIN. Tu puntaje se construye con los datos de tu historial crediticio, y el cálculo es idéntico sin importar cuál número de nueve dígitos aparece al inicio de ese archivo.
 
@@ -70,7 +70,7 @@ Si estás empezando con una tarjeta asegurada y un límite de $300-$500, el obje
 
 ## ¿Por qué un límite de crédito pequeño hace más difícil manejar el uso?
 
-*Este tema surge mucho:* Muchos titulares de ITIN comienzan con una sola tarjeta asegurada con un límite de $200-$500. Con un límite tan pequeño, incluso los gastos cotidianos normales pueden llevar el uso por encima del 30% sin querer.
+Muchos titulares de ITIN comienzan con una sola tarjeta asegurada con un límite de $200-$500. Con un límite tan pequeño, incluso los gastos cotidianos normales pueden llevar el uso por encima del 30% sin querer.
 
 La solución no es dejar de usar la tarjeta. Los prestamistas quieren ver que la usas activamente. La solución está en el momento del pago. La técnica consiste en pagar tus saldos antes de la fecha de cierre de tu estado de cuenta, en lugar de esperar a la fecha de vencimiento. Las compañías de tarjetas de crédito generalmente reportan el saldo de tu estado de cuenta a las agencias de crédito. Pagar antes garantiza un porcentaje de uso reportado más bajo, aunque uses tus tarjetas con frecuencia durante el mes.
 
@@ -80,7 +80,7 @@ Este enfoque requiere que conozcas tu fecha de cierre del estado de cuenta, que 
 
 ## ¿Cómo interactúa el uso del crédito con los otros factores de mi puntaje?
 
-*Los lectores preguntan con frecuencia* qué tan importante es el uso del crédito comparado con el historial de pagos.
+Qué tan importante es el uso del crédito comparado con el historial de pagos.
 
 El historial de pagos es el factor más importante, ya que cuenta entre el 35% y el 41% de tu puntaje dependiendo del modelo que se use. El uso del crédito ocupa el segundo lugar con aproximadamente el 30% en FICO. Juntos, esos dos factores representan más del 65% de tu puntaje total.
 

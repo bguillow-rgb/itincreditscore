@@ -36,7 +36,7 @@ Finding a collection account or a late payment on your credit report is stressfu
 
 ## What exactly counts as a negative item on a credit report?
 
-*A question we hear often:* readers are sometimes unsure whether something on their report is truly "derogatory" or just a quirk of how their ITIN file was set up. Here is a plain-language breakdown.
+Readers are sometimes unsure whether something on their report is truly "derogatory" or just a quirk of how their ITIN file was set up. Here is a plain-language breakdown.
 
 "Derogatory" items include late payments, collection accounts, bankruptcy, charge-offs, and other negative marks on your credit report, and they can impact your ability to qualify for new credit. In practice, the most common ones ITIN holders encounter are:
 
@@ -66,7 +66,7 @@ Credit reporting agencies are legally required to remove most negative items onc
 
 ## Does paying off a collection actually help my ITIN credit score?
 
-*Readers frequently ask:* whether it is worth paying an old collection if it will stay on the report anyway.
+Whether it is worth paying an old collection if it will stay on the report anyway.
 
 The answer depends on which scoring model a lender uses. Depending on what credit scoring model is being used, your score may still be affected for up to seven years even after payment, but it will be listed as a "paid collection." Some newer scoring models, like FICO Score 9 and FICO Score 10, do not include collections that have been paid.
 
@@ -74,7 +74,7 @@ For ITIN holders this distinction matters in practice. If you are trying to qual
 
 ## My ITIN file is still young. Does a single late payment damage it more than an older file?
 
-*This one comes up a lot:* ITIN holders who are 6-24 months into building credit and hit one rough month.
+ITIN holders who are 6-24 months into building credit and hit one rough month.
 
 Yes, the damage is proportionally larger on a thin or young file. Payment history accounts for 35% of a FICO Score and 41% in VantageScore 4.0, according to the score developers, making it the single largest factor in both models. When your file has only a handful of accounts and a short history, one 30-day late mark has very little positive data to balance against it.
 
@@ -92,7 +92,7 @@ One important rule: you can only successfully remove items that are inaccurate, 
 
 ## What is the fastest way to rebuild my ITIN credit score while negative items are still there?
 
-*A question we hear often:* ITIN holders want a practical action plan, not just an explanation of why their score dropped.
+ITIN holders want a practical action plan, not just an explanation of why their score dropped.
 
 The core strategy is to fill your file with positive data that is more recent than the negative mark. Scoring models weight recent behavior more heavily than older events, so the goal is to make your report look forward rather than backward.
 

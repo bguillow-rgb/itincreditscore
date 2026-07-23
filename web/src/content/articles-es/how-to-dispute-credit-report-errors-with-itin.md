@@ -48,7 +48,7 @@ Tu reporte de crédito es la base de tu vida financiera en Estados Unidos. Cuand
 
 ## ¿Los titulares de ITIN realmente tienen derecho a disputar errores en su reporte de crédito?
 
-*Una pregunta que escuchamos con frecuencia:* muchos lectores asumen que las leyes de protección al consumidor solo aplican a ciudadanos estadounidenses o titulares de SSN. Esa suposición es incorrecta.
+Muchos lectores asumen que las leyes de protección al consumidor solo aplican a ciudadanos estadounidenses o titulares de SSN. Esa suposición es incorrecta.
 
 La Ley de Informes de Crédito Justos (FCRA), la ley federal que regula los reportes de crédito, se aplica a todos los consumidores que tienen un expediente de crédito en Estados Unidos, sin importar su estatus migratorio ni el tipo de identificador en el expediente. Según el CFPB, tienes derecho a disputar información incompleta o incorrecta en tus reportes de crédito, y la buró está obligada a investigar. Los titulares de ITIN están incluidos de forma explícita: como lo señala un recurso de derecho del consumidor, "Los consumidores que no tienen SSN, como los titulares de ITIN o los extranjeros, tienen los mismos derechos de disputa y protección que los ciudadanos estadounidenses".
 
@@ -71,7 +71,7 @@ El archivo mezclado merece atención especial. Ocurre cuando el algoritmo de una
 
 ## ¿Cómo presento una disputa con cada buró usando mi ITIN?
 
-*Esto surge mucho:* los lectores generalmente saben que tienen un error pero no están seguros de a qué buró contactar ni qué incluir.
+Los lectores generalmente saben que tienen un error pero no están seguros de a qué buró contactar ni qué incluir.
 
 Lo primero que debes entender es que las tres burós no comparten automáticamente las correcciones entre sí. Si el mismo error aparece en los reportes de Equifax, Experian y TransUnion, debes presentar una disputa por separado con cada una. Aquí está exactamente qué incluir y a dónde enviarlo:
 
@@ -97,7 +97,7 @@ Cualquiera que sea el método que uses, guarda copias de todo lo que envíes y r
 
 ## ¿Qué pasa después de que presento una disputa?
 
-*Los lectores preguntan con frecuencia* cómo funciona realmente la investigación una vez que la envían.
+Cómo funciona realmente la investigación una vez que la envían.
 
 Después de que tu disputa llega a la buró, esta debe investigar en un plazo de 30 días (extendido a 45 días si proporcionas información adicional durante ese período). En la práctica, la buró le reenvía tu disputa y los documentos de respaldo al proveedor de datos, es decir, el prestamista o la agencia de cobros que reportó originalmente el elemento, y les pide que verifiquen o corrijan la información. Luego, la buró debe enviarte los resultados por escrito.
 

@@ -36,7 +36,7 @@ Si acabas de abrir tu primera cuenta de crédito con un ITIN, o estás a punto d
 
 ## "¿Cuándo voy a tener un puntaje crediticio?"
 
-*Una pregunta que escuchamos con frecuencia:* en el momento en que alguien abre su primera tarjeta asegurada o cuenta para construir crédito con un ITIN, quiere saber exactamente cuándo aparecerá un número.
+En el momento en que alguien abre su primera tarjeta asegurada o cuenta para construir crédito con un ITIN, quiere saber exactamente cuándo aparecerá un número.
 
 La respuesta corta: **de 3 a 6 meses**. Según los criterios de puntuación publicados por FICO, necesitas al menos una cuenta de crédito que haya estado abierta durante seis meses o más, y al menos una cuenta que haya sido reportada a un buró en los últimos seis meses, antes de que se pueda generar un puntaje FICO. En la práctica, muchos titulares de ITIN ven aparecer su puntaje alrededor del tercer mes si abren una tarjeta que reporta actividad a Experian, TransUnion y Equifax cada ciclo de facturación.
 
@@ -61,7 +61,7 @@ Estos hitos suponen pagos puntuales cada mes y un uso del crédito constantement
 
 ## "¿Por qué alcanzar un puntaje aceptable tarda 4 a 6 meses, pero uno bueno tarda 12 a 18 meses?"
 
-*Los lectores preguntan con frecuencia* por qué el primer salto se siente rápido pero el siguiente parece tardar una eternidad.
+Por qué el primer salto se siente rápido pero el siguiente parece tardar una eternidad.
 
 La razón está en cómo los modelos de puntuación crediticia ponderan los factores con el tiempo. En los primeros meses, cualquier historial positivo en un expediente vacío sube el puntaje rápidamente: estás llenando un archivo en blanco, por lo que cada pago puntual tiene un impacto mayor de lo habitual. Pero pasar del nivel Aceptable (580-669) al nivel Bueno (670-739) requiere más que solo historial de pagos. Los modelos de puntuación también ponderan la **antigüedad del historial crediticio** (aproximadamente el 15% de tu puntaje) y la **combinación de créditos** (alrededor del 10%). Ambos factores solo mejoran con el tiempo y la variedad de cuentas.
 
@@ -71,7 +71,7 @@ Una forma práctica de acelerar el salto de aceptable a bueno: después de 6 a 1
 
 ## "¿Puedo acelerar el proceso convirtiéndome en usuario autorizado?"
 
-*Esta pregunta surge mucho:* el cónyuge o hermano de un lector ya tiene una tarjeta de crédito en EE. UU. con años de buen historial. ¿Unirse a esa cuenta puede agilizar la obtención de un puntaje?
+El cónyuge o hermano de un lector ya tiene una tarjeta de crédito en EE. UU. con años de buen historial. ¿Unirse a esa cuenta puede agilizar la obtención de un puntaje?
 
 Sí, y es una de las estrategias más desaprovechadas por los titulares de ITIN. Cuando el titular principal de una tarjeta te agrega como usuario autorizado, la mayoría de los grandes emisores, incluyendo Chase, American Express, Bank of America y Capital One, reportan el historial de esa cuenta a los burós de crédito tanto bajo el perfil del titular principal como bajo el del usuario autorizado. Ese historial puede aparecer en tu expediente crediticio de ITIN casi de inmediato.
 
@@ -97,7 +97,7 @@ Para una guía completa sobre cómo obtener tus reportes de cada buró, consulta
 
 ## "¿Qué error puede retrasar más mi cronograma?"
 
-*Una pregunta que escuchamos con frecuencia:* los lectores quieren saber no solo qué ayuda, sino qué perjudica.
+Los lectores quieren saber no solo qué ayuda, sino qué perjudica.
 
 La respuesta es clara: **un pago atrasado**. El historial de pagos es el componente más importante tanto en los modelos FICO como en VantageScore, representando aproximadamente entre el 35% y el 41% de tu puntaje total según el modelo. Para un expediente nuevo con solo unos meses de historial, un solo pago con 30 días de retraso puede bajar el puntaje decenas de puntos, y se necesita un comportamiento puntual sostenido para recuperarse.
 

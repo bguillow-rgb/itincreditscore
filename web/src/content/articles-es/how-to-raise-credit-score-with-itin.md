@@ -38,7 +38,7 @@ Tu puntaje de crédito ITIN responde exactamente a los mismos factores que cualq
 
 ## ¿Qué controla realmente mi puntaje de crédito ITIN?
 
-*Una pregunta que recibimos con frecuencia:* antes de optimizar cualquier cosa, es útil ver exactamente qué está evaluando el modelo de puntuación.
+Antes de optimizar cualquier cosa, es útil ver exactamente qué está evaluando el modelo de puntuación.
 
 El historial de pagos es el factor más importante en tu puntaje de crédito: representa el 35% de tu FICO Score, el modelo que usa el 90% de los principales prestamistas. Después de eso, la utilización del crédito comprende aproximadamente el 30% del cálculo de tu puntaje FICO. El peso restante se distribuye entre la antigüedad del historial de crédito, la combinación de créditos (la variedad de tipos de cuentas que tienes) y las consultas de crédito nuevas.
 
@@ -62,7 +62,7 @@ Si un pago tardío en tu reporte fue registrado por error (por ejemplo, un pago 
 
 ## Mi puntaje está estancado. ¿Es la utilización del crédito el problema?
 
-*Este tema surge con mucha frecuencia:* muchos titulares de ITIN con tarjetas aseguradas tienen límites de crédito bajos, lo que significa que incluso saldos pequeños generan porcentajes de utilización altos.
+Muchos titulares de ITIN con tarjetas aseguradas tienen límites de crédito bajos, lo que significa que incluso saldos pequeños generan porcentajes de utilización altos.
 
 La utilización del crédito es el porcentaje de tu límite de crédito que usas cada mes, y es un componente fundamental de tu puntaje de crédito. La mayoría de los prestamistas prefieren solicitantes que usan solo una parte de sus líneas de crédito disponibles, porque eso refleja hábitos de gasto razonables.
 
@@ -80,7 +80,7 @@ A diferencia de los pagos tardíos (que permanecen en tu reporte por siete años
 
 ## ¿Abrir una segunda cuenta ayuda o perjudica mi puntaje?
 
-*Los lectores preguntan con frecuencia:* si agregar un [préstamo para construir crédito con un ITIN](https://itincreditscore.com/credit-builder-loan-with-itin) junto a una tarjeta de crédito es una decisión inteligente o simplemente más riesgo.
+Si agregar un [préstamo para construir crédito con un ITIN](https://itincreditscore.com/credit-builder-loan-with-itin) junto a una tarjeta de crédito es una decisión inteligente o simplemente más riesgo.
 
 Honestamente, depende de en qué etapa de tu proceso de construcción de crédito te encuentres. Cualquier nueva solicitud genera una consulta fuerte a corto plazo. La mayoría de las solicitudes de tarjetas de crédito generan una consulta fuerte, que puede bajar temporalmente tu puntaje entre 5 y 15 puntos. Esa es una caída pequeña y temporal.
 
@@ -106,7 +106,7 @@ Solicita tus reportes gratuitos por correo usando tu ITIN como identificador. Re
 
 ## ¿Debo convertirme en usuario autorizado para subir mi puntaje más rápido?
 
-*Una pregunta que recibimos con frecuencia:* si un familiar o amigo cercano tiene una tarjeta de crédito con buen historial, ser agregado como [usuario autorizado en una tarjeta de crédito con un ITIN](https://itincreditscore.com/authorized-user-credit-card-itin) puede agregar todo el historial de esa tarjeta a tu expediente.
+Si un familiar o amigo cercano tiene una tarjeta de crédito con buen historial, ser agregado como [usuario autorizado en una tarjeta de crédito con un ITIN](https://itincreditscore.com/authorized-user-credit-card-itin) puede agregar todo el historial de esa tarjeta a tu expediente.
 
 El beneficio es significativo. Heredas la antigüedad de la cuenta, el límite de crédito y el historial de pagos sin necesitar calificar por tu cuenta. Si el titular principal tiene una tarjeta de cinco años con un límite de $5,000 y un historial limpio, tu expediente de repente parece mucho más consolidado.
 

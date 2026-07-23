@@ -40,7 +40,7 @@ A credit builder loan is one of the most underused tools in the ITIN holder's fi
 
 ## Can I actually get a credit builder loan without a Social Security Number?
 
-*A question we hear often:* ITIN holders consistently run into lenders that require an SSN and wonder if credit builder loans are even an option for them.
+ITIN holders consistently run into lenders that require an SSN and wonder if credit builder loans are even an option for them.
 
 Personal loans and credit products with an ITIN are available to borrowers who use an Individual Taxpayer Identification Number instead of a Social Security Number, provided the lender accepts ITIN-based applications. From a legal standpoint, no federal law prohibits lenders from issuing credit to borrowers without Social Security numbers, lenders need a way to identify borrowers and verify tax reporting obligations, and an ITIN satisfies that requirement.
 
@@ -50,7 +50,7 @@ Credit builder loans are especially accessible because the lender takes on almos
 
 ## How does a credit builder loan actually work, and why is it backwards?
 
-*This one comes up a lot:* Newcomers expect a loan to put money in their hands immediately. A credit builder loan does the opposite on purpose.
+Newcomers expect a loan to put money in their hands immediately. A credit builder loan does the opposite on purpose.
 
 A credit builder loan works backwards. You borrow money that gets held in an account. You make monthly payments, and once you've paid it off, you get the money. The lender reports your payments to the credit bureaus throughout the loan term.
 
@@ -78,7 +78,7 @@ Equifax, Experian, and TransUnion each maintain their own credit file. A product
 
 ## What documents do I need to apply with an ITIN?
 
-*Readers frequently ask* what paperwork to prepare before sitting down with a lender. The list is shorter than most expect.
+What paperwork to prepare before sitting down with a lender. The list is shorter than most expect.
 
 Most ITIN-friendly credit builder loan lenders require:
 
@@ -114,7 +114,7 @@ According to FICO, the two factors that dominate your score are payment history 
 
 ## Should I get a credit builder loan or a secured card first?
 
-*A question we hear often:* ITIN holders trying to choose between the two products sometimes frame it as an either/or decision. It isn't.
+ITIN holders trying to choose between the two products sometimes frame it as an either/or decision. It isn't.
 
 Having multiple types of credit, cards and loans, shows lenders you can manage different financial products. This helps your score grow faster. In FICO's scoring model, credit mix accounts for approximately 10% of your score. An installment loan (credit builder) and a revolving account (secured card) together satisfy that mix far better than either product alone.
 

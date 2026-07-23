@@ -44,7 +44,7 @@ The practical damage is real and fast. If the stranger's accounts include missed
 
 ## Why are ITIN holders at higher risk for a mixed credit file?
 
-*A question we hear often:* why does this happen more to immigrants and ITIN holders than to people who have had an SSN their whole lives?
+Why does this happen more to immigrants and ITIN holders than to people who have had an SSN their whole lives?
 
 The answer is in how bureaus match records. According to Experian, when no SSN is provided, the bureau relies on other identification elements, including your full name, date of birth, and addresses for the past two years, to compile your credit history. A Social Security Number is the only identifier uniquely assigned to each U.S. consumer, so files built without one depend entirely on those softer data points.
 
@@ -54,7 +54,7 @@ The IRS has issued more than 27 million ITINs since 1996, according to Experian'
 
 ## How do I find out if my credit file has been mixed?
 
-*This one comes up a lot:* readers often don't realize they have a mixed file until they are denied credit and pull their report for the first time.
+Readers often don't realize they have a mixed file until they are denied credit and pull their report for the first time.
 
 The clearest warning signs to look for on your report:
 
@@ -81,7 +81,7 @@ Having all of these ready before you write your dispute letter reduces the chanc
 
 ## How do I actually dispute a mixed credit file with each bureau?
 
-*Readers frequently ask:* whether a phone call to the bureau is enough to fix a mixed file.
+Whether a phone call to the bureau is enough to fix a mixed file.
 
 A phone call can open a case, but a written dispute creates a paper trail that is legally meaningful under the Fair Credit Reporting Act. The FCRA gives bureaus 30 days to investigate a dispute, or 45 days if you submit additional information after the initial filing. For a mixed-file dispute, always submit in writing (certified mail with return receipt is ideal) so you have proof of the date the bureau received your letter.
 

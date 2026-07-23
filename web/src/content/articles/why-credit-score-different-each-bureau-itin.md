@@ -36,7 +36,7 @@ You open one credit monitoring app and see a 672. You check another tool and it 
 
 ## Why do I have three different credit scores when I only have one credit file?
 
-*A question we hear often:* many ITIN holders assume a single credit score follows them everywhere. The reality is more layered.
+Many ITIN holders assume a single credit score follows them everywhere. The reality is more layered.
 
 There is no unified credit file in the United States. Equifax, Experian, and TransUnion are three separate, competing companies that each build their own independent file on you. They do not share data with each other. When a lender reports your payment history, it sends that information directly to whichever bureaus it has contracts with, and many lenders do not report to all three.
 
@@ -67,7 +67,7 @@ There is also a significant 2026 development worth knowing. Fannie Mae and Fredd
 
 ## Why does Equifax show a score online but Experian and TransUnion don't?
 
-*Readers frequently ask:* why they can sign into one app and see their Equifax score immediately, but get nothing from Experian or TransUnion.
+Why they can sign into one app and see their Equifax score immediately, but get nothing from Experian or TransUnion.
 
 This comes down to how each bureau handles ITIN-based identity verification online. Equifax's portal at my.equifax.com allows ITIN holders to register by entering the ITIN in the SSN field, and it provides a free VantageScore 3.0 with your credit file once a month. That makes it the most accessible bureau for online score access with an ITIN.
 
@@ -77,7 +77,7 @@ Because most free credit monitoring apps like Credit Karma pull their data from 
 
 ## Does a score difference between bureaus mean something is wrong with my credit?
 
-*This one comes up a lot:* ITIN holders who see a 30-point gap between Equifax and TransUnion sometimes assume there is an error or a problem. Usually, there is not.
+ITIN holders who see a 30-point gap between Equifax and TransUnion sometimes assume there is an error or a problem. Usually, there is not.
 
 A difference of 20-50 points between bureaus is entirely normal. It reflects the fact that not every account you hold is reported to every bureau, that reports are refreshed at different times in the billing cycle, and that the bureaus may apply slightly different scoring model versions to the same underlying data. According to TransUnion, you may have a different score with each of the three nationwide credit reporting agencies, and slight variations are not a cause for worry.
 

@@ -38,7 +38,7 @@ If you have spent months building a U.S. credit file under your ITIN, protecting
 
 ## Do ITIN holders actually have the right to freeze their credit?
 
-*A question we hear often:* many readers assume that because they do not have a Social Security Number, identity-protection tools like a security freeze are off-limits. That assumption is wrong.
+Many readers assume that because they do not have a Social Security Number, identity-protection tools like a security freeze are off-limits. That assumption is wrong.
 
 The Fair Credit Reporting Act (FCRA) protects you regardless of whether you have an SSN. You are legally entitled to a free credit report annually from each major bureau, even if you must request it by mail or phone. That same federal framework governs security freezes. There is no cost to place or lift a credit freeze, and it does not affect your credit score. You do not have to wait for your information to be exposed in a data breach to get one. Anyone can do it, any time.
 
@@ -56,7 +56,7 @@ Two things a freeze does NOT do are equally worth understanding. First, lenders 
 
 ## How do I freeze my credit at all three bureaus with an ITIN?
 
-*This one comes up a lot:* the single most important rule is that you must contact each bureau individually. You must contact each of the three major credit bureaus, Experian, Equifax, and TransUnion, individually to place a freeze. Each offers free online, phone, or mail options.
+The single most important rule is that you must contact each bureau individually. You must contact each of the three major credit bureaus, Experian, Equifax, and TransUnion, individually to place a freeze. Each offers free online, phone, or mail options.
 
 Here is exactly how each bureau works for ITIN holders:
 
@@ -78,7 +78,7 @@ For all three, have your ITIN, full legal name, date of birth, current address, 
 
 ## How fast does a freeze go into effect, and how do I lift it when I need credit?
 
-*Readers frequently ask:* many worry that a freeze will get in the way the next time they want to apply for something. The timeline is actually very short.
+Many worry that a freeze will get in the way the next time they want to apply for something. The timeline is actually very short.
 
 For online or phone freeze requests, bureaus must freeze your credit report within one business day. By mail, they must freeze your credit report within three business days. For unfreeze requests made online or by phone, agencies must lift the freeze within one hour. By mail, the lift must happen within three business days.
 
@@ -100,7 +100,7 @@ For most ITIN holders who are actively building credit, a combination approach t
 
 ## Does a credit freeze stop all identity theft risks?
 
-*A question we hear often:* some readers assume a freeze makes them completely immune to identity fraud. It does not.
+Some readers assume a freeze makes them completely immune to identity fraud. It does not.
 
 A credit freeze blocks new credit accounts but does not prevent Social Security number misuse, account takeovers, or tax fraud. Those types of fraud do not trigger a credit report pull. If someone files a fraudulent tax return using your ITIN, there is no credit check involved and your freeze does nothing to stop it. A freeze also will not block fraud on accounts you already have open.
 

@@ -36,7 +36,7 @@ El historial de pagos es la base de todo puntaje de crédito en Estados Unidos, 
 
 ## ¿Cuánto peso tiene realmente el historial de pagos en mi puntaje?
 
-*Una pregunta que escuchamos con frecuencia:* los titulares de ITIN a veces se preguntan si el cálculo del puntaje es diferente para ellos. No lo es.
+Los titulares de ITIN a veces se preguntan si el cálculo del puntaje es diferente para ellos. No lo es.
 
 El historial de pagos es el factor individual más importante en ambos modelos de puntuación principales. Según datos revisados de múltiples fuentes de los burós, representa aproximadamente el **35%-41% de tu puntaje**, dependiendo de si se usa FICO o VantageScore. Esa sola categoría supera en peso a la utilización de crédito, la antigüedad del historial, la mezcla de crédito y las consultas nuevas en conjunto.
 
@@ -56,7 +56,7 @@ Ese historial demuestra que el sistema no está en tu contra como pagador. Tu re
 
 ## ¿Cómo daña realmente un pago atrasado el puntaje de crédito con ITIN?
 
-*Los lectores preguntan con frecuencia:* ¿qué tan grave es perder un pago?
+¿qué tan grave es perder un pago?
 
 Un solo pago perdido, una vez que cruza el **umbral de 30 días**, se reporta a los burós como una marca negativa. Su impacto depende de qué tan sólido sea tu expediente en ese momento. Para un titular de ITIN nuevo con solo una o dos cuentas, un pago atrasado puede borrar meses de progreso, porque hay poco historial positivo que amortigüe el daño. Para alguien con dos o tres años de historial de pagos impecable, el mismo evento igual afecta, pero la recuperación es más rápida.
 
@@ -66,7 +66,7 @@ La gravedad también aumenta según qué tan atrasado llegue a estar el pago: 30
 
 ## ¿Qué tipos de cuentas reportan el historial de pagos para los titulares de ITIN?
 
-*Esto surge mucho:* no todas las cuentas que pagas a tiempo contribuyen a tu historial de pagos.
+No todas las cuentas que pagas a tiempo contribuyen a tu historial de pagos.
 
 Solo las cuentas que **reportan activamente a los tres burós principales** (Experian, TransUnion y Equifax) construyen tu historial. Los prestamistas reportan el historial de pagos, la utilización de crédito y el estado de la cuenta mensualmente. Cada buró compila esta información en un reporte de crédito, y los modelos de puntuación calculan un puntaje a partir de ese reporte.
 
@@ -109,7 +109,7 @@ Antes de inscribirte en cualquier servicio de reporte de renta, confirma que ace
 
 ## ¿Cuál es la forma más rápida de reparar el daño al historial de pagos en un reporte de crédito con ITIN?
 
-*Una pregunta que escuchamos con frecuencia:* una vez que un pago atrasado aparece en tu reporte con ITIN, ¿hay algo que puedas hacer?
+Una vez que un pago atrasado aparece en tu reporte con ITIN, ¿hay algo que puedas hacer?
 
 Un pago atrasado legítimo no puede eliminarse, pero hay dos estrategias válidas.
 

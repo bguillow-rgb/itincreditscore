@@ -42,8 +42,6 @@ Here's exactly how it works, which services accept ITIN holders, and what you re
 
 ## Why doesn't rent automatically show up on my credit report?
 
-*This one comes up a lot.*
-
 Unlike a mortgage, a car loan, or a credit card balance, a standard rental payment is a private agreement between you and your landlord. For most tenants, rent is the single largest monthly expense, yet traditionally these payments have done nothing to help build credit. Unlike mortgage payments, auto loans, or credit card bills, landlords typically don't report rent to credit bureaus.
 
 The mechanics are simple: credit files are only updated when a creditor or data furnisher reports an account to a bureau. Landlords are not required to report, and most don't bother. That leaves renters, especially ITIN holders who may have few or no other credit accounts, invisible to the scoring models.
@@ -88,8 +86,6 @@ Boom offers rent reporting to all three credit bureaus for just $3 per month wit
 
 ## How much can rent reporting actually move my credit score?
 
-*A question we hear often.*
-
 The honest answer: it depends heavily on what else is already on your file. The gain is highest when rent is the only installment-type payment history you have. If you already have a mortgage, auto loan, and several credit cards, the incremental impact of adding rent is smaller.
 
 For a typical ITIN holder who is new to U.S. credit and may only have one secured card or credit builder loan on their file, rent reporting can be a meaningful accelerant. Boom claims its customers' credit scores increase by an average of 28 points in the first two weeks after reporting their rent, with some customers seeing an increase of 105 points or more.
@@ -118,8 +114,6 @@ You do **not** need to provide your ITIN number directly to most rent reporting 
 ---
 
 ## What's the risk? Can rent reporting hurt my credit?
-
-*Readers frequently ask this, and it's worth being direct.*
 
 Rent reporting is largely low-risk, but not zero-risk. The primary danger is a **late or missed payment being reported** if you're enrolled in a service that uses active reporting rather than positive-only reporting. If you use a rent-reporting service and then pay late, that late payment can be reported to the bureaus and will damage your credit score. A single 30-day late payment can drop your score by 50-100 points. Only use rent reporting if you are consistently paying on time and are confident you can continue to do so.
 

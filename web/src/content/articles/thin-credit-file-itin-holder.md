@@ -38,7 +38,7 @@ If you recently opened your first U.S. credit account with your ITIN and tried t
 
 ## What exactly is a thin credit file, and do I have one?
 
-*A question we hear often:* readers who just opened their first account are confused about why a score has not appeared yet.
+Readers who just opened their first account are confused about why a score has not appeared yet.
 
 A thin credit file is a credit report that contains too few accounts, too short a history, or both for a scoring model to generate a reliable three-digit number. Many newcomers begin with a thin credit file or no credit file at all because foreign credit history usually does not transfer automatically into the U.S. system, and even if you had excellent credit in another country, most U.S. lenders cannot easily use it when making decisions.
 
@@ -60,7 +60,7 @@ The practical effect is that a thin file makes you look riskier than you actuall
 
 ## How is a thin credit file different from no credit file at all?
 
-*Readers frequently ask:* whether they have a file at all, especially if they have never applied for credit in the U.S.
+Whether they have a file at all, especially if they have never applied for credit in the U.S.
 
 A completely empty file means the bureaus have no record tied to your ITIN. Building an ITIN credit score requires opening accounts that report activity to Equifax, TransUnion, or Experian. Without reported account activity, no score is generated.
 
@@ -77,7 +77,7 @@ The timeline from no file to scoreable file typically runs 3-6 months. It takes 
 
 ## What are the fastest ways to fix a thin credit file with an ITIN?
 
-*This one comes up a lot:* people want a ranked, actionable list rather than a general overview.
+People want a ranked, actionable list rather than a general overview.
 
 **1. Add a credit-builder loan.** A [credit-builder loan with your ITIN](/credit-builder-loan-with-itin) is designed specifically for thin files. You make fixed monthly payments into a locked savings account, and the lender reports every on-time payment to all three bureaus. Because no spending is required, the risk of hurting your score through high utilization is zero.
 
@@ -101,7 +101,7 @@ Each year, two million newcomers to the U.S. have to abandon credit history that
 
 ## How do I check whether my ITIN credit file is still thin right now?
 
-*A question we hear often:* people want to know the status of their file before applying for anything.
+People want to know the status of their file before applying for anything.
 
 The most reliable method is to pull your report from each bureau separately. All three major credit bureaus, Experian, Equifax, and TransUnion, work with ITIN holders and generate reports based on your financial behavior. The only difference is the access method. Equifax allows online registration at myEquifax.com, where you enter your ITIN in the SSN field and receive a free VantageScore and report. For Experian and TransUnion, ITIN holders may need to submit requests by mail along with a government-issued ID and proof of address. Full step-by-step instructions are in our [guide to getting your free credit report with an ITIN](/how-to-check-credit-score-with-itin-number).
 

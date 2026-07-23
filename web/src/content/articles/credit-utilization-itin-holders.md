@@ -44,7 +44,7 @@ The bureaus look at utilization per card and across all your cards combined. A m
 
 ## Does credit utilization apply to me the same way it applies to someone with an SSN?
 
-*A question we hear often:* ITIN holders sometimes worry that the credit scoring rules are different for them. They are not.
+ITIN holders sometimes worry that the credit scoring rules are different for them. They are not.
 
 Credit scoring models typically evaluate credit behavior rather than identification numbers. Whether accounts are reported under an ITIN or a Social Security Number, utilization ratios remain an important factor. The FICO and VantageScore formulas have no separate calculation for ITIN-linked files. Your score is built from the data in your credit file, and the math is identical regardless of which nine-digit number sits at the top of that file.
 
@@ -70,7 +70,7 @@ If you are just starting out with a secured card and a $300-$500 limit, holding 
 
 ## Why does a small credit limit make utilization harder to manage?
 
-*This one comes up a lot:* Many ITIN holders start with a single secured card that has a limit of $200-$500. On a limit that small, even normal everyday spending can accidentally push utilization above 30%.
+Many ITIN holders start with a single secured card that has a limit of $200-$500. On a limit that small, even normal everyday spending can accidentally push utilization above 30%.
 
 The solution is not to avoid using the card. Lenders want to see active use. The solution is timing. The technique involves paying your balances before your statement closing date, rather than waiting for the due date. Credit card companies typically report your statement balance to the credit bureaus. Paying early ensures a lower reported utilization, even if you use your cards frequently throughout the month.
 
@@ -80,7 +80,7 @@ This approach requires you to know your statement closing date, which is listed 
 
 ## How does utilization interact with the other factors in my credit score?
 
-*Readers frequently ask* how important utilization really is compared to payment history.
+How important utilization really is compared to payment history.
 
 Payment history is the single largest factor, since payment history counts for 35% to 41% of your credit score depending on which model is used. Utilization comes in second at roughly 30% under FICO. Together those two factors account for more than 65% of your total score.
 

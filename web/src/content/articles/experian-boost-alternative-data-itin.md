@@ -38,7 +38,7 @@ Alternative data tools like Experian Boost are one of the fastest ways to add po
 
 ## Does Experian Boost actually work if I have an ITIN and no SSN?
 
-*A question we hear often:* Experian Boost runs on top of your existing Experian credit file. Because credit bureaus including Experian can generate credit reports linked to ITINs, and once a credit file is created using an ITIN it essentially functions like an SSN to track financial activity, Boost can in principle connect to that file.
+Experian Boost runs on top of your existing Experian credit file. Because credit bureaus including Experian can generate credit reports linked to ITINs, and once a credit file is created using an ITIN it essentially functions like an SSN to track financial activity, Boost can in principle connect to that file.
 
 The practical catch is identity verification. Boost's enrollment flow typically asks you to confirm your identity using details that match your Experian file: your name, address, and date of birth. It does not inherently require an SSN, but if the system cannot match you automatically, enrollment may stall. The fix is straightforward: before you try Boost, confirm that your Experian file is already open and active. You can do this by requesting your Experian report by mail or phone (Experian's consumer assistance line is 1-888-397-3742). Once your file is confirmed, returning to Boost and linking a U.S. bank account that shows the qualifying payments should work normally.
 
@@ -56,7 +56,7 @@ According to Experian's own analysis, consumers who receive a boost with thin cr
 
 ## What are my options if Boost doesn't work for my ITIN file?
 
-*This one comes up a lot:* If Experian Boost's enrollment does not complete smoothly, you have a few alternative paths that achieve the same goal of getting non-credit payments onto your bureau reports.
+If Experian Boost's enrollment does not complete smoothly, you have a few alternative paths that achieve the same goal of getting non-credit payments onto your bureau reports.
 
 Third-party rent and utility reporting services are the most direct substitute. Third-party reporting services can transmit these payments to one or more of the three bureaus on your behalf. Some services are free, while others charge monthly fees that generally range from about $3 to $10. The key due-diligence step before enrolling: confirm which bureaus it reports to, since not all services report to all three, and verify that it accepts an ITIN for enrollment.
 
@@ -66,7 +66,7 @@ Self-reporting your rent through a bureau-recognized service now is a forward-lo
 
 ## How does alternative data compare to opening a new credit account for building my score?
 
-*Readers frequently ask:* whether they should focus on alternative data tools or just open a [credit-builder loan](https://itincreditscore.com/credit-builder-loan-with-itin) or secured account. The honest answer is both, at different stages.
+Whether they should focus on alternative data tools or just open a [credit-builder loan](https://itincreditscore.com/credit-builder-loan-with-itin) or secured account. The honest answer is both, at different stages.
 
 | Approach | Bureaus Affected | Hard Inquiry? | Time to See Impact | Best For |
 |---|---|---|---|---|

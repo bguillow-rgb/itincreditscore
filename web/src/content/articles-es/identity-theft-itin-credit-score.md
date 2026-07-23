@@ -36,7 +36,7 @@ El robo de identidad es una amenaza real para cualquier persona con un expedient
 
 ## ¿Cómo daña el robo de identidad un puntaje de crédito con ITIN?
 
-*Una pregunta que escuchamos con frecuencia:* el mecanismo es el mismo sin importar si tu expediente está vinculado a un ITIN o a un SSN. Cuando un estafador abre una nueva cuenta a tu nombre, ocurren varios eventos dañinos al mismo tiempo: aparece una consulta de crédito (lo que baja tu puntaje temporalmente), la nueva cuenta reduce el promedio de antigüedad de tus cuentas, y cuando el estafador deja de pagar, los pagos atrasados y eventualmente una deuda en cobranza quedan registrados en tu reporte.
+El mecanismo es el mismo sin importar si tu expediente está vinculado a un ITIN o a un SSN. Cuando un estafador abre una nueva cuenta a tu nombre, ocurren varios eventos dañinos al mismo tiempo: aparece una consulta de crédito (lo que baja tu puntaje temporalmente), la nueva cuenta reduce el promedio de antigüedad de tus cuentas, y cuando el estafador deja de pagar, los pagos atrasados y eventualmente una deuda en cobranza quedan registrados en tu reporte.
 
 Según investigaciones citadas por defensores del consumidor, las víctimas de robo de identidad pueden ver una caída promedio de 100 puntos o más cuando hay fraude de cuentas nuevas, porque afecta múltiples factores de FICO al mismo tiempo. El historial de pagos (35% de tu puntaje), los montos adeudados, el crédito nuevo y la antigüedad del historial se ven golpeados a la vez. Cuanto más tiempo pase el fraude sin detectarse, mayor será el daño: detectarlo dentro de los 30 días limita el impacto principalmente a los efectos de consulta y utilización, mientras que un fraude que pasa desapercibido durante 90 días o más suele generar marcas de morosidad que tardan entre 12 y 24 meses en desaparecer, incluso después de corregirlas.
 
@@ -44,7 +44,7 @@ Para los titulares de ITIN en particular, la detección suele ser más lenta por
 
 ## ¿Realmente estoy en riesgo? ¿Es tan común el fraude de identidad?
 
-*Los lectores preguntan frecuentemente:* sí, y las cifras de 2026 son llamativas. Según el Informe de Tendencias en Robo de Identidad 2026 del Identity Theft Resource Center, los delitos de identidad han evolucionado de eventos aislados a crisis de "múltiples capas", con un 25.6 por ciento de las víctimas gestionando dos o más incidentes simultáneos, frente al 23.5 por ciento del año anterior. El acceso no autorizado a dispositivos, es decir, que alguien hackee un teléfono o computadora para robar credenciales, aumentó un 78 por ciento interanual, pasando del 15.3 por ciento al 27.2 por ciento del total de compromisos de identidad.
+Sí, y las cifras de 2026 son llamativas. Según el Informe de Tendencias en Robo de Identidad 2026 del Identity Theft Resource Center, los delitos de identidad han evolucionado de eventos aislados a crisis de "múltiples capas", con un 25.6 por ciento de las víctimas gestionando dos o más incidentes simultáneos, frente al 23.5 por ciento del año anterior. El acceso no autorizado a dispositivos, es decir, que alguien hackee un teléfono o computadora para robar credenciales, aumentó un 78 por ciento interanual, pasando del 15.3 por ciento al 27.2 por ciento del total de compromisos de identidad.
 
 Entre los tipos de fraude más relevantes para el crédito, el 62.1 por ciento de los casos de uso indebido intentado involucró solicitudes de nuevas cuentas, y las tarjetas de crédito representaron el 41 por ciento de todos los intentos de uso indebido por tipo de cuenta, seguidas por cuentas corrientes con un 17.7 por ciento y préstamos personales con un 8.5 por ciento. Esos son exactamente los tipos de cuentas que aparecerían en tu reporte de crédito si un estafador usara tu ITIN.
 
@@ -60,7 +60,7 @@ Congelar tu crédito en las tres agencias es la forma más directa de bloquear e
 
 ## ¿Cómo detecto el fraude en mi reporte de crédito con ITIN?
 
-*Esta pregunta surge mucho:* las señales de alerta son las mismas que para cualquier expediente de crédito, pero el método de detección es un poco diferente para los titulares de ITIN.
+Las señales de alerta son las mismas que para cualquier expediente de crédito, pero el método de detección es un poco diferente para los titulares de ITIN.
 
 Estas son las señales de alerta que debes buscar cuando revisas tus reportes de crédito:
 
@@ -100,7 +100,7 @@ La tabla comparativa a continuación resume cómo los distintos tipos de fraude 
 
 ## ¿Qué puedo hacer ahora mismo para prevenir el fraude en mi expediente de crédito con ITIN?
 
-*Los lectores preguntan frecuentemente* qué medidas proactivas realmente marcan la diferencia. Estas son las más efectivas, en orden de impacto:
+Qué medidas proactivas realmente marcan la diferencia. Estas son las más efectivas, en orden de impacto:
 
 1. **Congela tu crédito en las tres agencias.** El congelamiento es gratuito según la ley federal y es el único método que bloquea activamente la apertura de nuevas cuentas. Descongélalo temporalmente cuando necesites solicitar crédito tú mismo.
 2. **Configura el monitoreo de crédito en una plataforma compatible con ITIN.** Los servicios de monitoreo estándar que requieren un SSN crean un punto ciego. Una plataforma diseñada para titulares de ITIN te envía alertas sobre nuevas consultas o cuentas en el momento en que ocurren, no semanas después.

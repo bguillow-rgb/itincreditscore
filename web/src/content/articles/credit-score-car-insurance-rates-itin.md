@@ -36,8 +36,6 @@ Most ITIN holders know their credit score matters for renting an apartment or qu
 
 ## Wait, my credit score affects car insurance? How does that work?
 
-*A question we hear often:*
-
 Your credit score affects car insurance rates in most states. A few states, such as California and Hawaii, have outlawed the use of credit for insurance rating, but in most states it remains legal and can significantly impact what you pay.
 
 The mechanism is a separate calculation called a credit-based insurance score. Your credit-based insurance score, which is derived from your credit score, considers your payment history and outstanding debts. However, it does not take into account your income or other personal characteristics. Insurers believe people with thinner or weaker credit files are statistically more likely to file claims, so they price policies accordingly.
@@ -56,8 +54,6 @@ Some insurers do ask for an SSN or ITIN to pull your credit during the applicati
 
 ## Which states ban the use of credit scores for car insurance?
 
-*This one comes up a lot:*
-
 California, Hawaii, Massachusetts, and Michigan don't allow insurance companies to use credit scores to determine car insurance rates. If you live in one of these four states, your ITIN credit file is irrelevant to your auto insurance premium entirely. Insurers there must price based on driving record, mileage, vehicle type, and similar factors.
 
 Everywhere else, credit is fair game. Each state has its own insurance rules in place regarding the use of credit, and each insurer weighs factors that affect rates differently. This means that how credit affects car insurance rates varies significantly from state to state and from one insurer to another. Shopping multiple carriers matters just as much as building your credit score.
@@ -70,8 +66,6 @@ Everywhere else, credit is fair game. Each state has its own insurance rules in 
 | All 50 states | N/A for inquiries | Insurance quotes use soft pulls; never hurts your ITIN credit score |
 
 ## Will getting an insurance quote hurt my ITIN credit score?
-
-*Readers frequently ask:*
 
 No. This is one of the most common fears among ITIN holders who are still actively building their credit history, and the answer is good news: car insurance companies do what's called a "soft pull" when you get a quote, which doesn't influence your credit score. In contrast, a "hard pull" credit check impacts your credit score. Soft pulls only check some basic info and have no impact on your credit score.
 

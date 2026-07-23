@@ -44,7 +44,7 @@ El daño práctico es real y rápido. Si las cuentas de esa otra persona incluye
 
 ## ¿Por qué los titulares de ITIN tienen mayor riesgo de tener un archivo de crédito mixto?
 
-*Una pregunta que escuchamos con frecuencia:* ¿por qué esto les ocurre más a los inmigrantes y titulares de ITIN que a personas que han tenido un SSN toda su vida?
+¿por qué esto les ocurre más a los inmigrantes y titulares de ITIN que a personas que han tenido un SSN toda su vida?
 
 La respuesta está en cómo los burós identifican los registros. Según Experian, cuando no hay un SSN en el archivo, el buró depende de otros elementos de identificación, como tu nombre completo, fecha de nacimiento y direcciones de los últimos dos años, para compilar tu historial de crédito. Un Número de Seguro Social es el único identificador asignado de forma única a cada consumidor en los Estados Unidos, por lo que los archivos creados sin uno dependen por completo de esos datos menos específicos.
 
@@ -54,7 +54,7 @@ El IRS ha emitido más de 27 millones de ITINs desde 1996, según el informe té
 
 ## ¿Cómo sé si mi archivo de crédito ha sido mezclado?
 
-*Esto surge mucho:* los lectores frecuentemente no se dan cuenta de que tienen un archivo mixto hasta que les niegan un crédito y revisan su reporte por primera vez.
+Los lectores frecuentemente no se dan cuenta de que tienen un archivo mixto hasta que les niegan un crédito y revisan su reporte por primera vez.
 
 Las señales de advertencia más claras que debes buscar en tu reporte:
 
@@ -81,7 +81,7 @@ Tener todo esto listo antes de redactar tu carta de disputa reduce la posibilida
 
 ## ¿Cómo disputo un archivo de crédito mixto ante cada buró?
 
-*Los lectores preguntan con frecuencia:* si una llamada telefónica al buró es suficiente para corregir un archivo mixto.
+Si una llamada telefónica al buró es suficiente para corregir un archivo mixto.
 
 Una llamada puede abrir un caso, pero una disputa por escrito crea un registro que tiene validez legal bajo la Fair Credit Reporting Act. La FCRA da a los burós 30 días para investigar una disputa, o 45 días si presentas información adicional después de la presentación inicial. Para una disputa de archivo mixto, siempre envía tu disputa por escrito (correo certificado con acuse de recibo es lo ideal) para tener prueba de la fecha en que el buró recibió tu carta.
 

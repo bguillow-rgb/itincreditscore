@@ -36,7 +36,7 @@ Your credit score is not just a number for future loans. For ITIN holders, it is
 
 ## Can a landlord even run a credit check with my ITIN?
 
-*A question we hear often:* many ITIN holders assume that without a Social Security Number, the rental screening process is a dead end. That assumption is wrong.
+Many ITIN holders assume that without a Social Security Number, the rental screening process is a dead end. That assumption is wrong.
 
 Credit bureaus, including Experian, TransUnion, and Equifax, are capable of generating credit reports linked to ITINs. Tenant-screening services and landlords submit your ITIN in the identifier field, and the bureau matches it to any accounts reported under that number. The rental application form typically includes the applicant's full legal name, Social Security Number or Individual Taxpayer Identification Number (ITIN), date of birth, and previous rental history.
 
@@ -65,7 +65,7 @@ Private landlords (individuals renting one property) tend to be more flexible th
 
 ## What exactly does a landlord see on my credit report as an ITIN holder?
 
-*This one comes up a lot:* people worry that having an ITIN flags something unusual on the report itself.
+People worry that having an ITIN flags something unusual on the report itself.
 
 It does not. The credit report a landlord receives shows account history, balances, payment timeliness, and any negative items such as collections or late payments. The identifier used to pull the report (ITIN versus SSN) is not displayed as a red flag. For those keeping clean financial records, ITIN-based credit reports serve the same purpose as SSN-based reports.
 
@@ -75,7 +75,7 @@ Landlords may also check for hard inquiries. Too many hard inquiries can raise r
 
 ## I have no U.S. credit history. Can I still rent an apartment with an ITIN?
 
-*Readers frequently ask* this, especially recent arrivals. The honest answer is: yes, but you need a strategy.
+This, especially recent arrivals. The honest answer is: yes, but you need a strategy.
 
 Per the CFPB's 2025 updated report, approximately 7 million consumers remain credit invisible as of December 2020, down from 13.5 million in 2010. About 15% of Hispanic consumers are credit invisible, compared to 9% of White consumers. ITIN holders are disproportionately represented in that group, so you are far from alone.
 
@@ -107,7 +107,7 @@ For a broader plan, our article on [how to raise your credit score with an ITIN]
 
 ## Does applying to multiple apartments hurt my ITIN credit score?
 
-*This one comes up a lot:* rental applicants worry that a flurry of credit checks during an apartment search will tank the score they worked hard to build.
+Rental applicants worry that a flurry of credit checks during an apartment search will tank the score they worked hard to build.
 
 The reality is more nuanced. Many tenant-screening platforms use soft inquiries, which have zero impact on your score. Some tenant screenings can sometimes result in a hard inquiry, which temporarily affects your credit score. You might be able to avoid a hard inquiry by asking your landlord upfront how they plan to screen you and offer to provide a credit report yourself.
 

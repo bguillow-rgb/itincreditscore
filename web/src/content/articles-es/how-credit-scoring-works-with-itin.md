@@ -36,7 +36,7 @@ Entender cómo el sistema de puntaje crediticio se conecta con tu ITIN elimina g
 
 ## ¿Un ITIN realmente funciona dentro del mismo sistema de crédito que un SSN?
 
-*Una pregunta que escuchamos mucho:* si el sistema de crédito de Estados Unidos trata el ITIN como un identificador de "segunda clase" o como un sustituto completo del SSN.
+Si el sistema de crédito de Estados Unidos trata el ITIN como un identificador de "segunda clase" o como un sustituto completo del SSN.
 
 La respuesta es clara. Las tres agencias principales, Experian, Equifax y TransUnion, aceptan tu ITIN como identificador principal para crear y mantener un archivo de crédito. Cuando un prestamista reporta una cuenta, envía tu ITIN en el mismo campo donde normalmente aparecería un SSN, y la agencia vincula esa cuenta a tu perfil usando tu ITIN junto con tu nombre, fecha de nacimiento e historial de domicilios.
 
@@ -59,7 +59,7 @@ No todos los prestamistas reportan a las tres agencias. Por eso tus puntajes en 
 
 ## ¿Qué cinco factores determinan mi puntaje de crédito con ITIN?
 
-*Este tema surge mucho:* la gente quiere saber si los cinco factores estándar del puntaje aplican por igual a los titulares de ITIN o si la fórmula cambia de alguna manera.
+La gente quiere saber si los cinco factores estándar del puntaje aplican por igual a los titulares de ITIN o si la fórmula cambia de alguna manera.
 
 No cambia. Así es como FICO pondera los factores para todos, sin importar el identificador:
 
@@ -79,7 +79,7 @@ La antigüedad del historial de crédito, con un 15%, recompensa la paciencia. C
 
 ## ¿Importa si mi puntaje es FICO o VantageScore?
 
-*Los lectores preguntan frecuentemente* sobre la diferencia entre los dos modelos principales, sobre todo cuando las herramientas gratuitas muestran un VantageScore pero un prestamista menciona FICO.
+Sobre la diferencia entre los dos modelos principales, sobre todo cuando las herramientas gratuitas muestran un VantageScore pero un prestamista menciona FICO.
 
 Ambos modelos usan la misma escala de 300 a 850 y los mismos datos de las agencias. Los hábitos que mejoran un puntaje también mejoran el otro. Las diferencias prácticas que vale la pena conocer como titular de ITIN son:
 
@@ -103,7 +103,7 @@ Para ti, la implicación práctica es que tus hábitos importan más que tu punt
 
 ## ¿Cuál es la forma más rápida de generar un historial de crédito calificable con mi ITIN?
 
-*Una pregunta que escuchamos mucho:* cómo pasar de cero cuentas a un puntaje calculable lo más rápido posible.
+Cómo pasar de cero cuentas a un puntaje calculable lo más rápido posible.
 
 El factor limitante es el tiempo: FICO necesita al menos seis meses de actividad reportada, mientras que VantageScore necesita tan solo uno o dos meses. Con eso en mente, el camino más rápido es abrir una o dos cuentas que reporten a las tres agencias desde el primer mes y luego no hacer nada más que pagar a tiempo.
 

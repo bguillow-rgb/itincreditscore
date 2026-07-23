@@ -46,7 +46,7 @@ Algo importante que debes tener claro desde el principio: una carta de buena vol
 
 ## ¿Por qué un solo pago tardío afecta tanto mi puntaje de crédito ITIN?
 
-*Una pregunta que nos hacen con frecuencia:* ¿cuánto puede mover el marcador un solo pago omitido?
+¿cuánto puede mover el marcador un solo pago omitido?
 
 Bastante. El historial de pagos representa el 35% de tu puntaje FICO, más que cualquier otro factor, incluyendo la utilización del crédito o la antigüedad de las cuentas. Un solo tropiezo puede golpear fuerte.
 
@@ -58,7 +58,7 @@ Ese pago tardío puede permanecer en tus reportes de crédito hasta por siete a�
 
 ## ¿Cuándo funciona realmente una carta de buena voluntad?
 
-*Esto surge mucho:* los lectores quieren conocer las probabilidades reales antes de tomarse el tiempo de escribir.
+Los lectores quieren conocer las probabilidades reales antes de tomarse el tiempo de escribir.
 
 Las cartas de buena voluntad funcionan en algunos casos, pero el éxito no está garantizado. Los prestamistas más pequeños, las cooperativas de crédito y los proveedores médicos tienden a ser más flexibles. Los grandes bancos nacionales y los emisores de tarjetas de crédito suelen tener políticas estrictas contra la eliminación de información negativa real, alegando sus obligaciones bajo la FCRA (Ley de Informes de Crédito Justos) de reportar con precisión.
 
@@ -78,7 +78,7 @@ Los clientes de largo plazo, con cinco o más años de antigüedad, tienen más 
 
 ## ¿Qué debo escribir exactamente en mi carta de buena voluntad como titular de ITIN?
 
-*Los lectores nos preguntan con frecuencia:* por una guía paso a paso, ya que la mayoría de las plantillas en línea asumen que quien escribe tiene SSN y años de historial en Estados Unidos.
+Por una guía paso a paso, ya que la mayoría de las plantillas en línea asumen que quien escribe tiene SSN y años de historial en Estados Unidos.
 
 La estructura a continuación está adaptada para titulares de ITIN. Tu condición de titular de ITIN no es algo que debas ocultar ni explicar en la carta; es irrelevante para la decisión del acreedor. Lo que importa es tu relación con esa cuenta.
 

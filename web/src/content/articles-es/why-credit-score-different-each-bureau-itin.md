@@ -36,7 +36,7 @@ Abres una app de monitoreo de crédito y ves un 672. Revisas otra herramienta y 
 
 ## ¿Por qué tengo tres puntajes de crédito diferentes si solo tengo un historial?
 
-*Una pregunta que escuchamos con frecuencia:* muchas personas con ITIN asumen que un solo puntaje de crédito las acompaña a todas partes. La realidad es más compleja.
+Muchas personas con ITIN asumen que un solo puntaje de crédito las acompaña a todas partes. La realidad es más compleja.
 
 En Estados Unidos no existe un historial crediticio unificado. Equifax, Experian y TransUnion son tres empresas separadas y competidoras, y cada una construye su propio archivo independiente sobre ti. No comparten datos entre sí. Cuando un prestamista reporta tu historial de pagos, envía esa información directamente a los burós con los que tiene contrato, y muchos prestamistas no reportan a los tres.
 
@@ -67,7 +67,7 @@ También hay un avance importante de 2026 que conviene conocer. Fannie Mae y Fre
 
 ## ¿Por qué Equifax muestra mi puntaje en línea pero Experian y TransUnion no?
 
-*Los lectores preguntan con frecuencia:* por qué pueden iniciar sesión en una app y ver su puntaje de Equifax de inmediato, pero no obtienen nada de Experian ni de TransUnion.
+Por qué pueden iniciar sesión en una app y ver su puntaje de Equifax de inmediato, pero no obtienen nada de Experian ni de TransUnion.
 
 Esto se debe a cómo cada buró maneja la verificación de identidad con ITIN en línea. El portal de Equifax en my.equifax.com permite a los titulares de ITIN registrarse ingresando su ITIN en el campo de SSN, y ofrece un VantageScore 3.0 gratuito con tu archivo de crédito una vez al mes. Eso lo convierte en el buró más accesible para consultar tu puntaje en línea con un ITIN.
 
@@ -77,7 +77,7 @@ Como la mayoría de las apps gratuitas de monitoreo de crédito, como Credit Kar
 
 ## ¿Una diferencia de puntaje entre burós significa que algo está mal en mi crédito?
 
-*Esta pregunta surge mucho:* quienes tienen ITIN y ven una diferencia de 30 puntos entre Equifax y TransUnion a veces asumen que hay un error o un problema. Por lo general, no es así.
+Quienes tienen ITIN y ven una diferencia de 30 puntos entre Equifax y TransUnion a veces asumen que hay un error o un problema. Por lo general, no es así.
 
 Una diferencia de 20 a 50 puntos entre burós es totalmente normal. Refleja el hecho de que no todas las cuentas que tienes se reportan a todos los burós, que los reportes se actualizan en momentos distintos del ciclo de facturación y que los burós pueden aplicar versiones ligeramente diferentes del modelo de puntuación a los mismos datos. Según TransUnion, es posible tener un puntaje diferente en cada una de las tres agencias de reporte de crédito nacionales, y pequeñas variaciones no son motivo de preocupación.
 

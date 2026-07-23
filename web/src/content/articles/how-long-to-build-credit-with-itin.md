@@ -36,7 +36,7 @@ If you just opened your first credit account with an ITIN, or you're about to, t
 
 ## "So when will I actually have a credit score?"
 
-*A question we hear often:* the moment someone opens their first secured card or credit-builder account with an ITIN, they want to know exactly when a number will appear.
+The moment someone opens their first secured card or credit-builder account with an ITIN, they want to know exactly when a number will appear.
 
 The short answer: **3 to 6 months**. According to FICO's published scoring criteria, you need at least one credit account that has been open for six months or more, and at least one account that was reported to a bureau within the last six months, before a FICO score can be generated. In practice, many ITIN holders see a score appear closer to the 3-month mark if they open a card that reports activity to Experian, TransUnion, and Equifax every billing cycle.
 
@@ -61,7 +61,7 @@ These benchmarks assume on-time payments every month and credit utilization cons
 
 ## "Why does building a fair score take 4-6 months but a good score takes 12-18 months?"
 
-*Readers frequently ask* why the first jump feels fast but the next one seems to take forever.
+Why the first jump feels fast but the next one seems to take forever.
 
 The reason is how credit scoring models weight the factors over time. In the first few months, any positive history against a blank file moves your score quickly, you're filling an empty file, so each on-time payment has outsized impact. But moving from the Fair tier (580-669) into the Good tier (670-739) requires more than payment history alone. Credit scoring models also weight **length of credit history** (roughly 15% of your score) and **credit mix** (around 10%). Both of these factors only improve with time and account variety.
 
@@ -71,7 +71,7 @@ A practical way to accelerate the jump from fair to good: after 6-12 months with
 
 ## "Can I speed up the timeline by becoming an authorized user?"
 
-*This one comes up a lot:* a reader's spouse or sibling already has a U.S. credit card with years of clean history, can joining their account fast-track a score?
+A reader's spouse or sibling already has a U.S. credit card with years of clean history, can joining their account fast-track a score?
 
 Yes, and it's one of the most underused strategies for ITIN holders. When a primary cardholder adds you as an authorized user, most major issuers, including Chase, American Express, Bank of America, and Capital One, report that account's history to the credit bureaus under both the primary cardholder's and the authorized user's profiles. That history can appear on your ITIN credit file almost immediately.
 
@@ -97,7 +97,7 @@ For a full walkthrough of how to pull your reports from each bureau, see our gui
 
 ## "What single mistake will set my timeline back the most?"
 
-*A question we hear often:* readers want to know not just what helps, but what hurts.
+Readers want to know not just what helps, but what hurts.
 
 The answer is unambiguous: **a missed payment**. Payment history is the largest component of both FICO and VantageScore models, roughly 35-41% of your total score depending on the model. For a new file with only a few months of history, one 30-day late payment can drop a score by dozens of points and takes sustained on-time behavior to recover from.
 

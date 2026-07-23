@@ -82,8 +82,6 @@ La conclusión práctica: abre tu primera cuenta que reporte y sea compatible co
 
 ## "¿Cuál será realmente mi primer puntaje?"
 
-*Una pregunta que escuchamos con frecuencia:*
-
 Los archivos nuevos no siempre empiezan bajo. Un archivo joven y delgado con un comportamiento inicial perfecto suele debutar en los 600 o en los bajos 700, precisamente porque no hay nada negativo que pese. El trabajo a partir de ahí es defender ese puntaje mientras el archivo se consolida y envejece.
 
 Al mes 6, se genera tu primer puntaje FICO, que típicamente cae en el rango de 640-700 para alguien con una sola cuenta bien manejada. Alrededor del mes 9, el puntaje puede estancarse o bajar ligeramente a medida que el bono de "novedad" se desvanece. Esto es normal.
@@ -93,8 +91,6 @@ Este estancamiento temprano confunde a muchos que están comenzando. Hacen todo 
 ---
 
 ## "¿Qué herramientas realmente mueven el puntaje más rápido para un titular de ITIN?"
-
-*Esto surge mucho:*
 
 No todos los productos para construir crédito aceptan ITINs, y no todos los productos compatibles con ITIN reportan a las tres agencias. La tabla a continuación muestra las herramientas más usadas con sus especificaciones clave verificadas a mediados de 2026.
 
@@ -165,8 +161,6 @@ En esta etapa, tu tarjeta asegurada puede ser elegible para convertirse en una t
 
 ## "¿Hay algún atajo para llegar a 700 antes de los 18-24 meses?"
 
-*Los lectores preguntan esto con frecuencia:*
-
 Existe un atajo legítimo: la estrategia de usuario autorizado. Que te agreguen como usuario autorizado en la tarjeta de crédito de un amigo o familiar de confianza significa que su historial de pagos positivo y su baja utilización pueden aparecer en tu reporte de crédito.
 
 Casi la mitad de los usuarios que prueban esto ven su puntaje saltar a 680 o más en 30-45 días, lo que lo convierte en uno de los movimientos más rápidos disponibles. Para un archivo ITIN delgado sin puntaje todavía, que te agreguen a una cuenta con largo historial y baja utilización puede producir un primer archivo puntuable en un ciclo de reporte en lugar de seis meses.
@@ -198,8 +192,6 @@ La protección práctica es simple: configura el pago automático de al menos el
 ---
 
 ## "¿A qué porcentaje de utilización debo apuntar realmente, no solo mantenerme por debajo del 30%?"
-
-*Esto surge mucho:*
 
 La regla de "mantenerse por debajo del 30%" que se repite en todas partes es el piso, no la meta. El objetivo real es del 1-3%, no el máximo del 30% al que muchos erróneamente apuntan. Calcular mal esta sola métrica puede costarte entre 40 y 80 puntos FICO.
 

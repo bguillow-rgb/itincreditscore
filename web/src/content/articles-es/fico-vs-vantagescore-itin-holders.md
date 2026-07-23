@@ -38,7 +38,7 @@ Revisas tu puntaje de crédito en Credit Karma y ves 672. Luego entras a myFICO 
 
 ## ¿Realmente existen dos sistemas de puntuación distintos, y ambos funcionan con un ITIN?
 
-*Una pregunta que escuchamos con frecuencia:* sí, y sí. La industria de puntuación crediticia en Estados Unidos está dominada por dos modelos en competencia: FICO, introducido en 1989, y VantageScore, lanzado en 2006 como resultado de un esfuerzo conjunto de Experian, TransUnion y Equifax para crear un sistema alternativo de puntuación crediticia. Ambos funcionan con los mismos datos del informe de crédito, y esos datos están vinculados al número de identificación fiscal que las agencias crediticias tienen registrado para ti, ya sea un SSN o un ITIN.
+Sí, y sí. La industria de puntuación crediticia en Estados Unidos está dominada por dos modelos en competencia: FICO, introducido en 1989, y VantageScore, lanzado en 2006 como resultado de un esfuerzo conjunto de Experian, TransUnion y Equifax para crear un sistema alternativo de puntuación crediticia. Ambos funcionan con los mismos datos del informe de crédito, y esos datos están vinculados al número de identificación fiscal que las agencias crediticias tienen registrado para ti, ya sea un SSN o un ITIN.
 
 Según el documento técnico de Experian de 2026, el IRS ha emitido más de 27 millones de números de identificación personal del contribuyente desde 1996. Los puntajes de crédito basados en ITIN funcionan de manera idéntica a los modelos FICO y VantageScore basados en SSN. Los algoritmos de puntuación no saben ni les importa si el identificador es un ITIN o un SSN. Leen las cuentas que reportan tus prestamistas, hacen los cálculos y devuelven un número.
 
@@ -65,7 +65,7 @@ El resultado más visible para los titulares de ITIN que están comenzando a con
 
 ## ¿Qué puntaje usan realmente los prestamistas cuando solicito un producto?
 
-*Esta pregunta surge mucho.* La respuesta corta: FICO domina cuando hay dinero serio de por medio. El 90% de los principales prestamistas usa puntajes FICO. Eso incluye a la mayoría de los prestamistas hipotecarios, concesionarios de autos y emisores de tarjetas de crédito importantes.
+La respuesta corta: FICO domina cuando hay dinero serio de por medio. El 90% de los principales prestamistas usa puntajes FICO. Eso incluye a la mayoría de los prestamistas hipotecarios, concesionarios de autos y emisores de tarjetas de crédito importantes.
 
 FICO domina en hipotecas, préstamos de auto y la mayoría de los préstamos tradicionales. VantageScore aparece principalmente en herramientas de monitoreo gratuitas y en algunas decisiones de tarjetas de crédito. Un VantageScore "Bueno" no garantiza un FICO "Bueno", ya que los rangos no coinciden exactamente.
 
@@ -86,7 +86,7 @@ Nota el cambio en hipotecas: en octubre de 2022, la Agencia Federal de Financiam
 
 ## ¿Dónde puedo ver cada puntaje si tengo un ITIN?
 
-*Los lectores preguntan con frecuencia:* las herramientas gratuitas dominan el monitoreo diario, pero ninguna muestra FICO por defecto. Aquí está el desglose práctico para titulares de ITIN según lo que se sabe que funciona en 2026:
+Las herramientas gratuitas dominan el monitoreo diario, pero ninguna muestra FICO por defecto. Aquí está el desglose práctico para titulares de ITIN según lo que se sabe que funciona en 2026:
 
 **Fuentes gratuitas de VantageScore que aceptan un ITIN:**
 - Credit Karma (VantageScore 3.0 de Equifax y TransUnion, se actualiza semanalmente)
@@ -111,7 +111,7 @@ Las investigaciones muestran consistentemente que los titulares de ITIN son paga
 
 ## ¿Cómo mejoro los dos puntajes al mismo tiempo?
 
-*Una pregunta que escuchamos con frecuencia:* la buena noticia es que lo que mueve tu FICO también mueve tu VantageScore, porque ambos leen el mismo informe de crédito. No necesitas estrategias separadas. Las diferencias en la ponderación hacen que algunas acciones tengan un efecto mayor en un modelo, pero ninguna acción perjudica uno mientras beneficia al otro.
+La buena noticia es que lo que mueve tu FICO también mueve tu VantageScore, porque ambos leen el mismo informe de crédito. No necesitas estrategias separadas. Las diferencias en la ponderación hacen que algunas acciones tengan un efecto mayor en un modelo, pero ninguna acción perjudica uno mientras beneficia al otro.
 
 Cuatro acciones que mejoran ambos puntajes al mismo tiempo para titulares de ITIN:
 

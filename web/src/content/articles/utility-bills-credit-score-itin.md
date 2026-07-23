@@ -36,7 +36,7 @@ Most ITIN holders paying electricity, gas, internet, and phone bills on time eve
 
 ## Do utility companies automatically report my payments to the credit bureaus?
 
-*A question we hear often:* no, they almost never do.
+No, they almost never do.
 
 Utility bills do not work like traditional credit accounts. Most utility providers do not report on-time payments to the major credit bureaus, which means paying them responsibly does not automatically raise your score. What utility companies do report, consistently and without hesitation, is a delinquent account once it lands in collections. So you carry the downside risk of a negative mark without any upside from years of on-time payments, unless you take deliberate action to change that.
 
@@ -57,7 +57,7 @@ Most utility companies still do not report positives automatically. They only pe
 
 ## What types of bills can actually be reported, and which services accept ITINs?
 
-*This one comes up a lot:* not every recurring bill qualifies, and not every service accepts ITIN holders.
+Not every recurring bill qualifies, and not every service accepts ITIN holders.
 
 Generally accepted bill types across major reporting services include electricity, natural gas, water, internet or cable, and cell phone. Subscription streaming services are sometimes accepted depending on the platform. One-time or irregular charges like repair bills or medical copays typically do not qualify.
 
@@ -74,7 +74,7 @@ Always confirm current ITIN acceptance directly with a service before subscribin
 
 ## How much can my ITIN credit score actually improve from reporting utility bills?
 
-*Readers frequently ask:* is it worth the effort and the monthly fee?
+Is it worth the effort and the monthly fee?
 
 The honest answer is: it depends heavily on how thin your credit file is. For a brand-new ITIN holder with only one or two reported accounts, adding 24 months of on-time utility and phone payments is a real addition to your payment history record. Payment history is the single largest factor in both FICO and VantageScore models. Payment history is the biggest factor in your credit score, accounting for 35% of your FICO Score.
 
@@ -92,7 +92,7 @@ This means every ITIN holder has a baseline reason to stay current on utilities 
 
 ## How does utility bill reporting compare to other credit-building methods for ITIN holders?
 
-*A question we hear often:* should I prioritize utility reporting over other strategies?
+Should I prioritize utility reporting over other strategies?
 
 Utility bill reporting works best as a complement to core credit-building tools, not a replacement for them. A secured credit card or a [credit-builder loan with an ITIN](/credit-builder-loan-with-itin) creates a true revolving or installment account in your credit file, which carries more structural weight in scoring models than alternative data reported through third-party services. Rent reporting through a service like Boom or Rental Kharma similarly adds to your payment history but operates under different bureau and model acceptance rules. (See our full guide on [whether paying rent builds credit with an ITIN](/does-paying-rent-build-credit-with-itin) for a bureau-by-bureau breakdown.)
 

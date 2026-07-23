@@ -36,7 +36,7 @@ Si has estado trabajando en construir tu crédito con tu ITIN, probablemente te 
 
 ## ¿La mezcla de crédito realmente afecta mi puntaje con un ITIN?
 
-*Una pregunta que escuchamos con frecuencia:* si el ITIN cambia las reglas relacionadas con la mezcla de crédito.
+Si el ITIN cambia las reglas relacionadas con la mezcla de crédito.
 
 No las cambia. Cuando se consulta un reporte de crédito, la mecánica para calcular los puntajes es la misma sin importar si la persona usa un ITIN o un SSN. Cada factor de FICO y VantageScore, incluida la mezcla de crédito, aplica a tu archivo exactamente de la misma manera que para alguien con número de Seguro Social.
 
@@ -68,7 +68,7 @@ Ten en cuenta que una tarjeta de débito no construirá tu crédito ya que nunca
 
 ## ¿Cuánto puede subir mi puntaje si mejoro mi mezcla de crédito?
 
-*Los lectores preguntan con frecuencia* cuántos puntos pueden esperar ganar al agregar un segundo tipo de cuenta.
+Cuántos puntos pueden esperar ganar al agregar un segundo tipo de cuenta.
 
 Sinceramente: depende de tu archivo en general, y la ganancia es modesta en comparación con lo que el historial de pagos y la utilización pueden hacer. La mezcla de crédito por sí sola no aumentará drásticamente tu puntaje, pero funciona mejor junto con pagos a tiempo, una baja utilización del crédito y un historial de crédito más largo.
 
@@ -84,7 +84,7 @@ Según un estudio de SSRN de 2026, solo el 9% de los consumidores inmigrantes ti
 
 ## ¿Cuándo NO debo abrir una cuenta nueva para mejorar mi mezcla de crédito?
 
-*Esto surge mucho:* si alguna vez es un error buscar una mejor mezcla de crédito abriendo cuentas nuevas.
+Si alguna vez es un error buscar una mejor mezcla de crédito abriendo cuentas nuevas.
 
 Puede serlo. Dado que la mezcla de crédito es un factor tan pequeño en la construcción de crédito, no deberías abrir una cuenta de crédito nueva solo para mejorar tu mezcla de crédito. Cada nueva solicitud genera una consulta rigurosa, lo que baja temporalmente tu puntaje, y también reduce la antigüedad promedio de tus cuentas, lo que afecta el factor de duración del historial (15% de tu puntaje FICO).
 

@@ -36,7 +36,7 @@ Credit monitoring is not a luxury for ITIN holders. It is one of the most practi
 
 ## Why does credit monitoring matter more when you have an ITIN?
 
-*A question we hear often:* ITIN holders face a specific set of risks that SSN holders rarely encounter. Because your identifier is less universally recognized by financial systems, your credit file is more prone to mixed-file errors, where another consumer's accounts accidentally appear on your report, or where your own accounts are filed under slight name variations.
+ITIN holders face a specific set of risks that SSN holders rarely encounter. Because your identifier is less universally recognized by financial systems, your credit file is more prone to mixed-file errors, where another consumer's accounts accidentally appear on your report, or where your own accounts are filed under slight name variations.
 
 Beyond errors, ongoing monitoring tells you whether your credit-building efforts are actually working. If you opened a [credit-builder loan](https://itincreditscore.com/credit-builder-loan-with-itin) three months ago, monitoring lets you confirm the payments are being reported correctly to all three bureaus: Equifax, TransUnion, and Experian. According to the Consumer Financial Protection Bureau (CFPB), consumers who regularly review their credit reports are better positioned to catch inaccuracies and dispute them before they cause lasting damage.
 
@@ -59,7 +59,7 @@ A note on sign-up friction: several of these platforms may suspend your account 
 
 ## How does the myEquifax portal work for ITIN holders?
 
-*This one comes up a lot:* Equifax's free online portal is the most accessible starting point for ITIN holders who want ongoing monitoring without paying a monthly fee. You create a myEquifax account at my.equifax.com and enter your ITIN where the form asks for a Social Security Number. Once verified, the portal gives you free access to your Equifax credit report once a month and shows your VantageScore 3.0.
+Equifax's free online portal is the most accessible starting point for ITIN holders who want ongoing monitoring without paying a monthly fee. You create a myEquifax account at my.equifax.com and enter your ITIN where the form asks for a Social Security Number. Once verified, the portal gives you free access to your Equifax credit report once a month and shows your VantageScore 3.0.
 
 If the automated system flags your account, the fastest fix is reaching out to Equifax directly, either by phone or through their social media support channel. Most ITIN holders report the issue is resolved quickly after a brief identity verification. Once your account is active, you can also upgrade to Equifax's paid Premier plan, which adds TransUnion and Experian reports for around $19.95 per month, making it a practical path to three-bureau coverage.
 
@@ -71,7 +71,7 @@ One limitation worth knowing: Credit Karma does not cover your Experian file. Fo
 
 ## What should I actually be watching for in my monitoring alerts?
 
-*Readers frequently ask:* beyond simply knowing a number exists, what makes monitoring useful is knowing how to interpret what you see.
+Beyond simply knowing a number exists, what makes monitoring useful is knowing how to interpret what you see.
 
 Start with payment history confirmations. Each month, verify that your on-time payments from credit-builder accounts are showing up as reported. Payment history is the single largest factor in both FICO and VantageScore models. According to Experian, it accounts for 35% of a FICO score. If a payment is not appearing, contact the lender to confirm they report to that bureau.
 

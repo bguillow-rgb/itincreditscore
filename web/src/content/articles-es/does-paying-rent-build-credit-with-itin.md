@@ -42,8 +42,6 @@ Aquí te explicamos exactamente cómo funciona, qué servicios aceptan titulares
 
 ## ¿Por qué el alquiler no aparece automáticamente en mi reporte de crédito?
 
-*Esta pregunta surge con mucha frecuencia.*
-
 A diferencia de una hipoteca, un préstamo de auto o el saldo de una tarjeta de crédito, el pago de renta es un acuerdo privado entre tú y tu arrendador. Para la mayoría de los inquilinos, la renta es el gasto mensual más grande, sin embargo, tradicionalmente estos pagos no han servido para construir crédito. A diferencia de los pagos de hipoteca, préstamos de auto o tarjetas de crédito, los arrendadores generalmente no reportan la renta a los burós de crédito.
 
 El mecanismo es sencillo: los expedientes de crédito solo se actualizan cuando un acreedor o proveedor de datos reporta una cuenta a un buró. Los arrendadores no están obligados a reportar, y la mayoría no lo hace. Esto deja a los inquilinos, especialmente a los titulares de ITIN que pueden tener pocas o ninguna otra cuenta de crédito, invisibles para los modelos de puntuación.
@@ -88,8 +86,6 @@ Boom ofrece reporte de renta a los tres burós de crédito por solo $3 al mes si
 
 ## ¿Cuánto puede mejorar mi puntaje de crédito con el reporte de renta?
 
-*Una pregunta que escuchamos con frecuencia.*
-
 La respuesta honesta: depende mucho de lo que ya hay en tu expediente. El beneficio es mayor cuando la renta es el único historial de pagos de tipo a plazos que tienes. Si ya tienes una hipoteca, un préstamo de auto y varias tarjetas de crédito, el impacto adicional de agregar el alquiler es menor.
 
 Para un titular de ITIN típico que es nuevo en el crédito de EE. UU. y que tal vez solo tiene una tarjeta asegurada o un préstamo para construir crédito en su expediente, el reporte de renta puede ser un acelerador importante. Boom afirma que el puntaje de crédito de sus clientes aumenta en promedio 28 puntos en las primeras dos semanas después de reportar su renta, con algunos clientes viendo un aumento de 105 puntos o más.
@@ -118,8 +114,6 @@ No puedes abrir una cuenta solo con tu número de ITIN; necesitas demostrar qui�
 ---
 
 ## ¿Cuál es el riesgo? ¿El reporte de renta puede perjudicar mi crédito?
-
-*Los lectores preguntan esto con frecuencia, y vale la pena ser directos.*
 
 El reporte de renta es en gran medida de bajo riesgo, pero no de riesgo cero. El principal peligro es que **un pago tardío o no realizado sea reportado** si estás inscrito en un servicio que usa reporte activo en lugar de reporte solo positivo. Si usas un servicio de reporte de renta y luego pagas tarde, ese pago tardío puede ser reportado a los burós y dañará tu puntaje de crédito. Un solo pago con 30 días de retraso puede bajar tu puntaje entre 50 y 100 puntos. Solo usa el reporte de renta si pagas puntualmente de manera constante y estás seguro de poder seguir haciéndolo.
 

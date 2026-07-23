@@ -36,7 +36,7 @@ Credit scores range from 300 to 850 whether you have an SSN or an ITIN, and the 
 
 ## Is the credit score scale actually the same for ITIN holders?
 
-*A question we hear often:* many readers assume a separate, lesser scoring system exists for ITIN holders. It does not.
+Many readers assume a separate, lesser scoring system exists for ITIN holders. It does not.
 
 Using an ITIN for credit does not affect your score differently than an SSN. Once a credit account is opened using your ITIN, it reports to the credit bureaus the same way as any other account. Your payment history, utilization, and account age all factor into your credit score identically whether you used an ITIN or SSN to open the account.
 
@@ -70,7 +70,7 @@ For mortgage purposes specifically, many ITIN mortgage lenders commonly look for
 
 ## What credit score should an ITIN holder realistically aim for first?
 
-*Readers frequently ask:* what is the right first target, and is a 700 actually achievable?
+What is the right first target, and is a 700 actually achievable?
 
 The short answer is yes, a 700 is achievable within roughly 12-24 months of consistent effort starting from zero. You will typically have a scoreable credit file after six months of account activity. From there, consistent on-time payments and low utilization can get you to a score of 650-700 within 12-18 months.
 
@@ -84,7 +84,7 @@ Further evidence that ITIN holders can reach good scores comes from repayment da
 
 ## What score do I need to graduate from a secured card to an unsecured one?
 
-*This one comes up a lot:* readers who started with a secured card want to know when they can expect an upgrade.
+Readers who started with a secured card want to know when they can expect an upgrade.
 
 After 6-12 months of on-time payments, many issuers will graduate you to an unsecured card and return your deposit, a major milestone. In practice, most issuers look for a FICO or VantageScore in the 640-670 range before offering a graduation, though the exact threshold varies by issuer and is not always published.
 
@@ -120,7 +120,7 @@ Reaching 670+ requires positive data flowing into your report from accounts that
 
 ## How do I track my score to know which tier I am in?
 
-*A question we hear often:* ITIN holders frequently discover that standard score-checking tools do not work for them because those tools require an SSN.
+ITIN holders frequently discover that standard score-checking tools do not work for them because those tools require an SSN.
 
 ITIN holders can check their credit scores with all three major bureaus (Experian, Equifax, TransUnion), but they cannot use AnnualCreditReport.com. ITIN requests require direct contact with credit bureaus. For Experian, for example, you need to submit a request in writing, providing your full name including middle initial, date of birth, and complete addresses for the past two years, along with a copy of a valid government-issued ID and utility bill, mailed to Experian, P.O. Box 9701, Allen, TX 75013.
 

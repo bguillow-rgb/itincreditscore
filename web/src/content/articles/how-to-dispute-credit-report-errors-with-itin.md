@@ -48,7 +48,7 @@ Your credit report is the foundation of your U.S. financial life. When it contai
 
 ## Does an ITIN holder actually have the right to dispute credit report errors?
 
-*A question we hear often:* many readers assume that consumer protection laws only apply to U.S. citizens or SSN holders. That assumption is incorrect.
+Many readers assume that consumer protection laws only apply to U.S. citizens or SSN holders. That assumption is incorrect.
 
 The Fair Credit Reporting Act (FCRA), the federal law that governs credit reporting, applies to every consumer who has a credit file in the United States, regardless of immigration status or the type of identifier on the file. According to the CFPB, you have the right to dispute incomplete or inaccurate information on your credit reports, and the bureau must investigate. ITIN holders are explicitly included: as one consumer-law resource puts it, "Non-SSN consumers, such as ITIN holders or foreign nationals, have the same dispute and protection rights as U.S. citizens."
 
@@ -71,7 +71,7 @@ A mixed file deserves special attention. It occurs when a bureau's matching algo
 
 ## How do I actually file a dispute with each bureau using my ITIN?
 
-*This one comes up a lot:* readers often know they have an error but are not sure which bureau to contact or what to include.
+Readers often know they have an error but are not sure which bureau to contact or what to include.
 
 The first thing to understand is that the three bureaus do not automatically share corrections with each other. If the same error appears on reports from Equifax, Experian, and TransUnion, you need to file a separate dispute with each one. Here is exactly what to include and where to send it:
 
@@ -97,7 +97,7 @@ Whichever method you use, keep copies of everything you send and receive. If you
 
 ## What happens after I submit a dispute?
 
-*Readers frequently ask* how the investigation actually works once they hit submit.
+How the investigation actually works once they hit submit.
 
 After your dispute arrives, the bureau must investigate within 30 days (extended to 45 days if you provide additional information during that window). In practice, the bureau forwards your dispute and supporting documents to the data furnisher, the lender or collection agency that originally reported the item, and asks them to verify or correct the information. The bureau must then send you the results in writing.
 

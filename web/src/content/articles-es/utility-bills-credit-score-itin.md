@@ -36,7 +36,7 @@ La mayoría de los titulares de ITIN que pagan puntualmente sus facturas de elec
 
 ## ¿Las empresas de servicios públicos reportan automáticamente mis pagos a las agencias de crédito?
 
-*Una pregunta que nos hacen con frecuencia:* no, casi nunca lo hacen.
+No, casi nunca lo hacen.
 
 Las facturas de servicios públicos no funcionan como las cuentas de crédito tradicionales. La mayoría de los proveedores no reportan los pagos a tiempo a las principales agencias de crédito, lo que significa que pagarlas responsablemente no sube tu puntaje automáticamente. Lo que sí reportan, de manera constante y sin dudar, es una cuenta morosa una vez que llega a cobros. Así que cargas con el riesgo de una marca negativa sin recibir ningún beneficio por años de pagos puntuales, a menos que tomes medidas deliberadas para cambiar eso.
 
@@ -57,7 +57,7 @@ La mayoría de las empresas de servicios públicos aún no reportan los pagos po
 
 ## ¿Qué tipos de facturas se pueden reportar y qué servicios aceptan ITIN?
 
-*Esto nos lo preguntan mucho:* no toda factura recurrente califica, y no todos los servicios aceptan titulares de ITIN.
+No toda factura recurrente califica, y no todos los servicios aceptan titulares de ITIN.
 
 Los tipos de facturas generalmente aceptados por los principales servicios de reporte incluyen electricidad, gas natural, agua, internet o cable, y teléfono celular. Los servicios de streaming por suscripción a veces se aceptan dependiendo de la plataforma. Los cargos únicos o irregulares, como facturas de reparaciones o copagos médicos, normalmente no califican.
 
@@ -74,7 +74,7 @@ Siempre confirma directamente con el servicio si acepta ITIN antes de suscribirt
 
 ## ¿Cuánto puede mejorar realmente mi puntaje ITIN al reportar facturas de servicios públicos?
 
-*Los lectores preguntan con frecuencia:* ¿vale la pena el esfuerzo y el costo mensual?
+¿vale la pena el esfuerzo y el costo mensual?
 
 La respuesta honesta es: depende mucho de qué tan delgado sea tu archivo de crédito. Para un titular de ITIN completamente nuevo con solo una o dos cuentas reportadas, agregar 24 meses de pagos puntuales de servicios públicos y teléfono es una adición real a tu historial de pagos. El historial de pagos es el factor más importante tanto en los modelos FICO como en los de VantageScore, y representa el 35% de tu FICO Score.
 
@@ -92,7 +92,7 @@ Esto significa que todo titular de ITIN tiene una razón fundamental para manten
 
 ## ¿Cómo se compara el reporte de facturas de servicios con otros métodos para construir crédito con ITIN?
 
-*Una pregunta que nos hacen con frecuencia:* ¿debería priorizar el reporte de servicios sobre otras estrategias?
+¿debería priorizar el reporte de servicios sobre otras estrategias?
 
 El reporte de facturas de servicios públicos funciona mejor como complemento de las herramientas principales para construir crédito, no como un reemplazo. Una tarjeta de crédito asegurada o un [préstamo para construir crédito con ITIN](/credit-builder-loan-with-itin) crea una cuenta revolvente o a plazos real en tu archivo de crédito, lo que tiene más peso estructural en los modelos de puntuación que los datos alternativos reportados a través de servicios de terceros. El reporte de renta a través de un servicio como Boom o Rental Kharma también agrega a tu historial de pagos, pero opera bajo diferentes reglas de aceptación por parte de las agencias y los modelos de puntuación. (Consulta nuestra guía completa sobre [si pagar renta construye crédito con ITIN](/does-paying-rent-build-credit-with-itin) para un desglose por agencia.)
 

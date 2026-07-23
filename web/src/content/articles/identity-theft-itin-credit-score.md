@@ -36,7 +36,7 @@ Identity theft is a real threat to anyone with a U.S. credit file, but ITIN hold
 
 ## How does identity theft actually damage a credit score with an ITIN?
 
-*A question we hear often:* the mechanics are the same whether your file is keyed to an ITIN or an SSN. When a fraudster opens a new account in your name, several score-damaging events happen at once: a hard inquiry appears (lowering your score temporarily), a new account shortens your average account age, and when the fraudster stops paying, late payments and eventually a collection entry land on your report.
+The mechanics are the same whether your file is keyed to an ITIN or an SSN. When a fraudster opens a new account in your name, several score-damaging events happen at once: a hard inquiry appears (lowering your score temporarily), a new account shortens your average account age, and when the fraudster stops paying, late payments and eventually a collection entry land on your report.
 
 According to research cited by consumer advocates, identity theft victims can see an average drop of 100 or more points when new-account fraud is involved, because it hits multiple FICO factors simultaneously. Payment history (35% of your score), amounts owed, new credit, and length of history all take a hit at the same time. The longer the fraud runs undetected, the deeper the damage: catching it within 30 days limits harm mostly to inquiry and utilization effects, while fraud left unchecked for 90 days or more typically produces delinquency marks that take 12-24 months to age off even after correction.
 
@@ -44,7 +44,7 @@ For ITIN holders specifically, detection is often slower because many standard o
 
 ## Am I really at risk? Is identity fraud that common?
 
-*Readers frequently ask:* yes, and the numbers in 2026 are striking. According to the Identity Theft Resource Center's 2026 Trends in Identity Report, identity crimes have evolved from isolated events into "multi-layered" crises, with 25.6 percent of victims now managing two or more concurrent incidents, up from 23.5 percent the previous year. Unauthorized device access, meaning someone hacking a phone or computer to harvest credentials, increased by 78 percent year-over-year, rising from 15.3 percent of all identity compromises to 27.2 percent.
+Yes, and the numbers in 2026 are striking. According to the Identity Theft Resource Center's 2026 Trends in Identity Report, identity crimes have evolved from isolated events into "multi-layered" crises, with 25.6 percent of victims now managing two or more concurrent incidents, up from 23.5 percent the previous year. Unauthorized device access, meaning someone hacking a phone or computer to harvest credentials, increased by 78 percent year-over-year, rising from 15.3 percent of all identity compromises to 27.2 percent.
 
 Among the fraud types most relevant to credit, 62.1 percent of attempted misuse cases involved new account applications, and credit cards accounted for 41 percent of all attempted misuse by account type, followed by checking accounts at 17.7 percent and personal loans at 8.5 percent. Those are exactly the kinds of accounts that would show up on your credit report if a fraudster used your ITIN.
 
@@ -60,7 +60,7 @@ Placing a [credit freeze on your file at all three bureaus](https://itincreditsc
 
 ## How do I detect fraud on my ITIN credit report?
 
-*This one comes up a lot:* the warning signs are the same as for any credit file, but the detection method is slightly different for ITIN holders.
+The warning signs are the same as for any credit file, but the detection method is slightly different for ITIN holders.
 
 Here are the red flags to look for when you review your credit reports:
 
@@ -100,7 +100,7 @@ The comparison table below summarizes how different fraud types affect your scor
 
 ## What can I do right now to prevent fraud on my ITIN credit file?
 
-*Readers frequently ask* what proactive steps actually make a difference. Here are the most effective, in order of impact:
+What proactive steps actually make a difference. Here are the most effective, in order of impact:
 
 1. **Freeze your credit at all three bureaus.** A freeze is free under federal law and is the only method that actively blocks new accounts from being opened. Unfreeze temporarily when you need to apply for credit yourself.
 2. **Set up credit monitoring on an ITIN-compatible platform.** Standard monitoring services that require an SSN leave a blind spot. A platform built for ITIN holders means you get alerts for new inquiries or accounts as they happen, not weeks later.

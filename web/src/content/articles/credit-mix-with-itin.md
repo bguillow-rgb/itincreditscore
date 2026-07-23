@@ -36,7 +36,7 @@ If you have been working on building credit with your ITIN, you have probably fo
 
 ## Does credit mix actually affect my score with an ITIN?
 
-*A question we hear often:* whether the ITIN changes the rules around credit mix.
+Whether the ITIN changes the rules around credit mix.
 
 It does not. When a credit report is pulled, the mechanics of calculating credit scores remain the same regardless of whether the individual uses an ITIN or SSN. Every FICO and VantageScore factor, including credit mix, applies to your file in exactly the same way it would for a Social Security number holder.
 
@@ -68,7 +68,7 @@ Notice that a debit card will not build your credit since it is never reported t
 
 ## How much can improving my credit mix actually raise my score?
 
-*Readers frequently ask* how many points they can expect to gain by adding a second account type.
+How many points they can expect to gain by adding a second account type.
 
 Honestly: it depends on your overall file, and the gain is modest compared to what payment history and utilization can do. Credit mix alone will not dramatically raise your credit score, but it works best alongside on-time payments, low credit utilization, and a longer credit history.
 
@@ -84,7 +84,7 @@ According to a 2026 SSRN study, only 9% of immigrant consumers have a credit sco
 
 ## When should I NOT open a new account to improve my credit mix?
 
-*This one comes up a lot:* whether it is ever a mistake to chase a better credit mix by opening new accounts.
+Whether it is ever a mistake to chase a better credit mix by opening new accounts.
 
 It can be. Because credit mix is such a small factor in building credit, you should not open a new credit account just to improve your credit mix. Every new application creates a hard inquiry, which temporarily dips your score, and it also lowers your average account age, which hurts the length-of-history factor (15% of your FICO score).
 

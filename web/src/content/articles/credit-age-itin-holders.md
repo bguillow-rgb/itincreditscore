@@ -36,7 +36,7 @@ If you are an ITIN holder who has been building credit for a year or two, you ma
 
 ## How exactly does length of credit history factor into my ITIN score?
 
-*A question we hear often:* ITIN holders working hard on payment history and utilization sometimes overlook credit age entirely, yet it is the third most influential factor in your score.
+ITIN holders working hard on payment history and utilization sometimes overlook credit age entirely, yet it is the third most influential factor in your score.
 
 Length of credit history accounts for **about 15% of your FICO score** and is classified as "highly influential" by VantageScore when combined with credit mix. Scoring models look at several related data points: the age of your oldest open account, the age of your newest account, the average age of all your accounts, and how recently each account has seen activity. The longer and more continuous that record is, the more confident lenders feel about predicting your future behavior.
 
@@ -60,7 +60,7 @@ For ITIN holders starting from zero, the most important strategic insight is thi
 
 ## Does opening a new account hurt my credit age?
 
-*Readers frequently ask:* should I avoid opening a second account because it will lower my average account age?
+Should I avoid opening a second account because it will lower my average account age?
 
 Opening a new account does temporarily lower your average account age, and it also triggers a hard inquiry. If your file is very young (under 12 months), the proportional impact is larger. The effect is usually modest, though, and recovers within a few months as the new account ages alongside your existing ones.
 
@@ -70,7 +70,7 @@ The practical rule: space new account applications at least six to twelve months
 
 ## Should I close my secured card once I qualify for an unsecured one?
 
-*This one comes up a lot:* many ITIN holders graduate from a secured card after 12-24 months and immediately want to close it and retrieve their deposit.
+Many ITIN holders graduate from a secured card after 12-24 months and immediately want to close it and retrieve their deposit.
 
 Closing that first secured card is often a mistake from a credit-age standpoint. It removes the anchor of your credit file, your oldest account, and reduces your total available credit, which can push your utilization ratio higher at the same time. Both effects work against your score at once.
 

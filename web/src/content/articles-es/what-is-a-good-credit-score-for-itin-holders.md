@@ -36,7 +36,7 @@ Los puntajes de crédito van de 300 a 850 tanto si tienes SSN como ITIN, y los m
 
 ## ¿La escala de puntaje de crédito es realmente la misma para personas con ITIN?
 
-*Una pregunta que escuchamos mucho:* muchos lectores asumen que existe un sistema de puntuación separado e inferior para personas con ITIN. No es así.
+Muchos lectores asumen que existe un sistema de puntuación separado e inferior para personas con ITIN. No es así.
 
 Usar un ITIN para el crédito no afecta tu puntaje de forma diferente que un SSN. Una vez que abres una cuenta de crédito con tu ITIN, se reporta a los burós de crédito de la misma manera que cualquier otra cuenta. Tu historial de pagos, tu nivel de utilización y la antigüedad de tus cuentas influyen en tu puntaje de crédito de forma idéntica, sin importar si usaste un ITIN o un SSN para abrir la cuenta.
 
@@ -70,7 +70,7 @@ En el caso específico de las hipotecas, muchos prestamistas hipotecarios para I
 
 ## ¿A qué puntaje debe apuntar primero una persona con ITIN de forma realista?
 
-*Los lectores preguntan con frecuencia:* ¿cuál es la primera meta adecuada y es realmente posible llegar a 700?
+¿cuál es la primera meta adecuada y es realmente posible llegar a 700?
 
 La respuesta corta es sí: un 700 es alcanzable en aproximadamente 12 a 24 meses de esfuerzo constante partiendo desde cero. Por lo general tendrás un historial de crédito puntuable después de seis meses de actividad en la cuenta. A partir de ahí, los pagos puntuales y un nivel de utilización bajo pueden llevarte a un puntaje de 650 a 700 en 12 a 18 meses.
 
@@ -84,7 +84,7 @@ Hay más evidencia de que las personas con ITIN pueden alcanzar buenos puntajes 
 
 ## ¿Qué puntaje necesito para pasar de una tarjeta asegurada a una sin garantía?
 
-*Esta pregunta surge mucho:* los lectores que comenzaron con una tarjeta asegurada quieren saber cuándo pueden esperar una mejora.
+Los lectores que comenzaron con una tarjeta asegurada quieren saber cuándo pueden esperar una mejora.
 
 Después de 6 a 12 meses de pagos puntuales, muchos emisores te otorgan una tarjeta sin garantía y te devuelven el depósito, lo cual es un logro importante. En la práctica, la mayoría de los emisores busca un puntaje FICO o VantageScore de entre 640 y 670 antes de ofrecer esa mejora, aunque el umbral exacto varía según el emisor y no siempre se publica.
 
@@ -120,7 +120,7 @@ Llegar a 670 o más requiere que datos positivos fluyan a tu reporte desde cuent
 
 ## ¿Cómo puedo monitorear mi puntaje para saber en qué nivel estoy?
 
-*Una pregunta que escuchamos mucho:* las personas con ITIN frecuentemente descubren que las herramientas estándar para consultar el puntaje no funcionan para ellas porque requieren un SSN.
+Las personas con ITIN frecuentemente descubren que las herramientas estándar para consultar el puntaje no funcionan para ellas porque requieren un SSN.
 
 Las personas con ITIN pueden consultar sus puntajes de crédito con los tres burós principales (Experian, Equifax, TransUnion), pero no pueden usar AnnualCreditReport.com. Las solicitudes con ITIN requieren contacto directo con los burós de crédito. Para Experian, por ejemplo, debes enviar una solicitud por escrito con tu nombre completo incluyendo la inicial del segundo nombre, fecha de nacimiento y direcciones completas de los últimos dos años, junto con una copia de una identificación oficial vigente y un recibo de servicio público, enviada por correo a Experian, P.O. Box 9701, Allen, TX 75013.
 

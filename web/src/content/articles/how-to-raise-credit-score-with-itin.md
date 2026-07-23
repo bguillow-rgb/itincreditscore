@@ -38,7 +38,7 @@ Your ITIN credit score responds to the exact same inputs as any other U.S. credi
 
 ## What actually controls my ITIN credit score?
 
-*A question we hear often:* before optimizing anything, it helps to see exactly what the scoring model is weighing.
+Before optimizing anything, it helps to see exactly what the scoring model is weighing.
 
 Payment history is the biggest factor in your credit score, accounting for 35% of your FICO Score, the model used by 90% of top lenders. After that, credit utilization comprises roughly 30% of your FICO score calculation. The remaining weight is split among length of credit history, credit mix (the variety of account types you carry), and new credit inquiries.
 
@@ -62,7 +62,7 @@ If a late payment on your report was reported in error (say, a payment you actua
 
 ## My score is stuck. Is credit utilization the problem?
 
-*This one comes up a lot:* many ITIN holders with secured cards have low credit limits, which means even small balances create high utilization ratios.
+Many ITIN holders with secured cards have low credit limits, which means even small balances create high utilization ratios.
 
 Credit utilization is the percentage of your credit limit that you use each month, and it is a critical component of your credit score. Most creditors prefer applicants who use only a portion of their allotted credit lines because it reflects reasonable spending habits.
 
@@ -80,7 +80,7 @@ Unlike late payments (which stay on your report for seven years), utilization is
 
 ## Does opening a second account help or hurt my score?
 
-*Readers frequently ask:* whether adding a [credit builder loan with an ITIN](https://itincreditscore.com/credit-builder-loan-with-itin) alongside a credit card is a smart move or just more risk.
+Whether adding a [credit builder loan with an ITIN](https://itincreditscore.com/credit-builder-loan-with-itin) alongside a credit card is a smart move or just more risk.
 
 Honestly, it depends on where you are in your credit journey. Any new application triggers a hard inquiry in the short term. Most credit card applications trigger a hard inquiry, which can temporarily lower your score by 5 to 15 points. That is a small and temporary dip.
 
@@ -106,7 +106,7 @@ Request your free reports by mail using your ITIN as your identifier. Review eve
 
 ## Should I become an authorized user to boost my score faster?
 
-*A question we hear often:* if a family member or close friend has a long-standing credit card in good standing, being added as an [authorized user on a credit card with an ITIN](https://itincreditscore.com/authorized-user-credit-card-itin) can add that card's entire history to your file.
+If a family member or close friend has a long-standing credit card in good standing, being added as an [authorized user on a credit card with an ITIN](https://itincreditscore.com/authorized-user-credit-card-itin) can add that card's entire history to your file.
 
 The benefit is meaningful. You inherit the account's age, credit limit, and payment history without needing to qualify on your own. If the primary cardholder has a five-year-old card with a $5,000 limit and a clean record, your file suddenly looks much more established.
 

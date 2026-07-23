@@ -36,7 +36,7 @@ An ITIN is primarily a tax identification number, but it also works as the ancho
 
 ## Wait, can an ITIN actually expire?
 
-*A question we hear often:* Yes, it can, and many people are caught off-guard when it happens. According to IRS rules, an ITIN expires on December 31 of the third consecutive year it is not used on a federal tax return. ITINs with certain middle digits issued before 2013 also expired in IRS batch rounds between 2016 and 2020. Any valid ITIN not used on a federal return in tax years 2022, 2023, and 2024 expired on December 31, 2024.
+Yes, it can, and many people are caught off-guard when it happens. According to IRS rules, an ITIN expires on December 31 of the third consecutive year it is not used on a federal tax return. ITINs with certain middle digits issued before 2013 also expired in IRS batch rounds between 2016 and 2020. Any valid ITIN not used on a federal return in tax years 2022, 2023, and 2024 expired on December 31, 2024.
 
 Renewal is done by submitting Form W-7 on paper only. As of mid-2026, there is no online or e-file renewal option. Processing takes roughly 7 weeks under standard conditions, or 9 to 11 weeks during peak filing season or for applications mailed from abroad.
 
@@ -55,7 +55,7 @@ According to Experian's February 2026 white paper, 76.9% of ITIN holders remaine
 
 ## Which accounts are most affected by an expired ITIN?
 
-*Readers frequently ask:* Not all accounts are affected equally. Here is a quick comparison:
+Not all accounts are affected equally. Here is a quick comparison:
 
 | Account Type | How Expiration Risk Plays Out |
 |---|---|
@@ -77,7 +77,7 @@ Similarly, any credit history you built under your ITIN before expiration counts
 
 ## So what does an expired ITIN actually cost me in practice?
 
-*This one comes up a lot:* The cost is measured in opportunity, not in immediate point drops. Consider a concrete scenario. Suppose you have been building credit for 14 months with a secured card, making on-time payments reported to all three bureaus. Your ITIN expires in month 15 and your issuer's system quietly stops sending updates. You may not notice for two or three billing cycles. By that point:
+The cost is measured in opportunity, not in immediate point drops. Consider a concrete scenario. Suppose you have been building credit for 14 months with a secured card, making on-time payments reported to all three bureaus. Your ITIN expires in month 15 and your issuer's system quietly stops sending updates. You may not notice for two or three billing cycles. By that point:
 
 - Two to three months of on-time payments were never recorded.
 - Your credit utilization may not be updated, potentially showing a stale balance.
@@ -100,7 +100,7 @@ While waiting for your renewal to process (allow 7-11 weeks), take these steps t
 
 ## Does an expired ITIN affect a credit freeze or dispute I filed?
 
-*A question we hear often:* For the most part, no. A [credit freeze](https://itincreditscore.com/how-to-freeze-credit-with-itin) you placed with a bureau remains active regardless of your ITIN's status because the freeze is tied to your existing credit file, not to the active validity of the ITIN. Likewise, a dispute you filed under the Fair Credit Reporting Act (FCRA) continues to be processed. The FCRA gives you the right to dispute errors and access your report regardless of SSN or ITIN status. That said, if you need to initiate a new dispute or lift a freeze during the renewal period, make sure you can still verify your identity through the other data points the bureaus accept: full name, date of birth, address history, and a government-issued ID.
+For the most part, no. A [credit freeze](https://itincreditscore.com/how-to-freeze-credit-with-itin) you placed with a bureau remains active regardless of your ITIN's status because the freeze is tied to your existing credit file, not to the active validity of the ITIN. Likewise, a dispute you filed under the Fair Credit Reporting Act (FCRA) continues to be processed. The FCRA gives you the right to dispute errors and access your report regardless of SSN or ITIN status. That said, if you need to initiate a new dispute or lift a freeze during the renewal period, make sure you can still verify your identity through the other data points the bureaus accept: full name, date of birth, address history, and a government-issued ID.
 
 ## The bottom line: expiration is a speed bump, not a cliff
 

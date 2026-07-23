@@ -36,7 +36,7 @@ Los dos lados de la ecuación del cofirmante importan si tienes un ITIN: ¿puede
 
 ## ¿Puedo firmar legalmente como cofirmante en un préstamo si solo tengo un ITIN y no un SSN?
 
-*Una pregunta que escuchamos con frecuencia:* muchos titulares de ITIN asumen que ser cofirmante es un privilegio exclusivo para quienes tienen SSN. No lo es.
+Muchos titulares de ITIN asumen que ser cofirmante es un privilegio exclusivo para quienes tienen SSN. No lo es.
 
 Un cofirmante firma el contrato del préstamo junto con el prestatario principal y acepta la responsabilidad legal total de la deuda si el prestatario deja de pagar. Los prestamistas necesitan verificar la identidad, los ingresos y la solvencia del cofirmante, no su ciudadanía ni autorización de trabajo. Un cofirmante debe proporcionar una identificación oficial válida y un SSN o ITIN; algunos prestamistas aceptan titulares de DACA o visas bajo condiciones más estrictas. En la práctica, el ITIN es un identificador aceptado en muchas cooperativas de crédito y bancos comunitarios, y en un número creciente de prestamistas más grandes.
 
@@ -60,7 +60,7 @@ Según Experian, abrir una nueva cuenta puede generar una baja temporal en el pu
 
 ## ¿Ser cofirmante realmente mejorará mi puntaje de crédito con ITIN con el tiempo?
 
-*Esto surge mucho:* los titulares de ITIN con historial de crédito limitado se preguntan si ser cofirmante es una buena estrategia para construir crédito.
+Los titulares de ITIN con historial de crédito limitado se preguntan si ser cofirmante es una buena estrategia para construir crédito.
 
 Puede serlo, pero el resultado depende completamente del comportamiento del prestatario principal. Tu historial de pagos, tu tasa de utilización de crédito y tu variedad de crédito se ven afectados cuando firmas como cofirmante en un préstamo. Ser cofirmante puede mejorar tu puntaje de crédito cuando el prestatario principal hace los pagos a tiempo, ya que esos pagos se suman a tu historial.
 
@@ -70,7 +70,7 @@ Dicho eso, la parte negativa es grave. El impacto negativo en tu puntaje si el p
 
 ## ¿Cómo se compara ser cofirmante con ser usuario autorizado para construir crédito con un ITIN?
 
-*Los lectores preguntan con frecuencia* qué estrategia es mejor: firmar como cofirmante para alguien o convertirte tú en usuario autorizado.
+Qué estrategia es mejor: firmar como cofirmante para alguien o convertirte tú en usuario autorizado.
 
 Estas dos estrategias no son intercambiables. Aquí tienes una comparación directa:
 
@@ -112,7 +112,7 @@ La obligación que adquieres con tu cofirmante es real. Esa persona está ponien
 
 ## ¿Cuáles son los mayores riesgos que un titular de ITIN debe conocer antes de ser cofirmante?
 
-*Una pregunta que escuchamos con frecuencia:* si los riesgos crediticios valen la pena.
+Si los riesgos crediticios valen la pena.
 
 Hay tres riesgos que merecen atención especial.
 

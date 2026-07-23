@@ -36,7 +36,7 @@ El miedo es uno de los mayores obstáculos que impide a los titulares de ITIN co
 
 ## ¿Es verdad que los burós de crédito pueden compartir mi información con migración?
 
-*Una pregunta que escuchamos con frecuencia:* Esta es la preocupación más común que recibimos de los titulares de ITIN, y la respuesta corta es no, al menos no de manera voluntaria.
+Esta es la preocupación más común que recibimos de los titulares de ITIN, y la respuesta corta es no, al menos no de manera voluntaria.
 
 La Ley de Privacidad Financiera es la ley federal que protege tu crédito y tus registros financieros. Los bancos y los burós de crédito no pueden compartir tu información financiera con agencias gubernamentales sin un proceso legal adecuado, como una citación o una orden judicial, y la Ley de Privacidad Financiera protege tus registros. Esta ley aplica por igual a todos los consumidores en los Estados Unidos, sin importar su estatus migratorio. Equifax, Experian y TransUnion están cubiertos por ella.
 
@@ -52,7 +52,7 @@ Si quieres entender exactamente cómo está estructurado tu expediente de ITIN e
 
 ## ¿Qué cambió realmente la orden ejecutiva de 2026 para los expedientes de crédito con ITIN?
 
-*Esto surge mucho en conversaciones:* En mayo de 2026, una nueva orden ejecutiva titulada "Restaurando la Integridad del Sistema Financiero de América" generó mucha preocupación en las comunidades de inmigrantes. Aquí te explicamos qué dice en realidad, y qué no dice.
+En mayo de 2026, una nueva orden ejecutiva titulada "Restaurando la Integridad del Sistema Financiero de América" generó mucha preocupación en las comunidades de inmigrantes. Aquí te explicamos qué dice en realidad, y qué no dice.
 
 El 19 de mayo de 2026, el Presidente firmó una orden ejecutiva que instruye a los bancos y a sus reguladores federales a comenzar a considerar el estatus migratorio de un cliente al abrir cuentas, otorgar crédito y reportar actividad sospechosa. Eso suena alarmante, pero los detalles operativos importan enormemente.
 
@@ -62,7 +62,7 @@ La orden no parece crear un requisito inmediato de documentos de ciudadanía par
 
 ## ¿Mi puntaje o historial de crédito importan para una green card o una visa?
 
-*Los lectores preguntan esto con frecuencia:* Esta pregunta tiene dos respuestas distintas, dependiendo de si estás hablando de solicitudes de visa de rutina o de una determinación de carga pública.
+Esta pregunta tiene dos respuestas distintas, dependiendo de si estás hablando de solicitudes de visa de rutina o de una determinación de carga pública.
 
 Para la gran mayoría de renovaciones de visa, visas de trabajo e incluso muchas solicitudes de green card, tu puntaje de crédito simplemente no se revisa. Los oficiales de inmigración evalúan factores como el patrocinio, el empleo, los antecedentes penales y los vínculos con tu país de origen. Un reporte de crédito no es un documento estándar en esos expedientes.
 
@@ -99,7 +99,7 @@ Si te preocupa la privacidad financiera en términos más amplios, el paso más 
 
 ## ¿Debo evitar construir crédito para pasar desapercibido?
 
-*Una pregunta que escuchamos con frecuencia:* Esta preocupación es comprensible, pero evitar el crédito te pone en desventaja, tanto financieramente como, potencialmente, en procesos migratorios.
+Esta preocupación es comprensible, pero evitar el crédito te pone en desventaja, tanto financieramente como, potencialmente, en procesos migratorios.
 
 Los titulares de ITIN incluyen personas que buscan participar en los sistemas formales de impuestos y banca, y muchos son exactamente los hogares inmigrantes de bajos ingresos que los esfuerzos de inclusión financiera han intentado incorporar a la banca convencional. Si los bancos responden con procesos de incorporación más estrictos, más salidas o menos aprobaciones, la política empuja a las personas hacia el efectivo, los cambistas de cheques y las finanzas informales. Eso es peor para los hogares y, paradójicamente, menos transparente para las autoridades.
 

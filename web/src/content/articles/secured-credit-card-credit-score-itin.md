@@ -38,7 +38,7 @@ If you hold an ITIN and are just starting your U.S. credit journey, a secured cr
 
 ## Does a secured credit card actually report to the credit bureaus when I have an ITIN?
 
-*A question we hear often:* ITIN holders sometimes worry their accounts won't be recognized the same way as SSN-based accounts at the bureaus. In practice, the identification number on your file doesn't change how reporting works.
+ITIN holders sometimes worry their accounts won't be recognized the same way as SSN-based accounts at the bureaus. In practice, the identification number on your file doesn't change how reporting works.
 
 Lenders typically require a Social Security number when you apply for a credit account, but if you opened an account without an SSN and the lender reports its accounts to Experian, the account should still appear on your credit report. That is because Experian matches information to a credit history using all of the identification information provided by the lender, not only the SSN.
 
@@ -58,7 +58,7 @@ Once you are scoreable, you can [monitor your ITIN credit score](https://itincre
 
 ## What score factors does a secured card actually touch?
 
-*This one comes up a lot:* readers want to know whether a single secured card moves the needle on all five credit score factors, or only one or two.
+Readers want to know whether a single secured card moves the needle on all five credit score factors, or only one or two.
 
 Here is how a secured card interacts with each major factor:
 
@@ -74,7 +74,7 @@ The most influential factor in both systems is payment history, accounting for a
 
 ## Will applying for the card hurt my score before it even helps?
 
-*Readers frequently ask:* whether the hard inquiry from the application does lasting damage, especially when starting from zero.
+Whether the hard inquiry from the application does lasting damage, especially when starting from zero.
 
 The short answer: the hit is real but small and temporary. If this is your first credit card and you are applying with an ITIN, you might not have a credit score yet. But if you do have one, applying could cause a small, temporary dip in your score. Still, approval and responsible use can help build or improve your credit over time.
 
@@ -102,7 +102,7 @@ If your issuer does not offer automatic graduation, you can apply for a separate
 
 ## What are the most common mistakes ITIN holders make with secured cards that stall their score?
 
-*A question we hear often:* readers who have had a secured card for months but see little movement in their score.
+Readers who have had a secured card for months but see little movement in their score.
 
 The four most common culprits are:
 

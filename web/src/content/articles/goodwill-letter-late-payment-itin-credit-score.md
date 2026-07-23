@@ -46,7 +46,7 @@ One thing to keep clear from the start: a goodwill letter is not a dispute. You 
 
 ## Why does one late payment matter so much to my ITIN credit score?
 
-*A question we hear often:* how much can a single missed payment really move the needle?
+How much can a single missed payment really move the needle?
 
 Quite a lot. Payment history makes up 35% of your FICO score, more than any other factor, including credit utilization or account age. One slip hits hard.
 
@@ -58,7 +58,7 @@ That late payment can stay on your credit reports for up to seven years. That is
 
 ## When does a goodwill letter actually work?
 
-*This one comes up a lot:* readers want to know the realistic odds before they spend time writing.
+Readers want to know the realistic odds before they spend time writing.
 
 Goodwill letters work in some cases, but success is not guaranteed. Smaller lenders, credit unions, and medical providers tend to be more flexible. Large national banks and credit card issuers often have strict policies against removing accurate negative information, citing their obligations under the FCRA to report accurately.
 
@@ -78,7 +78,7 @@ Long-term customers of five or more years are more likely to get a favorable res
 
 ## What should I actually write in my goodwill letter as an ITIN holder?
 
-*Readers frequently ask:* for a step-by-step framework because most templates online assume an SSN holder with years of U.S. history.
+For a step-by-step framework because most templates online assume an SSN holder with years of U.S. history.
 
 The structure below is adapted for ITIN holders. Your ITIN status is not something you need to hide or explain in the letter; it is irrelevant to the creditor's decision. What matters is your relationship with that account.
 

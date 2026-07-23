@@ -36,7 +36,7 @@ Both sides of the cosigning equation matter if you hold an ITIN: can you act as 
 
 ## Can I legally cosign a loan if I only have an ITIN, not an SSN?
 
-*A question we hear often:* many ITIN holders assume cosigning is an SSN-only privilege. It is not.
+Many ITIN holders assume cosigning is an SSN-only privilege. It is not.
 
 A cosigner signs a loan agreement alongside the primary borrower and accepts full legal responsibility for the debt if the borrower stops paying. Lenders need to verify a cosigner's identity, income, and creditworthiness, not their citizenship or work authorization. A cosigner must provide a valid government ID and SSN or ITIN; some lenders accept DACA or visa holders with stricter terms. In practice, an ITIN is an accepted identifier at many credit unions and community banks, and at a growing number of larger lenders.
 
@@ -60,7 +60,7 @@ According to Experian, opening a new account can lead to a brief score drop due 
 
 ## Will cosigning actually help my ITIN credit score over time?
 
-*This one comes up a lot:* ITIN holders with thin files wonder whether cosigning is a smart credit-building move.
+ITIN holders with thin files wonder whether cosigning is a smart credit-building move.
 
 It can be, but the outcome depends entirely on the primary borrower's behavior. Your payment history, credit utilization ratio, and credit mix are all impacted when you cosign a loan. Cosigning can positively affect your credit score when a primary borrower makes timely payments, because on-time payments add to your payment history.
 
@@ -70,7 +70,7 @@ That said, the downside is severe. The negative impact on your credit score if t
 
 ## How does cosigning compare to being an authorized user for credit building with an ITIN?
 
-*Readers frequently ask* which strategy is better: cosigning for someone or becoming an authorized user yourself.
+Which strategy is better: cosigning for someone or becoming an authorized user yourself.
 
 These two strategies are not interchangeable. Here is a direct comparison:
 
@@ -112,7 +112,7 @@ The obligation you take on toward your cosigner is real. They are extending thei
 
 ## What are the biggest risks an ITIN holder should know before cosigning?
 
-*A question we hear often:* whether the credit risks are worth it.
+Whether the credit risks are worth it.
 
 Three risks deserve close attention.
 

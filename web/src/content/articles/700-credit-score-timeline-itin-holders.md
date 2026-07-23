@@ -82,8 +82,6 @@ The practical translation: open your first ITIN-friendly reporting account as so
 
 ## "What will my first score actually be?"
 
-*A question we hear often:*
-
 New files do not always start low. A young, thin file with perfect early behavior commonly debuts in the 600s to low 700s, because there is nothing negative to weigh. The work from there is defending the score while the file thickens and ages.
 
 At month 6, your first FICO score is generated, typically landing in the 640-700 range for someone with a single well-managed account. Around month 9, the score may plateau or drift down slightly as the "newness" bonus fades. This is normal.
@@ -93,8 +91,6 @@ This early plateau confuses a lot of new builders. They do everything right and 
 ---
 
 ## "Which tools actually move the needle fastest for an ITIN holder?"
-
-*This one comes up a lot:*
 
 Not every credit-building product accepts ITINs, and not every ITIN-friendly product reports to all three bureaus. The table below maps the most commonly used tools to their key specs as verified in mid-2026.
 
@@ -165,8 +161,6 @@ At this stage, your secured card may be eligible for graduation to an unsecured 
 
 ## "Is there a shortcut to reach 700 faster than 18-24 months?"
 
-*Readers frequently ask:*
-
 One legitimate shortcut exists: the authorized user strategy. Being added as an authorized user on a trusted friend or family member's credit card means their positive payment history and low utilization can appear on your credit report.
 
 Almost half of users who try this see their score jump to 680 or higher within 30-45 days, making it one of the faster moves available. For a thin ITIN file with no score yet, being added to a long-standing, low-utilization account can produce a first scoreable file in one reporting cycle instead of six months.
@@ -198,8 +192,6 @@ The practical protection is simple: set every account to autopay at least the mi
 ---
 
 ## "What utilization number should I actually target, not just stay under 30%?"
-
-*This one comes up a lot:*
 
 The "stay under 30%" rule that gets repeated everywhere is the floor, not the target. The actual goal is 1-3%, not the 30% maximum many people mistakenly aim for. Miscalculating this single metric can cost you 40-80 FICO points.
 

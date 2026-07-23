@@ -36,7 +36,7 @@ Understanding how the credit scoring machinery connects to your ITIN removes mos
 
 ## Does an ITIN actually plug into the same credit system as an SSN?
 
-*A question we hear often:* whether the U.S. credit system treats an ITIN as a "second class" identifier or a full substitute for an SSN.
+Whether the U.S. credit system treats an ITIN as a "second class" identifier or a full substitute for an SSN.
 
 The answer is clear. All three major bureaus, Experian, Equifax, and TransUnion, accept your ITIN as a primary identifier for building and maintaining a credit file. When a lender reports an account, they submit your ITIN in the same field where an SSN would normally appear, and the bureau links that account to your profile using your ITIN alongside your name, date of birth, and address history.
 
@@ -59,7 +59,7 @@ Not all lenders report to all three bureaus. As a result, your scores at Experia
 
 ## What five factors actually determine my ITIN credit score?
 
-*This one comes up a lot:* people want to know whether the five standard score factors apply equally to ITIN holders or whether the formula changes somehow.
+People want to know whether the five standard score factors apply equally to ITIN holders or whether the formula changes somehow.
 
 It does not. Here is how FICO weights the factors for everyone, regardless of identifier:
 
@@ -79,7 +79,7 @@ Length of credit history at 15% rewards patience. Every month an account stays o
 
 ## Does it matter whether my score is FICO or VantageScore?
 
-*Readers frequently ask:* about the difference between the two main scoring models, especially when free tools show a VantageScore but a lender mentions FICO.
+About the difference between the two main scoring models, especially when free tools show a VantageScore but a lender mentions FICO.
 
 Both models use the same 300-850 scale and the same underlying bureau data. The core habits that move one score also move the other. The practical differences worth knowing as an ITIN holder are:
 
@@ -103,7 +103,7 @@ For you, the practical implication is that your habits matter more than your sta
 
 ## What is the fastest way to generate a scoreable credit file with my ITIN?
 
-*A question we hear often:* how to get from zero accounts to a calculable score as quickly as possible.
+How to get from zero accounts to a calculable score as quickly as possible.
 
 The limiting factor is time: FICO needs at least six months of reported activity, while VantageScore needs as little as one to two months. With that in mind, the fastest path is to open one or two accounts that report to all three bureaus on the same month-one cycle, then do nothing except pay on time.
 

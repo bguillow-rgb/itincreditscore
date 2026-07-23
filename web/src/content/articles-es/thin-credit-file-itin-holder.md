@@ -38,7 +38,7 @@ Si recientemente abriste tu primera cuenta de crédito en EE. UU. con tu ITIN e 
 
 ## ¿Qué es exactamente un expediente de crédito delgado y cómo sé si tengo uno?
 
-*Una pregunta que escuchamos con frecuencia:* personas que acaban de abrir su primera cuenta no entienden por qué aún no aparece su puntaje.
+Personas que acaban de abrir su primera cuenta no entienden por qué aún no aparece su puntaje.
 
 Un expediente de crédito delgado es un reporte de crédito que contiene muy pocas cuentas, un historial demasiado corto, o ambas cosas, para que un modelo de puntuación genere un número confiable de tres dígitos. Muchos recién llegados comienzan con un expediente de crédito delgado o sin ningún expediente porque el historial crediticio extranjero generalmente no se transfiere de forma automática al sistema estadounidense, y aunque hayas tenido un excelente crédito en otro país, la mayoría de los prestamistas en EE. UU. no pueden usarlo fácilmente al tomar decisiones.
 
@@ -60,7 +60,7 @@ El efecto práctico es que un expediente delgado te hace parecer más riesgoso d
 
 ## ¿En qué se diferencia un expediente de crédito delgado de no tener ningún expediente?
 
-*Los lectores preguntan con frecuencia:* si tienen algún expediente, especialmente si nunca han solicitado crédito en EE. UU.
+Si tienen algún expediente, especialmente si nunca han solicitado crédito en EE. UU.
 
 Un expediente completamente vacío significa que los burós no tienen ningún registro vinculado a tu ITIN. Construir un puntaje de crédito con ITIN requiere abrir cuentas que reporten actividad a Equifax, TransUnion o Experian. Sin actividad de cuenta reportada, no se genera ningún puntaje.
 
@@ -77,7 +77,7 @@ El tiempo desde no tener expediente hasta tener uno con puntaje generalmente tom
 
 ## ¿Cuáles son las formas más rápidas de solucionar un expediente de crédito delgado con un ITIN?
 
-*Esto surge mucho:* las personas quieren una lista ordenada y práctica, no solo un resumen general.
+Las personas quieren una lista ordenada y práctica, no solo un resumen general.
 
 **1. Agrega un préstamo para construir crédito.** Un [préstamo para construir crédito con tu ITIN](/credit-builder-loan-with-itin) está diseñado específicamente para expedientes delgados. Haces pagos mensuales fijos a una cuenta de ahorros bloqueada, y el prestamista reporta cada pago puntual a los tres burós. Como no se requiere ningún gasto, el riesgo de afectar tu puntaje por una alta utilización es cero.
 
@@ -101,7 +101,7 @@ Cada año, dos millones de recién llegados a EE. UU. tienen que abandonar el hi
 
 ## ¿Cómo verifico si mi expediente de crédito con ITIN sigue siendo delgado ahora mismo?
 
-*Una pregunta que escuchamos con frecuencia:* las personas quieren conocer el estado de su expediente antes de solicitar cualquier cosa.
+Las personas quieren conocer el estado de su expediente antes de solicitar cualquier cosa.
 
 El método más confiable es obtener tu reporte de cada buró por separado. Los tres principales burós de crédito, Experian, Equifax y TransUnion, trabajan con titulares de ITIN y generan reportes basados en tu comportamiento financiero. La única diferencia es el método de acceso. Equifax permite el registro en línea en myEquifax.com, donde ingresas tu ITIN en el campo de SSN y recibes un VantageScore y reporte gratuitos. Para Experian y TransUnion, los titulares de ITIN pueden necesitar enviar solicitudes por correo junto con una identificación emitida por el gobierno y un comprobante de domicilio. Las instrucciones completas paso a paso están en nuestra [guía para obtener tu reporte de crédito gratuito con un ITIN](/how-to-check-credit-score-with-itin-number).
 

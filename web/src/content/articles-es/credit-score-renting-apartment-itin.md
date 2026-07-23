@@ -36,7 +36,7 @@ Tu puntaje de crédito no es solo un número para futuros préstamos. Para las p
 
 ## ¿Puede un arrendador hacer una verificación de crédito con mi ITIN?
 
-*Una pregunta que escuchamos con frecuencia:* muchas personas con ITIN asumen que sin un Número de Seguro Social, el proceso de verificación para alquilar es un callejón sin salida. Esa suposición está equivocada.
+Muchas personas con ITIN asumen que sin un Número de Seguro Social, el proceso de verificación para alquilar es un callejón sin salida. Esa suposición está equivocada.
 
 Las agencias de crédito, incluyendo Experian, TransUnion y Equifax, pueden generar reportes de crédito vinculados a ITINs. Los servicios de verificación de inquilinos y los arrendadores ingresan tu ITIN en el campo del identificador, y la agencia lo relaciona con cualquier cuenta reportada bajo ese número. El formulario de solicitud de alquiler generalmente incluye el nombre legal completo del solicitante, el Número de Seguro Social o el Número de Identificación Personal del Contribuyente (ITIN), la fecha de nacimiento y el historial de alquileres anteriores.
 
@@ -65,7 +65,7 @@ Los arrendadores privados (personas que alquilan una sola propiedad) suelen ser 
 
 ## ¿Qué ve exactamente un arrendador en mi reporte de crédito como titular de ITIN?
 
-*Esto surge mucho:* las personas temen que tener un ITIN marque algo inusual en el reporte.
+Las personas temen que tener un ITIN marque algo inusual en el reporte.
 
 No es así. El reporte de crédito que recibe un arrendador muestra el historial de cuentas, saldos, puntualidad en los pagos y cualquier elemento negativo como cobros o pagos atrasados. El identificador usado para consultar el reporte (ITIN o SSN) no aparece como una señal de alerta. Para quienes mantienen registros financieros limpios, los reportes de crédito basados en ITIN cumplen el mismo propósito que los basados en SSN.
 
@@ -75,7 +75,7 @@ Los arrendadores también pueden revisar las consultas duras. Demasiadas consult
 
 ## No tengo historial de crédito en EE.UU. ¿Puedo alquilar un apartamento con ITIN?
 
-*Los lectores preguntan esto con frecuencia,* especialmente quienes llegaron hace poco. La respuesta honesta es: sí, pero necesitas una estrategia.
+Especialmente quienes llegaron hace poco. La respuesta honesta es: sí, pero necesitas una estrategia.
 
 Según el informe actualizado del CFPB de 2025, aproximadamente 7 millones de consumidores seguían siendo invisibles crediticiamente a diciembre de 2020, una reducción desde los 13.5 millones en 2010. Alrededor del 15% de los consumidores hispanos son invisibles crediticiamente, en comparación con el 9% de los consumidores blancos. Las personas con ITIN están representadas de manera desproporcionada en ese grupo, así que estás muy lejos de ser el único caso.
 
@@ -107,7 +107,7 @@ Para un plan más completo, nuestro artículo sobre [cómo subir tu puntaje de c
 
 ## ¿Aplicar a varios apartamentos afecta mi puntaje de crédito con ITIN?
 
-*Esto surge con frecuencia:* los solicitantes temen que una serie de verificaciones de crédito durante la búsqueda de apartamento arruine el puntaje que con tanto esfuerzo construyeron.
+Los solicitantes temen que una serie de verificaciones de crédito durante la búsqueda de apartamento arruine el puntaje que con tanto esfuerzo construyeron.
 
 La realidad es más matizada. Muchas plataformas de verificación de inquilinos usan consultas suaves, que no tienen ningún impacto en tu puntaje. Algunas verificaciones de inquilinos pueden resultar en una consulta dura, que afecta temporalmente tu puntaje de crédito. Podrías evitar una consulta dura preguntándole a tu arrendador de antemano cómo planea verificarte y ofreciendo proporcionar tú mismo un reporte de crédito.
 

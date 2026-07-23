@@ -68,8 +68,6 @@ Before getting into the detail on each method, here is the full picture in one p
 
 ## Why can't I just use AnnualCreditReport.com like everyone else?
 
-*A question we hear often:*
-
 AnnualCreditReport.com does technically accept ITINs in its form fields, since the ITIN has a similar nine-digit format to an SSN. Once the site receives your request, the bureaus verify your identity using their own procedures. The problem is the automated online flow. AnnualCreditReport.com's identity verification relies on knowledge-based security questions pulled from your credit file. If you are relatively new to U.S. credit or your file is thin, the system often cannot generate enough questions to confirm your identity, and it fails silently, with no clear explanation.
 
 The free online portal at AnnualCreditReport.com only works reliably with SSNs. As an ITIN holder, you must contact the credit bureaus directly, but it is a manageable process. The mail-in option through AnnualCreditReport.com does work, but the faster approach is going directly to each bureau using the methods described below. One distinction worth keeping in mind: even when the annual report request succeeds, you receive your credit *report* (the underlying data), not your three-digit credit *score*. Those are two separate products. The report is the foundation; the score is calculated from it.
@@ -108,8 +106,6 @@ Credit Karma also pulls from TransUnion, but that side may not display data for 
 
 ## What about Capital One CreditWise and Bilt Rewards for ITIN holders?
 
-*Readers frequently ask:*
-
 **Capital One CreditWise** is a genuinely useful monitoring tool that accepts ITIN holders. Capital One's CreditWise is free and works with ITINs. It updates weekly and includes credit monitoring features. CreditWise is free and open to anyone. You do not need a Capital One credit card or bank account to use it. The score it delivers is a VantageScore 3.0 pulled from TransUnion, which makes it a good complement to Credit Karma (which shows Equifax). Using both together gives you two-bureau coverage at no cost.
 
 **Bilt Rewards** is the least-known option on this list, but it is worth calling out specifically because it delivers an Experian FICO Score. The Bilt Rewards app allows ITIN holders to create an account and provides your Experian FICO Score 9 monthly. Experian is the bureau that many ITIN holders have the most difficulty accessing online, so getting an Experian-sourced FICO score through Bilt at no charge is a genuinely useful complement to Equifax-based tools. You will need to create a Bilt account to access this.
@@ -125,8 +121,6 @@ Combining three free tools gives you meaningful coverage across all three bureau
 ---
 
 ## How do I get my actual credit report (not just the score) from each bureau with an ITIN?
-
-*This one comes up a lot:*
 
 Your credit report is the raw data that scores are calculated from. Reviewing it lets you catch errors, confirm accounts are reporting correctly, and understand exactly what is in your file. Federal law guarantees you a free annual credit report from each bureau. While the process is different for ITIN holders, your right to access your information remains.
 
@@ -175,8 +169,6 @@ For most ITIN holders who simply want to monitor their progress, the combination
 
 ## Do I even have a credit file yet? What if no results come back?
 
-*A question we hear often:*
-
 An ITIN doesn't automatically create a credit history. The U.S. system requires you to actively use credit and make payments before a credit report is generated. Building a credit file with an ITIN requires proactive steps, like seeking out ITIN-friendly financial products.
 
 Typically, it takes three to six months of consistent reporting from a lender for the major bureaus to generate a score and a formal file. If you search for your score and nothing comes back, that simply means no reporting account has been opened under your ITIN yet. It is not a barrier, and it is not a problem with your ITIN itself.
@@ -214,8 +206,6 @@ Whatever range you land in, set a monitoring cadence. Check at least one bureau 
 ---
 
 ## Why do ITIN holders sometimes get errors or account suspensions when signing up for these services?
-
-*This one comes up a lot:*
 
 Automated identity-verification systems at credit monitoring companies are built primarily for SSN holders. When a nine-digit ITIN flows through that same verification pipeline, the system sometimes flags it as unusual because ITINs always start with the digit 9, which no SSN does. That triggers a security hold that a human can clear in minutes but that the automated system cannot resolve on its own.
 

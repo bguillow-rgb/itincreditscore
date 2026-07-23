@@ -38,7 +38,7 @@ Si tienes un ITIN y estás comenzando tu historial de crédito en EE. UU., una t
 
 ## ¿Una tarjeta de crédito asegurada realmente reporta a las agencias de crédito cuando tengo un ITIN?
 
-*Una pregunta que escuchamos con frecuencia:* los titulares de ITIN a veces se preocupan de que sus cuentas no sean reconocidas de la misma manera que las cuentas asociadas a un SSN en las agencias. En la práctica, el número de identificación en tu archivo no cambia cómo funciona el reporte.
+Los titulares de ITIN a veces se preocupan de que sus cuentas no sean reconocidas de la misma manera que las cuentas asociadas a un SSN en las agencias. En la práctica, el número de identificación en tu archivo no cambia cómo funciona el reporte.
 
 Los prestamistas generalmente requieren un número de Seguro Social al solicitar una cuenta de crédito, pero si abriste una cuenta sin un SSN y el prestamista reporta sus cuentas a Experian, la cuenta igual debería aparecer en tu reporte de crédito. Esto se debe a que Experian vincula la información a un historial crediticio usando toda la información de identificación proporcionada por el prestamista, no solo el SSN.
 
@@ -58,7 +58,7 @@ Una vez que tengas un puntaje, puedes [monitorear tu puntaje de crédito con ITI
 
 ## ¿Qué factores del puntaje afecta una tarjeta asegurada?
 
-*Esto sale mucho en las consultas:* los lectores quieren saber si una sola tarjeta asegurada mueve todos los factores del puntaje de crédito o solo uno o dos.
+Los lectores quieren saber si una sola tarjeta asegurada mueve todos los factores del puntaje de crédito o solo uno o dos.
 
 Así es como una tarjeta asegurada interactúa con cada factor principal:
 
@@ -74,7 +74,7 @@ El factor más influyente en ambos sistemas es el historial de pagos, que repres
 
 ## ¿La solicitud de la tarjeta va a bajar mi puntaje antes de que me ayude?
 
-*Los lectores preguntan con frecuencia:* si la consulta formal de la solicitud causa un daño duradero, especialmente cuando se está empezando desde cero.
+Si la consulta formal de la solicitud causa un daño duradero, especialmente cuando se está empezando desde cero.
 
 La respuesta corta: el impacto es real pero pequeño y temporal. Si esta es tu primera tarjeta de crédito y estás solicitándola con un ITIN, es posible que todavía no tengas un puntaje de crédito. Pero si ya tienes uno, solicitarla podría causar una pequeña caída temporal en tu puntaje. Aun así, la aprobación y el uso responsable pueden ayudarte a construir o mejorar tu crédito con el tiempo.
 
@@ -102,7 +102,7 @@ Si tu emisor no ofrece una mejora automática, puedes solicitar una tarjeta sin 
 
 ## ¿Cuáles son los errores más comunes que cometen los titulares de ITIN con las tarjetas aseguradas y que frenan su puntaje?
 
-*Una pregunta que escuchamos con frecuencia:* de lectores que llevan meses con una tarjeta asegurada pero no ven casi ningún avance en su puntaje.
+De lectores que llevan meses con una tarjeta asegurada pero no ven casi ningún avance en su puntaje.
 
 Los cuatro problemas más comunes son:
 

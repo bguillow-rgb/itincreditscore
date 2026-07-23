@@ -40,8 +40,6 @@ Esta guía explica exactamente qué necesitas hacer, en qué orden y qué debes 
 
 ## ¿Mi puntaje de crédito del ITIN realmente se transfiere a mi nuevo SSN?
 
-*Una pregunta que escuchamos con frecuencia:*
-
 Sí, pero solo si sigues los pasos correctos. Puedes tener un historial de crédito con un ITIN, pero una vez que obtienes un número de Seguro Social, debes notificar a las agencias de crédito para que trasladen tu historial a tu nuevo SSN. Los datos base, cada pago a tiempo, la antigüedad de cada cuenta, cada límite de crédito, se mantienen intactos durante la transferencia. La fecha en que comenzó tu historial de crédito es fija; no cambia si el banco te identifica con tu número de Seguro Social en lugar de tu ITIN.
 
 A los modelos de puntaje no les importa cuál número de nueve dígitos aparece en la parte superior de tu archivo. Cuando se consulta un reporte de crédito, el proceso para calcular el puntaje es el mismo, sin importar si la persona usa un ITIN o un SSN. Lo que importa es que toda la información de tus cuentas te acompañe, y eso solo ocurre cuando solicitas activamente la fusión.
@@ -94,8 +92,6 @@ Consulta tus reportes de las tres agencias después de la transferencia. Busca l
 
 ## ¿Cuánto tarda la transferencia y afectará mi puntaje?
 
-*Esta pregunta surge con frecuencia:*
-
 La transferencia no debería tardar más de 30 a 60 días y no debería afectar tu puntaje de crédito. Como las agencias están fusionando un archivo existente en lugar de crear uno nuevo, los factores de tu puntaje, historial de pagos, antigüedad de las cuentas, nivel de uso del crédito, no cambian. La transferencia es esencialmente un cambio de etiqueta en tu identificador, de ITIN a SSN.
 
 Dicho esto, hay un período de algunas semanas entre el momento en que cancelas tu ITIN y cuando los prestamistas terminan de actualizar sus registros. Durante ese tiempo, una consulta de crédito de un nuevo prestamista podría devolver un archivo delgado o sin información bajo tu SSN. Si estás planeando una solicitud de crédito importante, una hipoteca, un préstamo para auto, espera a que pasen los 60 días completos y verifica tus reportes antes de aplicar.
@@ -115,8 +111,6 @@ También existe un riesgo práctico: intentar usar ambos al mismo tiempo muy pro
 ---
 
 ## ¿Qué pasa si las agencias no pueden encontrar mi archivo del ITIN?
-
-*Los lectores preguntan esto con frecuencia:*
 
 Esto ocurre a veces cuando un prestamista reportó tus cuentas con información de identificación inconsistente, un problema común para titulares de ITIN cuyos nombres pueden aparecer de forma ligeramente diferente en distintos acreedores. Pueden ocurrir errores. Estos incluyen cuentas duplicadas, saldos incorrectos, pagos atrasados reportados incorrectamente, cuentas que pertenecen a otra persona y confusión de identidad entre registros del ITIN y del SSN.
 

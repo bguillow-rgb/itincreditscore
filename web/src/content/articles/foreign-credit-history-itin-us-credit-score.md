@@ -36,7 +36,7 @@ Your credit history and the years you spent building it abroad mean nothing to a
 
 ## Why doesn't my home-country credit score transfer to the U.S. automatically?
 
-*A question we hear often:* an ITIN holder arrives from India, Brazil, or Canada with a decade of clean payment history, only to be treated as a complete stranger by U.S. lenders.
+An ITIN holder arrives from India, Brazil, or Canada with a decade of clean payment history, only to be treated as a complete stranger by U.S. lenders.
 
 The three major U.S. credit bureaus do not import foreign credit files. Your score in your home country does not appear in the U.S. system automatically, even if the bureau shares a name. The reason is structural: each country has its own credit-scoring systems that are not typically compatible with those in the U.S. Equifax Canada and Equifax U.S. are separate databases with different formats, different lenders, and different scoring methodologies. One does not talk to the other.
 
@@ -56,7 +56,7 @@ One important caveat: it does not create a U.S. credit score. Credit Passport he
 
 ## Which countries does Nova Credit currently support?
 
-*This one comes up a lot:* not every ITIN holder comes from a country Nova covers.
+Not every ITIN holder comes from a country Nova covers.
 
 Currently available reports come from Australia, Austria, Brazil, Canada, Dominican Republic, Germany, India, Kenya, Mexico, Nigeria, Philippines, South Korea, Spain, Switzerland, and the United Kingdom. Nova also has partnerships in Colombia, Ghana, and a handful of additional markets, and the list continues to grow.
 
@@ -66,7 +66,7 @@ If your country is not supported, the path forward is the same as for any credit
 
 ## Which U.S. lenders actually accept Nova Credit's Credit Passport?
 
-*Readers frequently ask:* "I heard American Express used Nova Credit. Is that still true?"
+"I heard American Express used Nova Credit. Is that still true?"
 
 The lender landscape has shifted. Major lenders like American Express (partnership ended 2025), Deserve, and others have partnered with Nova Credit. Chase also accepts Credit Passport for select card applications. You can now use your credit history from select countries when applying for a Chase credit card.
 
@@ -101,7 +101,7 @@ The strongest path for most ITIN holders is the combined one: if your country is
 
 ## Does my foreign credit history count at all once I have a U.S. score?
 
-*Readers frequently ask:* once a U.S. file exists, does any of the foreign history add to it retroactively?
+Once a U.S. file exists, does any of the foreign history add to it retroactively?
 
 No. Even if you had an excellent credit history in a previous country, that record generally does not transfer to the United States. U.S. credit reports only contain information on U.S. lenders and creditors. Your FICO and VantageScore are calculated entirely from what U.S. bureaus can see: domestic tradelines, payment history, balances, inquiries, and account ages.
 

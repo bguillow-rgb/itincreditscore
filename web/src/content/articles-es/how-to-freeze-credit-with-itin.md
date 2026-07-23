@@ -38,7 +38,7 @@ Si pasaste meses construyendo tu expediente de crédito en Estados Unidos con tu
 
 ## ¿Los titulares de ITIN realmente tienen derecho a congelar su crédito?
 
-*Una pregunta que escuchamos con frecuencia:* muchos lectores asumen que, como no tienen un Número de Seguro Social, las herramientas de protección de identidad como el congelamiento de seguridad no están disponibles para ellos. Esa suposición es incorrecta.
+Muchos lectores asumen que, como no tienen un Número de Seguro Social, las herramientas de protección de identidad como el congelamiento de seguridad no están disponibles para ellos. Esa suposición es incorrecta.
 
 La Ley de Informes de Crédito Justos (FCRA) te protege sin importar si tienes un SSN. Tienes derecho legal a un reporte de crédito gratuito al año de cada buró principal, aunque debas solicitarlo por correo postal o por teléfono. Ese mismo marco federal regula los congelamientos de seguridad. No hay ningún costo para colocar o levantar un congelamiento de crédito, y no afecta tu puntaje de crédito. No tienes que esperar a que tu información quede expuesta en una filtración de datos para obtener uno. Cualquier persona puede hacerlo en cualquier momento.
 
@@ -56,7 +56,7 @@ Hay dos cosas que un congelamiento NO hace, y vale la pena entenderlas igualment
 
 ## ¿Cómo congelo mi crédito en los tres burós con un ITIN?
 
-*Esta pregunta surge mucho:* la regla más importante es que debes contactar a cada buró de forma individual. Debes contactar a cada uno de los tres burós de crédito principales, Experian, Equifax y TransUnion, por separado para colocar un congelamiento. Cada uno ofrece opciones gratuitas en línea, por teléfono o por correo postal.
+La regla más importante es que debes contactar a cada buró de forma individual. Debes contactar a cada uno de los tres burós de crédito principales, Experian, Equifax y TransUnion, por separado para colocar un congelamiento. Cada uno ofrece opciones gratuitas en línea, por teléfono o por correo postal.
 
 Aquí te explicamos exactamente cómo funciona cada buró para titulares de ITIN:
 
@@ -78,7 +78,7 @@ Para los tres burós, ten a la mano tu ITIN, nombre legal completo, fecha de nac
 
 ## ¿Qué tan rápido entra en vigor el congelamiento y cómo lo levanto cuando necesito crédito?
 
-*Una pregunta frecuente de los lectores:* muchos se preocupan de que el congelamiento les cause problemas la próxima vez que quieran solicitar algo. El tiempo de espera es en realidad muy corto.
+Muchos se preocupan de que el congelamiento les cause problemas la próxima vez que quieran solicitar algo. El tiempo de espera es en realidad muy corto.
 
 Para solicitudes de congelamiento en línea o por teléfono, los burós deben congelar tu reporte de crédito en un día hábil. Por correo postal, deben hacerlo en tres días hábiles. Para solicitudes de levantamiento del congelamiento hechas en línea o por teléfono, los burós deben levantar el congelamiento en una hora. Por correo postal, el levantamiento debe ocurrir en tres días hábiles.
 
@@ -100,7 +100,7 @@ Para la mayoría de los titulares de ITIN que están construyendo crédito activ
 
 ## ¿Un congelamiento de crédito detiene todos los riesgos de robo de identidad?
 
-*Una pregunta que escuchamos con frecuencia:* algunos lectores asumen que un congelamiento los hace completamente inmunes al fraude de identidad. No es así.
+Algunos lectores asumen que un congelamiento los hace completamente inmunes al fraude de identidad. No es así.
 
 Un congelamiento de crédito bloquea la apertura de cuentas de crédito nuevas, pero no previene el uso indebido del número de Seguro Social, el robo de cuentas existentes ni el fraude fiscal. Esos tipos de fraude no requieren una consulta de crédito. Si alguien presenta una declaración de impuestos fraudulenta usando tu ITIN, no hay ninguna consulta de crédito de por medio y tu congelamiento no puede hacer nada al respecto. Un congelamiento tampoco bloquea el fraude en cuentas que ya tienes abiertas.
 

@@ -36,7 +36,7 @@ Si llevas uno o dos años construyendo crédito con tu ITIN, quizás has notado 
 
 ## ¿Cómo influye exactamente la antigüedad del historial en mi puntaje con ITIN?
 
-*Una pregunta que escuchamos con frecuencia:* los titulares de ITIN que se esfuerzan mucho en el historial de pagos y la utilización a veces pasan por alto la antigüedad crediticia, pero es el tercer factor más influyente en tu puntaje.
+Los titulares de ITIN que se esfuerzan mucho en el historial de pagos y la utilización a veces pasan por alto la antigüedad crediticia, pero es el tercer factor más influyente en tu puntaje.
 
 La antigüedad del historial de crédito representa **aproximadamente el 15% de tu puntaje FICO** y VantageScore la clasifica como "muy influyente" cuando se combina con la mezcla de crédito. Los modelos de calificación analizan varios datos relacionados: la antigüedad de tu cuenta abierta más vieja, la de tu cuenta más reciente, la edad promedio de todas tus cuentas y cuándo fue la última vez que cada cuenta tuvo actividad. Cuanto más largo y continuo sea ese historial, más confianza les genera a los prestamistas para predecir tu comportamiento futuro.
 
@@ -60,7 +60,7 @@ Para los titulares de ITIN que parten de cero, la lección estratégica más imp
 
 ## ¿Abrir una cuenta nueva perjudica mi antigüedad crediticia?
 
-*Los lectores preguntan con frecuencia:* ¿debería evitar abrir una segunda cuenta porque bajaría mi edad promedio?
+¿debería evitar abrir una segunda cuenta porque bajaría mi edad promedio?
 
 Abrir una cuenta nueva sí reduce temporalmente tu edad promedio y además genera una consulta fuerte en tu reporte. Si tu expediente es muy joven (menos de 12 meses), el impacto proporcional es mayor. Sin embargo, el efecto suele ser moderado y se recupera en pocos meses a medida que la nueva cuenta va envejeciendo junto con las que ya tienes.
 
@@ -70,7 +70,7 @@ La regla práctica: espera al menos de seis a doce meses entre solicitudes de nu
 
 ## ¿Debo cerrar mi tarjeta asegurada una vez que califique para una sin garantía?
 
-*Esta pregunta surge mucho:* muchos titulares de ITIN pasan de una tarjeta asegurada a una sin garantía después de 12 a 24 meses y quieren cerrarla de inmediato para recuperar su depósito.
+Muchos titulares de ITIN pasan de una tarjeta asegurada a una sin garantía después de 12 a 24 meses y quieren cerrarla de inmediato para recuperar su depósito.
 
 Cerrar esa primera tarjeta asegurada suele ser un error desde el punto de vista de la antigüedad crediticia. Elimina el ancla de tu expediente, es decir, tu cuenta más antigua, y reduce tu crédito disponible total, lo que puede subir tu tasa de utilización al mismo tiempo. Los dos efectos juegan en contra de tu puntaje a la vez.
 

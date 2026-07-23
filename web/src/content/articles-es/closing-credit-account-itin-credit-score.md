@@ -42,7 +42,7 @@ El CFPB lo explica con claridad: parte de tu puntaje se basa en la cantidad de c
 
 ## ¿Por qué esto afecta más a los titulares de ITIN?
 
-*Una pregunta que escuchamos con frecuencia:* "Sé que cerrar una tarjeta hace daño, pero ¿realmente importa más solo porque tengo un ITIN?"
+"Sé que cerrar una tarjeta hace daño, pero ¿realmente importa más solo porque tengo un ITIN?"
 
 Importa más porque el daño es proporcional a cuántas pocas cuentas tienes, y los archivos ITIN comienzan siendo delgados por definición. Imagina un escenario típico: un titular de ITIN que abrió una tarjeta asegurada hace 18 meses tiene una sola cuenta rotativa. Si la cierra, su utilización no sube un poco, sino que desaparece como dato por completo. El impacto suele ser mayor si eres relativamente nuevo en el crédito o si tienes pocas cuentas, lo que se conoce como archivo delgado.
 
@@ -65,7 +65,7 @@ El porcentaje de utilización del crédito es uno de los factores más important
 
 ## ¿Qué pasa con el historial de una cuenta después de cerrarla?
 
-*Los lectores preguntan con frecuencia:* "Si cierro una tarjeta, ¿todo mi buen historial de pagos desaparece de inmediato?"
+"Si cierro una tarjeta, ¿todo mi buen historial de pagos desaparece de inmediato?"
 
 No, no de inmediato, y esta es la única parte genuinamente tranquilizadora de la respuesta. Si la cuenta se cerró en buen estado, puede permanecer en tu reporte hasta 10 años y seguirá contribuyendo a tu crédito durante ese tiempo. Así que el registro de 18 o 24 meses de pagos puntuales no desaparece en el momento en que cierras. El problema tiene dos partes. Primero, las cuentas cerradas con pagos atrasados generalmente permanecen en tu reporte 7 años como un elemento negativo. Segundo, una cuenta cerrada en buen estado sí permanece en el reporte, pero eventualmente desaparece y no se agrega ningún dato positivo nuevo después del cierre. Cada mes que mantienes una cuenta abierta es otro mes de historial positivo activo que se acumula.
 
@@ -73,7 +73,7 @@ Para los titulares de ITIN en el período de 6 a 24 meses de construcción del h
 
 ## ¿Cuándo sí tiene sentido cerrar una cuenta?
 
-*Esta pregunta surge mucho:* "Mi tarjeta asegurada cobra una cuota anual de $35 y casi no la uso. ¿Debo cerrarla?"
+"Mi tarjeta asegurada cobra una cuota anual de $35 y casi no la uso. ¿Debo cerrarla?"
 
 Hay situaciones en las que cerrar es la decisión correcta, incluso para titulares de ITIN con archivos delgados. El CFPB señala que cerrar puede ser razonable si la tarjeta tiene cuotas anuales o condiciones desfavorables que superan los beneficios, si te ayuda a evitar acumular deudas que no puedes pagar, o si no planeas solicitar crédito en el futuro cercano.
 

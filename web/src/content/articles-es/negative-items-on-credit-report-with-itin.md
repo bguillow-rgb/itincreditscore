@@ -36,7 +36,7 @@ Encontrar una cuenta en cobro o un pago atrasado en tu reporte de crédito es es
 
 ## ¿Qué se considera un elemento negativo en un reporte de crédito?
 
-*Una pregunta que escuchamos con frecuencia:* a veces los lectores no están seguros de si algo en su reporte es realmente "negativo" o simplemente una característica de cómo se configuró su historial con ITIN. Aquí te lo explicamos en términos sencillos.
+A veces los lectores no están seguros de si algo en su reporte es realmente "negativo" o simplemente una característica de cómo se configuró su historial con ITIN. Aquí te lo explicamos en términos sencillos.
 
 Los elementos "negativos" incluyen pagos atrasados, cuentas en cobro, bancarrotas, cancelaciones por pérdida y otras marcas desfavorables en tu reporte de crédito, y pueden afectar tu capacidad de calificar para nuevos créditos. En la práctica, los más comunes entre los titulares de ITIN son:
 
@@ -66,7 +66,7 @@ Las agencias de reporte de crédito están legalmente obligadas a eliminar la ma
 
 ## ¿Pagar una cuenta en cobro realmente ayuda a mi puntaje de crédito con ITIN?
 
-*Los lectores preguntan con frecuencia:* si vale la pena pagar una cuenta en cobro antigua si de todas formas seguirá en el reporte.
+Si vale la pena pagar una cuenta en cobro antigua si de todas formas seguirá en el reporte.
 
 La respuesta depende del modelo de puntuación que use el prestamista. Dependiendo del modelo de puntuación de crédito que se utilice, tu puntaje puede seguir siendo afectado hasta por siete años incluso después del pago, pero aparecerá como una "cuenta en cobro pagada". Algunos modelos más nuevos, como FICO Score 9 y FICO Score 10, no incluyen las cuentas en cobro que han sido pagadas.
 
@@ -74,7 +74,7 @@ Para los titulares de ITIN, esta distinción importa en la práctica. Si estás 
 
 ## Mi historial con ITIN es reciente. ¿Un solo pago atrasado lo daña más que a un historial más antiguo?
 
-*Este tema surge mucho:* titulares de ITIN que llevan 6 a 24 meses construyendo crédito y tienen un mes difícil.
+Titulares de ITIN que llevan 6 a 24 meses construyendo crédito y tienen un mes difícil.
 
 Sí, el daño es proporcionalmente mayor en un historial delgado o reciente. El historial de pagos representa el 35% de un FICO Score y el 41% en VantageScore 4.0, según los desarrolladores de los modelos, lo que lo convierte en el factor más importante en ambos. Cuando tu historial tiene solo algunas cuentas y una trayectoria corta, una marca de 30 días de retraso tiene muy pocos datos positivos que la contrarresten.
 
@@ -92,7 +92,7 @@ Una regla importante: solo puedes eliminar con éxito elementos que sean inexact
 
 ## ¿Cuál es la forma más rápida de reconstruir mi puntaje de crédito con ITIN mientras los elementos negativos siguen ahí?
 
-*Una pregunta que escuchamos con frecuencia:* los titulares de ITIN quieren un plan de acción práctico, no solo una explicación de por qué bajó su puntaje.
+Los titulares de ITIN quieren un plan de acción práctico, no solo una explicación de por qué bajó su puntaje.
 
 La estrategia central es llenar tu historial con datos positivos más recientes que la marca negativa. Los modelos de puntuación dan más peso al comportamiento reciente que a los eventos antiguos, así que el objetivo es hacer que tu reporte mire hacia adelante, no hacia atrás.
 

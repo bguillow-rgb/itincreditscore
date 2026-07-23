@@ -68,8 +68,6 @@ Antes de entrar en detalle sobre cada método, aquí tienes el panorama completo
 
 ## ¿Por qué no puedo usar AnnualCreditReport.com como todos los demás?
 
-*Una pregunta que nos hacen con frecuencia:*
-
 AnnualCreditReport.com técnicamente acepta ITINs en sus campos de formulario, ya que el ITIN tiene un formato similar de nueve dígitos al del SSN. Una vez que el sitio recibe tu solicitud, los burós verifican tu identidad usando sus propios procedimientos. El problema está en el proceso automático en línea. La verificación de identidad de AnnualCreditReport.com se basa en preguntas de seguridad generadas a partir de tu historial crediticio. Si eres relativamente nuevo en el crédito en Estados Unidos o tu historial es escaso, el sistema a menudo no puede generar suficientes preguntas para confirmar tu identidad y falla sin dar una explicación clara.
 
 El portal gratuito en línea de AnnualCreditReport.com solo funciona de forma confiable con SSNs. Como titular de ITIN, debes contactar directamente a los burós de crédito, pero es un proceso manejable. La opción por correo a través de AnnualCreditReport.com sí funciona, pero el camino más rápido es ir directamente a cada buró usando los métodos que se describen más adelante. Vale la pena tener presente una distinción importante: incluso cuando la solicitud de reporte anual funciona, recibes tu *reporte* de crédito (los datos en bruto), no tu *puntaje* de tres dígitos. Son dos productos distintos. El reporte es la base; el puntaje se calcula a partir de él.
@@ -108,8 +106,6 @@ Credit Karma también consulta TransUnion, pero esa sección puede no mostrar da
 
 ## ¿Qué pasa con Capital One CreditWise y Bilt Rewards para titulares de ITIN?
 
-*Los lectores preguntan esto con frecuencia:*
-
 **Capital One CreditWise** es una herramienta de monitoreo genuinamente útil que acepta titulares de ITIN. CreditWise de Capital One es gratuito y funciona con ITINs. Se actualiza semanalmente e incluye funciones de monitoreo de crédito. CreditWise es gratuito y está disponible para cualquier persona. No necesitas una tarjeta de crédito ni una cuenta bancaria de Capital One para usarlo. El puntaje que entrega es un VantageScore 3.0 basado en TransUnion, lo que lo convierte en un buen complemento de Credit Karma (que muestra Equifax). Usar ambos juntos te da cobertura de dos burós sin costo alguno.
 
 **Bilt Rewards** es la opción menos conocida de esta lista, pero vale la pena mencionarla específicamente porque entrega un FICO Score de Experian. La app de Bilt Rewards permite a los titulares de ITIN crear una cuenta y acceder a su FICO Score 9 de Experian de forma mensual. Experian es el buró al que los titulares de ITIN tienen más dificultad para acceder en línea, por lo que obtener un puntaje FICO basado en Experian a través de Bilt sin costo es un complemento genuinamente útil a las herramientas basadas en Equifax. Necesitarás crear una cuenta en Bilt para acceder a esto.
@@ -125,8 +121,6 @@ Combinar tres herramientas gratuitas te da una cobertura significativa de los tr
 ---
 
 ## ¿Cómo obtengo mi reporte de crédito completo (no solo el puntaje) de cada buró con un ITIN?
-
-*Esto surge mucho:*
 
 Tu reporte de crédito es la información base a partir de la cual se calculan los puntajes. Revisarlo te permite detectar errores, confirmar que las cuentas se están reportando correctamente y entender exactamente qué contiene tu historial. La ley federal te garantiza un reporte de crédito gratuito al año de cada buró. Aunque el proceso es diferente para los titulares de ITIN, tu derecho a acceder a tu información se mantiene.
 
@@ -175,8 +169,6 @@ Para la mayoría de los titulares de ITIN que simplemente quieren monitorear su 
 
 ## ¿Tengo un historial de crédito todavía? ¿Qué pasa si no aparece ningún resultado?
 
-*Una pregunta que nos hacen con frecuencia:*
-
 Un ITIN no crea automáticamente un historial de crédito. El sistema de EE. UU. requiere que uses el crédito activamente y realices pagos antes de que se genere un reporte de crédito. Construir un historial crediticio con un ITIN requiere pasos proactivos, como buscar productos financieros que acepten ITIN.
 
 Por lo general, se necesitan entre tres y seis meses de reportes consistentes de un prestamista para que los burós principales generen un puntaje y un historial formal. Si buscas tu puntaje y no aparece nada, simplemente significa que aún no se ha abierto ninguna cuenta reportada bajo tu ITIN. No es un obstáculo ni un problema con tu ITIN en sí.
@@ -214,8 +206,6 @@ Sin importar en qué rango te encuentres, establece una rutina de monitoreo. Rev
 ---
 
 ## ¿Por qué los titulares de ITIN a veces reciben errores o suspensiones de cuenta al registrarse en estos servicios?
-
-*Esto surge mucho:*
 
 Los sistemas automáticos de verificación de identidad de las empresas de monitoreo de crédito están diseñados principalmente para titulares de SSN. Cuando un ITIN de nueve dígitos pasa por ese mismo proceso de verificación, el sistema a veces lo marca como inusual porque los ITINs siempre comienzan con el dígito 9, algo que ningún SSN hace. Eso activa un bloqueo de seguridad que una persona puede resolver en minutos, pero que el sistema automático no puede resolver por sí solo.
 

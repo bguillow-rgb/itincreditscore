@@ -67,8 +67,6 @@ Every ITIN holder who has opened a credit account in the U.S. has a credit file 
 
 ## Do I actually have a credit score under my ITIN?
 
-*A question we hear often:*
-
 When you use your ITIN to open a bank account or apply for credit, lenders report your payment activity to the major credit bureaus using your ITIN as the identifier, and this reporting creates your credit file and, eventually, your credit score. The important caveat is that the ITIN alone does not generate anything. An ITIN doesn't automatically create a credit history; the U.S. system requires you to actively use credit and make payments before a credit report is generated.
 
 Once you have opened at least one reporting account, a score can appear relatively quickly. It typically takes three to six months of consistent reporting from a lender for the major bureaus to generate a score and a formal file. According to a 2026 SSRN study by Cookson, Guttman-Kenney, and Mullins cited by isoftpull.com, only 9% of immigrant consumers have a credit score by age 22, but 75% achieve a credit score by age 26, demonstrating rapid convergence.
@@ -99,8 +97,6 @@ This one is underused by ITIN holders. The Bilt Rewards app allows you to create
 
 ### NerdWallet and Credit Karma: the honest picture
 
-*Readers frequently ask about these two because they dominate search results.*
-
 NerdWallet's verification method with TransUnion is tied to an individual's Social Security Number, making it impossible to provide a credit score using an ITIN at this time. This is a firm, documented policy from NerdWallet's own help center, not a workaround problem.
 
 Credit Karma is more complicated. The credit bureaus don't use your ITIN as an identifier, but you may be able to use it to apply for a line of credit, according to Credit Karma's own content. In practice, Credit Karma's identity verification flow uses SSN matching, and many ITIN holders report being unable to complete registration. Some report success after their ITIN has been linked to a well-established credit file for several years, but this is inconsistent and cannot be relied upon. Treat Credit Karma as SSN-required until their policy explicitly changes.
@@ -108,8 +104,6 @@ Credit Karma is more complicated. The credit bureaus don't use your ITIN as an i
 ---
 
 ## What about ITIN-specific credit monitoring platforms?
-
-*This one comes up a lot:*
 
 A small category of platforms has been built specifically for ITIN holders, filling the gap left by mainstream tools. These are worth knowing about.
 
@@ -169,8 +163,6 @@ This is a comprehensive paper version of your credit file; while it does not inc
 ---
 
 ## Why can't I just use AnnualCreditReport.com with my ITIN?
-
-*This one comes up a lot:*
 
 The free online portal, AnnualCreditReport.com, only works with SSNs; as an ITIN holder, you must contact the credit bureaus directly, but it is a manageable process. The site's automated identity verification system uses your SSN to match you to your file instantly. Because ITINs follow the same nine-digit format as SSNs, the system may accept the number as input, but the identity verification step that follows is still tied to SSN-based matching.
 

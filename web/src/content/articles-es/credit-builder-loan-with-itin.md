@@ -40,7 +40,7 @@ Un préstamo para construir crédito es una de las herramientas más subutilizad
 
 ## ¿Realmente puedo obtener un préstamo para construir crédito sin Número de Seguro Social?
 
-*Una pregunta que escuchamos con frecuencia:* los titulares de ITIN se encuentran constantemente con prestamistas que exigen un SSN y se preguntan si los préstamos para construir crédito son siquiera una opción para ellos.
+Los titulares de ITIN se encuentran constantemente con prestamistas que exigen un SSN y se preguntan si los préstamos para construir crédito son siquiera una opción para ellos.
 
 Los préstamos personales y productos de crédito con ITIN están disponibles para prestatarios que usan un Número de Identificación Personal del Contribuyente en lugar de un Número de Seguro Social, siempre que el prestamista acepte solicitudes basadas en ITIN. Desde el punto de vista legal, ninguna ley federal prohíbe a los prestamistas otorgar crédito a personas sin número de seguro social, los prestamistas necesitan una forma de identificar a los prestatarios y verificar sus obligaciones tributarias, y el ITIN cumple con ese requisito.
 
@@ -50,7 +50,7 @@ Los préstamos para construir crédito son especialmente accesibles porque el pr
 
 ## ¿Cómo funciona realmente un préstamo para construir crédito, y por qué funciona al revés?
 
-*Este punto genera mucha confusión:* los recién llegados esperan que un préstamo ponga dinero en sus manos de inmediato. Un préstamo para construir crédito hace exactamente lo contrario, y lo hace a propósito.
+Los recién llegados esperan que un préstamo ponga dinero en sus manos de inmediato. Un préstamo para construir crédito hace exactamente lo contrario, y lo hace a propósito.
 
 Un préstamo para construir crédito funciona al revés. Pides dinero prestado, pero ese dinero se guarda en una cuenta. Tú haces pagos mensuales y, una vez que terminas de pagar, recibes el dinero. El prestamista reporta tus pagos a las agencias de crédito durante todo el plazo del préstamo.
 
@@ -78,7 +78,7 @@ Equifax, Experian y TransUnion mantienen cada una su propio expediente de crédi
 
 ## ¿Qué documentos necesito para solicitar con un ITIN?
 
-*Los lectores preguntan con frecuencia* qué documentos preparar antes de reunirse con un prestamista. La lista es más corta de lo que la mayoría espera.
+Qué documentos preparar antes de reunirse con un prestamista. La lista es más corta de lo que la mayoría espera.
 
 La mayoría de los prestamistas amigables con ITIN para préstamos para construir crédito requieren:
 
@@ -114,7 +114,7 @@ Según FICO, los dos factores que más pesan en tu puntaje son el historial de p
 
 ## ¿Debería obtener primero un préstamo para construir crédito o una tarjeta asegurada?
 
-*Una pregunta que escuchamos con frecuencia:* los titulares de ITIN que intentan elegir entre los dos productos a veces lo plantean como una decisión entre uno u otro. No lo es.
+Los titulares de ITIN que intentan elegir entre los dos productos a veces lo plantean como una decisión entre uno u otro. No lo es.
 
 Tener varios tipos de crédito, tarjetas y préstamos, demuestra a los prestamistas que puedes manejar diferentes productos financieros. Esto ayuda a que tu puntaje crezca más rápido. En el modelo de puntuación de FICO, la combinación de crédito representa aproximadamente el 10% de tu puntaje. Un préstamo de cuotas (para construir crédito) y una cuenta revolvente (tarjeta asegurada) juntos satisfacen esa combinación mucho mejor que cualquiera de los dos productos por separado.
 

@@ -36,8 +36,6 @@ La mayoría de los titulares de ITIN saben que su puntaje de crédito importa pa
 
 ## ¿Mi puntaje de crédito afecta el seguro de auto? ¿Cómo funciona eso?
 
-*Una pregunta que escuchamos con frecuencia:*
-
 Tu puntaje de crédito afecta las tarifas del seguro de auto en la mayoría de los estados. Algunos estados, como California y Hawaii, han prohibido el uso del crédito para calcular el seguro, pero en la mayoría de los estados sigue siendo legal y puede impactar significativamente lo que pagas.
 
 El mecanismo es un cálculo separado llamado puntaje de seguro basado en crédito. Tu puntaje de seguro basado en crédito, que se deriva de tu puntaje de crédito, toma en cuenta tu historial de pagos y tus deudas pendientes. Sin embargo, no considera tu ingreso ni otras características personales. Las aseguradoras consideran que las personas con historiales crediticios débiles o escasos tienen estadísticamente más probabilidades de presentar reclamaciones, por lo que fijan sus precios en consecuencia.
@@ -56,8 +54,6 @@ Algunas aseguradoras sí piden un SSN o ITIN para revisar tu crédito durante el
 
 ## ¿En qué estados prohíben usar el puntaje de crédito para el seguro de auto?
 
-*Este tema surge mucho:*
-
 California, Hawaii, Massachusetts y Michigan no permiten que las compañías de seguro usen el puntaje de crédito para determinar las tarifas del seguro de auto. Si vives en uno de esos cuatro estados, tu historial crediticio con ITIN no tiene ninguna relevancia para tu prima de seguro de auto. Las aseguradoras allí deben fijar precios según el historial de manejo, el kilometraje, el tipo de vehículo y factores similares.
 
 En todos los demás estados, el crédito sí se usa. Cada estado tiene sus propias reglas de seguro sobre el uso del crédito, y cada aseguradora pondera de manera diferente los factores que afectan las tarifas. Esto significa que el impacto del crédito en las tarifas del seguro de auto varía considerablemente de un estado a otro y de una aseguradora a otra. Comparar varias compañías es tan importante como construir tu puntaje de crédito.
@@ -70,8 +66,6 @@ En todos los demás estados, el crédito sí se usa. Cada estado tiene sus propi
 | Los 50 estados | No aplica para consultas | Las cotizaciones de seguro usan consultas suaves; nunca afectan tu puntaje de crédito con ITIN |
 
 ## ¿Pedir una cotización de seguro afecta mi puntaje de crédito con ITIN?
-
-*Los lectores preguntan esto con frecuencia:*
 
 No. Este es uno de los temores más comunes entre los titulares de ITIN que están construyendo activamente su historial de crédito, y la respuesta es una buena noticia: las compañías de seguro de auto hacen lo que se llama una "consulta suave" cuando pides una cotización, lo que no afecta tu puntaje de crédito. En cambio, una "consulta dura" sí impacta tu puntaje. Las consultas suaves solo revisan información básica y no tienen ningún efecto en tu puntaje de crédito.
 

@@ -36,7 +36,7 @@ Fear is one of the biggest obstacles stopping ITIN holders from building the cre
 
 ## Is it true that credit bureaus can share my information with immigration?
 
-*A question we hear often:* This is the most common concern we receive from ITIN holders, and the short answer is no, at least not voluntarily.
+This is the most common concern we receive from ITIN holders, and the short answer is no, at least not voluntarily.
 
 The Right to Financial Privacy Act is the federal law that protects your credit and financial records. Banks and credit bureaus cannot share your financial information with government agencies without a proper legal process, such as a subpoena or court order, and the Right to Financial Privacy Act protects your records. This law applies equally to every consumer in the United States, regardless of immigration status. Equifax, Experian, and TransUnion are all covered by it.
 
@@ -52,7 +52,7 @@ If you want to understand exactly how your ITIN file is structured at each burea
 
 ## What did the 2026 executive order actually change for ITIN credit files?
 
-*This one comes up a lot:* In May 2026, a new executive order titled "Restoring Integrity to America's Financial System" created significant anxiety in immigrant communities. Here is what it actually says, versus what it does not say.
+In May 2026, a new executive order titled "Restoring Integrity to America's Financial System" created significant anxiety in immigrant communities. Here is what it actually says, versus what it does not say.
 
 On May 19, 2026, the President signed an executive order that directs banks and their federal regulators to begin treating a customer's immigration status as a factor when opening accounts, extending credit, and reporting suspicious activity. That sounds alarming, but the operative details matter enormously.
 
@@ -62,7 +62,7 @@ The order does not appear to create an immediate citizenship-document requiremen
 
 ## Does my credit score or credit history matter for a green card or visa?
 
-*Readers frequently ask:* This question has two different answers depending on whether you are talking about routine visa applications or a public charge determination.
+This question has two different answers depending on whether you are talking about routine visa applications or a public charge determination.
 
 For the vast majority of visa renewals, work visas, and even many green card applications, your credit score is simply not reviewed. Immigration officers are evaluating factors like sponsorship, employment, criminal history, and ties to your home country. A credit report is not a standard document in those packets.
 
@@ -99,7 +99,7 @@ If you are concerned about financial privacy more broadly, the most practical st
 
 ## Should I avoid building credit to stay under the radar?
 
-*A question we hear often:* This worry is understandable, but avoiding credit puts you at a disadvantage, both financially and, potentially, in immigration proceedings.
+This worry is understandable, but avoiding credit puts you at a disadvantage, both financially and, potentially, in immigration proceedings.
 
 ITIN holders include people trying to participate in the formal tax and banking systems, and many are exactly the lower-income immigrant households that financial inclusion efforts have tried to bring into mainstream banking. If banks respond with tighter onboarding, more exits, or fewer approvals, the policy pushes people toward cash, check cashers, and informal finance. That is worse for households and, ironically, less transparent for law enforcement.
 

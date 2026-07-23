@@ -40,7 +40,7 @@ You have an ITIN and you want to pull your full credit report. You open AnnualCr
 
 ## Does an ITIN actually create a credit score, or am I starting from zero?
 
-*A question we hear often:* people assume the ITIN is a second-class identifier that the credit bureaus ignore. That's not how it works.
+People assume the ITIN is a second-class identifier that the credit bureaus ignore. That's not how it works.
 
 When you open a credit card, take out a loan, or use any financial product with your ITIN, the lender reports your payment behavior to Experian, TransUnion, and Equifax using your ITIN as the identifier. When you use your ITIN to open a bank account or apply for credit, lenders report your payment activity to the major credit bureaus using your ITIN as the identifier, this reporting creates your credit file and, eventually, your credit score.
 
@@ -60,7 +60,7 @@ There's also an important distinction most people miss: the free reports you are
 
 ## What's the fastest free way to see my actual score online?
 
-*This one comes up a lot:* mail requests work, but nobody wants to wait three weeks. Here are the platforms that let ITIN holders access a real score today.
+Mail requests work, but nobody wants to wait three weeks. Here are the platforms that let ITIN holders access a real score today.
 
 **myEquifax (equifax.com)** is the strongest starting point. Equifax offers online options for ITIN holders. You can create a myEquifax account and enter your ITIN, which provides six free Equifax reports annually, and you can sign up for Equifax Core Credit™ for monthly reports and your VantageScore®. Just enter your ITIN in the SSN field during registration. If you encounter an account suspension message after signup (a known friction point for ITIN holders), the fastest fix is messaging Equifax on X at @Equifax, they typically resolve the issue within hours after verifying basics like your name and recent accounts.
 
@@ -84,7 +84,7 @@ Capital One's CreditWise is free and works with ITINs, updates weekly, and inclu
 
 ## How do I get my full credit report from all three bureaus with an ITIN?
 
-*Readers frequently ask:* whether they need to contact every bureau separately, or if there's a single portal. For ITIN holders, unfortunately, it's each bureau individually. Here's the exact process for each one.
+Whether they need to contact every bureau separately, or if there's a single portal. For ITIN holders, unfortunately, it's each bureau individually. Here's the exact process for each one.
 
 ### Equifax
 
@@ -120,7 +120,7 @@ According to Experian's Q4 2025 Lending Conditions Chartbook, ITIN holders maint
 
 ## I just checked and I have no score yet, what's the fastest way to get one?
 
-*A question we hear often:* especially from people who've just obtained their ITIN and haven't opened any U.S. credit accounts.
+Especially from people who've just obtained their ITIN and haven't opened any U.S. credit accounts.
 
 You need at least one open, reporting account before a score can exist. The two fastest paths for ITIN holders are a [secured credit card for ITIN holders](/articles/secured-credit-card-credit-score-itin) and a [credit-builder loan](https://itincreditscore.com/credit-builder-loan-with-itin). Both report to the bureaus monthly, and a score typically appears within three to six months of your first statement.
 

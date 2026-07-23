@@ -38,7 +38,7 @@ Las herramientas de datos alternativos como Experian Boost son una de las formas
 
 ## ¿Experian Boost realmente funciona si tengo un ITIN y no tengo SSN?
 
-*Una pregunta que escuchamos con frecuencia:* Experian Boost funciona sobre tu expediente de crédito existente en Experian. Dado que las agencias de crédito, incluida Experian, pueden generar reportes de crédito vinculados a ITINs, y una vez que se crea un expediente de crédito con un ITIN este funciona esencialmente como un SSN para rastrear la actividad financiera, Boost puede en principio conectarse a ese expediente.
+Experian Boost funciona sobre tu expediente de crédito existente en Experian. Dado que las agencias de crédito, incluida Experian, pueden generar reportes de crédito vinculados a ITINs, y una vez que se crea un expediente de crédito con un ITIN este funciona esencialmente como un SSN para rastrear la actividad financiera, Boost puede en principio conectarse a ese expediente.
 
 El obstáculo práctico es la verificación de identidad. El proceso de registro de Boost generalmente te pide que confirmes tu identidad usando datos que coincidan con tu expediente en Experian: tu nombre, dirección y fecha de nacimiento. No requiere un SSN de forma inherente, pero si el sistema no puede identificarte automáticamente, el registro puede detenerse. La solución es sencilla: antes de intentar usar Boost, confirma que tu expediente en Experian ya está abierto y activo. Puedes hacerlo solicitando tu reporte de Experian por correo o teléfono (la línea de atención al consumidor de Experian es 1-888-397-3742). Una vez confirmado tu expediente, volver a Boost y vincular una cuenta bancaria estadounidense que muestre los pagos que califican debería funcionar con normalidad.
 
@@ -56,7 +56,7 @@ Según el análisis de la propia Experian, los consumidores que reciben un impul
 
 ## ¿Qué opciones tengo si Boost no funciona para mi expediente ITIN?
 
-*Esto surge con mucha frecuencia:* Si el registro en Experian Boost no se completa sin problemas, tienes varias alternativas que logran el mismo objetivo de incluir pagos no crediticios en tus reportes de las agencias.
+Si el registro en Experian Boost no se completa sin problemas, tienes varias alternativas que logran el mismo objetivo de incluir pagos no crediticios en tus reportes de las agencias.
 
 Los servicios de terceros para reportar renta y servicios básicos son el sustituto más directo. Los servicios de reporte de terceros pueden transmitir estos pagos a una o más de las tres agencias en tu nombre. Algunos servicios son gratuitos, mientras que otros cobran tarifas mensuales que generalmente oscilan entre $3 y $10. El paso clave de verificación antes de registrarte es: confirmar a qué agencias reporta el servicio, ya que no todos reportan a las tres, y verificar que acepta un ITIN para el registro.
 
@@ -66,7 +66,7 @@ Reportar tu renta por cuenta propia a través de un servicio reconocido por las 
 
 ## ¿Cómo se comparan los datos alternativos con abrir una nueva cuenta de crédito para construir mi puntaje?
 
-*Los lectores preguntan con frecuencia:* si deben enfocarse en herramientas de datos alternativos o simplemente abrir un [préstamo para construir crédito](https://itincreditscore.com/credit-builder-loan-with-itin) o una cuenta asegurada. La respuesta honesta es ambas cosas, en etapas diferentes.
+Si deben enfocarse en herramientas de datos alternativos o simplemente abrir un [préstamo para construir crédito](https://itincreditscore.com/credit-builder-loan-with-itin) o una cuenta asegurada. La respuesta honesta es ambas cosas, en etapas diferentes.
 
 | Opción | Agencias afectadas | ¿Consulta fuerte? | Tiempo para ver impacto | Ideal para |
 |---|---|---|---|---|

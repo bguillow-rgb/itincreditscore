@@ -67,8 +67,6 @@ Todo titular de ITIN que haya abierto una cuenta de crédito en EE. UU. tiene un
 
 ## ¿Realmente tengo un puntaje de crédito vinculado a mi ITIN?
 
-*Una pregunta que escuchamos con frecuencia:*
-
 Cuando usas tu ITIN para abrir una cuenta bancaria o solicitar crédito, los prestamistas reportan tu historial de pagos a los principales burós de crédito usando tu ITIN como identificador, y ese reporte crea tu expediente de crédito y, con el tiempo, tu puntaje. La advertencia importante es que el ITIN por sí solo no genera nada. Un ITIN no crea automáticamente un historial de crédito; el sistema de EE. UU. requiere que uses el crédito activamente y realices pagos antes de que se genere un reporte de crédito.
 
 Una vez que has abierto al menos una cuenta reportada, el puntaje puede aparecer relativamente rápido. Generalmente se necesitan de tres a seis meses de reporte constante de un prestamista para que los principales burós generen un puntaje y un expediente formal. Según un estudio de 2026 de SSRN realizado por Cookson, Guttman-Kenney y Mullins, citado por isoftpull.com, solo el 9% de los consumidores inmigrantes tiene un puntaje de crédito a los 22 años, pero el 75% lo alcanza a los 26, lo que demuestra una convergencia acelerada.
@@ -99,8 +97,6 @@ Esta opción es poco aprovechada por los titulares de ITIN. La app Bilt Rewards 
 
 ### NerdWallet y Credit Karma: la realidad sin rodeos
 
-*Los lectores preguntan frecuentemente sobre estos dos porque dominan los resultados de búsqueda.*
-
 El método de verificación de NerdWallet con TransUnion está vinculado al Número de Seguro Social de cada persona, lo que hace imposible proporcionar un puntaje de crédito usando un ITIN en este momento. Esta es una política firme y documentada del propio centro de ayuda de NerdWallet, no un problema de alternativas.
 
 Credit Karma es más complicado. Los burós de crédito no usan tu ITIN como identificador, pero es posible que puedas usarlo para solicitar una línea de crédito, según el propio contenido de Credit Karma. En la práctica, el proceso de verificación de identidad de Credit Karma usa la coincidencia del SSN, y muchos titulares de ITIN reportan no poder completar el registro. Algunos reportan éxito después de que su ITIN ha estado vinculado a un expediente de crédito bien establecido durante varios años, pero esto es inconsistente y no es confiable. Considera Credit Karma como una herramienta que requiere SSN hasta que su política cambie explícitamente.
@@ -108,8 +104,6 @@ Credit Karma es más complicado. Los burós de crédito no usan tu ITIN como ide
 ---
 
 ## ¿Qué hay de las plataformas de monitoreo de crédito específicas para ITIN?
-
-*Este tema surge con frecuencia:*
 
 Existe una pequeña categoría de plataformas creadas específicamente para titulares de ITIN, que llenan el vacío que dejan las herramientas convencionales. Vale la pena conocerlas.
 
@@ -169,8 +163,6 @@ Esta es una versión impresa completa de tu expediente de crédito; aunque no in
 ---
 
 ## ¿Por qué no puedo usar AnnualCreditReport.com con mi ITIN?
-
-*Este tema surge con frecuencia:*
 
 El portal gratuito en línea, AnnualCreditReport.com, solo funciona con SSN; como titular de ITIN, debes contactar a los burós de crédito directamente, aunque es un proceso que se puede manejar. El sistema de verificación de identidad automatizado del sitio usa tu SSN para vincularte a tu expediente de forma instantánea. Dado que los ITIN tienen el mismo formato de nueve dígitos que los SSN, el sistema puede aceptar el número como dato de entrada, pero el paso de verificación de identidad que sigue sigue estando vinculado a la coincidencia del SSN.
 

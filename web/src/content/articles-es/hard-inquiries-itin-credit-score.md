@@ -36,7 +36,7 @@ Cuando estás comenzando a construir crédito con un ITIN, cada punto importa. U
 
 ## ¿Qué es exactamente una consulta dura y cuándo ocurre con un ITIN?
 
-*Una pregunta que nos hacen frecuentemente:* los titulares de ITIN a veces asumen que su crédito funciona diferente al momento de solicitar productos financieros. No es así.
+Los titulares de ITIN a veces asumen que su crédito funciona diferente al momento de solicitar productos financieros. No es así.
 
 Una consulta dura (también llamada "hard pull") queda registrada en tu reporte de crédito cuando un prestamista revisa formalmente tu archivo como parte de una decisión crediticia. Las consultas duras ocurren cuando solicitas un préstamo nuevo o una línea de crédito, como una hipoteca o una tarjeta de crédito. El mismo desencadenante aplica sin importar si tu archivo está identificado con un SSN o un ITIN. Los eventos comunes que generan una consulta dura para titulares de ITIN incluyen solicitar una tarjeta asegurada, un [préstamo para construir crédito](https://itincreditusa.com/credit-builder-loan-with-itin), un préstamo de auto o cualquier otro producto crediticio en el que el prestamista necesite evaluar tu solvencia antes de aprobarte.
 
@@ -52,7 +52,7 @@ También vale la pena saber que las consultas de crédito nuevas son uno de los 
 
 ## ¿Cuánto tiempo permanecen las consultas duras en mi reporte de crédito con ITIN?
 
-*Esta pregunta surge mucho:* a las personas les preocupa que una consulta dura los persiga por años.
+A las personas les preocupa que una consulta dura los persiga por años.
 
 Las consultas duras permanecen en tu reporte de crédito durante dos años, pero pueden afectar tu puntaje solo durante uno. Esa ventana de dos años es la misma para todos, ya sea con ITIN o con SSN. Este período máximo de dos años es considerablemente más corto que otras marcas negativas, como una quiebra, que puede permanecer en tu reporte hasta 10 años. Así que, aunque una consulta es visible para los prestamistas que accedan a tu reporte completo, su impacto en el puntaje desaparece primero y luego el registro se elimina automáticamente. No tienes que hacer nada.
 
@@ -79,7 +79,7 @@ Un consejo práctico antes de presentar una solicitud formal en cualquier lugar:
 
 ## ¿Solicitar un préstamo para construir crédito o una tarjeta asegurada genera una consulta dura?
 
-*Los lectores preguntan esto frecuentemente:* es una de las dudas más comunes entre los titulares de ITIN que están comenzando.
+Es una de las dudas más comunes entre los titulares de ITIN que están comenzando.
 
 Depende del producto específico. Muchas herramientas para construir crédito y tarjetas aseguradas populares entre titulares de ITIN anuncian que no requieren una verificación de crédito dura, precisamente porque están diseñadas para personas con historial delgado o sin historial. Sin verificación dura significa sin consulta dura, y tu puntaje no se ve afectado en absoluto por la solicitud.
 

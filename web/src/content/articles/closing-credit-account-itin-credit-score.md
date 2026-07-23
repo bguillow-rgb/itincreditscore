@@ -42,7 +42,7 @@ The CFPB puts it plainly: part of your score is based on the amount of credit yo
 
 ## Why does this hit harder for ITIN holders specifically?
 
-*A question we hear often:* "I know closing a card hurts, but does it really matter more just because I have an ITIN?"
+"I know closing a card hurts, but does it really matter more just because I have an ITIN?"
 
 It matters more because the damage is proportional to how few accounts you have, and ITIN files start thin by definition. Take a typical scenario: an ITIN holder who opened one secured card 18 months ago has a single revolving account. If they close it, their utilization does not just nudge upward, it disappears as a data point entirely. The impact is likely to be greatest if you are relatively new to credit or have few accounts, what is called a thin file.
 
@@ -65,7 +65,7 @@ Your credit utilization ratio is one of the most important factors in credit sco
 
 ## What happens to an account's history after it is closed?
 
-*Readers frequently ask:* "If I close a card, does all my good payment history disappear immediately?"
+"If I close a card, does all my good payment history disappear immediately?"
 
 No, not immediately, and this is the one genuinely reassuring part of the answer. If the account was closed in good standing, it can stay on your credit report for up to 10 years and will continue to contribute to your credit during that time. So the record of 18 or 24 months of on-time payments does not vanish the moment you close. The problem is twofold. First, accounts closed with missed payments typically remain on your report for 7 years as a negative item. Second, a closed account in good standing does stay on the report but eventually ages off, and no new positive data is added after closure. Every month you keep an account open is another month of active positive history accumulating.
 
@@ -73,7 +73,7 @@ For ITIN holders in the 6-24 month window of building initial credit history, th
 
 ## When does it actually make sense to close?
 
-*This one comes up a lot:* "My secured card charges a $35 annual fee and I barely use it. Should I close it?"
+"My secured card charges a $35 annual fee and I barely use it. Should I close it?"
 
 There are scenarios where closing is the right call, even for ITIN holders with thin files. The CFPB notes that closing might be reasonable if the card has annual fees or poor terms that outweigh the benefits, if it helps you avoid accumulating debt you cannot pay off, or if you are not planning to apply for credit in the near future.
 

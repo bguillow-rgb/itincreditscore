@@ -38,7 +38,7 @@ Being added as an authorized user on a trusted family member's or friend's credi
 
 ## Can I actually be added as an authorized user if I have an ITIN instead of an SSN?
 
-*A question we hear often:* Many ITIN holders assume that without a Social Security Number, every door to U.S. credit is closed. Authorized user status is a clear exception.
+Many ITIN holders assume that without a Social Security Number, every door to U.S. credit is closed. Authorized user status is a clear exception.
 
 Some credit card companies let you add an authorized user without providing their Social Security number. Instead, issuers may only ask for the person's full name, date of birth, and address, though requirements vary and some banks may request an SSN later for credit reporting purposes.
 
@@ -66,7 +66,7 @@ Once the account is correctly matched, if the card issuer reports to the bureaus
 
 ## Which major issuers report authorized users to all three credit bureaus?
 
-*Readers frequently ask:* Not all issuers report authorized user activity, so choosing the right card matters as much as finding a willing primary cardholder.
+Not all issuers report authorized user activity, so choosing the right card matters as much as finding a willing primary cardholder.
 
 Most major credit card issuers, including American Express, Bank of America, Capital One, Chase, Citi, Discover, U.S. Bank, and Wells Fargo, report authorized user activity to all three national credit bureaus. Reporting is voluntary, though, not required by law, so the timing and scope of what gets shared can differ from one issuer to the next.
 
@@ -89,7 +89,7 @@ For ITIN holders specifically, Capital One, Chase, and Citi offer the lowest fri
 
 ## How much does authorized user status actually move my credit score?
 
-*This one comes up a lot:* The honest answer is that the impact varies widely based on your starting point and the quality of the account you are being added to.
+The honest answer is that the impact varies widely based on your starting point and the quality of the account you are being added to.
 
 If you have a thin credit file or no file at all, a single authorized user tradeline can be the difference between being unscorable and having a working FICO or VantageScore. According to Experian's 2026 white paper, the IRS has issued more than 27 million individual taxpayer identification numbers since 1996, and a significant share of those holders remain credit invisible simply because they have never had a tradeline reported in their name.
 
@@ -119,7 +119,7 @@ A few guardrails worth setting before agreeing to an arrangement:
 
 ## Should I combine authorized user status with other credit-building tools?
 
-*A question we hear often:* Yes, and this is the recommended path for most ITIN holders starting from a thin file.
+Yes, and this is the recommended path for most ITIN holders starting from a thin file.
 
 Authorized user status adds a tradeline quickly, but lenders and scoring models place more weight on accounts you opened and manage yourself. The most effective early approach combines a few things working at the same time:
 

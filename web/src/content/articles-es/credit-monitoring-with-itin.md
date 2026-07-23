@@ -36,7 +36,7 @@ El monitoreo de crédito no es un lujo para los titulares de ITIN. Es una de las
 
 ## ¿Por qué el monitoreo de crédito importa más cuando tienes un ITIN?
 
-*Una pregunta que escuchamos con frecuencia:* Los titulares de ITIN enfrentan riesgos específicos que los titulares de SSN rara vez experimentan. Como tu identificador es menos reconocido universalmente por los sistemas financieros, tu archivo de crédito es más propenso a errores de archivos mezclados, donde las cuentas de otro consumidor aparecen accidentalmente en tu reporte, o donde tus propias cuentas están archivadas con variaciones ligeras en el nombre.
+Los titulares de ITIN enfrentan riesgos específicos que los titulares de SSN rara vez experimentan. Como tu identificador es menos reconocido universalmente por los sistemas financieros, tu archivo de crédito es más propenso a errores de archivos mezclados, donde las cuentas de otro consumidor aparecen accidentalmente en tu reporte, o donde tus propias cuentas están archivadas con variaciones ligeras en el nombre.
 
 Más allá de los errores, el monitoreo continuo te indica si tus esfuerzos para construir crédito están funcionando. Si abriste un [préstamo para construir crédito](https://itincreditscore.com/credit-builder-loan-with-itin) hace tres meses, el monitoreo te permite confirmar que los pagos se están reportando correctamente a los tres burós: Equifax, TransUnion y Experian. Según la Oficina de Protección Financiera del Consumidor (CFPB), los consumidores que revisan sus reportes de crédito con regularidad están mejor preparados para detectar inexactitudes y disputarlas antes de que causen daños duraderos.
 
@@ -59,7 +59,7 @@ Una nota sobre las dificultades al registrarse: algunas de estas plataformas pue
 
 ## ¿Cómo funciona el portal myEquifax para los titulares de ITIN?
 
-*Esto surge con frecuencia:* El portal gratuito en línea de Equifax es el punto de partida más accesible para los titulares de ITIN que quieren un monitoreo continuo sin pagar una tarifa mensual. Creas una cuenta en my.equifax.com e ingresas tu ITIN donde el formulario pide un Número de Seguro Social. Una vez verificado, el portal te da acceso gratuito a tu reporte de crédito de Equifax una vez al mes y muestra tu VantageScore 3.0.
+El portal gratuito en línea de Equifax es el punto de partida más accesible para los titulares de ITIN que quieren un monitoreo continuo sin pagar una tarifa mensual. Creas una cuenta en my.equifax.com e ingresas tu ITIN donde el formulario pide un Número de Seguro Social. Una vez verificado, el portal te da acceso gratuito a tu reporte de crédito de Equifax una vez al mes y muestra tu VantageScore 3.0.
 
 Si el sistema automático marca tu cuenta, la solución más rápida es contactar a Equifax directamente, ya sea por teléfono o a través de su canal de soporte en redes sociales. La mayoría de los titulares de ITIN reportan que el problema se resuelve rápidamente después de una breve verificación de identidad. Una vez que tu cuenta esté activa, también puedes actualizar al plan Premier de pago de Equifax, que añade reportes de TransUnion y Experian por alrededor de $19.95 al mes, lo que lo convierte en una opción práctica para tener cobertura de los tres burós.
 
@@ -71,7 +71,7 @@ Una limitación importante: Credit Karma no cubre tu archivo de Experian. Para l
 
 ## ¿Qué debo vigilar realmente en mis alertas de monitoreo?
 
-*Los lectores preguntan con frecuencia:* más allá de simplemente saber que existe un número, lo que hace útil el monitoreo es saber cómo interpretar lo que ves.
+Más allá de simplemente saber que existe un número, lo que hace útil el monitoreo es saber cómo interpretar lo que ves.
 
 Comienza con las confirmaciones del historial de pagos. Cada mes, verifica que tus pagos puntuales de cuentas para construir crédito aparezcan como reportados. El historial de pagos es el factor más importante tanto en los modelos FICO como en VantageScore. Según Experian, representa el 35% de un puntaje FICO. Si un pago no aparece, contacta al prestamista para confirmar que reporta a ese buró.
 

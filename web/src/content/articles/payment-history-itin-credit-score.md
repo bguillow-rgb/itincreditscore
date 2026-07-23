@@ -36,7 +36,7 @@ Payment history is the foundation of every U.S. credit score, and that rule appl
 
 ## How much does payment history actually weigh on my score?
 
-*A question we hear often:* ITIN holders sometimes wonder whether the scoring math is different for them. It is not.
+ITIN holders sometimes wonder whether the scoring math is different for them. It is not.
 
 Payment history is the largest single factor in both major scoring models. According to data reviewed from multiple bureau sources, it accounts for roughly **35%-41% of your score** depending on whether FICO or VantageScore is used. That one category outweighs credit utilization, length of history, credit mix, and new inquiries combined.
 
@@ -56,7 +56,7 @@ That track record means the system is not stacked against you as a payer. Your c
 
 ## How does a late payment actually damage an ITIN credit score?
 
-*Readers frequently ask:* exactly how bad is missing one payment?
+Exactly how bad is missing one payment?
 
 A single missed payment, once it crosses the **30-day threshold**, is reported to the bureaus as a derogatory mark. Its impact depends on how strong your file is at the time. For a new ITIN holder with only one or two accounts, one late payment can erase months of progress because there is little positive history to buffer the damage. For someone with two or three years of clean payment history, the same event still hurts, but recovery is faster.
 
@@ -66,7 +66,7 @@ The severity also increases with how late the payment becomes: 30 days, 60 days,
 
 ## What types of accounts report payment history for ITIN holders?
 
-*This one comes up a lot:* not every account you pay on time actually contributes to your payment history.
+Not every account you pay on time actually contributes to your payment history.
 
 Only accounts that are **actively reported to the three major bureaus** (Experian, TransUnion, and Equifax) build your history. Lenders report payment history, credit utilization, and account status monthly. Each bureau compiles this data into a credit report, and scoring models then calculate a credit score based on that report.
 
@@ -109,7 +109,7 @@ Before signing up for any rent-reporting service, confirm it accepts ITIN holder
 
 ## What is the fastest way to repair payment history damage on an ITIN credit report?
 
-*A question we hear often:* once a late payment is on your ITIN report, is there anything you can do?
+Once a late payment is on your ITIN report, is there anything you can do?
 
 A legitimate late payment cannot be deleted, but there are two valid strategies.
 
