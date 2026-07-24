@@ -16,8 +16,8 @@ category: "Credit Score"
 relatedSlugs:
   - "foreign-credit-history-itin-us-credit-score"
   - "itin-credit-building-immigration-status"
+  - "rent-reporting-services-itin-credit-building"
   - "utility-bills-credit-score-itin"
-  - "700-credit-score-timeline-itin-holders"
 faqs:
   - q: "Is a CPN ever legal to use?"
     a: "No federal or state agency issues CPNs, so there is no legal way to obtain one. Entering a CPN in the SSN field of a credit application misrepresents your identity to a lender, which is a federal crime regardless of what the seller told you. The FTC classifies CPN offers as credit repair fraud."

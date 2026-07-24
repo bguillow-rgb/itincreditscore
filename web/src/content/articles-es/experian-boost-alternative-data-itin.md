@@ -14,10 +14,10 @@ publishedAt: "2026-06-20"
 author: "Research Desk"
 category: "Puntaje de crédito"
 relatedSlugs:
+  - "rent-reporting-services-itin-credit-building"
   - "does-paying-rent-build-credit-with-itin"
   - "utility-bills-credit-score-itin"
   - "free-paid-services-check-credit-score-itin-2026"
-  - "how-to-check-credit-score-with-itin-free-paid-services"
 faqs:
   - q: "¿Experian Boost acepta un ITIN en lugar de un SSN?"
     a: "Experian Boost está vinculado a tu expediente de crédito en Experian, el cual puede existir bajo un ITIN. Si tu expediente en Experian ya está abierto con tu ITIN, el proceso de conexión bancaria de Boost puede funcionar sin problema. Si la verificación de identidad se detiene, es posible que necesites confirmar primero que tu expediente existe contactando directamente a Experian antes de registrarte."

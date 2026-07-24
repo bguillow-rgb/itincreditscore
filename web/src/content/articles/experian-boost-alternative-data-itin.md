@@ -15,9 +15,9 @@ author: "Research Desk"
 category: "Credit Score"
 relatedSlugs:
   - "utility-bills-credit-score-itin"
+  - "rent-reporting-services-itin-credit-building"
   - "does-paying-rent-build-credit-with-itin"
   - "cosigning-with-itin-credit-score-impact"
-  - "credit-mix-with-itin"
 faqs:
   - q: "Does Experian Boost accept an ITIN instead of an SSN?"
     a: "Experian Boost is tied to your Experian credit file, which can exist under an ITIN. If your Experian file is already open under your ITIN, Boost's bank-linking flow may work. If identity verification stalls, you may need to confirm your file exists first by contacting Experian directly before enrolling."

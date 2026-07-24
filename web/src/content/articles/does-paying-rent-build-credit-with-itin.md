@@ -14,10 +14,10 @@ publishedAt: "2026-06-14"
 author: "Research Desk"
 category: "Credit"
 relatedSlugs:
+  - "rent-reporting-services-itin-credit-building"
   - "experian-boost-alternative-data-itin"
   - "utility-bills-credit-score-itin"
   - "credit-builder-loan-with-itin"
-  - "credit-monitoring-with-itin"
 faqs:
   - q: "Can I report rent to the credit bureaus if I only have an ITIN, not an SSN?"
     a: "Yes. Several rent reporting services, including Self, Boom, and Rental Kharma, can match you to your credit file using your name, address, and date of birth. They do not universally require an SSN to submit your payment history to the bureaus."
