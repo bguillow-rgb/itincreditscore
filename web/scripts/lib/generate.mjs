@@ -68,7 +68,7 @@ MANDATORY article structure:
 - A concrete stat, number, or cited fact roughly every 150-200 words. Attribute sources in prose (e.g. "according to the CFPB").
 - ${longform ? '8+' : '5+'} FAQs (these become the faqs field for FAQPage schema).
 - ${pillar ? '3000-5000 words for a comprehensive PILLAR overview that links down to every subtopic' : flagship ? '2500-4000 words: an in-depth, original FLAGSHIP built to earn links and AI-engine citations' : '1000-1600 words total for a detail/cluster article'}. Original wording only, never copy phrasing from sources.
-- Internal-link naturally in prose to relevant existing pages on this site when it makes sense.
+- Internal-link naturally in prose to relevant existing pages on this site when it makes sense. PATHS ARE STRICT: every article lives under /articles/<slug> (for example [credit-builder loans](/articles/credit-builder-loan-with-itin)). Never link to a bare /<slug> for an article, that path 404s. The only valid top-level paths are the money and hub pages: /check-credit-score-with-itin, /build-credit-history-with-itin, /improve-credit-score, /credit-builder-loans, /credit-bureaus-and-itin, /credit-reports-with-itin, /how-to-get-an-itin, /itin-credit-score-guide, /credit-readiness-calculator, /articles, /about. Link only to slugs you are confident exist; when unsure, use one of those top-level pages instead.
 - PUNCTUATION (strict): Never use em dashes or en dashes, nor their code/HTML forms (\\u2014, \\u2013, &mdash;, &ndash;). Use commas, colons, parentheses, or separate sentences instead. For numeric ranges use a plain hyphen, e.g. "12-24 months" or "15%-20%".${flagship ? `
 
 FLAGSHIP MANDATE (this piece must have "legs": be the reference others link to and AI engines cite):

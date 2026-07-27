@@ -124,7 +124,7 @@ Mixed or split files, where your data gets tangled with another person's records
 
 The FTC found that 5% of people had credit errors that caused them to pay more for loans. The major credit bureaus hold files on over 200 million consumers, which suggests more than 10 million consumers may have errors in their reports. ITIN holders face a heightened version of this risk because their identifier is less integrated into automated matching systems than an SSN.
 
-For a deeper look at mixed files, see our guide on [mixed credit files for ITIN holders](/mixed-credit-file-itin-holder).
+For a deeper look at mixed files, see our guide on [mixed credit files for ITIN holders](/articles/mixed-credit-file-itin-holder).
 
 ---
 
@@ -195,7 +195,7 @@ Second, file a CFPB complaint. The Consumer Financial Protection Bureau (CFPB) a
 
 Third, do not reuse the same template letter. Personalized, well-documented letters work better than generic ones. Explain specifically what new evidence you are attaching and why the bureau's previous verification was wrong.
 
-One thing worth being direct about: accurate negative information generally stays on your credit history for up to seven years. No company can legally remove truthful reporting because you paid them to try. Disputes correct inaccurate information; they do not erase legitimate history. If the negative item is accurate, a goodwill letter to the creditor (not the bureau) is your best path. See our guide on [goodwill letters for late payments with an ITIN](/goodwill-letter-late-payment-itin-credit-score).
+One thing worth being direct about: accurate negative information generally stays on your credit history for up to seven years. No company can legally remove truthful reporting because you paid them to try. Disputes correct inaccurate information; they do not erase legitimate history. If the negative item is accurate, a goodwill letter to the creditor (not the bureau) is your best path. See our guide on [goodwill letters for late payments with an ITIN](/articles/goodwill-letter-late-payment-itin-credit-score).
 
 ---
 
@@ -213,7 +213,7 @@ The dispute process for a mixed file is more intensive than a standard error dis
 
 If you believe your information has been mixed with someone else's, submit a dispute with all credit reporting companies that have incorrect information on your report and identify each item that does not belong to you.
 
-For a deeper walkthrough, see our full guide on [mixed credit files for ITIN holders](/mixed-credit-file-itin-holder).
+For a deeper walkthrough, see our full guide on [mixed credit files for ITIN holders](/articles/mixed-credit-file-itin-holder).
 
 ---
 
@@ -223,7 +223,7 @@ For a deeper walkthrough, see our full guide on [mixed credit files for ITIN hol
 
 If you later receive a Social Security Number, you need to take steps with both the IRS and the credit bureaus to keep your records connected. A split between your tax history and your credit history is a real risk if you do nothing. Once you are assigned an SSN, stop using your ITIN on tax returns immediately.
 
-To preserve your credit history, contact each of the three bureaus in writing. Provide your old ITIN, your new SSN, and a copy of your SSN card along with your ID. Ask each bureau explicitly to link your existing ITIN-based credit file to your new SSN. This step is not automatic, and bureaus will not always do it unless you request it in writing. For the complete process, see our guide on [transferring your ITIN credit history to an SSN](/transfer-itin-credit-history-to-ssn).
+To preserve your credit history, contact each of the three bureaus in writing. Provide your old ITIN, your new SSN, and a copy of your SSN card along with your ID. Ask each bureau explicitly to link your existing ITIN-based credit file to your new SSN. This step is not automatic, and bureaus will not always do it unless you request it in writing. For the complete process, see our guide on [transferring your ITIN credit history to an SSN](/articles/transfer-itin-credit-history-to-ssn).
 
 ---
 
@@ -237,7 +237,7 @@ A practical cadence for ITIN holders:
 - After any credit application, pull the bureau that lender uses within 60 days to confirm no errors were introduced
 - After any address change or employment update, pull all three within 90 days to verify the new information is recorded correctly
 
-Reviewing your credit report regularly is one of the few ways to catch identity theft early and keep your file clean. For ongoing monitoring tools that accept an ITIN, see our guide on [credit monitoring with an ITIN](/credit-monitoring-with-itin).
+Reviewing your credit report regularly is one of the few ways to catch identity theft early and keep your file clean. For ongoing monitoring tools that accept an ITIN, see our guide on [credit monitoring with an ITIN](/articles/credit-monitoring-with-itin).
 
 ---
 

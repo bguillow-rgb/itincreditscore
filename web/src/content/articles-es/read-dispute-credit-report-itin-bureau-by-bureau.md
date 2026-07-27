@@ -124,7 +124,7 @@ Los archivos mezclados o divididos, donde tus datos se confunden con los de otra
 
 La FTC encontró que el 5% de las personas tenían errores de crédito que les hicieron pagar más por sus préstamos. Los principales burós de crédito tienen archivos de más de 200 millones de consumidores, lo que sugiere que más de 10 millones de personas podrían tener errores en sus reportes. Los titulares de ITIN enfrentan una versión agravada de este riesgo porque su identificador está menos integrado en los sistemas automatizados de coincidencia que un SSN.
 
-Para un análisis más detallado sobre los archivos mezclados, consulta nuestra guía sobre [archivos de crédito mezclados para titulares de ITIN](/mixed-credit-file-itin-holder).
+Para un análisis más detallado sobre los archivos mezclados, consulta nuestra guía sobre [archivos de crédito mezclados para titulares de ITIN](/es/articles/mixed-credit-file-itin-holder).
 
 ---
 
@@ -195,7 +195,7 @@ Segundo, presenta una queja ante el CFPB. El Consumer Financial Protection Burea
 
 Tercero, no reutilices la misma carta genérica. Las cartas personalizadas y bien documentadas funcionan mejor que las genéricas. Explica específicamente qué nueva evidencia estás adjuntando y por qué la verificación anterior del buró fue incorrecta.
 
-Conviene ser directo en un punto: la información negativa y precisa generalmente permanece en tu historial de crédito hasta siete años. Ninguna empresa puede eliminar legalmente información veraz porque les hayas pagado para intentarlo. Las disputas corrigen información inexacta; no borran historial legítimo. Si el elemento negativo es preciso, una carta de buena voluntad al acreedor (no al buró) es tu mejor camino. Consulta nuestra guía sobre [cartas de buena voluntad por pagos tardíos con un ITIN](/goodwill-letter-late-payment-itin-credit-score).
+Conviene ser directo en un punto: la información negativa y precisa generalmente permanece en tu historial de crédito hasta siete años. Ninguna empresa puede eliminar legalmente información veraz porque les hayas pagado para intentarlo. Las disputas corrigen información inexacta; no borran historial legítimo. Si el elemento negativo es preciso, una carta de buena voluntad al acreedor (no al buró) es tu mejor camino. Consulta nuestra guía sobre [cartas de buena voluntad por pagos tardíos con un ITIN](/es/articles/goodwill-letter-late-payment-itin-credit-score).
 
 ---
 
@@ -213,7 +213,7 @@ El proceso de disputa para un archivo mezclado es más intensivo que el de un er
 
 Si crees que tu información ha sido mezclada con la de otra persona, presenta una disputa ante todas las agencias de reporte de crédito que tengan información incorrecta en tu reporte e identifica cada elemento que no te pertenezca.
 
-Para una guía más detallada, consulta nuestra guía completa sobre [archivos de crédito mezclados para titulares de ITIN](/mixed-credit-file-itin-holder).
+Para una guía más detallada, consulta nuestra guía completa sobre [archivos de crédito mezclados para titulares de ITIN](/es/articles/mixed-credit-file-itin-holder).
 
 ---
 
@@ -223,7 +223,7 @@ Para una guía más detallada, consulta nuestra guía completa sobre [archivos d
 
 Si después obtienes un Social Security Number, debes tomar medidas tanto con el IRS como con los burós de crédito para mantener tus registros conectados. Existe un riesgo real de que tu historial fiscal y tu historial de crédito queden separados si no haces nada. Una vez que te asignen un SSN, deja de usar tu ITIN en las declaraciones de impuestos de inmediato.
 
-Para preservar tu historial de crédito, contacta a cada uno de los tres burós por escrito. Proporciona tu ITIN anterior, tu nuevo SSN y una copia de tu tarjeta de SSN junto con tu identificación. Pídele explícitamente a cada buró que vincule tu archivo de crédito existente, basado en tu ITIN, a tu nuevo SSN. Este paso no es automático y los burós no siempre lo harán a menos que lo solicites por escrito. Para el proceso completo, consulta nuestra guía sobre [cómo transferir tu historial de crédito con ITIN a un SSN](/transfer-itin-credit-history-to-ssn).
+Para preservar tu historial de crédito, contacta a cada uno de los tres burós por escrito. Proporciona tu ITIN anterior, tu nuevo SSN y una copia de tu tarjeta de SSN junto con tu identificación. Pídele explícitamente a cada buró que vincule tu archivo de crédito existente, basado en tu ITIN, a tu nuevo SSN. Este paso no es automático y los burós no siempre lo harán a menos que lo solicites por escrito. Para el proceso completo, consulta nuestra guía sobre [cómo transferir tu historial de crédito con ITIN a un SSN](/es/articles/transfer-itin-credit-history-to-ssn).
 
 ---
 
@@ -237,7 +237,7 @@ Una frecuencia práctica para los titulares de ITIN:
 - Después de cualquier solicitud de crédito, revisa el buró que usó ese prestamista dentro de los 60 días para confirmar que no se introdujeron errores
 - Después de cualquier cambio de dirección o actualización de empleo, revisa los tres dentro de los 90 días para verificar que la nueva información quedó registrada correctamente
 
-Revisar tu reporte de crédito regularmente es una de las pocas formas de detectar el robo de identidad a tiempo y mantener tu archivo limpio. Para conocer herramientas de monitoreo de crédito que aceptan un ITIN, consulta nuestra guía sobre [monitoreo de crédito con un ITIN](/credit-monitoring-with-itin).
+Revisar tu reporte de crédito regularmente es una de las pocas formas de detectar el robo de identidad a tiempo y mantener tu archivo limpio. Para conocer herramientas de monitoreo de crédito que aceptan un ITIN, consulta nuestra guía sobre [monitoreo de crédito con un ITIN](/es/articles/credit-monitoring-with-itin).
 
 ---
 

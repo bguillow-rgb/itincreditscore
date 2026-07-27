@@ -69,5 +69,27 @@ ${JSON.stringify(payload)}
   if ((payload.faqs.length || 0) > 0 && (!Array.isArray(out.faqs) || !out.faqs.length)) {
     throw new Error('translate: translation dropped all FAQs');
   }
+
+  // The translator is told to leave URLs alone (correct: it must not invent
+  // paths). But an untouched URL is an ENGLISH path, so every internal link in
+  // a Spanish article pointed at the English page, and Spanish readers were
+  // being sent out of their own locale. Localize internal links deterministically
+  // here rather than asking the model to do it.
+  out.bodyMarkdown = localizeInternalLinks(out.bodyMarkdown);
+  if (Array.isArray(out.faqs)) {
+    out.faqs = out.faqs.map((f) => ({ ...f, a: localizeInternalLinks(f.a) }));
+  }
+  if (out.quickAnswer) out.quickAnswer = localizeInternalLinks(out.quickAnswer);
+
   return out;
+}
+
+// Rewrite site-internal links to their /es counterpart. Leaves external links,
+// anchors, mailto:, and already-localized /es/... paths untouched.
+export function localizeInternalLinks(text) {
+  if (!text) return text;
+  const toEs = (p) => (p === '/' ? '/es' : p.startsWith('/es/') || p === '/es' ? p : `/es${p}`);
+  return String(text)
+    .replace(/(\]\()(\/[^)\s]*)(\))/g, (m, a, p, b) => `${a}${toEs(p)}${b}`)
+    .replace(/(href=")(\/[^"]*)(")/g, (m, a, p, b) => `${a}${toEs(p)}${b}`);
 }
