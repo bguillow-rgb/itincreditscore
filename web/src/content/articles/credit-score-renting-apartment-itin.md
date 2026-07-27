@@ -97,13 +97,13 @@ The most direct path for ITIN holders:
 
 **Step 1: Open one ITIN-accepting credit account.** A secured card is the most accessible starting point. You deposit a refundable amount (often $200-$500) that becomes your credit limit. Use it for small regular purchases and pay the full balance each month. Once you open an ITIN-based account and make on-time payments, your payment history is recorded and your credit score is calculated exactly the same way as any SSN-based account.
 
-**Step 2: Add a rent-reporting service.** Your rent payments are likely your largest monthly financial commitment, yet they do not automatically build credit. Services that report rent to the bureaus turn those payments into positive credit entries, helping your score and making your rental history visible to future landlords. See our guide on [does paying rent build credit with an ITIN](/does-paying-rent-build-credit-with-itin) for the full breakdown.
+**Step 2: Add a rent-reporting service.** Your rent payments are likely your largest monthly financial commitment, yet they do not automatically build credit. Services that report rent to the bureaus turn those payments into positive credit entries, helping your score and making your rental history visible to future landlords. See our guide on [does paying rent build credit with an ITIN](/articles/does-paying-rent-build-credit-with-itin) for the full breakdown.
 
-**Step 3: Consider a credit-builder loan.** Credit scores are calculated using multiple account types. A secured card is a revolving account. A credit-builder loan is an installment account. Having both creates a stronger credit profile than either one alone. Our [credit builder loan with ITIN guide](/credit-builder-loan-with-itin) covers which lenders accept ITINs.
+**Step 3: Consider a credit-builder loan.** Credit scores are calculated using multiple account types. A secured card is a revolving account. A credit-builder loan is an installment account. Having both creates a stronger credit profile than either one alone. Our [credit builder loan with ITIN guide](/articles/credit-builder-loan-with-itin) covers which lenders accept ITINs.
 
-**Step 4: Keep utilization low.** Even on a small secured card, keeping the balance below 30% of your credit limit (ideally below 10%) has a meaningful positive effect on your score. See our guide on [credit utilization for ITIN holders](/credit-utilization-itin-holders) for specifics.
+**Step 4: Keep utilization low.** Even on a small secured card, keeping the balance below 30% of your credit limit (ideally below 10%) has a meaningful positive effect on your score. See our guide on [credit utilization for ITIN holders](/articles/credit-utilization-itin-holders) for specifics.
 
-For a broader plan, our article on [how to raise your credit score with an ITIN](/how-to-raise-credit-score-with-itin) walks through the full priority order.
+For a broader plan, our article on [how to raise your credit score with an ITIN](/articles/how-to-raise-credit-score-with-itin) walks through the full priority order.
 
 ## Does applying to multiple apartments hurt my ITIN credit score?
 
@@ -117,8 +117,8 @@ Applying to several rentals within a short timeframe can minimize the impact on 
 
 Here is a consolidated action checklist, ordered by impact on your rental application:
 
-1. **Check your credit report first.** Request reports from all three bureaus to confirm what a landlord will actually see. Our [guide to getting your free credit report with an ITIN](/how-to-check-credit-score-with-itin-number) shows the mail-in process for each bureau.
-2. **Dispute any errors.** Even one incorrect late payment can push you below a landlord's threshold. The [dispute guide for ITIN holders](/how-to-dispute-credit-report-errors-with-itin) covers the process.
+1. **Check your credit report first.** Request reports from all three bureaus to confirm what a landlord will actually see. Our [guide to getting your free credit report with an ITIN](/articles/how-to-check-credit-score-with-itin-number) shows the mail-in process for each bureau.
+2. **Dispute any errors.** Even one incorrect late payment can push you below a landlord's threshold. The [dispute guide for ITIN holders](/articles/how-to-dispute-credit-report-errors-with-itin) covers the process.
 3. **Enroll in rent reporting.** If you are already paying rent on time, get that history onto your credit file before your next application.
 4. **Reduce credit card balances.** Paying down any existing revolving balances before apartment hunting can produce a measurable score increase in the same billing cycle.
 5. **Avoid opening new credit in the 60-90 days before applying.** New accounts lower your average account age and generate inquiries, both of which can temporarily dip your score.

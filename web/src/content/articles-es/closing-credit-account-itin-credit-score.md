@@ -102,10 +102,10 @@ Si ocurre un cierre iniciado por el prestamista, toma estos pasos de inmediato:
 
 - Solicita tu reporte de crédito de las tres agencias para confirmar que el cierre está reportado correctamente como "cerrado por el otorgante" (no como "cerrado por el consumidor" ni como "derogatorio").
 - Verifica que el saldo esté listado correctamente como cero o pagado en su totalidad.
-- Si ves errores en cómo se reportó el cierre, tienes derecho a disputarlos bajo la Fair Credit Reporting Act. Nuestra guía sobre [cómo disputar errores en el reporte de crédito con un ITIN](/how-to-dispute-credit-report-errors-with-itin) explica paso a paso el proceso de disputa por correo y en línea.
+- Si ves errores en cómo se reportó el cierre, tienes derecho a disputarlos bajo la Fair Credit Reporting Act. Nuestra guía sobre [cómo disputar errores en el reporte de crédito con un ITIN](/es/articles/how-to-dispute-credit-report-errors-with-itin) explica paso a paso el proceso de disputa por correo y en línea.
 - Considera abrir una cuenta de reemplazo. Un nuevo préstamo para construir crédito o una tarjeta asegurada puede comenzar a restaurar tu margen de utilización en 30 a 60 días después de abrir la cuenta, una vez que el nuevo límite sea reportado a las agencias.
 
-Monitorear tu archivo de crédito ITIN con regularidad es el mejor sistema de alerta temprana. Nuestra [guía de monitoreo de crédito con ITIN](/credit-monitoring-with-itin) explica qué herramientas te permiten vigilar los archivos de las tres agencias al mismo tiempo, para que detectes cierres iniciados por prestamistas antes de que bajen tu puntaje sin que te des cuenta.
+Monitorear tu archivo de crédito ITIN con regularidad es el mejor sistema de alerta temprana. Nuestra [guía de monitoreo de crédito con ITIN](/es/articles/credit-monitoring-with-itin) explica qué herramientas te permiten vigilar los archivos de las tres agencias al mismo tiempo, para que detectes cierres iniciados por prestamistas antes de que bajen tu puntaje sin que te des cuenta.
 
 ---
 

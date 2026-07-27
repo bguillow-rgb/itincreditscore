@@ -67,7 +67,7 @@ La razón está en cómo los modelos de puntuación crediticia ponderan los fact
 
 Alcanzar un puntaje crediticio aceptable (580-669) suele tomar de 4 a 6 meses de pagos puntuales. Un buen puntaje (670-739) generalmente requiere de 12 a 18 meses de comportamiento constante. Tus resultados también dependerán de si empiezas desde cero o ya tienes algo de historial crediticio, por ejemplo, a través de una cuenta como usuario autorizado.
 
-Una forma práctica de acelerar el salto de aceptable a bueno: después de 6 a 12 meses con tu primera tarjeta asegurada, agrega un préstamo para construir crédito de un prestamista compatible con ITIN, como Self o una cooperativa de crédito local. Esto añade una cuenta de cuotas a tu expediente, mejora tu combinación de créditos y demuestra que puedes manejar varios tipos de crédito de manera responsable. Puedes leer más sobre cómo funcionan estos productos en nuestra guía de [préstamos para construir crédito con ITIN](/credit-builder-loan-with-itin).
+Una forma práctica de acelerar el salto de aceptable a bueno: después de 6 a 12 meses con tu primera tarjeta asegurada, agrega un préstamo para construir crédito de un prestamista compatible con ITIN, como Self o una cooperativa de crédito local. Esto añade una cuenta de cuotas a tu expediente, mejora tu combinación de créditos y demuestra que puedes manejar varios tipos de crédito de manera responsable. Puedes leer más sobre cómo funcionan estos productos en nuestra guía de [préstamos para construir crédito con ITIN](/es/articles/credit-builder-loan-with-itin).
 
 ## "¿Puedo acelerar el proceso convirtiéndome en usuario autorizado?"
 
@@ -93,7 +93,7 @@ Según el informe de Experian de 2026, el IRS ha emitido más de 27 millones de 
 | Equifax | Cuenta myEquifax (ingresando el ITIN) o por correo | El portal en línea frecuentemente funciona; hasta 6 reportes gratuitos por año |
 | TransUnion | Chat en vivo o por correo | Los agentes de chat pueden iniciar un reporte enviado por correo sin necesidad de que envíes documentos |
 
-Para una guía completa sobre cómo obtener tus reportes de cada buró, consulta nuestra guía sobre [cómo revisar tu puntaje crediticio con un ITIN](/how-to-check-credit-score-with-itin-number).
+Para una guía completa sobre cómo obtener tus reportes de cada buró, consulta nuestra guía sobre [cómo revisar tu puntaje crediticio con un ITIN](/es/articles/how-to-check-credit-score-with-itin-number).
 
 ## "¿Qué error puede retrasar más mi cronograma?"
 
@@ -111,7 +111,7 @@ Aquí tienes una secuencia de acciones concreta que refleja lo que funciona de m
 
 **Meses 1 a 6:** Abre una tarjeta asegurada compatible con ITIN que reporte a los tres burós. Opciones como la OpenSky Secured Card (no requiere verificación de crédito) o la Capital One Platinum Secured (acepta ITIN) son buenos puntos de partida. Usa la tarjeta para una o dos compras recurrentes pequeñas cada mes y paga el saldo completo. Si un familiar de confianza está dispuesto, pídele que te agregue como usuario autorizado en su cuenta más antigua y con menor uso al mismo tiempo, para acelerar la aparición de tu primer puntaje.
 
-**Meses 6 a 12:** Tu primer puntaje FICO ya debería existir. Mantén el uso del crédito por debajo del 30% y evita nuevas solicitudes. Considera agregar un préstamo para construir crédito: estas cuentas de cuotas estructuradas diversifican tu combinación de créditos y están diseñadas específicamente para personas que construyen desde cero. Nuestra [guía de préstamos para construir crédito con ITIN](/credit-builder-loan-with-itin) cubre qué prestamistas aceptan solicitudes con ITIN.
+**Meses 6 a 12:** Tu primer puntaje FICO ya debería existir. Mantén el uso del crédito por debajo del 30% y evita nuevas solicitudes. Considera agregar un préstamo para construir crédito: estas cuentas de cuotas estructuradas diversifican tu combinación de créditos y están diseñadas específicamente para personas que construyen desde cero. Nuestra [guía de préstamos para construir crédito con ITIN](/es/articles/credit-builder-loan-with-itin) cubre qué prestamistas aceptan solicitudes con ITIN.
 
 **Meses 12 a 18:** Con un puntaje aceptable o bueno establecido, solicita una segunda tarjeta, idealmente una sin garantía y sin cuota anual. Mantén tu tarjeta asegurada original abierta incluso después de mejorar; cerrar tu cuenta más antigua acorta tu historial crediticio y puede bajar tu puntaje.
 

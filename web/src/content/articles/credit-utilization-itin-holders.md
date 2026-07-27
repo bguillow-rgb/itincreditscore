@@ -88,7 +88,7 @@ The key behavioral difference is that payment history builds slowly over months 
 
 This makes utilization management one of the few rapid-response levers available to ITIN holders. If you know a lender will review your credit in 60-90 days, aggressively paying down balances in the weeks before is a legitimate and legal way to present your best score.
 
-The remaining score factors (length of credit history, credit mix, and new inquiries) matter but are slower to influence. For guidance on building account history and mix over time, see our article on [how to build credit with an ITIN number](/how-to-build-credit-with-itin-number) and our overview of [how credit scoring works with an ITIN](/how-credit-scoring-works-with-itin).
+The remaining score factors (length of credit history, credit mix, and new inquiries) matter but are slower to influence. For guidance on building account history and mix over time, see our article on [how to build credit with an ITIN number](/articles/how-to-build-credit-with-itin-number) and our overview of [how credit scoring works with an ITIN](/articles/how-credit-scoring-works-with-itin).
 
 ## What strategies actually lower my utilization ratio?
 
@@ -100,7 +100,7 @@ There are only two ways to lower utilization: reduce your balances or increase y
 
 **Request a credit limit increase.** After 6-12 months of on-time payments on a secured card, many issuers will consider raising your limit. A higher limit with the same balance mathematically lowers your utilization right away, with no new account required.
 
-**Add a second reporting account carefully.** Adding a credit-builder loan creates an installment account that adds to your total credit picture. Installment loan balances factor in differently than revolving utilization, but the additional positive payment history can help your overall profile. For more on this tool, see our guide on [credit builder loans with an ITIN](/credit-builder-loan-with-itin).
+**Add a second reporting account carefully.** Adding a credit-builder loan creates an installment account that adds to your total credit picture. Installment loan balances factor in differently than revolving utilization, but the additional positive payment history can help your overall profile. For more on this tool, see our guide on [credit builder loans with an ITIN](/articles/credit-builder-loan-with-itin).
 
 **Use the all-zeroes-except-one method for score maximization.** The All-Zero-Except-One method involves paying all credit card balances down to zero except for one card, which maintains a small balance, typically between $2 and $20. This demonstrates active credit use without high utilization, often resulting in higher credit scores. This is an advanced tactic worth using when you are preparing for a major application.
 
@@ -110,6 +110,6 @@ You cannot manage what you cannot see. Checking your credit file regularly lets 
 
 Monitoring your credit report and score regularly helps you keep tabs on your credit-building efforts, find out where you fall on the credit score range, identify errors that may harm your credit, and even spot identity theft fraud. As an ITIN holder, monitoring matters for an additional reason: if an account is mistakenly filed under the wrong identifier or someone misuses your ITIN, you want early warning. Check your report regularly for errors or fraud. Someone could try to use your ITIN fraudulently, so monitoring is essential.
 
-For a step-by-step walkthrough of how to pull your credit report from each of the three bureaus as an ITIN holder, see our guide on [how to get your free credit report with an ITIN](/how-to-check-credit-score-with-itin-number). If you find errors in how your balances or limits are reported, our article on [how to dispute credit report errors with an ITIN](/how-to-dispute-credit-report-errors-with-itin) covers the process from start to finish.
+For a step-by-step walkthrough of how to pull your credit report from each of the three bureaus as an ITIN holder, see our guide on [how to get your free credit report with an ITIN](/articles/how-to-check-credit-score-with-itin-number). If you find errors in how your balances or limits are reported, our article on [how to dispute credit report errors with an ITIN](/articles/how-to-dispute-credit-report-errors-with-itin) covers the process from start to finish.
 
 One encouraging data point: according to Experian's February 2026 white paper, 76.9% of ITIN holders remained current on trades after 12 months, a rate 15% higher than SSN consumers. This data confirms that ITIN holders are disciplined payers. Combine that payment discipline with proactive utilization management, and you have a strong two-factor foundation for building an excellent score.

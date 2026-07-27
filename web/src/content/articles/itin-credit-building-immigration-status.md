@@ -48,7 +48,7 @@ No. When you apply for a credit product with your ITIN, the lender runs a credit
 
 The credit bureaus maintain separate, commercially operated databases. They are not branches of the federal government and they do not have a reporting pipeline to immigration enforcement. According to Experian's 2026 white paper, the IRS has issued more than 27 million individual taxpayer identification numbers since 1996, and the credit system serves that entire population without triggering immigration consequences for any of them.
 
-If you want to understand exactly how your ITIN file is structured at each bureau, our guide on [how credit scoring works with an ITIN](/how-credit-scoring-works-with-itin) walks through that in full detail.
+If you want to understand exactly how your ITIN file is structured at each bureau, our guide on [how credit scoring works with an ITIN](/articles/how-credit-scoring-works-with-itin) walks through that in full detail.
 
 ## What did the 2026 executive order actually change for ITIN credit files?
 
@@ -70,7 +70,7 @@ The one context where credit can come up is the **public charge assessment**, wh
 
 Here is something worth knowing: a credit file can actually work in your favor. A positive credit history shows that you have been meeting financial obligations in the United States. Credit reports and credit scores do not take certain informal financial transactions into account. Only applicants who have had a credit card, loan, unpaid bills in collection, or bankruptcies in the United States are likely to have a credit report from one of the three major credit bureaus. USCIS officers must not draw any negative inferences if the applicant does not have any credit history.
 
-That last point matters: a thin or nonexistent credit file does not hurt your immigration case. Building one responsibly can only help demonstrate financial stability. See our article on [what a good credit score looks like for ITIN holders](/what-is-a-good-credit-score-for-itin-holders) for score benchmarks to aim for.
+That last point matters: a thin or nonexistent credit file does not hurt your immigration case. Building one responsibly can only help demonstrate financial stability. See our article on [what a good credit score looks like for ITIN holders](/articles/what-is-a-good-credit-score-for-itin-holders) for score benchmarks to aim for.
 
 ## How does credit bureau data privacy actually work for ITIN holders?
 
@@ -87,7 +87,7 @@ Here is a clear summary of what is and is not shared:
 | Hard inquiry record | Other lenders pulling your file | No |
 | Account delinquency | Bureaus, collection agencies | No |
 
-Non-SSN consumers, such as ITIN holders or foreign nationals, have the same dispute and protection rights as U.S. citizens. That means the same Fair Credit Reporting Act protections apply to you: the same right to freeze your credit (see our guide on [how to freeze your credit with an ITIN](/how-to-freeze-credit-with-itin)), and the same right to dispute errors.
+Non-SSN consumers, such as ITIN holders or foreign nationals, have the same dispute and protection rights as U.S. citizens. That means the same Fair Credit Reporting Act protections apply to you: the same right to freeze your credit (see our guide on [how to freeze your credit with an ITIN](/articles/how-to-freeze-credit-with-itin)), and the same right to dispute errors.
 
 ## What about the IRS sharing ITIN data with immigration? Does that affect my credit file?
 
@@ -103,8 +103,8 @@ This worry is understandable, but avoiding credit puts you at a disadvantage, bo
 
 ITIN holders include people trying to participate in the formal tax and banking systems, and many are exactly the lower-income immigrant households that financial inclusion efforts have tried to bring into mainstream banking. If banks respond with tighter onboarding, more exits, or fewer approvals, the policy pushes people toward cash, check cashers, and informal finance. That is worse for households and, ironically, less transparent for law enforcement.
 
-Staying invisible by avoiding credit entirely means you cannot access competitive lending rates, face more difficulty renting an apartment, and have no positive financial documentation to show in any future immigration proceeding. A strong credit file, built over 12-24 months through tools like [credit-builder loans](/credit-builder-loan-with-itin) and [authorized user status](/authorized-user-credit-building-itin), is a concrete record of financial responsibility that works in your favor.
+Staying invisible by avoiding credit entirely means you cannot access competitive lending rates, face more difficulty renting an apartment, and have no positive financial documentation to show in any future immigration proceeding. A strong credit file, built over 12-24 months through tools like [credit-builder loans](/articles/credit-builder-loan-with-itin) and [authorized user status](/articles/authorized-user-credit-building-itin), is a concrete record of financial responsibility that works in your favor.
 
 According to Experian's February 2026 white paper, 76.9% of ITIN holders remained current on trades after 12 months, a rate 15% higher than SSN consumers. As a group, ITIN holders are responsible borrowers. Building credit is both safe and strategically smart.
 
-If you have not yet checked whether you already have a credit file, start with our guide on [how to get your free credit report with an ITIN](/how-to-check-credit-score-with-itin-number) to see where you stand today.
+If you have not yet checked whether you already have a credit file, start with our guide on [how to get your free credit report with an ITIN](/articles/how-to-check-credit-score-with-itin-number) to see where you stand today.

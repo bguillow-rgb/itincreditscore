@@ -97,7 +97,7 @@ Being added to a card with a long history and low balances can immediately add p
 
 There is a ceiling, though. Being an authorized user will generally still help your credit, especially if you have a thin credit file, but the benefit is smaller than it would be if you were a primary account holder with the same payment history. Lenders reviewing your credit report can also see that the account is designated as an authorized user tradeline rather than a primary account, which may affect lending decisions independently of the score itself.
 
-This is why authorized user status works best as a launchpad rather than a long-term strategy. Use it to get your first scorable file, or to jump-start your score while you also open an account in your own name, such as a [credit builder loan with your ITIN](/credit-builder-loan-with-itin).
+This is why authorized user status works best as a launchpad rather than a long-term strategy. Use it to get your first scorable file, or to jump-start your score while you also open an account in your own name, such as a [credit builder loan with your ITIN](/articles/credit-builder-loan-with-itin).
 
 ---
 
@@ -124,12 +124,12 @@ Yes, and this is the recommended path for most ITIN holders starting from a thin
 Authorized user status adds a tradeline quickly, but lenders and scoring models place more weight on accounts you opened and manage yourself. The most effective early approach combines a few things working at the same time:
 
 - **Authorized user status** on a well-managed existing card for immediate history and utilization benefit.
-- **A credit builder loan in your own name** to add an installment account, which improves your [credit mix](/credit-mix-with-itin) and shows independent repayment behavior. See our full guide to [credit builder loans with an ITIN](/credit-builder-loan-with-itin).
-- **Consistent monitoring** so you can confirm each tradeline is posting correctly and catch any errors early. Our [credit monitoring guide for ITIN holders](/credit-monitoring-with-itin) covers the best tools for this.
+- **A credit builder loan in your own name** to add an installment account, which improves your [credit mix](/articles/credit-mix-with-itin) and shows independent repayment behavior. See our full guide to [credit builder loans with an ITIN](/articles/credit-builder-loan-with-itin).
+- **Consistent monitoring** so you can confirm each tradeline is posting correctly and catch any errors early. Our [credit monitoring guide for ITIN holders](/articles/credit-monitoring-with-itin) covers the best tools for this.
 
 Only 9% of immigrant consumers have a credit score by age 22, but 75% achieve a credit score by age 26, demonstrating rapid convergence when they take an active approach to building credit. Using these tools together compresses that timeline significantly.
 
-One more thing to keep in mind as your file grows: [credit utilization](/credit-utilization-itin-holders) on the authorized user account affects your profile too. If the primary cardholder carries a high balance relative to the card's limit, that elevated utilization will show on your report. Ideally the account you are added to carries a balance of 10%-30% or less of its credit limit at the time each statement closes.
+One more thing to keep in mind as your file grows: [credit utilization](/articles/credit-utilization-itin-holders) on the authorized user account affects your profile too. If the primary cardholder carries a high balance relative to the card's limit, that elevated utilization will show on your report. Ideally the account you are added to carries a balance of 10%-30% or less of its credit limit at the time each statement closes.
 
 ---
 
@@ -139,5 +139,5 @@ One more thing to keep in mind as your file grows: [credit utilization](/credit-
 2. **Confirm the issuer's policy.** Have the primary cardholder call their issuer and ask two questions: Do you accept an ITIN for authorized user addition? Do you report authorized users to all three credit bureaus?
 3. **Provide the correct identifying information.** Your exact legal name, current address, date of birth, and ITIN if the issuer accepts it. Double-check spelling and number accuracy.
 4. **Wait for the tradeline to post.** Check your credit file after 45 days. If the account has not appeared, the primary cardholder should follow up with the issuer to confirm the information was submitted correctly.
-5. **Monitor for errors.** Once the account appears, verify that the payment history, account opening date, and credit limit are all reporting accurately. If anything looks wrong, you have the right to [dispute the error](/how-to-dispute-credit-report-errors-with-itin) directly with the bureau under the Fair Credit Reporting Act.
+5. **Monitor for errors.** Once the account appears, verify that the payment history, account opening date, and credit limit are all reporting accurately. If anything looks wrong, you have the right to [dispute the error](/articles/how-to-dispute-credit-report-errors-with-itin) directly with the bureau under the Fair Credit Reporting Act.
 6. **Open your own account in parallel.** Do not rely solely on authorized user status. Apply for a secured card or credit builder loan with your ITIN to start building primary account history alongside it.

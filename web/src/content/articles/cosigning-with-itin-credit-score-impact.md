@@ -84,7 +84,7 @@ These two strategies are not interchangeable. Here is a direct comparison:
 | Who controls the account | Primary cardholder | Primary borrower (you have no access) |
 | Typical product | Credit card | Installment loan, personal loan, auto loan |
 
-A cosigner is legally responsible for repayment; an authorized user has no liability and limited credit-building impact. For most ITIN holders early in their credit-building journey, authorized user status (covered in our [authorized user guide](/authorized-user-credit-building-itin)) carries far less financial exposure. Cosigning makes more sense once your own credit file is established, you trust the primary borrower completely, and you can genuinely afford to cover the payments if they default.
+A cosigner is legally responsible for repayment; an authorized user has no liability and limited credit-building impact. For most ITIN holders early in their credit-building journey, authorized user status (covered in our [authorized user guide](/articles/authorized-user-credit-building-itin)) carries far less financial exposure. Cosigning makes more sense once your own credit file is established, you trust the primary borrower completely, and you can genuinely afford to cover the payments if they default.
 
 ## What does a lender require from an ITIN holder who wants to cosign?
 
@@ -98,7 +98,7 @@ In documents, expect to provide:
 - Recent pay stubs or two years of tax returns if self-employed
 - Bank statements for 2-3 months
 
-You will only be able to help if you have good credit, which corresponds to a FICO Score of at least 670. Some credit unions work with cosigners slightly below that threshold using their own internal scoring models, but 670 is a reasonable benchmark before agreeing to cosign anything. If you are not sure where your score stands, checking your credit report with an ITIN-compatible service is the right first step. See our guide on [how to check your credit score with an ITIN](/how-to-check-credit-score-with-itin-number) if you have not done that yet.
+You will only be able to help if you have good credit, which corresponds to a FICO Score of at least 670. Some credit unions work with cosigners slightly below that threshold using their own internal scoring models, but 670 is a reasonable benchmark before agreeing to cosign anything. If you are not sure where your score stands, checking your credit report with an ITIN-compatible service is the right first step. See our guide on [how to check your credit score with an ITIN](/articles/how-to-check-credit-score-with-itin-number) if you have not done that yet.
 
 ## What if I need someone to cosign FOR me? How does that build my credit?
 
@@ -108,7 +108,7 @@ If you have a family member with established good credit, you may ask them to be
 
 From a credit-building standpoint, every on-time payment you make is reported to the bureaus under your ITIN. The account becomes part of your payment history, your credit mix, and your account age. It usually takes about six months for enough information to be reported to the credit bureaus for a score to be generated. A cosigned installment loan, managed responsibly for six months, can help an ITIN holder generate a first scoreable file faster than some standalone strategies.
 
-The obligation you take on toward your cosigner is real. They are extending their credit reputation to you. Set up automatic payments, keep them informed of the account status, and consider giving them read-only access so they are never surprised by a late notice. If you know your [payment history](/payment-history-itin-credit-score) and [credit utilization](/credit-utilization-itin-holders) are already strong, bring documentation of those habits when asking someone to cosign. It lowers their perceived risk in a concrete way.
+The obligation you take on toward your cosigner is real. They are extending their credit reputation to you. Set up automatic payments, keep them informed of the account status, and consider giving them read-only access so they are never surprised by a late notice. If you know your [payment history](/articles/payment-history-itin-credit-score) and [credit utilization](/articles/credit-utilization-itin-holders) are already strong, bring documentation of those habits when asking someone to cosign. It lowers their perceived risk in a concrete way.
 
 ## What are the biggest risks an ITIN holder should know before cosigning?
 
@@ -122,7 +122,7 @@ Three risks deserve close attention.
 
 **3. Removal is not guaranteed.** The Federal Trade Commission explains that some states offer specific protections for cosigners. Outside of those protections, the only reliable exits are a cosigner-release clause written into the original loan agreement, refinancing by the primary borrower in their name alone, or full payoff of the loan. Getting off a cosigned account takes planning, not just a phone call.
 
-For most ITIN holders focused on building their own credit history, solo strategies such as a [credit-builder loan](/credit-builder-loan-with-itin) or a secured card (covered in our [secured card guide](/secured-credit-card-credit-score-itin)) carry none of these risks while still generating strong payment history.
+For most ITIN holders focused on building their own credit history, solo strategies such as a [credit-builder loan](/articles/credit-builder-loan-with-itin) or a secured card (covered in our [secured card guide](/articles/secured-credit-card-credit-score-itin)) carry none of these risks while still generating strong payment history.
 
 ---
 

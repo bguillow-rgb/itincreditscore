@@ -105,7 +105,7 @@ Not automatically, but you can make it count.
 
 Rent and utility payments are your largest recurring monthly obligations, yet they do not appear on standard credit reports unless you enroll in a third-party reporting service. Even if you do not have credit accounts, you probably have monthly bills like rent, cell phone service, and utilities. If you pay your bills on time, you could put that positive payment history to work by using a paid reporting service.
 
-Before signing up for any rent-reporting service, confirm it accepts ITIN holders as the primary identifier. Some services are SSN-only. Our guide on [does paying rent build credit with an ITIN](/does-paying-rent-build-credit-with-itin) walks through the specific services that work for ITIN holders and how to enroll.
+Before signing up for any rent-reporting service, confirm it accepts ITIN holders as the primary identifier. Some services are SSN-only. Our guide on [does paying rent build credit with an ITIN](/articles/does-paying-rent-build-credit-with-itin) walks through the specific services that work for ITIN holders and how to enroll.
 
 ## What is the fastest way to repair payment history damage on an ITIN credit report?
 
@@ -113,7 +113,7 @@ Once a late payment is on your ITIN report, is there anything you can do?
 
 A legitimate late payment cannot be deleted, but there are two valid strategies.
 
-**1. Dispute any errors.** If a payment is showing as late but you paid on time, you have the right to dispute it in writing under the FCRA. Inaccuracies can be disputed in writing under the Fair Credit Reporting Act. Our article on [how to dispute credit report errors with an ITIN](/how-to-dispute-credit-report-errors-with-itin) covers the exact process for ITIN holders.
+**1. Dispute any errors.** If a payment is showing as late but you paid on time, you have the right to dispute it in writing under the FCRA. Inaccuracies can be disputed in writing under the Fair Credit Reporting Act. Our article on [how to dispute credit report errors with an ITIN](/articles/how-to-dispute-credit-report-errors-with-itin) covers the exact process for ITIN holders.
 
 **2. Build positive history on top of the negative.** Scoring models weigh recent behavior more heavily than older events. Twelve to twenty-four months of spotless payment history after a delinquency significantly reduces its impact on your score. Adding a second reporting account (such as a credit-builder loan alongside an existing secured card) accelerates this by creating more positive data points each month.
 
@@ -121,7 +121,7 @@ What does not work: so-called "credit repair" companies that promise to remove a
 
 ## Practical habits that protect your payment history as an ITIN holder
 
-Because monitoring your ITIN credit report requires a few extra steps compared to SSN holders, staying proactive matters even more. Set up at least one of the free monitoring tools compatible with ITINs (covered in our [credit monitoring with an ITIN](/credit-monitoring-with-itin) guide) so you catch reporting errors before they compound.
+Because monitoring your ITIN credit report requires a few extra steps compared to SSN holders, staying proactive matters even more. Set up at least one of the free monitoring tools compatible with ITINs (covered in our [credit monitoring with an ITIN](/articles/credit-monitoring-with-itin) guide) so you catch reporting errors before they compound.
 
 A few concrete habits that pay off over time:
 

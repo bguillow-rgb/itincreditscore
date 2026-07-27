@@ -48,7 +48,7 @@ No. Cuando solicitas un producto de crédito con tu ITIN, el prestamista realiza
 
 Los burós de crédito mantienen bases de datos separadas y de operación comercial. No son ramas del gobierno federal y no tienen un canal de reporte hacia las autoridades de control migratorio. Según el informe de Experian de 2026, el IRS ha emitido más de 27 millones de números de identificación de contribuyentes individuales desde 1996, y el sistema de crédito sirve a toda esa población sin generar consecuencias migratorias para ninguno de ellos.
 
-Si quieres entender exactamente cómo está estructurado tu expediente de ITIN en cada buró, nuestra guía sobre [cómo funciona el puntaje de crédito con un ITIN](/how-credit-scoring-works-with-itin) lo explica con todo detalle.
+Si quieres entender exactamente cómo está estructurado tu expediente de ITIN en cada buró, nuestra guía sobre [cómo funciona el puntaje de crédito con un ITIN](/es/articles/how-credit-scoring-works-with-itin) lo explica con todo detalle.
 
 ## ¿Qué cambió realmente la orden ejecutiva de 2026 para los expedientes de crédito con ITIN?
 
@@ -70,7 +70,7 @@ El único contexto en el que el crédito puede aparecer es en la **evaluación d
 
 Hay algo que vale la pena saber: un expediente de crédito puede trabajar a tu favor. Un historial crediticio positivo demuestra que has estado cumpliendo con tus obligaciones financieras en los Estados Unidos. Los reportes y puntajes de crédito no toman en cuenta ciertas transacciones financieras informales. Solo los solicitantes que han tenido una tarjeta de crédito, un préstamo, facturas sin pagar en cobranza o quiebras en los Estados Unidos son propensos a tener un reporte de crédito en alguno de los tres principales burós. Los oficiales de USCIS no deben sacar ninguna conclusión negativa si el solicitante no tiene historial crediticio.
 
-Ese último punto es importante: un expediente de crédito escaso o inexistente no perjudica tu caso migratorio. Construir uno de manera responsable solo puede ayudarte a demostrar estabilidad financiera. Consulta nuestro artículo sobre [cómo es un buen puntaje de crédito para titulares de ITIN](/what-is-a-good-credit-score-for-itin-holders) para conocer los rangos a los que debes apuntar.
+Ese último punto es importante: un expediente de crédito escaso o inexistente no perjudica tu caso migratorio. Construir uno de manera responsable solo puede ayudarte a demostrar estabilidad financiera. Consulta nuestro artículo sobre [cómo es un buen puntaje de crédito para titulares de ITIN](/es/articles/what-is-a-good-credit-score-for-itin-holders) para conocer los rangos a los que debes apuntar.
 
 ## ¿Cómo funciona realmente la privacidad de los datos de los burós de crédito para los titulares de ITIN?
 
@@ -87,7 +87,7 @@ Aquí tienes un resumen claro de lo que se comparte y lo que no:
 | Registro de consulta dura | Otros prestamistas que revisan tu expediente | No |
 | Morosidad en cuentas | Burós, agencias de cobranza | No |
 
-Los consumidores sin SSN, como los titulares de ITIN o los extranjeros, tienen los mismos derechos de disputa y protección que los ciudadanos estadounidenses. Eso significa que las mismas protecciones de la Ley de Informes de Crédito Justos (Fair Credit Reporting Act) aplican para ti: el mismo derecho a congelar tu crédito (consulta nuestra guía sobre [cómo congelar tu crédito con un ITIN](/how-to-freeze-credit-with-itin)) y el mismo derecho a disputar errores.
+Los consumidores sin SSN, como los titulares de ITIN o los extranjeros, tienen los mismos derechos de disputa y protección que los ciudadanos estadounidenses. Eso significa que las mismas protecciones de la Ley de Informes de Crédito Justos (Fair Credit Reporting Act) aplican para ti: el mismo derecho a congelar tu crédito (consulta nuestra guía sobre [cómo congelar tu crédito con un ITIN](/es/articles/how-to-freeze-credit-with-itin)) y el mismo derecho a disputar errores.
 
 ## ¿Qué hay del IRS compartiendo datos de ITIN con inmigración? ¿Eso afecta mi expediente de crédito?
 
@@ -103,8 +103,8 @@ Esta preocupación es comprensible, pero evitar el crédito te pone en desventaj
 
 Los titulares de ITIN incluyen personas que buscan participar en los sistemas formales de impuestos y banca, y muchos son exactamente los hogares inmigrantes de bajos ingresos que los esfuerzos de inclusión financiera han intentado incorporar a la banca convencional. Si los bancos responden con procesos de incorporación más estrictos, más salidas o menos aprobaciones, la política empuja a las personas hacia el efectivo, los cambistas de cheques y las finanzas informales. Eso es peor para los hogares y, paradójicamente, menos transparente para las autoridades.
 
-Mantenerse invisible evitando el crédito por completo significa que no puedes acceder a tasas de préstamo competitivas, que tendrás más dificultades para rentar un apartamento y que no tendrás documentación financiera positiva que mostrar en cualquier proceso migratorio futuro. Un expediente de crédito sólido, construido a lo largo de 12-24 meses mediante herramientas como [préstamos para construir crédito](/credit-builder-loan-with-itin) y [la condición de usuario autorizado](/authorized-user-credit-building-itin), es un registro concreto de responsabilidad financiera que trabaja a tu favor.
+Mantenerse invisible evitando el crédito por completo significa que no puedes acceder a tasas de préstamo competitivas, que tendrás más dificultades para rentar un apartamento y que no tendrás documentación financiera positiva que mostrar en cualquier proceso migratorio futuro. Un expediente de crédito sólido, construido a lo largo de 12-24 meses mediante herramientas como [préstamos para construir crédito](/es/articles/credit-builder-loan-with-itin) y [la condición de usuario autorizado](/es/articles/authorized-user-credit-building-itin), es un registro concreto de responsabilidad financiera que trabaja a tu favor.
 
 Según el informe de Experian de febrero de 2026, el 76.9% de los titulares de ITIN se mantuvieron al corriente en sus cuentas después de 12 meses, una tasa 15% más alta que la de los consumidores con SSN. Como grupo, los titulares de ITIN son prestatarios responsables. Construir crédito es seguro y estratégicamente inteligente.
 
-Si aún no has verificado si ya tienes un expediente de crédito, comienza con nuestra guía sobre [cómo obtener tu reporte de crédito gratuito con un ITIN](/how-to-check-credit-score-with-itin-number) para saber en qué punto estás hoy.
+Si aún no has verificado si ya tienes un expediente de crédito, comienza con nuestra guía sobre [cómo obtener tu reporte de crédito gratuito con un ITIN](/es/articles/how-to-check-credit-score-with-itin-number) para saber en qué punto estás hoy.

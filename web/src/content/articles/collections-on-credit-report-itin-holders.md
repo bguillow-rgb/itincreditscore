@@ -42,7 +42,7 @@ A single collection account can drag your score down 50-100 points. That range i
 
 This is where ITIN holders face a specific disadvantage. If you are still in the early stages of building credit, your file likely has fewer open accounts and a shorter history than someone with 10 years of U.S. credit. When you apply for credit, lenders check your report for negative marks. The more derogatory marks you have, the higher the risk you appear, making it harder to get approved or secure a low interest rate. A thin file amplifies the damage because there are simply fewer positive data points to offset the negative one.
 
-Derogatory marks like collections signal to lenders that you have had trouble managing debt. They are reported by creditors and debt collectors to the three major credit bureaus: Experian, Equifax, and TransUnion. Because all three bureaus receive the same report, the collection typically appears on every bureau at once, meaning all three of your credit scores take the hit simultaneously. If you need a refresher on why scores differ by bureau, our guide on [why your credit score differs by bureau with an ITIN](/why-credit-score-different-each-bureau-itin) explains that in detail.
+Derogatory marks like collections signal to lenders that you have had trouble managing debt. They are reported by creditors and debt collectors to the three major credit bureaus: Experian, Equifax, and TransUnion. Because all three bureaus receive the same report, the collection typically appears on every bureau at once, meaning all three of your credit scores take the hit simultaneously. If you need a refresher on why scores differ by bureau, our guide on [why your credit score differs by bureau with an ITIN](/articles/why-credit-score-different-each-bureau-itin) explains that in detail.
 
 ## Do I have the same rights as an SSN holder when dealing with collectors?
 
@@ -50,7 +50,7 @@ Yes, fully. Your ITIN is a tax identification number, not a second-class status.
 
 The Fair Credit Reporting Act (FCRA) governs how credit reporting agencies collect, verify, and use information about your credit history. It is designed to protect consumers from bad information being used against them, and it sets specific rules for what bureaus can and cannot do.
 
-Under the FCRA, only authorized parties, such as your original creditor, a legitimate collection agency they hired, or a debt buyer who purchased the account, can legally report your debt to credit bureaus. If anyone else is reporting, or if the reported information is inaccurate, you have the right to dispute it. That dispute process is exactly what our article on [how to dispute credit report errors with an ITIN](/how-to-dispute-credit-report-errors-with-itin) walks through step by step.
+Under the FCRA, only authorized parties, such as your original creditor, a legitimate collection agency they hired, or a debt buyer who purchased the account, can legally report your debt to credit bureaus. If anyone else is reporting, or if the reported information is inaccurate, you have the right to dispute it. That dispute process is exactly what our article on [how to dispute credit report errors with an ITIN](/articles/how-to-dispute-credit-report-errors-with-itin) walks through step by step.
 
 Alongside the FCRA, the Fair Debt Collection Practices Act (FDCPA) governs collector behavior directly. Debt validation requires a collection agency to provide evidence that the debt exists, that the amount is accurate, and that they have the authority to collect it. ITIN holders can and should use this right.
 
@@ -98,7 +98,7 @@ Big national debt buyers like Portfolio Recovery, Midland Credit, and LVNV usual
 
 Newer models like FICO 9 and VantageScore 3.0 already ignore paid collections, which means paying the debt may improve your score even if the entry is not deleted. But many lenders still use older models that do factor in collections, and a pay-for-delete agreement is the only way to get the account fully off your report if the collector is willing.
 
-The practical reality is that most mortgage lenders still use FICO 8 or older models for underwriting. Under FICO 8, even a paid collection damages your score. So if your goal is a future mortgage or a large loan, simply paying without securing deletion may not help as much as you hope. Ask the lender upfront which model they pull before deciding how to handle the collection. You can learn more about which models each bureau uses in our [FICO vs. VantageScore guide for ITIN holders](/fico-vs-vantagescore-itin-holders).
+The practical reality is that most mortgage lenders still use FICO 8 or older models for underwriting. Under FICO 8, even a paid collection damages your score. So if your goal is a future mortgage or a large loan, simply paying without securing deletion may not help as much as you hope. Ask the lender upfront which model they pull before deciding how to handle the collection. You can learn more about which models each bureau uses in our [FICO vs. VantageScore guide for ITIN holders](/articles/fico-vs-vantagescore-itin-holders).
 
 ## How do I rebuild my ITIN credit score after a collection?
 
@@ -109,8 +109,8 @@ According to the CFPB, payment history is the single largest factor in most cred
 Practical steps that move the needle while a collection is aging:
 
 1. Keep every other account current. One more late payment on top of a collection compounds the damage significantly.
-2. Keep credit utilization below 30% on any revolving accounts. Our guide on [credit utilization for ITIN holders](/credit-utilization-itin-holders) covers the mechanics in full.
-3. Consider adding a [credit builder loan with your ITIN](/credit-builder-loan-with-itin) to introduce a new positive installment tradeline.
+2. Keep credit utilization below 30% on any revolving accounts. Our guide on [credit utilization for ITIN holders](/articles/credit-utilization-itin-holders) covers the mechanics in full.
+3. Consider adding a [credit builder loan with your ITIN](/articles/credit-builder-loan-with-itin) to introduce a new positive installment tradeline.
 4. Pull all three bureau reports and verify every field on the collection entry, including the original creditor name, balance, and delinquency date. Collection accounts are common and frequently contain errors. Errors, outdated information, and unlawful collection practices happen more often than most people realize. Anything inaccurate is disputable.
 
 You can dispute errors and remove inaccurate or unverifiable items. You cannot legally erase accurate negative information. That distinction matters: no legitimate service can guarantee removal of an accurate, verified collection. Anyone who promises otherwise is running a scam.

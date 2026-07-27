@@ -89,7 +89,7 @@ Las cuentas negativas (con pagos atrasados o cobros) generalmente desaparecen de
 No existe un atajo para envejecer. El tiempo es el insumo y un puntaje más alto es el resultado. Sin embargo, puedes acelerar la *calidad* de tu antigüedad crediticia haciendo lo siguiente:
 
 1. **Abre tu primera cuenta lo antes posible.** El reloj solo empieza a correr cuando existe una cuenta. Cada mes que esperas es un mes de antigüedad que no puedes recuperar.
-2. **Conviértete en usuario autorizado.** Si un familiar o amigo de confianza con una cuenta de larga data te agrega como usuario autorizado, todo el historial de esa cuenta puede aparecer en tu reporte y sumar años a tu edad promedio de inmediato. Consulta nuestra guía sobre [ser usuario autorizado con un ITIN](/authorized-user-with-itin-credit-building) para conocer el proceso completo.
+2. **Conviértete en usuario autorizado.** Si un familiar o amigo de confianza con una cuenta de larga data te agrega como usuario autorizado, todo el historial de esa cuenta puede aparecer en tu reporte y sumar años a tu edad promedio de inmediato. Consulta nuestra guía sobre [ser usuario autorizado con un ITIN](/es/articles/authorized-user-credit-building-itin) para conocer el proceso completo.
 3. **Mantén todas tus cuentas abiertas y activas.** Incluso compras pequeñas y ocasionales evitan que una cuenta sea clasificada como inactiva, algo que algunos modelos de calificación tratan de manera diferente. Una pequeña compra cada algunos meses es suficiente.
 4. **Evita abrir cuentas nuevas sin necesidad.** Cada cuenta nueva reduce temporalmente tu edad promedio. Abre nuevas cuentas solo cuando una necesidad crediticia específica lo justifique.
 
@@ -101,7 +101,7 @@ Un ITIN que no se usa en una declaración de impuestos federal durante tres año
 
 Sin embargo, un ITIN vencido puede generar problemas cuando intentas acceder a tu reporte de crédito o solicitar un nuevo crédito, porque la verificación de identidad puede fallar si tu ITIN ya no coincide con los registros del IRS. Renovarlo antes de que venza evita esas complicaciones y garantiza que las nuevas cuentas se agreguen a tu expediente existente en lugar de crear un segundo expediente fragmentado.
 
-Para saber más sobre lo que ocurre cuando eventualmente recibes un SSN y quieres transferir tu historial crediticio del ITIN, consulta nuestra guía sobre [cómo transferir el historial de crédito del ITIN a un SSN](/transfer-itin-credit-history-to-ssn).
+Para saber más sobre lo que ocurre cuando eventualmente recibes un SSN y quieres transferir tu historial crediticio del ITIN, consulta nuestra guía sobre [cómo transferir el historial de crédito del ITIN a un SSN](/es/articles/transfer-itin-credit-history-to-ssn).
 
 ## Referencia rápida: decisiones sobre antigüedad de cuentas de un vistazo
 

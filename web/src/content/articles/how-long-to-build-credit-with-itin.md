@@ -67,7 +67,7 @@ The reason is how credit scoring models weight the factors over time. In the fir
 
 Building a fair credit score (580-669) typically takes 4-6 months of on-time payments. A good score (670-739) usually takes 12-18 months of consistent behavior. Your results will also depend on whether you start from zero or have some existing credit history, for example, through an authorized user arrangement.
 
-A practical way to accelerate the jump from fair to good: after 6-12 months with your first secured card, add a credit-builder loan from an ITIN-friendly lender like Self or a local credit union. This adds an installment account to your file, improving your credit mix and demonstrating you can handle multiple types of credit responsibly. You can read more about how these products work in our guide to [credit builder loans with an ITIN](/credit-builder-loan-with-itin).
+A practical way to accelerate the jump from fair to good: after 6-12 months with your first secured card, add a credit-builder loan from an ITIN-friendly lender like Self or a local credit union. This adds an installment account to your file, improving your credit mix and demonstrating you can handle multiple types of credit responsibly. You can read more about how these products work in our guide to [credit builder loans with an ITIN](/articles/credit-builder-loan-with-itin).
 
 ## "Can I speed up the timeline by becoming an authorized user?"
 
@@ -111,7 +111,7 @@ Here is a concrete action sequence that reflects what consistently works:
 
 **Months 1-6:** Open one ITIN-friendly secured card that reports to all three bureaus, options like the OpenSky Secured Card (no credit check required) or the Capital One Platinum Secured (accepts ITIN) are solid starting points. Use the card for one or two small recurring purchases each month and pay the balance in full. If a trusted family member is willing, ask to be added as an authorized user on their oldest, lowest-utilization account simultaneously to accelerate your first score appearance.
 
-**Months 6-12:** Your first FICO score should now exist. Keep utilization below 30% and avoid new applications. Consider adding a credit-builder loan, these structured installment accounts diversify your credit mix and are specifically designed for people building from scratch. Our [credit builder loan with ITIN guide](/credit-builder-loan-with-itin) covers which lenders accept ITIN applications.
+**Months 6-12:** Your first FICO score should now exist. Keep utilization below 30% and avoid new applications. Consider adding a credit-builder loan, these structured installment accounts diversify your credit mix and are specifically designed for people building from scratch. Our [credit builder loan with ITIN guide](/articles/credit-builder-loan-with-itin) covers which lenders accept ITIN applications.
 
 **Months 12-18:** With a fair-to-good score established, apply for a second card, ideally an unsecured one with no annual fee. Keep your original secured card open even after upgrading; closing your oldest account shortens your credit history and can lower your score.
 

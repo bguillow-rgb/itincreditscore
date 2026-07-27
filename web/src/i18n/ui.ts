@@ -168,12 +168,23 @@ export function localizedHref(href: string, lang: Lang): string {
 // Given the CURRENT pathname and a target language, return the counterpart
 // path. English '/foo' ↔ Spanish '/es/foo'; home is '/' ↔ '/es'.
 export function altPath(pathname: string, to: Lang): string {
+  // The site builds with `build: { format: 'file' }`, so at build time
+  // Astro.url.pathname still carries the '.html' extension (/es/about.html).
+  // Strip it — and any index.html / trailing slash — before deriving the
+  // counterpart, or the language toggle links to a '.html' duplicate of every
+  // page. Idempotent, so callers that already normalized are unaffected.
+  const clean =
+    pathname
+      .replace(/index\.html$/, '')
+      .replace(/\.html$/, '')
+      .replace(/\/$/, '') || '/';
+
   // Normalize: strip a leading '/es' if present to get the English path.
-  let enPath = pathname;
-  if (pathname === '/es' || pathname === '/es/') {
+  let enPath = clean;
+  if (clean === '/es') {
     enPath = '/';
-  } else if (pathname.startsWith('/es/')) {
-    enPath = pathname.slice(3); // remove '/es'
+  } else if (clean.startsWith('/es/')) {
+    enPath = clean.slice(3); // remove '/es'
   }
   if (to === 'en') return enPath;
   return enPath === '/' ? '/es' : `/es${enPath}`;

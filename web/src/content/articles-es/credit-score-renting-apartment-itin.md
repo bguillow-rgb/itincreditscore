@@ -97,13 +97,13 @@ El camino más directo para las personas con ITIN:
 
 **Paso 1: Abre una cuenta de crédito que acepte ITIN.** Una tarjeta asegurada es el punto de partida más accesible. Depositas un monto reembolsable (generalmente $200-$500) que se convierte en tu límite de crédito. Úsala para compras pequeñas y regulares y paga el saldo completo cada mes. Una vez que abres una cuenta basada en ITIN y realizas pagos a tiempo, tu historial de pagos queda registrado y tu puntaje de crédito se calcula exactamente igual que cualquier cuenta basada en SSN.
 
-**Paso 2: Agrega un servicio de reporte de alquiler.** Tus pagos de alquiler probablemente son tu compromiso financiero mensual más grande, pero no construyen crédito automáticamente. Los servicios que reportan el alquiler a las agencias convierten esos pagos en entradas de crédito positivas, ayudando a tu puntaje y haciendo tu historial de alquiler visible para futuros arrendadores. Consulta nuestra guía sobre [si pagar el alquiler construye crédito con ITIN](/does-paying-rent-build-credit-with-itin) para ver el desglose completo.
+**Paso 2: Agrega un servicio de reporte de alquiler.** Tus pagos de alquiler probablemente son tu compromiso financiero mensual más grande, pero no construyen crédito automáticamente. Los servicios que reportan el alquiler a las agencias convierten esos pagos en entradas de crédito positivas, ayudando a tu puntaje y haciendo tu historial de alquiler visible para futuros arrendadores. Consulta nuestra guía sobre [si pagar el alquiler construye crédito con ITIN](/es/articles/does-paying-rent-build-credit-with-itin) para ver el desglose completo.
 
-**Paso 3: Considera un préstamo para construir crédito.** Los puntajes de crédito se calculan usando múltiples tipos de cuentas. Una tarjeta asegurada es una cuenta revolvente. Un préstamo para construir crédito es una cuenta de cuotas. Tener ambas crea un perfil crediticio más sólido que cualquiera de las dos por separado. Nuestra [guía de préstamos para construir crédito con ITIN](/credit-builder-loan-with-itin) detalla qué prestamistas aceptan ITINs.
+**Paso 3: Considera un préstamo para construir crédito.** Los puntajes de crédito se calculan usando múltiples tipos de cuentas. Una tarjeta asegurada es una cuenta revolvente. Un préstamo para construir crédito es una cuenta de cuotas. Tener ambas crea un perfil crediticio más sólido que cualquiera de las dos por separado. Nuestra [guía de préstamos para construir crédito con ITIN](/es/articles/credit-builder-loan-with-itin) detalla qué prestamistas aceptan ITINs.
 
-**Paso 4: Mantén la utilización baja.** Incluso con una tarjeta asegurada de monto pequeño, mantener el saldo por debajo del 30% de tu límite de crédito (idealmente por debajo del 10%) tiene un efecto positivo significativo en tu puntaje. Consulta nuestra guía sobre [utilización de crédito para titulares de ITIN](/credit-utilization-itin-holders) para más detalles.
+**Paso 4: Mantén la utilización baja.** Incluso con una tarjeta asegurada de monto pequeño, mantener el saldo por debajo del 30% de tu límite de crédito (idealmente por debajo del 10%) tiene un efecto positivo significativo en tu puntaje. Consulta nuestra guía sobre [utilización de crédito para titulares de ITIN](/es/articles/credit-utilization-itin-holders) para más detalles.
 
-Para un plan más completo, nuestro artículo sobre [cómo subir tu puntaje de crédito con ITIN](/how-to-raise-credit-score-with-itin) explica el orden de prioridades completo.
+Para un plan más completo, nuestro artículo sobre [cómo subir tu puntaje de crédito con ITIN](/es/articles/how-to-raise-credit-score-with-itin) explica el orden de prioridades completo.
 
 ## ¿Aplicar a varios apartamentos afecta mi puntaje de crédito con ITIN?
 
@@ -117,8 +117,8 @@ Aplicar a varios alquileres en un período corto puede minimizar el impacto en t
 
 Aquí tienes una lista de acciones consolidadas, ordenadas por impacto en tu solicitud de alquiler:
 
-1. **Revisa primero tu reporte de crédito.** Solicita reportes de las tres agencias para confirmar qué verá un arrendador. Nuestra [guía para obtener tu reporte de crédito gratuito con ITIN](/how-to-check-credit-score-with-itin-number) muestra el proceso por correo para cada agencia.
-2. **Disputa cualquier error.** Incluso un pago atrasado incorrecto puede bajarte por debajo del límite de un arrendador. La [guía de disputas para titulares de ITIN](/how-to-dispute-credit-report-errors-with-itin) explica el proceso.
+1. **Revisa primero tu reporte de crédito.** Solicita reportes de las tres agencias para confirmar qué verá un arrendador. Nuestra [guía para obtener tu reporte de crédito gratuito con ITIN](/es/articles/how-to-check-credit-score-with-itin-number) muestra el proceso por correo para cada agencia.
+2. **Disputa cualquier error.** Incluso un pago atrasado incorrecto puede bajarte por debajo del límite de un arrendador. La [guía de disputas para titulares de ITIN](/es/articles/how-to-dispute-credit-report-errors-with-itin) explica el proceso.
 3. **Inscríbete en el reporte de alquiler.** Si ya estás pagando el alquiler a tiempo, incorpora ese historial a tu archivo de crédito antes de tu próxima solicitud.
 4. **Reduce los saldos de tarjetas de crédito.** Pagar los saldos revolventes existentes antes de buscar apartamento puede producir un aumento medible en el puntaje dentro del mismo ciclo de facturación.
 5. **Evita abrir crédito nuevo en los 60-90 días antes de aplicar.** Las cuentas nuevas reducen la edad promedio de tus cuentas y generan consultas, ambas pueden bajar tu puntaje temporalmente.

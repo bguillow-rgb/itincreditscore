@@ -69,7 +69,7 @@ Everywhere else, credit is fair game. Each state has its own insurance rules in 
 
 No. This is one of the most common fears among ITIN holders who are still actively building their credit history, and the answer is good news: car insurance companies do what's called a "soft pull" when you get a quote, which doesn't influence your credit score. In contrast, a "hard pull" credit check impacts your credit score. Soft pulls only check some basic info and have no impact on your credit score.
 
-Feel free to compare quotes across multiple insurers without worrying about your Experian, Equifax, or TransUnion files. The soft inquiry won't appear as a hard pull and won't lower your score by a single point. That's meaningfully different from applying for a credit card or a credit-builder loan, both of which typically trigger a hard inquiry. Our guide on [how hard inquiries affect your credit score with an ITIN](/hard-inquiries-itin-credit-score) covers that distinction in full detail.
+Feel free to compare quotes across multiple insurers without worrying about your Experian, Equifax, or TransUnion files. The soft inquiry won't appear as a hard pull and won't lower your score by a single point. That's meaningfully different from applying for a credit card or a credit-builder loan, both of which typically trigger a hard inquiry. Our guide on [how hard inquiries affect your credit score with an ITIN](/articles/hard-inquiries-itin-credit-score) covers that distinction in full detail.
 
 ## What if I have no U.S. credit history yet? How does that affect my insurance rate?
 
@@ -77,7 +77,7 @@ This is the toughest spot for newly arrived ITIN holders. Some companies may not
 
 The path forward is straightforward even if it takes time. You don't necessarily need an SSN to apply for a credit card or a loan. Many credit card companies accept an ITIN. Building a strong credit history could help you lower your rates over time. Once your ITIN credit file shows six to twelve months of consistent, on-time payments, many insurers will start placing you in a better rate tier at renewal.
 
-According to Experian's 2026 white paper, 76.9% of ITIN holders remained current on trades after 12 months, a rate 15% higher than SSN consumers. That's the behavior credit-based insurance scores ultimately reward. The fastest tools for building that file are a [credit-builder loan with an ITIN](/credit-builder-loan-with-itin) or a [secured card that reports to all three bureaus](/secured-credit-card-credit-score-itin). Both generate the payment history that lifts your credit score and, by extension, your insurance score.
+According to Experian's 2026 white paper, 76.9% of ITIN holders remained current on trades after 12 months, a rate 15% higher than SSN consumers. That's the behavior credit-based insurance scores ultimately reward. The fastest tools for building that file are a [credit-builder loan with an ITIN](/articles/credit-builder-loan-with-itin) or a [secured card that reports to all three bureaus](/articles/secured-credit-card-credit-score-itin). Both generate the payment history that lifts your credit score and, by extension, your insurance score.
 
 ## How much can improving my credit score actually lower my insurance premium?
 
@@ -91,10 +91,10 @@ A stronger ITIN credit score also opens benefits well beyond insurance. Good cre
 
 Think of your credit file as a long-running project with near-term payoffs. Here is a priority order:
 
-1. **Open a reporting account immediately.** A [credit-builder loan](/credit-builder-loan-with-itin) or secured card tied to your ITIN starts generating the payment history insurers look for. Most lenders begin reporting to the bureaus within 30-60 days of opening.
+1. **Open a reporting account immediately.** A [credit-builder loan](/articles/credit-builder-loan-with-itin) or secured card tied to your ITIN starts generating the payment history insurers look for. Most lenders begin reporting to the bureaus within 30-60 days of opening.
 2. **Keep utilization low.** Insurers look at the same underlying data as lenders. If you carry a secured card, keeping the balance below 10% of your limit signals low financial stress.
-3. **Request your ITIN credit reports annually.** Under the Fair Credit Reporting Act (FCRA), you're entitled to one free credit report per year from each bureau. Errors on your file can distort both your credit score and your insurance score at the same time. See our complete guide on [how to dispute credit report errors with an ITIN](/how-to-dispute-credit-report-errors-with-itin).
+3. **Request your ITIN credit reports annually.** Under the Fair Credit Reporting Act (FCRA), you're entitled to one free credit report per year from each bureau. Errors on your file can distort both your credit score and your insurance score at the same time. See our complete guide on [how to dispute credit report errors with an ITIN](/articles/how-to-dispute-credit-report-errors-with-itin).
 4. **Shop insurers every 12-18 months.** Each insurer looks at your credit-based insurance score differently, so rates may vary significantly by insurer. As your ITIN credit file strengthens, re-quoting puts that improvement to work.
-5. **Know your state rules.** If you live in California, Hawaii, Massachusetts, or Michigan, skip the insurance angle entirely and focus on [raising your credit score with your ITIN](/how-to-raise-credit-score-with-itin) for other financial goals.
+5. **Know your state rules.** If you live in California, Hawaii, Massachusetts, or Michigan, skip the insurance angle entirely and focus on [raising your credit score with your ITIN](/articles/how-to-raise-credit-score-with-itin) for other financial goals.
 
 Building credit without an SSN requires patience, but it opens opportunities for future financial independence, such as qualifying for housing, business loans, or lower insurance rates. The credit-building actions you take today send a positive signal to lenders, landlords, and insurers at the same time, making each dollar of effort go further.

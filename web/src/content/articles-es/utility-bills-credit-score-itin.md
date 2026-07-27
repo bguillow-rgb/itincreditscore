@@ -51,7 +51,7 @@ Los servicios de reporte de renta pueden agregar tus pagos de alquiler puntuales
 Los dos servicios más relevantes para los titulares de ITIN en 2026 son:
 
 - eCredable Lift: Reporta pagos verificados de servicios públicos, teléfono y otras facturas recurrentes a TransUnion y Equifax. No requiere un SSN para inscribirse, lo que lo convierte en una de las opciones más accesibles para los titulares de ITIN.
-- Experian Boost: Gratuito y muy conocido, pero el registro en línea requiere un SSN. La mayoría de los titulares de ITIN no pueden completar el proceso de inscripción estándar por internet. (Consulta nuestra [guía de Experian Boost con ITIN](/experian-boost-alternative-data-itin) para ver el panorama completo de esta herramienta.)
+- Experian Boost: Gratuito y muy conocido, pero el registro en línea requiere un SSN. La mayoría de los titulares de ITIN no pueden completar el proceso de inscripción estándar por internet. (Consulta nuestra [guía de Experian Boost con ITIN](/es/articles/experian-boost-alternative-data-itin) para ver el panorama completo de esta herramienta.)
 
 La mayoría de las empresas de servicios públicos aún no reportan los pagos positivos automáticamente. Solo te penalizan a través de cobros por pagos perdidos. Pero las herramientas de terceros escanean tu historial bancario o de tarjeta, verifican los pagos y los agregan a Equifax, Experian o TransUnion.
 
@@ -94,12 +94,12 @@ Esto significa que todo titular de ITIN tiene una razón fundamental para manten
 
 ¿debería priorizar el reporte de servicios sobre otras estrategias?
 
-El reporte de facturas de servicios públicos funciona mejor como complemento de las herramientas principales para construir crédito, no como un reemplazo. Una tarjeta de crédito asegurada o un [préstamo para construir crédito con ITIN](/credit-builder-loan-with-itin) crea una cuenta revolvente o a plazos real en tu archivo de crédito, lo que tiene más peso estructural en los modelos de puntuación que los datos alternativos reportados a través de servicios de terceros. El reporte de renta a través de un servicio como Boom o Rental Kharma también agrega a tu historial de pagos, pero opera bajo diferentes reglas de aceptación por parte de las agencias y los modelos de puntuación. (Consulta nuestra guía completa sobre [si pagar renta construye crédito con ITIN](/does-paying-rent-build-credit-with-itin) para un desglose por agencia.)
+El reporte de facturas de servicios públicos funciona mejor como complemento de las herramientas principales para construir crédito, no como un reemplazo. Una tarjeta de crédito asegurada o un [préstamo para construir crédito con ITIN](/es/articles/credit-builder-loan-with-itin) crea una cuenta revolvente o a plazos real en tu archivo de crédito, lo que tiene más peso estructural en los modelos de puntuación que los datos alternativos reportados a través de servicios de terceros. El reporte de renta a través de un servicio como Boom o Rental Kharma también agrega a tu historial de pagos, pero opera bajo diferentes reglas de aceptación por parte de las agencias y los modelos de puntuación. (Consulta nuestra guía completa sobre [si pagar renta construye crédito con ITIN](/es/articles/does-paying-rent-build-credit-with-itin) para un desglose por agencia.)
 
 Así es como puedes pensar en la secuencia de estas herramientas:
 
 1. Abre una tarjeta asegurada compatible con ITIN y mantén el uso por debajo del 10%. Esto construye la cuenta revolvente que los modelos de puntuación valoran más.
-2. Después de 3-6 meses, agrega un [préstamo para construir crédito](/credit-builder-loan-with-itin) para tener diversidad en tus cuentas a plazos.
+2. Después de 3-6 meses, agrega un [préstamo para construir crédito](/es/articles/credit-builder-loan-with-itin) para tener diversidad en tus cuentas a plazos.
 3. Inscríbete en eCredable Lift o un servicio de reporte comparable para agregar historial de pagos de servicios públicos y teléfono en dos agencias.
 4. Considera el reporte de renta como una capa adicional si tu arrendador o un servicio de reporte puede vincularlo a tu archivo de crédito.
 
@@ -115,7 +115,7 @@ Algunos consejos prácticos antes de inscribirte:
 
 - Verifica la consistencia de tu dirección. Asegúrate de tener una dirección postal estable en Estados Unidos y un número de teléfono. Los prestamistas verifican identidad y residencia, y una dirección consistente ayuda a vincular tus nuevas cuentas a tu archivo de crédito. La misma lógica aplica a los servicios de reporte de facturas.
 - Paga tus facturas desde una cuenta rastreable. Si pagas tus servicios en efectivo o con giro postal, el servicio no puede verificar esos pagos. Configura transferencias bancarias automáticas o pagos con tarjeta para que el servicio pueda escanear un historial de transacciones limpio.
-- Verifica que tu ITIN esté vigente. Un ITIN vencido puede complicar la verificación de identidad en plataformas financieras. Consulta nuestra guía sobre [si un ITIN vencido afecta tu puntaje de crédito](/expired-itin-credit-score-impact) para conocer los pasos de renovación.
+- Verifica que tu ITIN esté vigente. Un ITIN vencido puede complicar la verificación de identidad en plataformas financieras. Consulta nuestra guía sobre [si un ITIN vencido afecta tu puntaje de crédito](/es/articles/expired-itin-credit-score-impact) para conocer los pasos de renovación.
 - No cierres cuentas de servicios públicos después de comenzar el reporte. Cerrar una cuenta elimina el flujo continuo de pagos positivos y puede reducir los datos disponibles para la agencia.
 
 Según el American Immigration Council, aproximadamente 3.8 millones de declaraciones de impuestos incluyeron un ITIN en 2022, lo que representa miles de millones en ingresos gravables. Es una gran cantidad de personas que ya están pagando sus facturas a tiempo cada mes. Enrutar esos pagos a través de un servicio de reporte conectado a las agencias es una de las acciones más simples y de menor costo que puede tomar un titular de ITIN para acelerar la construcción de crédito, especialmente durante los primeros 12-24 meses, antes de que un historial más largo fortalezca el archivo de forma natural.

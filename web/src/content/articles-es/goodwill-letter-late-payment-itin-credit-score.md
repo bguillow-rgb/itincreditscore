@@ -42,7 +42,7 @@ Para los titulares de ITIN, la respuesta es sí, aplica completamente. Tu ITIN e
 
 Independientemente del estatus migratorio, el objetivo es abrir cuentas que reporten a las agencias de crédito y construir un historial consistente de pagos a tiempo. Algunos productos basados en ITIN pueden no reportar a las tres agencias, así que confirmar el reporte es importante al elegir dónde solicitar. Si una cuenta sí reporta a las agencias, una carta de buena voluntad siempre es una opción cuando atraviesas un momento difícil.
 
-Algo importante que debes tener claro desde el principio: una carta de buena voluntad no es una disputa. No estás diciendo que la marca sea incorrecta. Estás pidiendo una excepción única. Si crees que el pago tardío fue reportado por error, la herramienta correcta es una disputa formal ante la agencia. Puedes leer más sobre ese proceso en nuestra guía sobre [cómo disputar errores en el reporte de crédito con ITIN](/how-to-dispute-credit-report-errors-with-itin).
+Algo importante que debes tener claro desde el principio: una carta de buena voluntad no es una disputa. No estás diciendo que la marca sea incorrecta. Estás pidiendo una excepción única. Si crees que el pago tardío fue reportado por error, la herramienta correcta es una disputa formal ante la agencia. Puedes leer más sobre ese proceso en nuestra guía sobre [cómo disputar errores en el reporte de crédito con ITIN](/es/articles/how-to-dispute-credit-report-errors-with-itin).
 
 ## ¿Por qué un solo pago tardío afecta tanto mi puntaje de crédito ITIN?
 
@@ -52,7 +52,7 @@ Bastante. El historial de pagos representa el 35% de tu puntaje FICO, más que c
 
 Los pagos tardíos te generan una APR de penalización y cargos por mora, pero el daño al puntaje de crédito es el problema mayor. Un solo pago tardío de 30 días puede bajar tu puntaje entre 50 y 75 puntos o más.
 
-Para los titulares de ITIN que aún están construyendo su historial, el daño suele ser proporcionalmente mayor. Un historial de crédito escaso, común entre los titulares de ITIN más nuevos, significa que hay menos cuentas positivas para amortiguar un elemento negativo. Si tu historial tiene solo dos o tres cuentas, una marca tardía tiene mucho más peso en los modelos de puntuación que en un historial con diez cuentas. Puedes aprender cómo un historial escaso afecta tu puntaje en nuestro artículo sobre [titulares de ITIN con historial de crédito escaso](/thin-credit-file-itin-holder).
+Para los titulares de ITIN que aún están construyendo su historial, el daño suele ser proporcionalmente mayor. Un historial de crédito escaso, común entre los titulares de ITIN más nuevos, significa que hay menos cuentas positivas para amortiguar un elemento negativo. Si tu historial tiene solo dos o tres cuentas, una marca tardía tiene mucho más peso en los modelos de puntuación que en un historial con diez cuentas. Puedes aprender cómo un historial escaso afecta tu puntaje en nuestro artículo sobre [titulares de ITIN con historial de crédito escaso](/es/articles/thin-credit-file-itin-holder).
 
 Ese pago tardío puede permanecer en tus reportes de crédito hasta por siete años. Es mucho tiempo para cargar con un lastre que quizás puedas eliminar con una carta bien redactada.
 
@@ -82,7 +82,7 @@ Por una guía paso a paso, ya que la mayoría de las plantillas en línea asumen
 
 La estructura a continuación está adaptada para titulares de ITIN. Tu condición de titular de ITIN no es algo que debas ocultar ni explicar en la carta; es irrelevante para la decisión del acreedor. Lo que importa es tu relación con esa cuenta.
 
-Paso 1: Reúne los datos primero. Obtén tu reporte de crédito de la agencia correspondiente (Experian, Equifax o TransUnion) y anota la fecha exacta del pago tardío, el número de cuenta y cuántos meses llevas pagando puntualmente desde entonces. Puedes obtener tus reportes gratis en AnnualCreditReport.com incluso con un ITIN. Consulta nuestra guía completa sobre [cómo obtener tu reporte de crédito gratis con ITIN](/how-to-check-credit-score-with-itin-number) para los pasos exactos.
+Paso 1: Reúne los datos primero. Obtén tu reporte de crédito de la agencia correspondiente (Experian, Equifax o TransUnion) y anota la fecha exacta del pago tardío, el número de cuenta y cuántos meses llevas pagando puntualmente desde entonces. Puedes obtener tus reportes gratis en AnnualCreditReport.com incluso con un ITIN. Consulta nuestra guía completa sobre [cómo obtener tu reporte de crédito gratis con ITIN](/es/articles/how-to-check-credit-score-with-itin-number) para los pasos exactos.
 
 Paso 2: Dirige la carta a la persona correcta. Envía la carta por correo certificado directamente al acreedor original, no a las agencias de crédito. Si puedes encontrar el nombre del departamento de reporte de crédito del acreedor o del equipo de relaciones con el cliente ejecutivo, úsalo. Un contacto con nombre recibe más atención que una dirección genérica.
 
@@ -102,7 +102,7 @@ Primero, espera y vuelve a enviarla. Si te la rechazan, espera unos meses más d
 
 Segundo, verifica si el reporte es realmente preciso. Bajo la FCRA, puedes disputar cualquier elemento en tu reporte de crédito que el acreedor no pueda verificar completamente. Cuando presentas una disputa, la agencia de crédito debe investigar en un plazo de 30 días. Si el acreedor no puede verificar el pago tardío con documentación completa, la agencia debe eliminarlo. Esto es diferente a una solicitud de buena voluntad porque cuestiona la verificabilidad del dato, no su exactitud. Los pagos tardíos más antiguos a veces son más difíciles de documentar completamente para los acreedores.
 
-Tercero, supera el daño con nuevo historial positivo. Si una marca es precisa y no es posible eliminarla, el tiempo trabaja a tu favor. El impacto de las marcas negativas se desvanece, especialmente en los últimos dos años antes de que desaparezcan. Herramientas como un [préstamo para construir crédito con ITIN](/credit-builder-loan-with-itin) o una tarjeta asegurada (consulta nuestra guía sobre [cómo una tarjeta asegurada afecta tu puntaje de crédito con ITIN](/secured-credit-card-credit-score-itin)) agregan pagos a tiempo nuevos que reducen el peso de una vieja marca tardía.
+Tercero, supera el daño con nuevo historial positivo. Si una marca es precisa y no es posible eliminarla, el tiempo trabaja a tu favor. El impacto de las marcas negativas se desvanece, especialmente en los últimos dos años antes de que desaparezcan. Herramientas como un [préstamo para construir crédito con ITIN](/es/articles/credit-builder-loan-with-itin) o una tarjeta asegurada (consulta nuestra guía sobre [cómo una tarjeta asegurada afecta tu puntaje de crédito con ITIN](/es/articles/secured-credit-card-credit-score-itin)) agregan pagos a tiempo nuevos que reducen el peso de una vieja marca tardía.
 
 Un pago tardío puede permanecer en tu reporte de crédito hasta siete años, pero su impacto en tu puntaje disminuye con el tiempo, especialmente a medida que acumulas pagos consistentes a tiempo por encima de él.
 
@@ -110,7 +110,7 @@ Un pago tardío puede permanecer en tu reporte de crédito hasta siete años, pe
 
 Una carta de buena voluntad es un movimiento táctico dentro de un juego más largo. Eliminar un elemento negativo despeja el camino para que tu historial positivo tenga más peso, lo que acelera tu avance hacia un puntaje que abre puertas financieras reales. Según el CFPB, el historial de pagos es el factor más influyente en los puntajes de crédito al consumidor, por lo que protegerlo de aquí en adelante importa tanto como limpiar el pasado.
 
-El enfoque más efectivo para los titulares de ITIN combina varias cosas: mantener el [historial de pagos](/payment-history-itin-credit-score) limpio desde hoy, mantener la [utilización del crédito](/credit-utilization-itin-holders) por debajo del 30% y usar una carta de buena voluntad o una disputa formal para atender cualquier error aislado del pasado. Monitorear tu historial regularmente (consulta nuestra guía sobre [monitoreo de crédito con ITIN](/credit-monitoring-with-itin)) significa que detectas errores rápidamente y puedes actuar antes de que un problema pequeño se convierta en uno más difícil de resolver.
+El enfoque más efectivo para los titulares de ITIN combina varias cosas: mantener el [historial de pagos](/es/articles/payment-history-itin-credit-score) limpio desde hoy, mantener la [utilización del crédito](/es/articles/credit-utilization-itin-holders) por debajo del 30% y usar una carta de buena voluntad o una disputa formal para atender cualquier error aislado del pasado. Monitorear tu historial regularmente (consulta nuestra guía sobre [monitoreo de crédito con ITIN](/es/articles/credit-monitoring-with-itin)) significa que detectas errores rápidamente y puedes actuar antes de que un problema pequeño se convierta en uno más difícil de resolver.
 
 ---
 

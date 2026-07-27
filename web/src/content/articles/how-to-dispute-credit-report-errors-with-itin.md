@@ -67,7 +67,7 @@ Errors are more common than most people assume. According to the FTC, roughly on
 | Mixed file | Another person's accounts on your report | Can include their delinquencies, collections, or bankruptcies |
 | Outdated negative item | A late payment older than 7 years still showing | Negative items must fall off after the reporting window |
 
-A mixed file deserves special attention. It occurs when a bureau's matching algorithm links someone else's accounts to your file, often because of a similar name or address. ITIN holders can face this because bureaus historically relied heavily on SSN matching; when a file is identified by name and address instead, the margin for error is slightly wider. Reviewing all three reports regularly, which you can learn how to do in our guide on [how to get your credit report with an ITIN](/how-to-check-credit-score-with-itin-number), is the only reliable way to catch these problems early.
+A mixed file deserves special attention. It occurs when a bureau's matching algorithm links someone else's accounts to your file, often because of a similar name or address. ITIN holders can face this because bureaus historically relied heavily on SSN matching; when a file is identified by name and address instead, the margin for error is slightly wider. Reviewing all three reports regularly, which you can learn how to do in our guide on [how to get your credit report with an ITIN](/articles/how-to-check-credit-score-with-itin-number), is the only reliable way to catch these problems early.
 
 ## How do I actually file a dispute with each bureau using my ITIN?
 
@@ -122,7 +122,7 @@ You do not need an attorney to file a basic dispute, but if the same error persi
 
 Disputing errors is not a separate activity from building credit. It is part of the same process. Your score is only as accurate as the data behind it. Removing a misreported late payment, correcting an inflated balance, or deleting an account that does not belong to you can all improve your score without any new credit behavior on your part.
 
-Once your report is accurate, the work of actively growing your score can begin. According to Experian's 2026 white paper, 76.9% of ITIN holders remained current on their accounts after 12 months, a rate 15% higher than SSN consumers, which shows that consistent payment behavior is already strong in this group. A clean, accurate report lets that good behavior show up properly. Our guides on [how to raise your credit score with an ITIN](/how-to-raise-credit-score-with-itin) and [how to build credit with an ITIN number](/how-to-build-credit-with-itin-number) cover the next steps once your report reflects reality.
+Once your report is accurate, the work of actively growing your score can begin. According to Experian's 2026 white paper, 76.9% of ITIN holders remained current on their accounts after 12 months, a rate 15% higher than SSN consumers, which shows that consistent payment behavior is already strong in this group. A clean, accurate report lets that good behavior show up properly. Our guides on [how to raise your credit score with an ITIN](/articles/how-to-raise-credit-score-with-itin) and [how to build credit with an ITIN number](/articles/how-to-build-credit-with-itin-number) cover the next steps once your report reflects reality.
 
 ## 5 Frequently asked questions
 

@@ -51,7 +51,7 @@ Rent reporting services can add your on-time rent payments to your credit report
 The two services most relevant to ITIN holders in 2026 are:
 
 - eCredable Lift: Reports verified utility, phone, and other recurring bill payments to TransUnion and Equifax. It does not require an SSN for enrollment, which makes it one of the more accessible options for ITIN holders.
-- Experian Boost: Free and widely advertised, but online enrollment requires an SSN. Most ITIN holders cannot complete enrollment through the standard web flow. (See our [Experian Boost with an ITIN guide](/experian-boost-alternative-data-itin) for the full picture on this tool.)
+- Experian Boost: Free and widely advertised, but online enrollment requires an SSN. Most ITIN holders cannot complete enrollment through the standard web flow. (See our [Experian Boost with an ITIN guide](/articles/experian-boost-alternative-data-itin) for the full picture on this tool.)
 
 Most utility companies still do not report positives automatically. They only penalize you via collections for missed payments. But third-party tools scan your bank or card history, verify payments, and add them to Equifax, Experian, or TransUnion.
 
@@ -94,12 +94,12 @@ This means every ITIN holder has a baseline reason to stay current on utilities 
 
 Should I prioritize utility reporting over other strategies?
 
-Utility bill reporting works best as a complement to core credit-building tools, not a replacement for them. A secured credit card or a [credit-builder loan with an ITIN](/credit-builder-loan-with-itin) creates a true revolving or installment account in your credit file, which carries more structural weight in scoring models than alternative data reported through third-party services. Rent reporting through a service like Boom or Rental Kharma similarly adds to your payment history but operates under different bureau and model acceptance rules. (See our full guide on [whether paying rent builds credit with an ITIN](/does-paying-rent-build-credit-with-itin) for a bureau-by-bureau breakdown.)
+Utility bill reporting works best as a complement to core credit-building tools, not a replacement for them. A secured credit card or a [credit-builder loan with an ITIN](/articles/credit-builder-loan-with-itin) creates a true revolving or installment account in your credit file, which carries more structural weight in scoring models than alternative data reported through third-party services. Rent reporting through a service like Boom or Rental Kharma similarly adds to your payment history but operates under different bureau and model acceptance rules. (See our full guide on [whether paying rent builds credit with an ITIN](/articles/does-paying-rent-build-credit-with-itin) for a bureau-by-bureau breakdown.)
 
 Here is how to think about sequencing these tools:
 
 1. Open one ITIN-friendly secured card and keep utilization below 10%. This builds the revolving account that scoring models value most.
-2. After 3-6 months, add a [credit-builder loan](/credit-builder-loan-with-itin) for installment account diversity.
+2. After 3-6 months, add a [credit-builder loan](/articles/credit-builder-loan-with-itin) for installment account diversity.
 3. Enroll in eCredable Lift or a comparable bill-reporting service to layer in utility and phone payment history across two bureaus.
 4. Consider rent reporting as an additional layer if your landlord or a reporting service can connect it to your credit file.
 
@@ -115,7 +115,7 @@ A few practical notes before you enroll:
 
 - Verify your address consistency. Make sure you have a stable U.S. mailing address and phone number. Lenders verify identity and residence, and a consistent address helps match your new accounts to your credit file. The same logic applies to bill-reporting services.
 - Pay bills from a trackable account. If you pay utilities in cash or through a money order, the service cannot verify those payments. Set up automatic bank transfers or card payments so the service can scan a clean transaction history.
-- Check whether your ITIN is current. An expired ITIN can complicate identity verification across financial platforms. See our guide on [whether an expired ITIN affects your credit score](/expired-itin-credit-score-impact) for renewal steps.
+- Check whether your ITIN is current. An expired ITIN can complicate identity verification across financial platforms. See our guide on [whether an expired ITIN affects your credit score](/articles/expired-itin-credit-score-impact) for renewal steps.
 - Do not close utility accounts after reporting begins. Closing an account removes the ongoing positive payment stream and may reduce the data available to the bureau.
 
 According to the American Immigration Council, approximately 3.8 million tax returns included an ITIN in 2022, representing billions in taxable income. That is a large population of people already paying bills on time every month. Routing those payments through a bureau-connected reporting service is one of the simplest and lowest-cost actions an ITIN holder can take to accelerate credit building, especially in the first 12-24 months before a longer credit history naturally strengthens the file.

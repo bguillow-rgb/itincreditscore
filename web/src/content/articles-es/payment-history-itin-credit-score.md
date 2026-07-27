@@ -105,7 +105,7 @@ No de forma automática, pero puedes lograr que cuenten.
 
 Los pagos de renta y servicios públicos son tus obligaciones mensuales recurrentes más grandes, pero no aparecen en los reportes de crédito estándar a menos que te inscribas en un servicio de reporte de terceros. Incluso si no tienes cuentas de crédito, probablemente tienes facturas mensuales como renta, servicio de celular y servicios públicos. Si pagas tus facturas a tiempo, puedes aprovechar ese historial de pagos positivo usando un servicio de reporte de pago.
 
-Antes de inscribirte en cualquier servicio de reporte de renta, confirma que acepte a los titulares de ITIN como identificador principal. Algunos servicios son solo para SSN. Nuestra guía sobre [si pagar renta construye crédito con un ITIN](/does-paying-rent-build-credit-with-itin) explica los servicios específicos que funcionan para titulares de ITIN y cómo inscribirse.
+Antes de inscribirte en cualquier servicio de reporte de renta, confirma que acepte a los titulares de ITIN como identificador principal. Algunos servicios son solo para SSN. Nuestra guía sobre [si pagar renta construye crédito con un ITIN](/es/articles/does-paying-rent-build-credit-with-itin) explica los servicios específicos que funcionan para titulares de ITIN y cómo inscribirse.
 
 ## ¿Cuál es la forma más rápida de reparar el daño al historial de pagos en un reporte de crédito con ITIN?
 
@@ -113,7 +113,7 @@ Una vez que un pago atrasado aparece en tu reporte con ITIN, ¿hay algo que pued
 
 Un pago atrasado legítimo no puede eliminarse, pero hay dos estrategias válidas.
 
-**1. Disputa cualquier error.** Si un pago aparece como atrasado pero lo pagaste a tiempo, tienes derecho a disputarlo por escrito bajo la FCRA. Las inexactitudes pueden disputarse por escrito bajo la Ley de Informes de Crédito Justos. Nuestro artículo sobre [cómo disputar errores en el reporte de crédito con un ITIN](/how-to-dispute-credit-report-errors-with-itin) cubre el proceso exacto para titulares de ITIN.
+**1. Disputa cualquier error.** Si un pago aparece como atrasado pero lo pagaste a tiempo, tienes derecho a disputarlo por escrito bajo la FCRA. Las inexactitudes pueden disputarse por escrito bajo la Ley de Informes de Crédito Justos. Nuestro artículo sobre [cómo disputar errores en el reporte de crédito con un ITIN](/es/articles/how-to-dispute-credit-report-errors-with-itin) cubre el proceso exacto para titulares de ITIN.
 
 **2. Construye historial positivo sobre el negativo.** Los modelos de puntuación dan más peso al comportamiento reciente que a los eventos antiguos. Doce a veinticuatro meses de historial de pagos impecable después de una morosidad reduce significativamente su impacto en tu puntaje. Agregar una segunda cuenta que reporte (como un préstamo para construir crédito junto a una tarjeta asegurada existente) acelera este proceso al generar más puntos de datos positivos cada mes.
 
@@ -121,7 +121,7 @@ Lo que no funciona: las llamadas empresas de "reparación de crédito" que prome
 
 ## Hábitos prácticos para proteger tu historial de pagos como titular de ITIN
 
-Como monitorear tu reporte de crédito con ITIN requiere algunos pasos adicionales en comparación con los titulares de SSN, ser proactivo importa aún más. Configura al menos una de las herramientas gratuitas de monitoreo compatibles con ITIN (que cubrimos en nuestra guía de [monitoreo de crédito con un ITIN](/credit-monitoring-with-itin)) para detectar errores de reporte antes de que se acumulen.
+Como monitorear tu reporte de crédito con ITIN requiere algunos pasos adicionales en comparación con los titulares de SSN, ser proactivo importa aún más. Configura al menos una de las herramientas gratuitas de monitoreo compatibles con ITIN (que cubrimos en nuestra guía de [monitoreo de crédito con un ITIN](/es/articles/credit-monitoring-with-itin)) para detectar errores de reporte antes de que se acumulen.
 
 Algunos hábitos concretos que dan resultados con el tiempo:
 

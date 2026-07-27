@@ -89,7 +89,7 @@ Negative accounts (those with late payments or collections) typically drop off a
 There is no shortcut to aging. Time is the input and a higher score is the output. You can accelerate the *quality* of your credit age, though, by doing a few things:
 
 1. **Opening your first account as soon as possible.** The clock only starts ticking once an account exists. Every month you wait is a month of credit age you cannot recover.
-2. **Becoming an authorized user.** If a family member or trusted friend with a long-standing account adds you as an authorized user, the entire history of that account may appear on your report, adding years to your average account age immediately. See our guide on [being an authorized user with an ITIN](/authorized-user-with-itin-credit-building) for the full process.
+2. **Becoming an authorized user.** If a family member or trusted friend with a long-standing account adds you as an authorized user, the entire history of that account may appear on your report, adding years to your average account age immediately. See our guide on [being an authorized user with an ITIN](/articles/authorized-user-credit-building-itin) for the full process.
 3. **Keeping every account open and active.** Even small occasional purchases prevent an account from being classified as inactive, which some scoring models treat differently. A single small purchase every few months is enough.
 4. **Avoiding unnecessary new accounts.** Each new account temporarily reduces your average age. Add new accounts only when a specific credit need justifies it.
 
@@ -101,7 +101,7 @@ An ITIN that is not used on a federal tax return for three consecutive years can
 
 An expired ITIN can create friction when you try to access your credit report or apply for new credit, though, because identity verification may fail if your ITIN no longer matches IRS records. Renewing before it expires keeps that friction away and ensures new accounts are added to your existing file rather than creating a fragmented second file.
 
-For a deeper look at what happens when you eventually receive an SSN and want to carry your ITIN credit history forward, see our guide on [transferring ITIN credit history to an SSN](/transfer-itin-credit-history-to-ssn).
+For a deeper look at what happens when you eventually receive an SSN and want to carry your ITIN credit history forward, see our guide on [transferring ITIN credit history to an SSN](/articles/transfer-itin-credit-history-to-ssn).
 
 ## Quick reference: account age decisions at a glance
 

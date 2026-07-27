@@ -73,7 +73,7 @@ El proceso de inscripción es sencillo, pero ten a la mano algunos documentos an
 
 **Paso 4: Verifica tu historial de renta.** Con los servicios que se conectan a tu banco, vinculas tu cuenta de cheques y la plataforma identifica las transferencias recurrentes de renta. Con los servicios que requieren verificación del arrendador, él confirma los detalles de pago. De cualquier forma, esos datos pasan a formar parte de tu expediente de crédito una vez que el buró los acepta.
 
-**Paso 5: Monitorea tu reporte de crédito.** Consulta los burós a los que reporta el servicio, generalmente dentro de los primeros 30 a 45 días después de inscribirte. Puedes obtener tus reportes gratis en AnnualCreditReport.com usando tu ITIN. Nuestra guía sobre [cómo verificar tu puntaje de crédito con un ITIN](/how-to-check-credit-score-with-itin-number) explica ese proceso en detalle.
+**Paso 5: Monitorea tu reporte de crédito.** Consulta los burós a los que reporta el servicio, generalmente dentro de los primeros 30 a 45 días después de inscribirte. Puedes obtener tus reportes gratis en AnnualCreditReport.com usando tu ITIN. Nuestra guía sobre [cómo verificar tu puntaje de crédito con un ITIN](/es/articles/how-to-check-credit-score-with-itin-number) explica ese proceso en detalle.
 
 ## ¿Cuánto puede subir mi puntaje de crédito con ITIN gracias al reporte de renta?
 
@@ -81,7 +81,7 @@ El proceso de inscripción es sencillo, pero ten a la mano algunos documentos an
 
 Un proveedor afirma que sus clientes ven un aumento promedio de 28 puntos en las primeras dos semanas después de reportar su renta, y que algunos alcanzan 105 puntos o más. Rental Kharma anuncia un aumento promedio de 40 puntos, aunque los resultados individuales dependen de lo que ya haya en tu perfil de crédito.
 
-Para los titulares de ITIN con un historial escaso, el impacto tiende a ser mayor. Agregar cualquier línea de crédito positiva y sustancial mueve de forma considerable un expediente casi vacío. Si ya tienes una tarjeta asegurada y un préstamo para construir crédito reportando, la renta agrega un tercer punto de datos a tu historial de pagos, que representa aproximadamente el 35% de tu puntaje tanto en los modelos FICO como en VantageScore. Puedes leer más sobre cómo el historial de pagos impacta tu puntaje en nuestra [guía de historial de pagos y puntaje de crédito con ITIN](/payment-history-itin-credit-score).
+Para los titulares de ITIN con un historial escaso, el impacto tiende a ser mayor. Agregar cualquier línea de crédito positiva y sustancial mueve de forma considerable un expediente casi vacío. Si ya tienes una tarjeta asegurada y un préstamo para construir crédito reportando, la renta agrega un tercer punto de datos a tu historial de pagos, que representa aproximadamente el 35% de tu puntaje tanto en los modelos FICO como en VantageScore. Puedes leer más sobre cómo el historial de pagos impacta tu puntaje en nuestra [guía de historial de pagos y puntaje de crédito con ITIN](/es/articles/payment-history-itin-credit-score).
 
 El beneficio se acumula con el tiempo. Una vez reportada, tu historial de pagos de renta aparece como una línea de crédito mes tras mes, siempre que los pagos se mantengan al día. Doce meses de renta puntual a través de un servicio de reporte equivalen a 12 meses de historial de pagos positivo, el mismo efecto para tu crédito que un préstamo para construir crédito.
 
@@ -107,9 +107,9 @@ Si pagas a través de un portal en línea que tu arrendador ya usa, verifica si 
 
 Sí, y combinarlas es la vía más rápida.
 
-El reporte de renta agrega un tipo de línea de crédito (una cuenta de arrendamiento en cuotas), pero funciona mejor combinado con otras herramientas. Un [préstamo para construir crédito con ITIN](/credit-builder-loan-with-itin) agrega un segundo tipo de cuenta y diversifica tu mezcla de crédito. Una tarjeta asegurada añade una cuenta revolvente, a la que FICO le da mucho peso al calcular la utilización. Juntas, esas tres fuentes construyen un expediente de crédito sólido prácticamente desde cero.
+El reporte de renta agrega un tipo de línea de crédito (una cuenta de arrendamiento en cuotas), pero funciona mejor combinado con otras herramientas. Un [préstamo para construir crédito con ITIN](/es/articles/credit-builder-loan-with-itin) agrega un segundo tipo de cuenta y diversifica tu mezcla de crédito. Una tarjeta asegurada añade una cuenta revolvente, a la que FICO le da mucho peso al calcular la utilización. Juntas, esas tres fuentes construyen un expediente de crédito sólido prácticamente desde cero.
 
-El historial de pagos es el factor más importante en un puntaje FICO. El reporte de renta alimenta directamente ese factor, por eso merece un lugar en el plan de construcción de crédito de cualquier titular de ITIN. Si quieres ver cómo encajan todas las piezas, nuestra guía sobre [cómo construir crédito con un número ITIN](/how-to-build-credit-with-itin-number) presenta una secuencia completa.
+El historial de pagos es el factor más importante en un puntaje FICO. El reporte de renta alimenta directamente ese factor, por eso merece un lugar en el plan de construcción de crédito de cualquier titular de ITIN. Si quieres ver cómo encajan todas las piezas, nuestra guía sobre [cómo construir crédito con un número ITIN](/es/articles/how-to-build-credit-with-itin-number) presenta una secuencia completa.
 
 ---
 

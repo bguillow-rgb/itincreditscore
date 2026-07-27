@@ -133,7 +133,7 @@ Aquí es donde los titulares de ITIN enfrentan una dificultad real. Las herramie
 - **Solicita tus reportes por correo** directamente a cada bureau. Experian, TransUnion y Equifax aceptan solicitudes por escrito con copias de tu identificación oficial y comprobante de domicilio. Equifax también permite a los titulares de ITIN crear una cuenta en myEquifax en línea para acceder a hasta seis reportes gratuitos al año.
 - **Usa la herramienta gratuita de puntaje FICO de tu banco o emisor de tarjeta.** Muchos emisores, entre ellos Bank of America, Capital One y otros, ofrecen acceso gratuito al puntaje FICO dentro de sus aplicaciones a los titulares de cuenta, lo cual funciona sin importar si usaste un ITIN o un SSN para abrir la cuenta.
 
-Para conocer en detalle cómo los titulares de ITIN pueden revisar su puntaje crediticio sin un SSN, consulta nuestra guía sobre [cómo revisar tu puntaje crediticio con un ITIN](/can-you-have-a-credit-score-with-an-itin).
+Para conocer en detalle cómo los titulares de ITIN pueden revisar su puntaje crediticio sin un SSN, consulta nuestra guía sobre [cómo revisar tu puntaje crediticio con un ITIN](/es/articles/can-you-have-a-credit-score-with-an-itin).
 
 ## ¿Qué Pasa Si Después Recibes un SSN?
 

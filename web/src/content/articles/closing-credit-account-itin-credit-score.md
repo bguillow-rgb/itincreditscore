@@ -102,10 +102,10 @@ If a lender-initiated closure happens, take these steps right away:
 
 - Pull your credit report from all three bureaus to confirm the closure is reported correctly as "closed by grantor" (not "closed by consumer" or "derogatory").
 - Check that the balance is correctly listed as zero or paid in full.
-- If you see errors in how the closure is reported, you have the right to dispute them under the Fair Credit Reporting Act. Our guide on [how to dispute credit report errors with an ITIN](/how-to-dispute-credit-report-errors-with-itin) walks through the exact mail and online dispute process.
+- If you see errors in how the closure is reported, you have the right to dispute them under the Fair Credit Reporting Act. Our guide on [how to dispute credit report errors with an ITIN](/articles/how-to-dispute-credit-report-errors-with-itin) walks through the exact mail and online dispute process.
 - Consider opening a replacement account. A new credit-builder loan or secured card can begin restoring your utilization cushion within 30-60 days of account opening, once the new limit is reported to the bureaus.
 
-Monitoring your ITIN credit file regularly is the best early warning system. Our [credit monitoring with an ITIN guide](/credit-monitoring-with-itin) covers which tools let you watch all three bureau files simultaneously so you catch lender-initiated closures before they drag your score down unnoticed.
+Monitoring your ITIN credit file regularly is the best early warning system. Our [credit monitoring with an ITIN guide](/articles/credit-monitoring-with-itin) covers which tools let you watch all three bureau files simultaneously so you catch lender-initiated closures before they drag your score down unnoticed.
 
 ---
 

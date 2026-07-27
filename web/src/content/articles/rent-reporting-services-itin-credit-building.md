@@ -73,7 +73,7 @@ Enrollment is straightforward, but have a few documents ready before you start.
 
 **Step 4: Verify your rental history.** For bank-linking services, you connect your checking account and the platform reads recurring rent transfers. For landlord-verification services, your landlord confirms the payment details. Either way, that data becomes part of your credit file once the bureau accepts it.
 
-**Step 5: Monitor your credit report.** Check the bureaus the service reports to, typically within 30-45 days of enrollment. You can pull your reports for free at AnnualCreditReport.com using your ITIN. Our guide on [how to check your credit score with an ITIN](/how-to-check-credit-score-with-itin-number) walks through that process in detail.
+**Step 5: Monitor your credit report.** Check the bureaus the service reports to, typically within 30-45 days of enrollment. You can pull your reports for free at AnnualCreditReport.com using your ITIN. Our guide on [how to check your credit score with an ITIN](/articles/how-to-check-credit-score-with-itin-number) walks through that process in detail.
 
 ## How much can rent reporting actually raise my ITIN credit score?
 
@@ -81,7 +81,7 @@ Enrollment is straightforward, but have a few documents ready before you start.
 
 One provider claims its customers see an average increase of 28 points in the first two weeks after reporting their rent, with some reaching 105 points or more. Rental Kharma advertises an average 40-point increase, though individual results depend on what else is already on your credit profile.
 
-For ITIN holders with a thin file, the impact tends to be larger. Adding any substantive positive tradeline moves a nearly empty file significantly. If you already have a secured card and a credit-builder loan reporting, rent adds a third data point to your payment history, which accounts for roughly 35% of your score under both FICO and VantageScore models. You can read more about how payment history drives your score in our [payment history and ITIN credit score guide](/payment-history-itin-credit-score).
+For ITIN holders with a thin file, the impact tends to be larger. Adding any substantive positive tradeline moves a nearly empty file significantly. If you already have a secured card and a credit-builder loan reporting, rent adds a third data point to your payment history, which accounts for roughly 35% of your score under both FICO and VantageScore models. You can read more about how payment history drives your score in our [payment history and ITIN credit score guide](/articles/payment-history-itin-credit-score).
 
 The benefit compounds over time. Once reported, your rent payment history appears as a tradeline month after month, as long as payments stay on time. Twelve months of on-time rent through a reporting service equals 12 months of positive payment history, the same credit-building effect as a credit-builder loan.
 
@@ -107,9 +107,9 @@ If you pay through an online portal your landlord already uses, check whether it
 
 Yes, and combining them is the faster path.
 
-Rent reporting adds one type of tradeline (a rental installment account), but it works best paired with other tools. A [credit-builder loan with an ITIN](/credit-builder-loan-with-itin) adds a second account type and diversifies your credit mix. A secured card adds a revolving account, which FICO weights heavily when calculating utilization. Together, those three sources build a well-rounded credit file from almost nothing.
+Rent reporting adds one type of tradeline (a rental installment account), but it works best paired with other tools. A [credit-builder loan with an ITIN](/articles/credit-builder-loan-with-itin) adds a second account type and diversifies your credit mix. A secured card adds a revolving account, which FICO weights heavily when calculating utilization. Together, those three sources build a well-rounded credit file from almost nothing.
 
-Payment history is the single largest factor in a FICO score. Rent reporting feeds directly into that factor, which is why it earns a place in any ITIN holder's credit-building plan. If you want to see how all the pieces fit together, our guide on [how to build credit with an ITIN number](/how-to-build-credit-with-itin-number) lays out a full sequence.
+Payment history is the single largest factor in a FICO score. Rent reporting feeds directly into that factor, which is why it earns a place in any ITIN holder's credit-building plan. If you want to see how all the pieces fit together, our guide on [how to build credit with an ITIN number](/articles/how-to-build-credit-with-itin-number) lays out a full sequence.
 
 ---
 

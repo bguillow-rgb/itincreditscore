@@ -173,7 +173,7 @@ An ITIN doesn't automatically create a credit history. The U.S. system requires 
 
 Typically, it takes three to six months of consistent reporting from a lender for the major bureaus to generate a score and a formal file. If you search for your score and nothing comes back, that simply means no reporting account has been opened under your ITIN yet. It is not a barrier, and it is not a problem with your ITIN itself.
 
-The fastest path from no file to a scoreable file is opening one account that reports to all three bureaus and making on-time payments for six months. A [credit-builder loan with an ITIN](/credit-builder-loan-with-itin) or a secured card are the two most commonly used starting tools. Once that first score appears, the services above will begin displaying it. You can also review our guide to [how long it takes to build credit with an ITIN](/how-long-to-build-credit-with-itin) for realistic timelines.
+The fastest path from no file to a scoreable file is opening one account that reports to all three bureaus and making on-time payments for six months. A [credit-builder loan with an ITIN](/articles/credit-builder-loan-with-itin) or a secured card are the two most commonly used starting tools. Once that first score appears, the services above will begin displaying it. You can also review our guide to [how long it takes to build credit with an ITIN](/articles/how-long-to-build-credit-with-itin) for realistic timelines.
 
 ---
 
@@ -193,11 +193,11 @@ According to Experian's 2026 white paper on ITIN credit behavior, ITIN holders e
 
 Seeing your score is step one, not the finish line. Here is how to use what you find.
 
-**If your score is below 580:** This likely reflects a thin file rather than negative items. Confirm on your report that all accounts are reporting correctly. If you only have one account open, adding a second reporting account (a credit-builder loan alongside a secured card works well) will diversify your credit mix and speed up scoring. See our guide on [how to build credit with an ITIN number](/how-to-build-credit-with-itin-number) for specific product recommendations.
+**If your score is below 580:** This likely reflects a thin file rather than negative items. Confirm on your report that all accounts are reporting correctly. If you only have one account open, adding a second reporting account (a credit-builder loan alongside a secured card works well) will diversify your credit mix and speed up scoring. See our guide on [how to build credit with an ITIN number](/articles/how-to-build-credit-with-itin-number) for specific product recommendations.
 
-**If your score is 580-670:** Focus on utilization and payment consistency. Keeping balances below 30% of each card's limit, and ideally below 10%, is the fastest way to raise a mid-range score. Review our [credit utilization guide for ITIN holders](/credit-utilization-itin-holders) for the exact mechanics.
+**If your score is 580-670:** Focus on utilization and payment consistency. Keeping balances below 30% of each card's limit, and ideally below 10%, is the fastest way to raise a mid-range score. Review our [credit utilization guide for ITIN holders](/articles/credit-utilization-itin-holders) for the exact mechanics.
 
-**If your score is above 670:** Your file is in solid shape. The next steps are aging your accounts, avoiding unnecessary hard inquiries, and disputing any errors you find. Our guide on [how to dispute credit report errors with an ITIN](/how-to-dispute-credit-report-errors-with-itin) walks through that process.
+**If your score is above 670:** Your file is in solid shape. The next steps are aging your accounts, avoiding unnecessary hard inquiries, and disputing any errors you find. Our guide on [how to dispute credit report errors with an ITIN](/articles/how-to-dispute-credit-report-errors-with-itin) walks through that process.
 
 **If your score is 0 or no score is returned:** You either do not yet have a scoreable file, or there is a mismatch between the name or address on your accounts and what you entered. Double-check that the name on your ITIN matches the name on your reporting accounts exactly. A single-letter difference in a middle name can cause a bureau to miss your file entirely. If everything matches and you have been making payments for six or more months, call the bureau directly.
 
@@ -224,10 +224,10 @@ No. Since 1996, the IRS has issued more than 27 million ITINs strictly for tax p
 More than five million active ITINs are used by taxpayers in the United States, according to the IRS. Many ITIN holders have mortgages, auto loans, credit cards, and small business financing. The population is large, established, and growing.
 
 **If I eventually get an SSN, what happens to my ITIN credit history?**
-Your credit history does not disappear. The bureaus merge your ITIN file with your new SSN file once you notify them and update your accounts. We cover this process in detail in our guide on [how to transfer your ITIN credit history to an SSN](/transfer-itin-credit-history-to-ssn).
+Your credit history does not disappear. The bureaus merge your ITIN file with your new SSN file once you notify them and update your accounts. We cover this process in detail in our guide on [how to transfer your ITIN credit history to an SSN](/articles/transfer-itin-credit-history-to-ssn).
 
 **Can I [check my credit score with an ITIN](/check-credit-score-with-itin) if I live outside the United States?**
 Yes, your U.S. credit file exists regardless of where you physically are located. You can access online services from abroad, though some platforms use your IP address as part of identity verification and may flag a non-U.S. location as unusual. Using a U.S.-based connection can reduce friction during signup for some services.
 
 **Does my ITIN expiration affect my ability to see my credit score?**
-An expired ITIN does not erase your credit file. The credit bureaus use your ITIN as a file identifier, not as an active tax credential. You can still access and monitor your credit report. We cover the broader question of ITIN expiration and credit scores in our dedicated guide on [expired ITINs and credit score impact](/expired-itin-credit-score-impact).
+An expired ITIN does not erase your credit file. The credit bureaus use your ITIN as a file identifier, not as an active tax credential. You can still access and monitor your credit report. We cover the broader question of ITIN expiration and credit scores in our dedicated guide on [expired ITINs and credit score impact](/articles/expired-itin-credit-score-impact).

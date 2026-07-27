@@ -97,7 +97,7 @@ Ser agregado a una tarjeta con un historial largo y saldos bajos puede añadir d
 
 Pero hay un límite. Ser usuario autorizado generalmente seguirá ayudando a tu crédito, especialmente si tienes un historial limitado, pero el beneficio es menor que si fueras el titular principal con el mismo historial de pagos. Los prestamistas que revisan tu reporte de crédito también pueden ver que la cuenta está designada como una línea de usuario autorizado en lugar de una cuenta primaria, lo que puede afectar las decisiones de préstamo de forma independiente al puntaje en sí.
 
-Por eso el estatus de usuario autorizado funciona mejor como trampolín y no como estrategia a largo plazo. Úsalo para obtener tu primer expediente con puntaje, o para impulsar tu puntaje mientras también abres una cuenta a tu propio nombre, como un [préstamo para construir crédito con tu ITIN](/credit-builder-loan-with-itin).
+Por eso el estatus de usuario autorizado funciona mejor como trampolín y no como estrategia a largo plazo. Úsalo para obtener tu primer expediente con puntaje, o para impulsar tu puntaje mientras también abres una cuenta a tu propio nombre, como un [préstamo para construir crédito con tu ITIN](/es/articles/credit-builder-loan-with-itin).
 
 ---
 
@@ -124,12 +124,12 @@ Sí, y este es el camino recomendado para la mayoría de los titulares de ITIN q
 El estatus de usuario autorizado agrega una línea de crédito rápidamente, pero los prestamistas y los modelos de puntaje dan más peso a las cuentas que tú mismo abriste y administras. El enfoque más efectivo al principio combina varias cosas funcionando al mismo tiempo:
 
 - **Estatus de usuario autorizado** en una tarjeta bien administrada para obtener historial inmediato y beneficio de utilización.
-- **Un préstamo para construir crédito a tu propio nombre** para agregar una cuenta de cuotas, lo que mejora tu [mezcla de crédito](/credit-mix-with-itin) y demuestra un comportamiento de pago independiente. Consulta nuestra guía completa sobre [préstamos para construir crédito con ITIN](/credit-builder-loan-with-itin).
-- **Monitoreo constante** para confirmar que cada línea de crédito se está registrando correctamente y detectar cualquier error a tiempo. Nuestra [guía de monitoreo de crédito para titulares de ITIN](/credit-monitoring-with-itin) cubre las mejores herramientas para esto.
+- **Un préstamo para construir crédito a tu propio nombre** para agregar una cuenta de cuotas, lo que mejora tu [mezcla de crédito](/es/articles/credit-mix-with-itin) y demuestra un comportamiento de pago independiente. Consulta nuestra guía completa sobre [préstamos para construir crédito con ITIN](/es/articles/credit-builder-loan-with-itin).
+- **Monitoreo constante** para confirmar que cada línea de crédito se está registrando correctamente y detectar cualquier error a tiempo. Nuestra [guía de monitoreo de crédito para titulares de ITIN](/es/articles/credit-monitoring-with-itin) cubre las mejores herramientas para esto.
 
 Solo el 9% de los consumidores inmigrantes tienen un puntaje de crédito a los 22 años, pero el 75% lo logra para los 26 años, lo que demuestra una convergencia rápida cuando adoptan un enfoque activo para construir crédito. Usar estas herramientas juntas acorta significativamente ese plazo.
 
-Hay algo más que tener en cuenta a medida que tu expediente crece: la [utilización de crédito](/credit-utilization-itin-holders) en la cuenta de usuario autorizado también afecta tu perfil. Si el titular principal mantiene un saldo alto en relación con el límite de la tarjeta, esa utilización elevada aparecerá en tu reporte. Lo ideal es que la cuenta a la que te agregan tenga un saldo del 10% al 30% o menos de su límite de crédito al momento en que se cierra cada estado de cuenta.
+Hay algo más que tener en cuenta a medida que tu expediente crece: la [utilización de crédito](/es/articles/credit-utilization-itin-holders) en la cuenta de usuario autorizado también afecta tu perfil. Si el titular principal mantiene un saldo alto en relación con el límite de la tarjeta, esa utilización elevada aparecerá en tu reporte. Lo ideal es que la cuenta a la que te agregan tenga un saldo del 10% al 30% o menos de su límite de crédito al momento en que se cierra cada estado de cuenta.
 
 ---
 
@@ -139,5 +139,5 @@ Hay algo más que tener en cuenta a medida que tu expediente crece: la [utilizac
 2. **Confirma la política del emisor.** Pídele al titular principal que llame a su emisor y haga dos preguntas: ¿Aceptan un ITIN para agregar a un usuario autorizado? ¿Reportan los usuarios autorizados a los tres burós de crédito?
 3. **Proporciona la información de identificación correcta.** Tu nombre legal exacto, dirección actual, fecha de nacimiento y tu ITIN si el emisor lo acepta. Verifica cuidadosamente la ortografía y los números.
 4. **Espera a que la línea se registre.** Revisa tu expediente de crédito después de 45 días. Si la cuenta no ha aparecido, el titular principal debe comunicarse con el emisor para confirmar que la información fue enviada correctamente.
-5. **Monitorea posibles errores.** Una vez que la cuenta aparezca, verifica que el historial de pagos, la fecha de apertura de la cuenta y el límite de crédito se estén reportando con precisión. Si algo no parece correcto, tienes el derecho de [disputar el error](/how-to-dispute-credit-report-errors-with-itin) directamente con el buró bajo la Ley de Reporte de Crédito Justo (Fair Credit Reporting Act).
+5. **Monitorea posibles errores.** Una vez que la cuenta aparezca, verifica que el historial de pagos, la fecha de apertura de la cuenta y el límite de crédito se estén reportando con precisión. Si algo no parece correcto, tienes el derecho de [disputar el error](/es/articles/how-to-dispute-credit-report-errors-with-itin) directamente con el buró bajo la Ley de Reporte de Crédito Justo (Fair Credit Reporting Act).
 6. **Abre tu propia cuenta al mismo tiempo.** No dependas únicamente del estatus de usuario autorizado. Solicita una tarjeta asegurada o un préstamo para construir crédito con tu ITIN para comenzar a construir historial como titular principal en paralelo.

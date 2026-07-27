@@ -84,7 +84,7 @@ Estas dos estrategias no son intercambiables. Aquí tienes una comparación dire
 | Quién controla la cuenta | El titular principal de la tarjeta | El prestatario principal (tú no tienes acceso) |
 | Producto típico | Tarjeta de crédito | Préstamo a plazos, préstamo personal, préstamo de auto |
 
-Un cofirmante es legalmente responsable del reembolso; un usuario autorizado no tiene responsabilidad y su impacto en la construcción de crédito es limitado. Para la mayoría de los titulares de ITIN que están comenzando su historial de crédito, ser usuario autorizado (que explicamos en nuestra [guía de usuario autorizado](/authorized-user-credit-building-itin)) conlleva mucho menos riesgo financiero. Ser cofirmante tiene más sentido una vez que tu propio historial de crédito está establecido, confías plenamente en el prestatario principal y realmente puedes cubrir los pagos si él deja de pagar.
+Un cofirmante es legalmente responsable del reembolso; un usuario autorizado no tiene responsabilidad y su impacto en la construcción de crédito es limitado. Para la mayoría de los titulares de ITIN que están comenzando su historial de crédito, ser usuario autorizado (que explicamos en nuestra [guía de usuario autorizado](/es/articles/authorized-user-credit-building-itin)) conlleva mucho menos riesgo financiero. Ser cofirmante tiene más sentido una vez que tu propio historial de crédito está establecido, confías plenamente en el prestatario principal y realmente puedes cubrir los pagos si él deja de pagar.
 
 ## ¿Qué requiere un prestamista de un titular de ITIN que quiere ser cofirmante?
 
@@ -98,7 +98,7 @@ En cuanto a documentos, espera presentar:
 - Talones de pago recientes o dos años de declaraciones de impuestos si eres trabajador independiente
 - Estados de cuenta bancarios de 2 a 3 meses
 
-Solo podrás ayudar si tienes buen crédito, lo que equivale a un puntaje FICO de al menos 670. Algunas cooperativas de crédito trabajan con cofirmantes ligeramente por debajo de ese umbral usando sus propios modelos internos de calificación, pero 670 es un punto de referencia razonable antes de aceptar ser cofirmante en cualquier préstamo. Si no estás seguro de cómo está tu puntaje, consultar tu reporte de crédito con un servicio compatible con ITIN es el primer paso correcto. Consulta nuestra guía sobre [cómo verificar tu puntaje de crédito con un ITIN](/how-to-check-credit-score-with-itin-number) si aún no lo has hecho.
+Solo podrás ayudar si tienes buen crédito, lo que equivale a un puntaje FICO de al menos 670. Algunas cooperativas de crédito trabajan con cofirmantes ligeramente por debajo de ese umbral usando sus propios modelos internos de calificación, pero 670 es un punto de referencia razonable antes de aceptar ser cofirmante en cualquier préstamo. Si no estás seguro de cómo está tu puntaje, consultar tu reporte de crédito con un servicio compatible con ITIN es el primer paso correcto. Consulta nuestra guía sobre [cómo verificar tu puntaje de crédito con un ITIN](/es/articles/how-to-check-credit-score-with-itin-number) si aún no lo has hecho.
 
 ## ¿Y si necesito que alguien sea cofirmante PARA MÍ? ¿Cómo construye eso mi crédito?
 
@@ -108,7 +108,7 @@ Si tienes un familiar con buen historial de crédito establecido, puedes pedirle
 
 Desde el punto de vista de la construcción de crédito, cada pago que hagas a tiempo queda reportado a las agencias bajo tu ITIN. La cuenta pasa a formar parte de tu historial de pagos, tu variedad de crédito y la antigüedad de tus cuentas. Por lo general, se necesitan alrededor de seis meses para que haya suficiente información reportada a las agencias de crédito como para generar un puntaje. Un préstamo a plazos con cofirmante, manejado de forma responsable durante seis meses, puede ayudar a un titular de ITIN a generar su primer historial con puntaje más rápido que algunas estrategias independientes.
 
-La obligación que adquieres con tu cofirmante es real. Esa persona está poniendo su reputación crediticia a tu disposición. Configura pagos automáticos, mantenlos informados del estado de la cuenta y considera darles acceso de solo lectura para que nunca se lleven una sorpresa con un aviso de retraso. Si sabes que tu [historial de pagos](/payment-history-itin-credit-score) y tu [utilización de crédito](/credit-utilization-itin-holders) ya son sólidos, presenta documentación de esos hábitos cuando le pidas a alguien que sea tu cofirmante. Eso reduce su riesgo percibido de manera concreta.
+La obligación que adquieres con tu cofirmante es real. Esa persona está poniendo su reputación crediticia a tu disposición. Configura pagos automáticos, mantenlos informados del estado de la cuenta y considera darles acceso de solo lectura para que nunca se lleven una sorpresa con un aviso de retraso. Si sabes que tu [historial de pagos](/es/articles/payment-history-itin-credit-score) y tu [utilización de crédito](/es/articles/credit-utilization-itin-holders) ya son sólidos, presenta documentación de esos hábitos cuando le pidas a alguien que sea tu cofirmante. Eso reduce su riesgo percibido de manera concreta.
 
 ## ¿Cuáles son los mayores riesgos que un titular de ITIN debe conocer antes de ser cofirmante?
 
@@ -122,7 +122,7 @@ Hay tres riesgos que merecen atención especial.
 
 **3. Salir de la cuenta no está garantizado.** La Comisión Federal de Comercio (Federal Trade Commission) explica que algunos estados ofrecen protecciones específicas para los cofirmantes. Fuera de esas protecciones, las únicas salidas confiables son una cláusula de liberación del cofirmante incluida en el contrato original del préstamo, que el prestatario principal refinancie a su nombre únicamente, o que el préstamo se pague por completo. Salir de una cuenta con cofirmante requiere planificación, no solo una llamada telefónica.
 
-Para la mayoría de los titulares de ITIN enfocados en construir su propio historial de crédito, las estrategias individuales como un [préstamo para construir crédito](/credit-builder-loan-with-itin) o una tarjeta asegurada (que explicamos en nuestra [guía de tarjetas aseguradas](/secured-credit-card-credit-score-itin)) no conllevan ninguno de estos riesgos y aun así generan un sólido historial de pagos.
+Para la mayoría de los titulares de ITIN enfocados en construir su propio historial de crédito, las estrategias individuales como un [préstamo para construir crédito](/es/articles/credit-builder-loan-with-itin) o una tarjeta asegurada (que explicamos en nuestra [guía de tarjetas aseguradas](/es/articles/secured-credit-card-credit-score-itin)) no conllevan ninguno de estos riesgos y aun así generan un sólido historial de pagos.
 
 ---
 

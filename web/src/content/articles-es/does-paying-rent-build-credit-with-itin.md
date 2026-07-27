@@ -92,7 +92,7 @@ Para un titular de ITIN típico que es nuevo en el crédito de EE. UU. y que tal
 
 El mecanismo es directo: el historial de pagos es el factor individual más importante tanto en los modelos FICO como VantageScore, y representa aproximadamente el 35% de tu puntaje FICO según los criterios de puntuación publicados por FICO. Cada pago de renta puntual reportado a los burós refuerza ese historial. Puede ser difícil para las personas, y en particular para los inquilinos, encontrar formas confiables de construir crédito. En respuesta, los principales modelos de puntuación crediticia están actualizando sus algoritmos para incluir los pagos de renta en el cálculo del puntaje.
 
-Si también estás trabajando con un [préstamo para construir crédito con tu ITIN](/credit-builder-loan-with-itin) o una [tarjeta de crédito asegurada para titulares de ITIN](/es/articles/secured-credit-card-credit-score-itin), agregar el reporte de renta crea una segunda línea comercial activa con una cadencia de pagos diferente, una combinación que construye tu expediente más rápido que cualquiera de las dos estrategias por separado.
+Si también estás trabajando con un [préstamo para construir crédito con tu ITIN](/es/articles/credit-builder-loan-with-itin) o una [tarjeta de crédito asegurada para titulares de ITIN](/es/articles/secured-credit-card-credit-score-itin), agregar el reporte de renta crea una segunda línea comercial activa con una cadencia de pagos diferente, una combinación que construye tu expediente más rápido que cualquiera de las dos estrategias por separado.
 
 ---
 
@@ -117,7 +117,7 @@ No puedes abrir una cuenta solo con tu número de ITIN; necesitas demostrar qui�
 
 El reporte de renta es en gran medida de bajo riesgo, pero no de riesgo cero. El principal peligro es que **un pago tardío o no realizado sea reportado** si estás inscrito en un servicio que usa reporte activo en lugar de reporte solo positivo. Si usas un servicio de reporte de renta y luego pagas tarde, ese pago tardío puede ser reportado a los burós y dañará tu puntaje de crédito. Un solo pago con 30 días de retraso puede bajar tu puntaje entre 50 y 100 puntos. Solo usa el reporte de renta si pagas puntualmente de manera constante y estás seguro de poder seguir haciéndolo.
 
-El segundo riesgo es una **falta de coincidencia en tu expediente crediticio**. Si tu nombre, dirección o fecha de nacimiento no coincide exactamente con lo que ya está en el sistema del buró, el servicio puede tener dificultades para asociar la línea comercial a tu expediente. Esto es más común en titulares de ITIN que se han mudado recientemente o cuyos nombres pueden tener múltiples variaciones de formato. Si ya obtuviste tu reporte de crédito por correo (como se describe en nuestra guía para [revisar tu puntaje de crédito con un ITIN](/how-to-check-credit-score-with-itin-number)), sabrás exactamente cómo los burós tienen registrada tu información, lo que hace que el proceso de verificación sea mucho más fluido.
+El segundo riesgo es una **falta de coincidencia en tu expediente crediticio**. Si tu nombre, dirección o fecha de nacimiento no coincide exactamente con lo que ya está en el sistema del buró, el servicio puede tener dificultades para asociar la línea comercial a tu expediente. Esto es más común en titulares de ITIN que se han mudado recientemente o cuyos nombres pueden tener múltiples variaciones de formato. Si ya obtuviste tu reporte de crédito por correo (como se describe en nuestra guía para [revisar tu puntaje de crédito con un ITIN](/es/articles/how-to-check-credit-score-with-itin-number)), sabrás exactamente cómo los burós tienen registrada tu información, lo que hace que el proceso de verificación sea mucho más fluido.
 
 Finalmente, algunos servicios requieren pagos mensuales continuos para *mantener* el reporte. Si cancelas, los pagos de renta futuros dejan de aparecer, pero el historial ya reportado generalmente permanece en tu expediente.
 
@@ -139,7 +139,7 @@ El reporte de renta es una pieza del rompecabezas, no el cuadro completo. La may
 
 Una combinación práctica para un titular de ITIN que empieza desde cero en 2026:
 
-1. **Abre un préstamo para construir crédito**, reporta historial de pagos a plazos cada mes. Consulta nuestra guía de [préstamos para construir crédito con ITIN](/credit-builder-loan-with-itin).
+1. **Abre un préstamo para construir crédito**, reporta historial de pagos a plazos cada mes. Consulta nuestra guía de [préstamos para construir crédito con ITIN](/es/articles/credit-builder-loan-with-itin).
 2. **Agrega una tarjeta de crédito asegurada**, establece una línea comercial de crédito rotativo. Nuestra guía de [tarjetas de crédito aseguradas para titulares de ITIN](/es/articles/secured-credit-card-credit-score-itin) cubre las mejores opciones.
 3. **Inscríbete en el reporte de renta**, agrega un segundo (o tercer) pago mensual positivo a tu expediente usando un gasto que ya estás pagando.
 4. **Mantén el uso de crédito por debajo del 30%** en cualquier tarjeta que abras.

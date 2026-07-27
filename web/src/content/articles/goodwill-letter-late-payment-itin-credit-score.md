@@ -42,7 +42,7 @@ For ITIN holders, the answer is yes, it fully applies to you. Your ITIN is simpl
 
 Regardless of immigration status, the goal is to open accounts that report to the credit bureaus and build a consistent record of on-time payments. Some ITIN-based products may not report to all three bureaus, so confirming reporting matters when you choose where to apply. If an account does report to the bureaus, a goodwill letter is always an option when you hit a rough patch.
 
-One thing to keep clear from the start: a goodwill letter is not a dispute. You are not saying the mark is wrong. You are asking for a one-time exception. If you believe the late payment was reported in error, the right tool is a formal dispute with the bureau. You can read more about that process in our guide to [how to dispute credit report errors with an ITIN](/how-to-dispute-credit-report-errors-with-itin).
+One thing to keep clear from the start: a goodwill letter is not a dispute. You are not saying the mark is wrong. You are asking for a one-time exception. If you believe the late payment was reported in error, the right tool is a formal dispute with the bureau. You can read more about that process in our guide to [how to dispute credit report errors with an ITIN](/articles/how-to-dispute-credit-report-errors-with-itin).
 
 ## Why does one late payment matter so much to my ITIN credit score?
 
@@ -52,7 +52,7 @@ Quite a lot. Payment history makes up 35% of your FICO score, more than any othe
 
 Late payments cost you a penalty APR and late fees, but the credit score damage is the bigger problem. A single 30-day late payment can drop your score by 50-75 points or more.
 
-For ITIN holders still building history, the damage is often proportionally worse. A thin credit file, common among newer ITIN holders, means fewer positive accounts to cushion a single negative item. If your file has only two or three accounts, one late mark carries far more weight in scoring models than it would on a file with ten accounts. You can learn how a thin file affects your score in our article on [thin credit file ITIN holders](/thin-credit-file-itin-holder).
+For ITIN holders still building history, the damage is often proportionally worse. A thin credit file, common among newer ITIN holders, means fewer positive accounts to cushion a single negative item. If your file has only two or three accounts, one late mark carries far more weight in scoring models than it would on a file with ten accounts. You can learn how a thin file affects your score in our article on [thin credit file ITIN holders](/articles/thin-credit-file-itin-holder).
 
 That late payment can stay on your credit reports for up to seven years. That is a long time to carry a drag you may be able to remove with a well-written letter.
 
@@ -82,7 +82,7 @@ For a step-by-step framework because most templates online assume an SSN holder 
 
 The structure below is adapted for ITIN holders. Your ITIN status is not something you need to hide or explain in the letter; it is irrelevant to the creditor's decision. What matters is your relationship with that account.
 
-Step 1: Gather the facts first. Pull your credit report from the relevant bureau (Experian, Equifax, or TransUnion) and note the exact date of the late payment, the account number, and how many months you have been current since. You can pull your reports free at AnnualCreditReport.com even with an ITIN. See our full guide on [how to get your free credit report with an ITIN](/how-to-check-credit-score-with-itin-number) for the exact steps.
+Step 1: Gather the facts first. Pull your credit report from the relevant bureau (Experian, Equifax, or TransUnion) and note the exact date of the late payment, the account number, and how many months you have been current since. You can pull your reports free at AnnualCreditReport.com even with an ITIN. See our full guide on [how to get your free credit report with an ITIN](/articles/how-to-check-credit-score-with-itin-number) for the exact steps.
 
 Step 2: Address the right person. Send the letter via certified mail directly to the original creditor, not to the credit bureaus. If you can find the name of the creditor's credit reporting department or executive customer relations team, use it. A named contact gets more attention than a generic address.
 
@@ -102,7 +102,7 @@ First, wait and resend. If declined, give it a few more months of perfect paymen
 
 Second, check whether the reporting is actually accurate. Under the FCRA, you can dispute any item on your credit report that the creditor cannot fully verify. When you file a dispute, the credit bureau must investigate within 30 days. If the creditor cannot verify the late payment with complete documentation, the bureau must remove it. This is different from a goodwill request because it challenges the verifiability of the data, not its accuracy. Older late payments are sometimes harder for creditors to fully document.
 
-Third, outpace the damage with new positive history. If a mark is accurate and removal is not possible, time works in your favor. The drag from derogatory marks fades, especially in the final two years before they drop off. Tools like a [credit builder loan with an ITIN](/credit-builder-loan-with-itin) or a secured card (see our guide on [how a secured card affects your credit score with an ITIN](/secured-credit-card-credit-score-itin)) add fresh on-time payments that dilute the weight of one old late mark.
+Third, outpace the damage with new positive history. If a mark is accurate and removal is not possible, time works in your favor. The drag from derogatory marks fades, especially in the final two years before they drop off. Tools like a [credit builder loan with an ITIN](/articles/credit-builder-loan-with-itin) or a secured card (see our guide on [how a secured card affects your credit score with an ITIN](/articles/secured-credit-card-credit-score-itin)) add fresh on-time payments that dilute the weight of one old late mark.
 
 A late payment can stay on your credit report for up to seven years, but its impact on your score shrinks over time, particularly as you stack consistent on-time payments on top of it.
 
@@ -110,7 +110,7 @@ A late payment can stay on your credit report for up to seven years, but its imp
 
 A goodwill letter is one tactical move inside a longer game. Removing a negative item clears space for your positive history to carry more weight, which speeds up your progress toward a score that opens real financial doors. According to the CFPB, payment history is the single most influential factor in consumer credit scores, so protecting it going forward matters as much as cleaning up the past.
 
-The most effective approach for ITIN holders combines a few things: keep [payment history](/payment-history-itin-credit-score) clean from today forward, keep [credit utilization](/credit-utilization-itin-holders) below 30%, and use a goodwill letter or formal dispute to address any isolated past mistakes. Monitoring your file regularly (see our guide on [credit monitoring with an ITIN](/credit-monitoring-with-itin)) means you catch errors quickly and can act before a small problem turns into a harder-to-fix one.
+The most effective approach for ITIN holders combines a few things: keep [payment history](/articles/payment-history-itin-credit-score) clean from today forward, keep [credit utilization](/articles/credit-utilization-itin-holders) below 30%, and use a goodwill letter or formal dispute to address any isolated past mistakes. Monitoring your file regularly (see our guide on [credit monitoring with an ITIN](/articles/credit-monitoring-with-itin)) means you catch errors quickly and can act before a small problem turns into a harder-to-fix one.
 
 ---
 

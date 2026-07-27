@@ -132,4 +132,4 @@ Si una cuenta legítima sigue sin aparecer después de la fusión, tienes derech
 
 ---
 
-Una vez completada la transferencia, las mismas reglas para construir crédito aplican igual que cuando usabas tu ITIN. Si quieres entender cómo se calcula tu puntaje o explorar herramientas para seguir construyendo desde tu archivo actual, nuestras guías sobre [cómo construir crédito con un número ITIN](/how-to-build-credit-with-itin-number) y [préstamos para construir crédito con un ITIN](/credit-builder-loan-with-itin) explican en detalle qué acciones hacen mayor diferencia.
+Una vez completada la transferencia, las mismas reglas para construir crédito aplican igual que cuando usabas tu ITIN. Si quieres entender cómo se calcula tu puntaje o explorar herramientas para seguir construyendo desde tu archivo actual, nuestras guías sobre [cómo construir crédito con un número ITIN](/es/articles/how-to-build-credit-with-itin-number) y [préstamos para construir crédito con un ITIN](/es/articles/credit-builder-loan-with-itin) explican en detalle qué acciones hacen mayor diferencia.
