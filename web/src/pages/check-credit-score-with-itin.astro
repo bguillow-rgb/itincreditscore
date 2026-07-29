@@ -40,6 +40,15 @@ const quickAnswer =
   heroAlt="A person checking their credit score on a laptop"
 >
 
+  <aside class="calc-hero">
+    <div class="calc-hero-body">
+      <span class="eyebrow">Free 60-second tool</span>
+      <h2 class="calc-hero-h">Not sure where you stand? Start with your ITIN credit readiness</h2>
+      <p>Answer 7 quick questions and get a 0-100 readiness estimate, an approximate score band, and the exact next step to take. No SSN, no signup, and nothing you enter ever leaves your browser.</p>
+      <a href="/credit-readiness-calculator" class="btn btn-primary btn-lg">Open the Credit Readiness Calculator</a>
+    </div>
+  </aside>
+
   <h2>Can you have a credit score with an ITIN?</h2>
   <p>Yes. You can build and hold a full U.S. <strong>credit score with an ITIN</strong>, no Social Security Number required. All three nationwide bureaus, Experian, Equifax, and TransUnion, can open a credit file under an ITIN, and once you have at least one account reporting for six months, FICO and VantageScore will generate a score on that file. A <strong>credit score with an ITIN</strong> is identical to one built with an SSN: it runs 300 to 850, weighs the same five factors (payment history, amounts owed, length of history, new credit, and credit mix), and is read the same way by lenders. The ITIN is simply the tax ID the bureaus use to match your accounts, it does not create a separate or lesser kind of score. If you already have a file, the next step is checking it, covered below.</p>
 
@@ -94,5 +103,18 @@ const quickAnswer =
 
   <h2>What comes after checking your score?</h2>
   <p>Once you know your starting point, you can build a clear plan. If you have no file yet, <a href="/build-credit-history-with-itin">start building one</a>. If you have a score but want it higher, follow the <a href="/improve-credit-score">score improvement guide</a>. If you see errors, dispute them first, fixing inaccuracies is the fastest legitimate way to improve a score. For the full picture of how scoring works end to end, read our complete <a href="/itin-credit-score-guide">ITIN credit score guide</a>. Ready to get matched with tools that accept ITINs? <a href="/apply">Start here</a>.</p>
+
+  <style>
+    .calc-hero {
+      margin: 0 0 28px;
+      padding: 24px 24px 26px;
+      border: 1px solid var(--border);
+      border-left: 4px solid var(--primary);
+      border-radius: var(--radius);
+      background: var(--surface);
+    }
+    .calc-hero-h { margin: 6px 0 8px; }
+    .calc-hero-body p { color: var(--muted); max-width: 46em; margin: 0 0 18px; }
+  </style>
 
 </MoneyPageLayout>

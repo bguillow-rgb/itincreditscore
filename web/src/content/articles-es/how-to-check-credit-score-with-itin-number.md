@@ -84,7 +84,13 @@ CreditWise de Capital One es gratuito y funciona con ITINs, se actualiza semanal
 
 ## ¿Cómo obtengo mi reporte de crédito completo de los tres burós con un ITIN?
 
-Si es necesario contactar a cada buró por separado o si existe un solo portal. Para los titulares de ITIN, lamentablemente, hay que hacerlo con cada buró de forma individual. Aquí está el proceso exacto para cada uno.
+Si es necesario contactar a cada buró por separado o si existe un solo portal. Para los titulares de ITIN, lamentablemente, hay que hacerlo con cada buró de forma individual. Aquí está el proceso exacto para cada uno, y la matriz a continuación muestra cómo se compara cada buró de un vistazo antes de los detalles paso a paso.
+
+| Buró | Ruta gratuita al puntaje en línea | Ruta por correo | ¿Acepta ITIN? | Identificación requerida | Tiempo de entrega |
+|---|---|---|---|---|---|
+| Equifax | Cuenta myEquifax (ingresa el ITIN en el campo de Seguro Social); VantageScore 3.0 gratis | Annual Credit Report, P.O. Box 105281, Atlanta, GA 30348-5281 | Sí | Identificación con foto + comprobante de domicilio | En línea el mismo día; correo 2-4 semanas |
+| Experian | App Bilt Rewards (FICO Score 9 de Experian); herramienta de carga de documentos para el reporte completo | Experian, P.O. Box 9701, Allen, TX 75013 | Sí | Identificación con foto + comprobante de domicilio + carta CP-565 del ITIN | Puntaje en la app el mismo día; reporte por correo 7-12 días |
+| TransUnion | Capital One CreditWise (VantageScore 3.0, actualizado semanalmente) | TransUnion LLC, P.O. Box 2000, Chester, PA 19016 (o solicitud por Live Chat) | Sí | Identificación con foto + comprobante de domicilio | Puntaje en la app al instante; reporte por correo 7-10 días hábiles |
 
 ### Equifax
 

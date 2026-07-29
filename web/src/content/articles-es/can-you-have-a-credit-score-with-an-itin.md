@@ -106,6 +106,30 @@ más confiables para los titulares de ITIN que empiezan desde cero:
 
 Consulta la comparación completa en nuestra [guía para construir historial crediticio con un ITIN](/build-credit-history-with-itin).
 
+## ¿Qué productos específicos aceptan un ITIN?
+
+Las categorías anteriores son la estrategia. A continuación están los productos
+con nombre que los titulares de ITIN realmente usan para abrir esa primera cuenta,
+con los datos que más importan cuando empiezas con un expediente delgado. Cada uno
+acepta un ITIN en lugar de un número de Seguro Social, y cada uno se cubre con más
+detalle en su propia guía.
+
+| Producto | Tipo | ¿Acepta ITIN? | ¿Requiere depósito? | ¿Reporta a los 3 burós? | Cuota anual | ¿Pasa a no asegurada? |
+|---|---|---|---|---|---|---|
+| OpenSky Secured Visa | Tarjeta asegurada | Sí | Sí, reembolsable ($200-$500) | Sí | $0-$35 | Varía según el emisor |
+| Capital One Platinum Secured | Tarjeta asegurada | Sí | Sí, reembolsable ($200-$500) | Sí | Ninguna | Varía según el emisor |
+| Self Credit Builder Account | Préstamo para construir crédito | Sí | No (los pagos se guardan y se devuelven al final) | Sí | Ninguna (plan de $25-$150/mes) | N/D (préstamo a plazos) |
+| Boom | Reporte de renta | Sí | No | Sí | Ninguna (unos $3/mes) | N/D (reporte de renta) |
+| Rental Kharma | Reporte de renta | Sí | No | No (Equifax y TransUnion) | Ninguna ($8.95/mes + $75 de inscripción) | N/D (reporte de renta) |
+
+La mayoría de los emisores revisan las tarjetas aseguradas para pasarte a un
+producto no asegurado después de 6 a 12 meses de pagos puntuales, así que confirma
+la ruta de graduación y el reporte a los tres burós antes de solicitar. Para los
+desgloses completos, consulta nuestras guías sobre
+[tarjetas aseguradas con un ITIN](/es/articles/secured-credit-card-credit-score-itin),
+[préstamos para construir crédito con un ITIN](/es/articles/credit-builder-loan-with-itin) y
+[servicios de reporte de renta que funcionan con un ITIN](/es/articles/rent-reporting-services-itin-credit-building).
+
 ## ¿Cuánto tiempo tarda en generarse un puntaje?
 
 Seis meses de actividad reportada es el mínimo. La mayoría de los titulares de

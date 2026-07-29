@@ -48,14 +48,14 @@ Según un estudio de inmigración de 2026 citado por iSoftPull, solo el 9% de lo
 
 Aquí tienes un cronograma realista para un titular de ITIN que empieza desde cero con una tarjeta de crédito asegurada compatible con ITIN:
 
-| Mes | Qué ocurre | Qué debes hacer |
-|-----|-----------|----------------|
-| 0-1 | La cuenta se abre; se genera el primer estado de cuenta | Confirma que el emisor reporta a los 3 burós |
-| 2-3 | Los primeros 2 o 3 pagos son reportados a los burós | Paga el saldo completo; mantén el uso por debajo del 30% |
-| 3-6 | **Puede aparecer el primer puntaje crediticio** (expediente delgado) | Revisa tu reporte de crédito por correo o a través de la app de tu tarjeta |
-| 6-12 | El puntaje entra al rango Aceptable (580-669) para la mayoría | Evita nuevas consultas duras; considera agregar un préstamo para construir crédito |
-| 12-18 | El puntaje puede alcanzar el rango Bueno (670-739) | Solicita un aumento de límite de crédito o una segunda tarjeta compatible con ITIN |
-| 18-24+ | El rango Muy Bueno (740+) está al alcance | Mantén todas las cuentas abiertas; añade diversidad si es necesario |
+| Mes | Hito | Rango FICO típico | Acción |
+|-----|------|-------------------|--------|
+| 0-1 | La cuenta se abre; se genera el primer estado de cuenta | Todavía sin puntaje | Confirma que el emisor reporta a los 3 burós |
+| 2-3 | Los primeros 2 o 3 pagos son reportados a los burós | Todavía sin puntaje | Paga el saldo completo; mantén el uso por debajo del 30% |
+| 3-6 | Puede aparecer el primer puntaje crediticio (expediente delgado) | Se genera el primer puntaje | Revisa tu reporte de crédito por correo o a través de la app de tu tarjeta |
+| 6-12 | El puntaje entra al rango Aceptable para la mayoría | 580-669 | Evita nuevas consultas duras; considera agregar un préstamo para construir crédito |
+| 12-18 | El puntaje alcanza el rango Bueno | 670-739 | Solicita un aumento de límite de crédito o una segunda tarjeta compatible con ITIN |
+| 18-24+ | El rango Muy Bueno está al alcance | 740+ | Mantén todas las cuentas abiertas; añade diversidad si es necesario |
 
 Estos hitos suponen pagos puntuales cada mes y un uso del crédito constantemente por debajo del 30%. Perder incluso un solo pago frena el avance considerablemente, ya que el historial de pagos representa aproximadamente el 35% de un puntaje FICO, lo que lo convierte en la variable más importante en los primeros meses.
 

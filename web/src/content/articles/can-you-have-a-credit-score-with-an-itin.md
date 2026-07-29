@@ -157,6 +157,28 @@ inquiries.
 | Authorized user | None | Length of history (+ payment history) | Sometimes | A trusted relative will add you |
 | Rent / utility reporting | $0-$10/month | Payment history | Rarely alone | You already pay rent on time |
 
+## Which specific products accept an ITIN?
+
+The categories above are the strategy. Below are the named products ITIN holders
+actually use to open that first account, with the specifics that matter most when
+you're starting from a thin file. Every one accepts an ITIN in place of a Social
+Security Number, and each is covered in more depth on its own guide.
+
+| Product | Type | Accepts ITIN? | Deposit required | Reports to all 3 bureaus? | Annual fee | Graduates to unsecured? |
+|---|---|---|---|---|---|---|
+| OpenSky Secured Visa | Secured card | Yes | Yes, refundable ($200-$500) | Yes | $0-$35 | Varies by issuer |
+| Capital One Platinum Secured | Secured card | Yes | Yes, refundable ($200-$500) | Yes | None | Varies by issuer |
+| Self Credit Builder Account | Credit-builder loan | Yes | No (payments held, returned at the end) | Yes | None ($25-$150/mo plan) | N/A (installment loan) |
+| Boom | Rent reporting | Yes | No | Yes | None (about $3/mo) | N/A (rent reporting) |
+| Rental Kharma | Rent reporting | Yes | No | No (Equifax and TransUnion) | None ($8.95/mo + $75 setup) | N/A (rent reporting) |
+
+Most issuers review secured cards for graduation to an unsecured product after
+6-12 months of on-time payments, so confirm the graduation path and three-bureau
+reporting before you apply. For the full breakdowns, see our guides on
+[secured cards with an ITIN](/articles/secured-credit-card-credit-score-itin),
+[credit-builder loans with an ITIN](/articles/credit-builder-loan-with-itin), and
+[rent reporting services that work with an ITIN](/articles/rent-reporting-services-itin-credit-building).
+
 ## How long does it take to get a score?
 
 Six months of reported activity is the minimum. Most ITIN holders who open a

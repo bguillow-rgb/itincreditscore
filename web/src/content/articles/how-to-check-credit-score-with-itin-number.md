@@ -84,7 +84,13 @@ Capital One's CreditWise is free and works with ITINs, updates weekly, and inclu
 
 ## How do I get my full credit report from all three bureaus with an ITIN?
 
-Whether they need to contact every bureau separately, or if there's a single portal. For ITIN holders, unfortunately, it's each bureau individually. Here's the exact process for each one.
+Whether they need to contact every bureau separately, or if there's a single portal. For ITIN holders, unfortunately, it's each bureau individually. Here's the exact process for each one, and the matrix below shows how each bureau compares at a glance before the step-by-step details.
+
+| Bureau | Free online score path | Mail path | ITIN accepted? | ID required | Delivery time |
+|---|---|---|---|---|---|
+| Equifax | myEquifax account (enter ITIN in the SSN field); free VantageScore 3.0 | Annual Credit Report, P.O. Box 105281, Atlanta, GA 30348-5281 | Yes | Photo ID + proof of address | Online same day; mail 2-4 weeks |
+| Experian | Bilt Rewards app (Experian FICO Score 9); document-upload tool for the full report | Experian, P.O. Box 9701, Allen, TX 75013 | Yes | Photo ID + proof of address + ITIN CP-565 letter | App score same day; mailed report 7-12 days |
+| TransUnion | Capital One CreditWise (VantageScore 3.0, updated weekly) | TransUnion LLC, P.O. Box 2000, Chester, PA 19016 (or Live Chat request) | Yes | Photo ID + proof of address | App score instant; mailed report 7-10 business days |
 
 ### Equifax
 

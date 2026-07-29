@@ -48,14 +48,14 @@ According to a 2026 immigration study cited by iSoftPull, only 9% of immigrant c
 
 Here is a realistic timeline for an ITIN holder starting from zero with one ITIN-friendly secured credit card:
 
-| Month | What Happens | What You Should Do |
-|-------|-------------|--------------------|
-| 0-1 | Account opens; first statement generated | Confirm the issuer reports to all 3 bureaus |
-| 2-3 | First 2-3 payments reported to bureaus | Pay the full balance; keep utilization under 30% |
-| 3-6 | **First credit score may appear** (thin file) | Check your credit report by mail or via your card's app |
-| 6-12 | Score enters Fair range (580-669) for most | Avoid new hard inquiries; consider adding a credit-builder loan |
-| 12-18 | Score can reach Good range (670-739) | Apply for a credit limit increase or a second ITIN-friendly card |
-| 18-24+ | Very Good range (740+) within reach | Keep all accounts open; add diversity if needed |
+| Month | Milestone | Typical FICO range | Action |
+|-------|-----------|--------------------|--------|
+| 0-1 | Account opens; first statement generated | No score yet | Confirm the issuer reports to all 3 bureaus |
+| 2-3 | First 2-3 payments reported to bureaus | No score yet | Pay the full balance; keep utilization under 30% |
+| 3-6 | First credit score may appear (thin file) | First score generated | Check your credit report by mail or via your card's app |
+| 6-12 | Score enters Fair range for most | 580-669 | Avoid new hard inquiries; consider adding a credit-builder loan |
+| 12-18 | Score reaches Good range | 670-739 | Apply for a credit limit increase or a second ITIN-friendly card |
+| 18-24+ | Very Good range within reach | 740+ | Keep all accounts open; add diversity if needed |
 
 These benchmarks assume on-time payments every month and credit utilization consistently below 30%. Missing even one payment resets momentum significantly, payment history accounts for roughly 35% of a FICO score, making it the single most impactful variable in the early months.
 
