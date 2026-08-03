@@ -14,10 +14,10 @@ publishedAt: "2026-07-06"
 author: "Editorial Team"
 category: "Puntaje de crédito"
 relatedSlugs:
+  - "itin-credit-score-check-every-method-2026"
   - "how-to-check-credit-score-with-itin-free-paid-services"
   - "how-to-check-credit-score-with-itin-number"
   - "read-dispute-credit-report-itin-bureau-by-bureau"
-  - "rent-reporting-services-itin-credit-building"
 faqs:
   - q: "¿Puedo consultar mi puntaje de crédito en línea con un ITIN o tengo que hacerlo por correo?"
     a: "Puedes consultarlo en línea. Equifax.com permite a los titulares de ITIN crear una cuenta y acceder a un VantageScore 3.0 gratis cada mes. El plan gratuito de myFICO muestra un FICO Score 8. Credit Karma ofrece un VantageScore de Equifax con actualizaciones frecuentes. Las solicitudes por correo a los tres burós también funcionan y son gratuitas bajo la FCRA, aunque tardan entre 7 y 30 días."

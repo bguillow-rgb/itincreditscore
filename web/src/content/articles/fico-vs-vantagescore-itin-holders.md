@@ -16,8 +16,8 @@ category: "Credit Score"
 relatedSlugs:
   - "why-credit-score-different-each-bureau-itin"
   - "how-credit-scoring-works-with-itin"
+  - "itin-credit-score-check-every-method-2026"
   - "credit-mix-with-itin"
-  - "credit-monitoring-with-itin"
 faqs:
   - q: "Can ITIN holders get a FICO score?"
     a: "Yes. FICO generates a score for any consumer who has at least one credit account that is six months old and has been reported to a bureau within the last six months. Your ITIN links that account data to your file, so the model works identically to how it works for SSN holders."

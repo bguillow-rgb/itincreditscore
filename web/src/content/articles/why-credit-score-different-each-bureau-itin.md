@@ -15,9 +15,9 @@ author: "Research Desk"
 category: "Credit Score"
 relatedSlugs:
   - "fico-vs-vantagescore-itin-holders"
+  - "itin-credit-score-check-every-method-2026"
   - "credit-mix-with-itin"
   - "free-paid-services-check-credit-score-itin-2026"
-  - "goodwill-letter-late-payment-itin-credit-score"
 faqs:
   - q: "Is it normal to have three different credit scores with an ITIN?"
     a: "Yes, completely normal. Each bureau compiles its own credit file independently, so if a lender reports to only one or two bureaus, your files will contain different data and produce different scores. A gap of 20-50 points between bureaus is common and not a cause for concern."

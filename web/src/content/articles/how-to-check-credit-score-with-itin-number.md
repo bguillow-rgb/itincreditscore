@@ -16,8 +16,8 @@ category: "Credit Score"
 relatedSlugs:
   - "free-paid-services-check-credit-score-itin-2026"
   - "how-to-check-credit-score-with-itin-free-paid-services"
+  - "itin-credit-score-check-every-method-2026"
   - "read-dispute-credit-report-itin-bureau-by-bureau"
-  - "utility-bills-credit-score-itin"
 faqs:
   - q: "Can I get my credit report with an ITIN instead of an SSN?"
     a: "Yes. All three bureaus maintain your credit file under your ITIN and will release your report for free, just not through AnnualCreditReport.com's online form, which requires an SSN. Use myEquifax online (ITIN in the SSN field), Experian's document-upload tool or mail request, and TransUnion's live-chat or mail request. Each bureau is contacted individually."

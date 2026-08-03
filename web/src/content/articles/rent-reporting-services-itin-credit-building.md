@@ -16,8 +16,8 @@ category: "Credit Score"
 relatedSlugs:
   - "does-paying-rent-build-credit-with-itin"
   - "experian-boost-alternative-data-itin"
+  - "itin-credit-score-check-every-method-2026"
   - "utility-bills-credit-score-itin"
-  - "free-paid-services-check-credit-score-itin-2026"
 faqs:
   - q: "Can a rent reporting service accept an ITIN instead of an SSN?"
     a: "Yes. Most major rent reporting services accept an ITIN as a valid identifier for bureau matching. You provide your ITIN during signup, and the service uses it to attach the reported payments to your existing credit file at Equifax, TransUnion, or Experian."
