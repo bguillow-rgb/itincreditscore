@@ -41,7 +41,17 @@ const faqs = [
   },
 ];
 ---
-<BaseLayout title={SITE.name} ogImage="/og/home.png">
+<!-- The homepage passes its own `description` rather than falling back to
+     SITE.description. Those are two different jobs: SITE.description is the
+     ENTITY description and feeds Organization + WebSite schema and the RSS
+     feed, where a stable, complete sentence is right. This one is the SERP
+     snippet, where 248 characters truncate mid-phrase and the opening words
+     are the only ones a searcher reads. Keep them separate. -->
+<BaseLayout
+  title={SITE.name}
+  description="Free guides for ITIN holders building U.S. credit with no Social Security number: the three bureaus, secured cards, credit-builder loans, and what moves your score."
+  ogImage="/og/home.png"
+>
   <!-- Hero: flipped "guide" layout, calm visual on the left, generous reassuring
        copy on the right. Distinct markup/class names from the sister sites. -->
   <section class="guide-hero">
