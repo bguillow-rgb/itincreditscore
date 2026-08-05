@@ -17,7 +17,7 @@ relatedSlugs:
   - "credit-age-itin-holders"
   - "credit-score-renting-apartment-itin"
   - "secured-credit-card-credit-score-itin"
-  - "thin-credit-file-itin-holder"
+  - "self-employed-itin-credit-score"
 faqs:
   - q: "Does closing my first secured credit card hurt my ITIN credit score?"
     a: "Almost certainly yes. Your first account is typically your oldest and your only source of revolving credit. Closing it can shorten your credit age, spike your utilization to 100%, and eliminate your only revolving tradeline, all three negative factors hitting at once on a file that may have only one or two accounts total."

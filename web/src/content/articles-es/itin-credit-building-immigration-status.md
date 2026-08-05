@@ -17,7 +17,7 @@ relatedSlugs:
   - "does-paying-rent-build-credit-with-itin"
   - "free-paid-services-check-credit-score-itin-2026"
   - "identity-theft-itin-credit-score"
-  - "credit-age-itin-holders"
+  - "self-employed-itin-credit-score"
 faqs:
   - q: "¿Los burós de crédito reportan a los titulares de ITIN a ICE o a las autoridades migratorias?"
     a: "No. Equifax, Experian y TransUnion están sujetos a la Ley de Privacidad Financiera, que les prohíbe divulgar voluntariamente tu información financiera a cualquier agencia gubernamental sin un proceso legal válido, como una orden judicial o una citación. La actividad normal de construcción de crédito no se comparte con las autoridades de inmigración."

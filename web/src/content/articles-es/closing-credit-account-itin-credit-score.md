@@ -17,7 +17,7 @@ relatedSlugs:
   - "credit-age-itin-holders"
   - "secured-credit-card-credit-score-itin"
   - "expired-itin-credit-score-impact"
-  - "authorized-user-credit-building-itin"
+  - "self-employed-itin-credit-score"
 faqs:
   - q: "¿Cerrar mi primera tarjeta de crédito asegurada daña mi puntaje con ITIN?"
     a: "Casi con toda seguridad, sí. Tu primera cuenta suele ser la más antigua y tu única fuente de crédito rotativo. Cerrarla puede acortar la antigüedad de tu crédito, disparar tu utilización al 100% y eliminar tu única línea rotativa. Los tres factores negativos te golpean al mismo tiempo en un archivo que quizás solo tiene una o dos cuentas en total."

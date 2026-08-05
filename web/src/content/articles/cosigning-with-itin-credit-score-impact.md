@@ -16,8 +16,8 @@ category: "Credit Score"
 relatedSlugs:
   - "authorized-user-credit-building-itin"
   - "secured-credit-card-credit-score-itin"
+  - "self-employed-itin-credit-score"
   - "itin-credit-building-immigration-status"
-  - "payment-history-itin-credit-score"
 faqs:
   - q: "Can an ITIN holder be a cosigner on a loan?"
     a: "Yes. Many lenders, including credit unions and some banks, accept an ITIN as valid identification for a cosigner. You will still need to meet the lender's credit score and debt-to-income requirements. Not every lender allows ITIN cosigners, so confirm the policy before applying."

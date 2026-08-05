@@ -16,8 +16,8 @@ category: "Credit Score"
 relatedSlugs:
   - "cosigning-with-itin-credit-score-impact"
   - "credit-score-car-insurance-rates-itin"
+  - "self-employed-itin-credit-score"
   - "credit-age-itin-holders"
-  - "credit-monitoring-with-itin"
 faqs:
   - q: "Does credit utilization work differently for ITIN holders than for SSN holders?"
     a: "No. Credit scoring models evaluate credit behavior, not the type of identification number on file. Whether your accounts report under an ITIN or an SSN, the utilization ratio is calculated and weighted identically in both FICO and VantageScore models."
