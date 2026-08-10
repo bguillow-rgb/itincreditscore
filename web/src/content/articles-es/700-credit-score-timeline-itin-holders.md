@@ -14,10 +14,10 @@ publishedAt: "2026-07-13"
 author: "Research Desk"
 category: "Puntaje de Crédito"
 relatedSlugs:
+  - "itin-700-credit-score-month-by-month-plan"
   - "how-to-build-credit-with-itin-number"
   - "how-long-to-build-credit-with-itin"
   - "payment-history-itin-credit-score"
-  - "credit-monitoring-with-itin"
 faqs:
   - q: "¿Cuánto tiempo tarda un titular de ITIN en obtener su primer puntaje de crédito?"
     a: "FICO requiere al menos una cuenta con seis meses de antigüedad que haya reportado dentro de los últimos seis meses. La mayoría de los titulares de ITIN ven su primer puntaje FICO generado alrededor del mes 6 después de abrir una cuenta que reporta, y suele aparecer entre 640 y 700. VantageScore puede aparecer incluso antes, a veces después de solo uno o dos meses de actividad reportada."

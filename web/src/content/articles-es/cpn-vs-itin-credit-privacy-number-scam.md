@@ -17,7 +17,7 @@ relatedSlugs:
   - "foreign-credit-history-itin-us-credit-score"
   - "700-credit-score-timeline-itin-holders"
   - "cosigning-with-itin-credit-score-impact"
-  - "credit-monitoring-with-itin"
+  - "itin-700-credit-score-month-by-month-plan"
 faqs:
   - q: "¿Es legal usar un CPN en algún caso?"
     a: "Ninguna agencia federal ni estatal emite CPN, así que no existe una forma legal de obtener uno. Escribir un CPN en el campo del SSN de una solicitud de crédito es mentirle al prestamista sobre tu identidad, y eso es un delito federal sin importar lo que te haya dicho el vendedor. La FTC clasifica las ofertas de CPN como fraude de reparación de crédito."

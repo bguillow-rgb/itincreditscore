@@ -14,10 +14,10 @@ publishedAt: "2026-07-13"
 author: "Research Desk"
 category: "Credit Score"
 relatedSlugs:
+  - "itin-700-credit-score-month-by-month-plan"
   - "how-long-to-build-credit-with-itin"
   - "how-to-build-credit-with-itin-number"
   - "secured-credit-card-credit-score-itin"
-  - "authorized-user-credit-building-itin"
 faqs:
   - q: "How long does it take for an ITIN holder to get a first credit score?"
     a: "FICO requires at least one account that is six months old and has reported within the last six months. Most ITIN holders see their first FICO score generated around month 6 after opening a reporting account, often debuting in the 640-700 range. VantageScore can appear even earlier, sometimes after just one or two months of reported activity."
