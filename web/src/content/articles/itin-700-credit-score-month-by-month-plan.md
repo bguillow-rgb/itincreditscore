@@ -17,7 +17,7 @@ relatedSlugs:
   - "700-credit-score-timeline-itin-holders"
   - "itin-700-credit-score-realistic-timeline"
   - "how-long-to-build-credit-with-itin"
-  - "how-to-build-credit-with-itin-number"
+  - "itin-700-credit-score-fastest-path"
 faqs:
   - q: "Can I get a 700 credit score with an ITIN?"
     a: "Yes. Your ITIN credit score uses the same FICO and VantageScore models as an SSN-based file and ranges from 300 to 850. A 700 is fully achievable, typically within 18-24 months of opening your first reporting account."

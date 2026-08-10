@@ -17,7 +17,7 @@ relatedSlugs:
   - "itin-700-credit-score-month-by-month-plan"
   - "700-credit-score-timeline-itin-holders"
   - "how-long-to-build-credit-with-itin"
-  - "how-to-build-credit-with-itin-number"
+  - "itin-700-credit-score-fastest-path"
 faqs:
   - q: "Does having an ITIN instead of an SSN slow down credit building?"
     a: "No. Once a reporting account is open under your ITIN, the bureaus score it with the exact same FICO and VantageScore models used for SSN holders. Your ITIN status does not slow the timeline."

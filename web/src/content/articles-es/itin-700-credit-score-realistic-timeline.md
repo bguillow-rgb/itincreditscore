@@ -17,7 +17,7 @@ relatedSlugs:
   - "700-credit-score-timeline-itin-holders"
   - "itin-700-credit-score-month-by-month-plan"
   - "how-long-to-build-credit-with-itin"
-  - "collections-on-credit-report-itin-holders"
+  - "itin-700-credit-score-fastest-path"
 faqs:
   - q: "¿Tener ITIN en lugar de SSN retrasa la construcción de crédito?"
     a: "No. Una vez que tienes una cuenta activa reportando bajo tu ITIN, las agencias de crédito la evalúan con los mismos modelos FICO y VantageScore que usan para los titulares de SSN. Tu estatus de ITIN no ralentiza el proceso."
