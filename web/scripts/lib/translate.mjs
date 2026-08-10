@@ -9,9 +9,6 @@ import { fileURLToPath } from 'node:url';
 const MODEL = process.env.TRANSLATE_MODEL || 'claude-sonnet-4-6';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const SRC = path.resolve(__dirname, '..', '..', 'src');
-
-const ASSET_RE = /\.(xml|txt|png|svg|ico|webp|jpe?g|gif|css|js|mjs|woff2?|json|pdf|avif|mp4|webmanifest)$/i;
 
 const SYSTEM = `You are a professional financial translator. You translate U.S. ITIN / lending content from English into Latin-American Spanish (es-419) for a real audience of immigrants and ITIN holders.
 
@@ -79,70 +76,7 @@ ${JSON.stringify(payload)}
     throw new Error('translate: translation dropped all FAQs');
   }
 
-  // The translator is told to leave URLs alone (correct: it must not invent
-  // paths). But an untouched URL is an ENGLISH path, so every internal link in
-  // a Spanish article pointed at the English page, and Spanish readers were
-  // being sent out of their own locale. Localize internal links deterministically
-  // here rather than asking the model to do it.
-  out.bodyMarkdown = localizeInternalLinks(out.bodyMarkdown);
-  out.quickAnswer = localizeInternalLinks(out.quickAnswer);
-  out.description = localizeInternalLinks(out.description);
-  if (Array.isArray(out.faqs)) {
-    out.faqs = out.faqs.map((f) => ({
-      ...f,
-      q: localizeInternalLinks(f.q),
-      a: localizeInternalLinks(f.a),
-    }));
-  }
-
   return out;
 }
 
-// Does a Spanish twin exist for this English path? Mirrors the leak rule in
-// scripts/check-links.mjs ("only a leak when /es<path> resolves"), but against
-// the source tree, since translation happens before anything is built.
-function hasEsTwin(urlPath) {
-  const clean = urlPath.replace(/[?#].*$/, '').replace(/\/+$/, '');
-  if (!clean || clean === '/') return true; // "/" has "/es"
-  const seg = clean.replace(/^\/+/, '').split('/');
-
-  // Articles render from the es-419 collection via es/articles/[...slug].astro.
-  if (seg[0] === 'articles') {
-    if (seg.length === 1) return true; // /articles -> /es/articles
-    if (seg.length !== 2) return false;
-    return existsSync(path.join(SRC, 'content', 'articles-es', `${seg[1]}.md`));
-  }
-
-  if (seg.length === 1) {
-    return (
-      existsSync(path.join(SRC, 'pages', 'es', `${seg[0]}.astro`)) ||
-      existsSync(path.join(SRC, 'pages', 'es', seg[0], 'index.astro'))
-    );
-  }
-
-  // Nested paths, served by a dynamic [param].astro under the matching es/ dir.
-  const dir = path.join(SRC, 'pages', 'es', ...seg.slice(0, -1));
-  if (!existsSync(dir)) return false;
-  const leaf = seg[seg.length - 1];
-  if (existsSync(path.join(dir, `${leaf}.astro`))) return true;
-  return readdirSync(dir).some((f) => /^\[.+\]\.astro$/.test(f));
-}
-
 // Matches a markdown link target or an href/src value that is a site-absolute path.
-const LINK_RE = /(\]\(|(?:href|src)=["'])(\/[^)"'\s#?]*(?:[#?][^)"'\s]*)?)/g;
-
-// Rewrite site-internal links to their /es counterpart, but ONLY where a Spanish
-// twin actually exists. The previous version rewrote unconditionally, which turns
-// a link to an English-only page into an /es/ 404 — trading a locale leak for a
-// broken link — and mangled asset paths (/foo.png -> /es/foo.png) the same way.
-// External links, anchors, mailto:, assets, and already-localized /es/... paths
-// are left untouched.
-export function localizeInternalLinks(text) {
-  if (typeof text !== 'string') return text;
-  return text.replace(LINK_RE, (match, prefix, target) => {
-    if (target === '/es' || target.startsWith('/es/')) return match;
-    if (ASSET_RE.test(target)) return match;
-    if (!hasEsTwin(target)) return match;
-    return `${prefix}/es${target}`;
-  });
-}
