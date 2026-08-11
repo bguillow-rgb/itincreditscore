@@ -1,36 +1,21 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
-import LeadForm from '../../components/LeadForm.astro';
-import Icon from '../../components/Icon.astro';
 
-const title = 'Empieza a Construir Crédito con un ITIN';
+const title = 'Encuentra Recursos para Construir Crédito con ITIN';
 const description =
-  'Conéctate con herramientas para construir crédito que aceptan ITIN, tarjetas aseguradas, préstamos para crédito y más. Sin Seguro Social. Gratis y revisar no afecta tu crédito.';
+  'Explora nuestras guías independientes para encontrar herramientas de crédito, tarjetas aseguradas y préstamos para construir historial crediticio con un ITIN.';
 ---
 <BaseLayout title={title} description={description} path="/es/apply" noindex={true}>
   <section class="section">
-    <div class="container hero-grid">
-      <div>
-        <span class="eyebrow">Gratis y sin afectar tu crédito</span>
-        <h1>Empieza a construir crédito con un ITIN</h1>
-        <p class="lede">
-          Cuéntanos tu meta para construir crédito y te conectamos con
-          herramientas que aceptan ITIN, tarjetas aseguradas, préstamos para
-          crédito y más. Sin Seguro Social, sin compromiso, y revisar tus
-          opciones nunca afecta tu puntaje de crédito.
-        </p>
-        <ul class="lead-list" style="color:var(--muted)">
-          <li><strong style="color:var(--text)">Hecho para personas con ITIN</strong>, aquí las herramientas aceptan el ITIN en lugar de un Seguro Social.</li>
-          <li><strong style="color:var(--text)">Todas las etapas de construir crédito</strong>, empezar de cero, mejorar un puntaje o agregar una cuenta nueva.</li>
-          <li><strong style="color:var(--text)">Sin presión</strong>, explora opciones y decide a tu propio ritmo.</li>
-        </ul>
-        <p style="display:inline-flex;align-items:center;gap:8px;color:var(--accent-dark);font-weight:600">
-          <Icon name="shield" size={20} /> Tu información se mantiene privada.
-        </p>
-      </div>
-      <div>
-        <LeadForm heading="Conéctate con herramientas para construir crédito" />
-      </div>
+    <div class="container narrow" style="text-align:center;padding:48px 0">
+      <h1>Encuentra recursos para construir crédito con un ITIN</h1>
+      <p class="lede" style="margin:0 auto 24px;max-width:36em">
+        Explora nuestras guías para encontrar herramientas de crédito, tarjetas
+        aseguradas y préstamos para construir historial crediticio con un ITIN,
+        sin Seguro Social.
+      </p>
+      <a class="btn btn-primary btn-lg" href="/es/itin-credit-score-guide">Ver guías de crédito con ITIN</a>
+      <p style="margin-top:20px"><a href="/es/articles">Ver todas las guías &rarr;</a></p>
     </div>
   </section>
 </BaseLayout>
