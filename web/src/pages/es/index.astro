@@ -3,7 +3,6 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import Icon from '../../components/Icon.astro';
 import CreditKarmaAd from '../../components/CreditKarmaAd.astro';
 import FAQ from '../../components/FAQ.astro';
-import AdSlot from '../../components/AdSlot.astro';
 import FhaPromo from '../../components/FhaPromo.astro';
 import { SITE, PRODUCTS } from '../../consts';
 
@@ -39,14 +38,13 @@ const faqs = [
         <figure class="guide-hero-figure">
           <img src="/img/credit-building.webp" alt="Una persona revisando su puntaje de crédito en crecimiento en el teléfono" width="640" height="480" loading="eager" fetchpriority="high" decoding="async" />
         </figure>
-      <!-- Former lead-form slot. Lead gen was removed 2026-08-11; this prime
-           above-fold space now runs a display unit. Reuses the moneyFooter ad
-           unit rather than a new one, so AdSense reporting aggregates the two
-           positions. No `id="lead"` here on purpose: nothing should anchor a
-           CTA at an ad unit. -->
-        <div class="ihero-form ihero-ad">
-          <AdSlot slot={SITE.monetize.adSlots.moneyFooter} />
-        </div>
+      <!-- Antiguo espacio del formulario (captación eliminada el 2026-08-11).
+           Muestra la unidad de Credit Karma (Awin), NO AdSense: AdSense salía en
+           blanco y dejaba un recuadro vacío en el espacio principal. Sin
+           `id="lead"`: ningún CTA debe apuntar a un anuncio. -->
+      <div class="ihero-form">
+        <CreditKarmaAd topic="score" />
+      </div>
       </div>
       <div class="guide-hero-copy">
         <span class="guide-eyebrow">Sin Seguro Social</span>
