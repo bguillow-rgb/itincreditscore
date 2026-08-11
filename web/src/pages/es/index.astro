@@ -3,7 +3,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import Icon from '../../components/Icon.astro';
 import CreditKarmaAd from '../../components/CreditKarmaAd.astro';
 import FAQ from '../../components/FAQ.astro';
-import LeadForm from '../../components/LeadForm.astro';
+import AdSlot from '../../components/AdSlot.astro';
 import FhaPromo from '../../components/FhaPromo.astro';
 import { SITE, PRODUCTS } from '../../consts';
 
@@ -39,8 +39,13 @@ const faqs = [
         <figure class="guide-hero-figure">
           <img src="/img/credit-building.webp" alt="Una persona revisando su puntaje de crédito en crecimiento en el teléfono" width="640" height="480" loading="eager" fetchpriority="high" decoding="async" />
         </figure>
-        <div class="ihero-form" id="lead">
-          <LeadForm compact heading="Empieza a construir crédito — gratis" />
+      <!-- Former lead-form slot. Lead gen was removed 2026-08-11; this prime
+           above-fold space now runs a display unit. Reuses the moneyFooter ad
+           unit rather than a new one, so AdSense reporting aggregates the two
+           positions. No `id="lead"` here on purpose: nothing should anchor a
+           CTA at an ad unit. -->
+        <div class="ihero-form ihero-ad">
+          <AdSlot slot={SITE.monetize.adSlots.moneyFooter} />
         </div>
       </div>
       <div class="guide-hero-copy">
@@ -53,7 +58,7 @@ const faqs = [
           crediticio sólido desde cero, paso a paso, en español claro.
         </p>
         <div class="guide-hero-actions">
-          <a href="#lead" class="btn btn-primary btn-lg">Empieza a construir crédito</a>
+          <a href="/es/itin-credit-score-guide" class="btn btn-primary btn-lg">Empieza a construir crédito</a>
           <a href="/es/itin-credit-score-guide" class="btn btn-secondary btn-lg">Cómo funciona</a>
         </div>
         <div class="guide-hero-assurances">
@@ -66,7 +71,7 @@ const faqs = [
   </section>
 
   <!-- Promo de socio FHA-para-ITIN. El CTA principal salta al formulario del hero (#lead). -->
-  <FhaPromo href="#lead" />
+  <FhaPromo />
 
   <!-- Products -->
   <section class="section">
