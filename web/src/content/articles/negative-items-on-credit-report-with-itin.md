@@ -15,9 +15,9 @@ author: "Editorial Team"
 category: "Credit Score"
 relatedSlugs:
   - "late-payment-on-credit-report-itin-holders"
+  - "derogatory-marks-credit-report-itin-holders"
   - "collections-on-credit-report-itin-holders"
   - "goodwill-letter-late-payment-itin-credit-score"
-  - "hard-inquiries-itin-credit-score"
 faqs:
   - q: "Do late payments hurt an ITIN credit score the same way they hurt an SSN credit score?"
     a: "Yes. The scoring models (FICO and VantageScore) treat late payments identically regardless of whether your file is linked to an ITIN or an SSN. Payment history is the single largest factor in both models, so even one 30-day late payment can noticeably drop your score."

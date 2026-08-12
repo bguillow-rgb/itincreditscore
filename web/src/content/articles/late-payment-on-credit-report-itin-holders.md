@@ -15,9 +15,9 @@ author: "Editorial Team"
 category: "Credit Score"
 relatedSlugs:
   - "collections-on-credit-report-itin-holders"
+  - "derogatory-marks-credit-report-itin-holders"
   - "goodwill-letter-late-payment-itin-credit-score"
   - "negative-items-on-credit-report-with-itin"
-  - "payment-history-itin-credit-score"
 faqs:
   - q: "Does a late payment affect an ITIN credit file differently than an SSN file?"
     a: "No. The FCRA and FICO/VantageScore rules treat ITIN and SSN files identically. A late payment is reported, scored, and removed on the same schedule regardless of which tax ID is on the account."

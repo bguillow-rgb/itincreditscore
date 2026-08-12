@@ -17,7 +17,7 @@ relatedSlugs:
   - "late-payment-on-credit-report-itin-holders"
   - "collections-on-credit-report-itin-holders"
   - "payment-history-itin-credit-score"
-  - "identity-theft-itin-credit-score"
+  - "derogatory-marks-credit-report-itin-holders"
 faqs:
   - q: "Can I send a goodwill letter as an ITIN holder, not an SSN holder?"
     a: "Yes. A goodwill letter is a direct request to your creditor, not a government form. Your ITIN or SSN does not affect whether the creditor considers or honors the request. What matters is your account history with that specific lender."
