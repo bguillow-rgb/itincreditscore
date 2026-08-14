@@ -15,9 +15,9 @@ author: "Editorial Team"
 category: "Puntaje de crédito"
 relatedSlugs:
   - "credit-age-itin-holders"
+  - "how-many-accounts-to-build-credit-score-itin"
   - "itin-credit-building-immigration-status"
   - "closing-credit-account-itin-credit-score"
-  - "expired-itin-credit-score-impact"
 faqs:
   - q: "¿Los ingresos de 1099 o el trabajo por encargo bajan mi puntaje de crédito con ITIN?"
     a: "No. Los modelos de puntaje crediticio no saben ni les importa si tus ingresos vienen de un W-2 o de contratos 1099. Tu puntaje se calcula a partir del historial de pagos, el uso del crédito, la antigüedad de las cuentas, la variedad de crédito y las consultas recientes, ninguno de esos factores está relacionado con el tipo de empleo."

@@ -15,9 +15,9 @@ author: "Research Desk"
 category: "Credit Score"
 relatedSlugs:
   - "credit-age-itin-holders"
+  - "how-many-accounts-to-build-credit-score-itin"
   - "how-to-raise-credit-score-with-itin"
   - "itin-700-credit-score-fastest-path"
-  - "itin-700-credit-score-month-by-month-plan"
 faqs:
   - q: "Does credit mix affect my FICO score if I use an ITIN instead of an SSN?"
     a: "Yes. The scoring model treats your file the same way regardless of whether it is anchored to an ITIN or an SSN. Credit mix accounts for about 10% of a standard FICO score, and that percentage applies to ITIN holders just as it does to any other consumer."
