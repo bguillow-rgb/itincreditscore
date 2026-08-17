@@ -1,6 +1,6 @@
 ---
-title: "Cómo disputar errores en tu reporte de crédito con un ITIN (2026)"
-description: "Sí, los titulares de ITIN tienen los mismos derechos de disputa bajo la FCRA que los titulares de SSN. Aprende a identificar errores, presentar disputas en las 3 burós y proteger tu puntaje de crédito."
+title: "Cómo disputar errores en tu reporte de crédito con ITIN"
+description: "Con ITIN tienes los mismos derechos que con seguro social bajo la FCRA. Los expedientes con ITIN se mezclan más de lo normal: cómo detectarlo y disputarlo en los tres burós."
 tier: detail
 targetQuery: "cómo disputar errores en el reporte de crédito con ITIN"
 relatedQueries:

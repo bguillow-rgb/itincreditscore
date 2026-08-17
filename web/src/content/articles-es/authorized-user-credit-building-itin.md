@@ -1,6 +1,6 @@
 ---
-title: "Usuario autorizado con ITIN: cómo construir crédito en EE. UU."
-description: "Sí, puedes ser agregado como usuario autorizado con un ITIN. Aprende cómo afecta tu puntaje de crédito, qué emisores lo permiten y qué debes tener en cuenta."
+title: "Usuario autorizado con ITIN: cómo construir crédito"
+description: "No necesitas seguro social. Que te agreguen a la tarjeta de un familiar puede darte historial en los tres burós. Qué emisores lo permiten y cuándo te conviene."
 tier: detail
 targetQuery: "puedo ser agregado como usuario autorizado con ITIN"
 relatedQueries:

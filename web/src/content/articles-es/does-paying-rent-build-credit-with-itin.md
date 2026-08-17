@@ -1,6 +1,6 @@
 ---
-title: "¿Pagar el alquiler genera historial crediticio con un ITIN? (2026)"
-description: "Sí, los pagos de renta pueden construir tu crédito en EE. UU. con un ITIN. Descubre qué servicios de reporte de renta funcionan sin SSN, a qué burós reportan y qué puedes esperar."
+title: "¿Pagar renta construye crédito con un ITIN?"
+description: "La renta no aparece sola en tu reporte. Qué servicios la reportan a los burós aceptando ITIN, cuánto cobran al mes y cuánto puede subir tu puntaje de crédito."
 tier: detail
 targetQuery: "pagar renta genera historial de crédito con ITIN"
 relatedQueries:

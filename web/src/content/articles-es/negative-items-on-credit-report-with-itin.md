@@ -1,6 +1,6 @@
 ---
-title: "Elementos Negativos en Tu Reporte de Crédito con ITIN (Guía 2026)"
-description: "Las marcas negativas afectan cualquier historial crediticio, incluyendo los de ITIN. Aprende cuánto tiempo permanecen, cómo impactan tu puntaje y cómo recuperarte más rápido como titular de ITIN."
+title: "Cuentas negativas en tu reporte de crédito con ITIN"
+description: "Cuánto tiempo se queda cada marca negativa, cuáles puedes disputar y cuáles solo se borran con el tiempo. Con ITIN aplican las mismas reglas que con seguro social."
 tier: detail
 targetQuery: "elementos negativos en reporte de crédito con ITIN"
 relatedQueries:

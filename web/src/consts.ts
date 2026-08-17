@@ -7,6 +7,14 @@ export const SITE = {
   legalName: 'ITINCreditScore.com',
   tagline: 'Build a U.S. Credit Score With an ITIN, No SSN Needed',
   taglineEs: 'Puntaje de Crédito y Construcción de Crédito para Personas con ITIN',
+  // SERP title for the two homepages. Kept separate from `tagline` (which is
+  // used as on-page display copy) because the homepage branch in BaseLayout
+  // renders `${SITE.name} | ${homeTitle}` and the taglines pushed that to 73
+  // chars in EN and 87 in ES — past Google's ~60-character cut. `/es` is the
+  // property's single biggest Spanish impression earner, so it was losing the
+  // words that identify it. Keep both under 43 chars so the brand fits.
+  homeTitle: 'Check & Build Credit With No SSN',
+  homeTitleEs: 'Puntaje de crédito con ITIN, sin SSN',
   description:
     'ITINCreditScore.com helps ITIN holders build a U.S. credit history, check their credit score without an SSN, and raise it, covering the credit bureaus, credit-builder tools, and what actually moves your score. Independent guides and tools matching.',
   descriptionEs:

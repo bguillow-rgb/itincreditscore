@@ -1,6 +1,6 @@
 ---
-title: "Antigüedad del crédito e ITIN: cómo el historial de cuentas afecta tu puntaje"
-description: "Aprende cómo la antigüedad de tu historial crediticio afecta tu puntaje con ITIN, qué cuentas debes mantener abiertas y cómo aumentar estratégicamente la edad promedio de tus cuentas."
+title: "Antigüedad del crédito con ITIN: cómo afecta tu puntaje"
+description: "La edad de tus cuentas pesa el 15% de tu puntaje FICO. Por qué cerrar una tarjeta vieja te baja el puntaje, qué cuentas conviene dejar abiertas y cómo se cuenta el tiempo."
 tier: detail
 targetQuery: "cómo afecta la antigüedad del historial crediticio a tu puntaje con ITIN"
 relatedQueries:

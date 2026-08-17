@@ -1,6 +1,6 @@
 ---
-title: "Préstamos para Construir Crédito con ITIN (Guía 2026)"
-description: "Sí, los titulares de ITIN pueden obtener préstamos para construir crédito. Descubre qué prestamistas aceptan ITIN, cómo funcionan estos préstamos y qué tan rápido mejoran tu historial crediticio en EE. UU. en 2026."
+title: "Préstamos para construir crédito con ITIN (2026)"
+description: "Sí, puedes sacar uno con ITIN y sin seguro social. Qué prestamistas los aceptan, cuánto cuestan al mes y en cuánto tiempo aparece el historial en los tres burós."
 tier: detail
 targetQuery: "préstamo para construir crédito con ITIN"
 relatedQueries:
