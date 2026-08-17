@@ -147,16 +147,11 @@ const loanTypesHeading = isEs ? 'Temas de Crédito' : 'Credit Topics';
           <a href={L('/disclosure')}>Advertiser Disclosure</a>.
         </p>
       )}
-      {isEs ? (
-        <p class="fha-legal">
-          * El programa de préstamo FHA con 3.5% de enganche es ofrecido por un
-          socio prestamista externo, no por {SITE.name}. No es una garantía de
-          aprobación, tasa ni condiciones. Todo financiamiento está sujeto a
-          suscripción del prestamista, aprobación crediticia, verificación de
-          ingresos y requisitos de elegibilidad del programa, los cuales varían
-          según el estado y pueden cambiar sin previo aviso.
-        </p>
-      ) : (
+      {/* English only. The asterisk this note explains comes from the FHA promo,
+          which no longer renders on any Spanish page (see BaseLayout). Keeping
+          the Spanish copy would orphan a footnote to a claim that isn't there
+          and would put loan wording back on /es/apply. */}
+      {!isEs && (
         <p class="fha-legal">
           * The FHA loan program with 3.5% down is offered by a third-party
           lending partner, not by {SITE.name}. It is not a guarantee of

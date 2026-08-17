@@ -3,7 +3,6 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import Icon from '../../components/Icon.astro';
 import CreditKarmaAd from '../../components/CreditKarmaAd.astro';
 import FAQ from '../../components/FAQ.astro';
-import FhaPromo from '../../components/FhaPromo.astro';
 import { SITE, PRODUCTS } from '../../consts';
 
 const faqs = [
@@ -68,8 +67,9 @@ const faqs = [
     </div>
   </section>
 
-  <!-- Promo de socio FHA-para-ITIN. El CTA principal salta al formulario del hero (#lead). -->
-  <FhaPromo />
+  {/* Promo FHA retirado de las páginas en español el 2026-08-17: un comprador de
+      llamadas de reparación de crédito rechazó la campaña por la mención de
+      préstamos. El promo sigue activo en las páginas en inglés. */}
 
   <!-- Products -->
   <section class="section">

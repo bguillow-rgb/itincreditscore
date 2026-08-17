@@ -95,11 +95,14 @@ const fullTitle =
     <slot name="head" />
   </head>
   <body>
-    <div class="announce-bar">
-      {lang === 'es'
-        ? <>Préstamos FHA para compradores con ITIN, con 3.5% de enganche.* <a href="/es/apply">Verifica si calificas</a></>
-        : <>FHA home loans for ITIN buyers, with 3.5% down.* <a href="/apply">See if you qualify</a></>}
-    </div>
+    {/* English only. A pay-per-call credit-repair buyer rejected campaign
+        #350906 over the FHA wording on /es/apply: loan messaging reads as the
+        wrong audience for a credit-repair offer. Removed 2026-08-17. */}
+    {lang !== 'es' && (
+      <div class="announce-bar">
+        FHA home loans for ITIN buyers, with 3.5% down.* <a href="/apply">See if you qualify</a>
+      </div>
+    )}
     <Nav />
     <main>
       <slot />
