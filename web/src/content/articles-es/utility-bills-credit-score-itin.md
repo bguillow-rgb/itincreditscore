@@ -15,8 +15,8 @@ author: "Editorial Staff"
 category: "Puntaje de crédito"
 relatedSlugs:
   - "experian-boost-alternative-data-itin"
-  - "secured-credit-card-credit-score-itin"
   - "does-paying-rent-build-credit-with-itin"
+  - "secured-credit-card-credit-score-itin"
   - "credit-mix-with-itin"
 faqs:
   - q: "¿Las empresas de servicios públicos reportan los pagos a tiempo a las agencias de crédito para los titulares de ITIN?"

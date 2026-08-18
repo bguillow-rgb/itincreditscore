@@ -17,7 +17,7 @@ relatedSlugs:
   - "credit-monitoring-with-itin"
   - "does-paying-rent-build-credit-with-itin"
   - "foreign-credit-history-itin-us-credit-score"
-  - "credit-score-renting-apartment-itin"
+  - "credit-monitoring-services-that-accept-itin-2026"
 faqs:
   - q: "¿Tener ITIN en lugar de SSN sube automáticamente mi seguro de auto?"
     a: "No de forma automática. A las aseguradoras les importa tu puntaje de seguro basado en crédito, no qué identificador fiscal tienes. Si tu historial crediticio bajo tu ITIN muestra pagos puntuales y saldos bajos, puedes calificar para las mismas categorías de tarifa que los titulares de SSN con un perfil crediticio similar."

@@ -16,8 +16,8 @@ category: "Puntaje de crédito"
 relatedSlugs:
   - "free-paid-services-check-credit-score-itin-2026"
   - "how-to-check-credit-score-with-itin-free-paid-services"
+  - "credit-monitoring-services-that-accept-itin-2026"
   - "rent-reporting-services-itin-credit-building"
-  - "credit-monitoring-with-itin"
 faqs:
   - q: "¿Puedo revisar mi puntaje de crédito en línea con un ITIN en lugar de un SSN?"
     a: "Sí. Varias plataformas aceptan un ITIN para ver tu puntaje en línea, entre ellas Capital One CreditWise, NerdWallet (puntaje de Experian), Equifax Core Credit en my.equifax.com, Bilt Rewards (Experian FICO 9) y MyFreeScoreNow, que en abril de 2026 se convirtió en el primer servicio en ofrecer acceso en línea a los tres burós para personas con ITIN."

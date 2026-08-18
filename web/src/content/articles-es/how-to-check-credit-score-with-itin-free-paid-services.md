@@ -16,8 +16,8 @@ category: "Puntaje de crédito"
 relatedSlugs:
   - "free-paid-services-check-credit-score-itin-2026"
   - "itin-credit-score-check-every-method-2026"
+  - "credit-monitoring-services-that-accept-itin-2026"
   - "rent-reporting-services-itin-credit-building"
-  - "how-to-raise-credit-score-with-itin"
 faqs:
   - q: "¿Puedo consultar mi puntaje de crédito con un ITIN en lugar de un SSN?"
     a: "Sí. Una vez que tienes al menos una cuenta reportada y aproximadamente seis meses de historial de pagos, ya tienes un expediente de crédito en EE. UU. vinculado a tu ITIN. Varios servicios gratuitos y de pago pueden acceder a ese expediente sin necesidad de un SSN."

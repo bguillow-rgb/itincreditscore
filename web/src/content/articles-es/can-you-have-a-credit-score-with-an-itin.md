@@ -14,8 +14,8 @@ author: "Research Desk"
 category: "Crédito Básico"
 relatedSlugs:
   - "credit-score-car-insurance-rates-itin"
-  - "does-paying-rent-build-credit-with-itin"
   - "700-credit-score-timeline-itin-holders"
+  - "does-paying-rent-build-credit-with-itin"
   - "foreign-credit-history-itin-us-credit-score"
 faqs:
   - q: "¿Tener un ITIN me da automáticamente un puntaje de crédito?"

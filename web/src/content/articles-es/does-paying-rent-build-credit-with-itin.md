@@ -15,8 +15,8 @@ author: "Research Desk"
 category: "Crédito"
 relatedSlugs:
   - "rent-reporting-services-itin-credit-building"
-  - "credit-score-car-insurance-rates-itin"
   - "experian-boost-alternative-data-itin"
+  - "credit-score-car-insurance-rates-itin"
   - "credit-builder-loan-with-itin"
 faqs:
   - q: "¿Puedo reportar mi renta a los burós de crédito si solo tengo un ITIN y no un SSN?"
