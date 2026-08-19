@@ -50,7 +50,7 @@ Your credit mix is the types of credit accounts on your credit report. There are
 
 **Revolving credit** is a credit line you can borrow against repeatedly up to a set limit. Secured credit cards are the most accessible revolving product for ITIN holders. You provide a refundable deposit, the card reports to the bureaus every month, and your utilization and payment history both get built at the same time. A secured credit card is the most accessible starting point for new immigrants. You put down a refundable security deposit, typically $200 to $500, and that becomes your credit limit. You use it like a regular credit card, and your activity gets reported to the three major credit bureaus, which is what builds your credit history and starts generating your credit score within a few months.
 
-**Installment credit** is a fixed loan you repay in equal monthly payments over a set term. For ITIN holders with no existing credit history, a credit-builder loan is the most practical entry point. You can read the full breakdown in our [credit builder loan with ITIN guide](https://itincreditscore.com/credit-builder-loan-with-itin), but the short version is: many credit unions and online lenders accept ITINs, you make fixed payments each month, and the lender reports each payment to the bureaus. Starting a credit builder loan at the same time as opening a secured credit card can accelerate your credit building by creating multiple positive payment histories simultaneously. This diversity in credit types also benefits your credit mix score factor.
+**Installment credit** is a fixed loan you repay in equal monthly payments over a set term. For ITIN holders with no existing credit history, a credit-builder loan is the most practical entry point. You can read the full breakdown in our [credit builder loan with ITIN guide](/articles/credit-builder-loan-with-itin), but the short version is: many credit unions and online lenders accept ITINs, you make fixed payments each month, and the lender reports each payment to the bureaus. Starting a credit builder loan at the same time as opening a secured credit card can accelerate your credit building by creating multiple positive payment histories simultaneously. This diversity in credit types also benefits your credit mix score factor.
 
 The table below shows the main account types, whether they are accessible with an ITIN, and how they affect your credit mix:
 
@@ -93,12 +93,12 @@ Applying for multiple accounts in a short time can raise red flags with lenders,
 The correct priority order for ITIN holders, based on the scoring weight of each factor, is:
 
 1. **Payment history (35%):** Never miss a due date. Set autopay for at least the minimum.
-2. **Credit utilization (30%):** Keep revolving balances below 30% of your limit, ideally below 10%. Our [credit utilization guide for ITIN holders](https://itincreditscore.com/credit-utilization-itin-holders) covers this in detail.
+2. **Credit utilization (30%):** Keep revolving balances below 30% of your limit, ideally below 10%. Our [credit utilization guide for ITIN holders](/articles/credit-utilization-itin-holders) covers this in detail.
 3. **Length of credit history (15%):** Keep your oldest accounts open even when not in heavy use.
 4. **Credit mix (10%):** Add a second account type when it makes practical sense and you can manage it.
 5. **New credit (10%):** Space out applications. Each hard inquiry fades within about a year for most models.
 
-If you have errors on your file dragging your score down, dispute those before spending energy on credit mix. See our [guide on disputing credit report errors with an ITIN](https://itincreditscore.com/how-to-dispute-credit-report-errors-with-itin) for the step-by-step process.
+If you have errors on your file dragging your score down, dispute those before spending energy on credit mix. See our [guide on disputing credit report errors with an ITIN](/articles/how-to-dispute-credit-report-errors-with-itin) for the step-by-step process.
 
 ## Do all three bureaus score my credit mix the same way?
 
@@ -108,7 +108,7 @@ The three major credit bureaus that track ITIN credit score bureau reporting are
 
 This is why it is worth confirming, before you open any account, that the lender reports to all three bureaus. A credit-builder loan or secured card that only reports to one bureau still helps that one file, but it provides less benefit than a product that reports everywhere. Confirm that the issuer reports to all three credit bureaus to maximize the impact on your credit score.
 
-You can check your files at all three bureaus by following the process in our [guide to checking your credit report with an ITIN](https://itincreditscore.com/how-to-check-credit-score-with-itin-number). Once you can see all three reports, you will know exactly which accounts are appearing where and whether your credit mix is being recognized consistently.
+You can check your files at all three bureaus by following the process in our [guide to checking your credit report with an ITIN](/articles/how-to-check-credit-score-with-itin-number). Once you can see all three reports, you will know exactly which accounts are appearing where and whether your credit mix is being recognized consistently.
 
 ## What about Buy Now Pay Later and other newer account types?
 

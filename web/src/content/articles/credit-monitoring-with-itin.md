@@ -38,7 +38,7 @@ Credit monitoring is not a luxury for ITIN holders. It is one of the most practi
 
 ITIN holders face a specific set of risks that SSN holders rarely encounter. Because your identifier is less universally recognized by financial systems, your credit file is more prone to mixed-file errors, where another consumer's accounts accidentally appear on your report, or where your own accounts are filed under slight name variations.
 
-Beyond errors, ongoing monitoring tells you whether your credit-building efforts are actually working. If you opened a [credit-builder loan](https://itincreditscore.com/credit-builder-loan-with-itin) three months ago, monitoring lets you confirm the payments are being reported correctly to all three bureaus: Equifax, TransUnion, and Experian. According to the Consumer Financial Protection Bureau (CFPB), consumers who regularly review their credit reports are better positioned to catch inaccuracies and dispute them before they cause lasting damage.
+Beyond errors, ongoing monitoring tells you whether your credit-building efforts are actually working. If you opened a [credit-builder loan](/articles/credit-builder-loan-with-itin) three months ago, monitoring lets you confirm the payments are being reported correctly to all three bureaus: Equifax, TransUnion, and Experian. According to the Consumer Financial Protection Bureau (CFPB), consumers who regularly review their credit reports are better positioned to catch inaccuracies and dispute them before they cause lasting damage.
 
 Monitoring also acts as an early-warning system for identity theft. Because ITIN holders sometimes share a similar nine-digit format with SSNs, there is a small but real risk of number confusion in lender systems. A monitoring alert that flags an unfamiliar new account is your first line of defense.
 
@@ -75,11 +75,11 @@ Beyond simply knowing a number exists, what makes monitoring useful is knowing h
 
 Start with payment history confirmations. Each month, verify that your on-time payments from credit-builder accounts are showing up as reported. Payment history is the single largest factor in both FICO and VantageScore models. According to Experian, it accounts for 35% of a FICO score. If a payment is not appearing, contact the lender to confirm they report to that bureau.
 
-Next, watch your [credit utilization ratio](https://itincreditscore.com/credit-utilization-itin-holders), which is how much of your available revolving credit you are using. It updates every billing cycle. A monitoring dashboard lets you see these shifts in real time so you can pay down a balance before the statement closes if needed.
+Next, watch your [credit utilization ratio](/articles/credit-utilization-itin-holders), which is how much of your available revolving credit you are using. It updates every billing cycle. A monitoring dashboard lets you see these shifts in real time so you can pay down a balance before the statement closes if needed.
 
 Hard inquiry alerts matter too. Any time a lender pulls your credit for a new application, it appears as a hard inquiry. Monitoring alerts you immediately, which matters because an inquiry you did not authorize could signal fraud or a mixed-file error.
 
-Then there are new accounts you did not open. This is the fraud signal that monitoring is specifically designed to surface. If a new account appears that you do not recognize, act immediately by [placing a credit freeze](https://itincreditscore.com/how-to-freeze-credit-with-itin) with all three bureaus and filing a dispute.
+Then there are new accounts you did not open. This is the fraud signal that monitoring is specifically designed to surface. If a new account appears that you do not recognize, act immediately by [placing a credit freeze](/articles/how-to-freeze-credit-with-itin) with all three bureaus and filing a dispute.
 
 Finally, track your score trend over time. For active credit builders, watching your score month over month tells you whether your strategy is working. A 2026 study noted in industry research found that only 9% of immigrant consumers have a credit score by age 22, but 75% achieve one by age 26, which shows how quickly consistent habits can move a file forward.
 
@@ -91,12 +91,12 @@ The only inquiries that affect your score are hard inquiries, which occur when a
 
 ## How is credit monitoring different from simply pulling my credit report?
 
-Pulling your credit report is a one-time snapshot. Credit monitoring is continuous. When you [request your credit report by mail](https://itincreditscore.com/how-to-check-credit-score-with-itin-number) from each bureau, you receive a detailed picture of your file at that exact moment. That snapshot is valuable and you should do it at least annually.
+Pulling your credit report is a one-time snapshot. Credit monitoring is continuous. When you [request your credit report by mail](/articles/how-to-check-credit-score-with-itin-number) from each bureau, you receive a detailed picture of your file at that exact moment. That snapshot is valuable and you should do it at least annually.
 
 Monitoring, by contrast, watches your file on an ongoing basis and sends you an alert whenever something changes. Think of the report as a photograph and monitoring as a security camera. For ITIN holders who are actively building credit, both tools serve different purposes. Pull your full reports once or twice a year to review every line item carefully, and rely on a monitoring service in between to catch anything unusual as it happens.
 
 ## What happens to my monitoring if I get an SSN later?
 
-If you eventually become eligible for a Social Security Number, your credit history built under your ITIN does not disappear automatically, but it does not transfer on its own either. You will need to contact each bureau and your lenders to link your ITIN file to your new SSN identifier. During this transition period, it is smart to keep monitoring both identifiers if possible. Our detailed guide on [transferring your ITIN credit history to an SSN](https://itincreditscore.com/transfer-itin-credit-history-to-ssn) walks through that process step by step.
+If you eventually become eligible for a Social Security Number, your credit history built under your ITIN does not disappear automatically, but it does not transfer on its own either. You will need to contact each bureau and your lenders to link your ITIN file to your new SSN identifier. During this transition period, it is smart to keep monitoring both identifiers if possible. Our detailed guide on [transferring your ITIN credit history to an SSN](/articles/transfer-itin-credit-history-to-ssn) walks through that process step by step.
 
 Once the transfer is complete, mainstream SSN-based monitoring services become fully available to you, which opens up a wider set of free and paid tools. Until then, sticking with the ITIN-compatible options above keeps your file visible and protected.

@@ -83,7 +83,7 @@ Typically, it takes three to six months of consistent reporting from a lender fo
 The most reliable starting combination is one revolving account and one installment account:
 
 - **A secured card that reports to Equifax, TransUnion, and Experian.** You place a deposit (usually $200-$500), use the card for small recurring purchases, and pay the balance in full each month. The on-time payment data flows to the bureaus and starts your file.
-- **A credit-builder loan.** You make fixed monthly payments into a locked savings account, and the lender reports each payment as an installment tradeline. You get the funds at the end of the term. Our [credit builder loan with ITIN guide](https://itincreditscore.com/credit-builder-loan-with-itin) covers which lenders accept ITINs and what the monthly payments actually cost.
+- **A credit-builder loan.** You make fixed monthly payments into a locked savings account, and the lender reports each payment as an installment tradeline. You get the funds at the end of the term. Our [credit builder loan with ITIN guide](/articles/credit-builder-loan-with-itin) covers which lenders accept ITINs and what the monthly payments actually cost.
 
 According to Experian's February 2026 white paper, 76.9% of ITIN holders remained current on trades after 12 months, a rate 15% higher than SSN consumers. That track record matters: ITIN holders are statistically reliable payers, which is exactly why more lenders are opening up to this segment.
 
@@ -107,7 +107,7 @@ No. Even if you had an excellent credit history in a previous country, that reco
 
 That said, your foreign history is not worthless. Some non-bureau lenders, community banks, and credit unions conduct manual underwriting and may ask for a translated copy of your foreign credit report as supplemental documentation. This is separate from what feeds into your FICO, but it can influence approval decisions, especially for larger loans in the early years of your U.S. file.
 
-According to a 2026 study on immigrant credit by Cookson et al., immigrants experience lower credit access for at least thirteen years after immigration, particularly in auto loans and mortgages, despite maintaining higher credit scores and lower delinquency rates. The gap is real, but it closes faster when ITIN holders take deliberate steps early: open reporting accounts, keep utilization low, and let on-time payments accumulate. For a full picture of what moves your score once your file exists, see our guide on [how to raise your credit score with an ITIN](https://itincreditscore.com/how-to-raise-credit-score-with-itin).
+According to a 2026 study on immigrant credit by Cookson et al., immigrants experience lower credit access for at least thirteen years after immigration, particularly in auto loans and mortgages, despite maintaining higher credit scores and lower delinquency rates. The gap is real, but it closes faster when ITIN holders take deliberate steps early: open reporting accounts, keep utilization low, and let on-time payments accumulate. For a full picture of what moves your score once your file exists, see our guide on [how to raise your credit score with an ITIN](/articles/how-to-raise-credit-score-with-itin).
 
 ## The bottom line on foreign credit history and your ITIN score
 

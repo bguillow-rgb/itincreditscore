@@ -50,7 +50,7 @@ Tu mezcla de crédito son los tipos de cuentas de crédito que aparecen en tu re
 
 **El crédito revolvente** es una línea de crédito de la que puedes tomar prestado de forma repetida hasta un límite establecido. Las tarjetas de crédito aseguradas son el producto revolvente más accesible para los titulares de ITIN. Proporcionas un depósito reembolsable, la tarjeta reporta a las agencias cada mes, y tu utilización e historial de pagos se construyen al mismo tiempo. Una tarjeta de crédito asegurada es el punto de partida más accesible para los nuevos inmigrantes. Depositas una garantía reembolsable, típicamente de $200 a $500, y eso se convierte en tu límite de crédito. La usas como una tarjeta de crédito normal, y tu actividad se reporta a las tres principales agencias de crédito, lo que construye tu historial de crédito y comienza a generar tu puntaje en pocos meses.
 
-**El crédito a plazos** es un préstamo fijo que pagas en cuotas mensuales iguales durante un plazo determinado. Para los titulares de ITIN sin historial de crédito previo, un préstamo para construir crédito es la opción más práctica. Puedes leer el análisis completo en nuestra [guía de préstamos para construir crédito con ITIN](https://itincreditscore.com/credit-builder-loan-with-itin), pero el resumen es: muchas cooperativas de crédito y prestamistas en línea aceptan ITIN, haces pagos fijos cada mes, y el prestamista reporta cada pago a las agencias. Comenzar un préstamo para construir crédito al mismo tiempo que abres una tarjeta de crédito asegurada puede acelerar tu construcción de crédito al crear múltiples historiales de pagos positivos de forma simultánea. Esta diversidad en tipos de crédito también beneficia el factor de mezcla de crédito en tu puntaje.
+**El crédito a plazos** es un préstamo fijo que pagas en cuotas mensuales iguales durante un plazo determinado. Para los titulares de ITIN sin historial de crédito previo, un préstamo para construir crédito es la opción más práctica. Puedes leer el análisis completo en nuestra [guía de préstamos para construir crédito con ITIN](/es/articles/credit-builder-loan-with-itin), pero el resumen es: muchas cooperativas de crédito y prestamistas en línea aceptan ITIN, haces pagos fijos cada mes, y el prestamista reporta cada pago a las agencias. Comenzar un préstamo para construir crédito al mismo tiempo que abres una tarjeta de crédito asegurada puede acelerar tu construcción de crédito al crear múltiples historiales de pagos positivos de forma simultánea. Esta diversidad en tipos de crédito también beneficia el factor de mezcla de crédito en tu puntaje.
 
 La tabla a continuación muestra los principales tipos de cuentas, si son accesibles con un ITIN, y cómo afectan tu mezcla de crédito:
 
@@ -93,12 +93,12 @@ Solicitar múltiples cuentas en poco tiempo puede generar señales de alerta par
 El orden de prioridades correcto para los titulares de ITIN, basado en el peso de cada factor en la puntuación, es:
 
 1. **Historial de pagos (35%):** Nunca pierdas una fecha de pago. Configura el pago automático por al menos el mínimo.
-2. **Utilización del crédito (30%):** Mantén los saldos revolventes por debajo del 30% de tu límite, idealmente por debajo del 10%. Nuestra [guía de utilización de crédito para titulares de ITIN](https://itincreditscore.com/credit-utilization-itin-holders) cubre esto en detalle.
+2. **Utilización del crédito (30%):** Mantén los saldos revolventes por debajo del 30% de tu límite, idealmente por debajo del 10%. Nuestra [guía de utilización de crédito para titulares de ITIN](/es/articles/credit-utilization-itin-holders) cubre esto en detalle.
 3. **Duración del historial de crédito (15%):** Mantén abiertas tus cuentas más antiguas aunque no las uses con frecuencia.
 4. **Mezcla de crédito (10%):** Agrega un segundo tipo de cuenta cuando tenga sentido práctico y puedas manejarlo.
 5. **Crédito nuevo (10%):** Espacía las solicitudes. Cada consulta rigurosa desaparece en aproximadamente un año en la mayoría de los modelos.
 
-Si tienes errores en tu archivo que están bajando tu puntaje, corrígelos antes de enfocarte en la mezcla de crédito. Consulta nuestra [guía para disputar errores en el reporte de crédito con un ITIN](https://itincreditscore.com/how-to-dispute-credit-report-errors-with-itin) para el proceso paso a paso.
+Si tienes errores en tu archivo que están bajando tu puntaje, corrígelos antes de enfocarte en la mezcla de crédito. Consulta nuestra [guía para disputar errores en el reporte de crédito con un ITIN](/es/articles/how-to-dispute-credit-report-errors-with-itin) para el proceso paso a paso.
 
 ## ¿Las tres agencias puntúan mi mezcla de crédito de la misma manera?
 
@@ -108,7 +108,7 @@ Las tres principales agencias de crédito que registran el reporte de crédito d
 
 Por eso vale la pena confirmar, antes de abrir cualquier cuenta, que el prestamista reporta a las tres agencias. Un préstamo para construir crédito o una tarjeta asegurada que solo reporta a una agencia todavía ayuda a ese archivo, pero aporta menos beneficio que un producto que reporta en todos lados. Confirma que el emisor reporta a las tres agencias de crédito para maximizar el impacto en tu puntaje.
 
-Puedes revisar tus archivos en las tres agencias siguiendo el proceso en nuestra [guía para revisar tu reporte de crédito con un ITIN](https://itincreditscore.com/how-to-check-credit-score-with-itin-number). Una vez que puedas ver los tres reportes, sabrás exactamente qué cuentas aparecen en cada uno y si tu mezcla de crédito está siendo reconocida de forma consistente.
+Puedes revisar tus archivos en las tres agencias siguiendo el proceso en nuestra [guía para revisar tu reporte de crédito con un ITIN](/es/articles/how-to-check-credit-score-with-itin-number). Una vez que puedas ver los tres reportes, sabrás exactamente qué cuentas aparecen en cada uno y si tu mezcla de crédito está siendo reconocida de forma consistente.
 
 ## ¿Qué pasa con Compra Ahora Paga Después y otros tipos de cuentas más nuevos?
 

@@ -90,7 +90,7 @@ After 6-12 months of on-time payments, many issuers will graduate you to an unse
 
 The fastest way to reach that graduation range is to combine two habits: pay your full statement balance before the due date every month (which keeps utilization near zero at reporting time), and avoid opening new accounts until after graduation. Each on-time payment builds the payment history factor, which carries the heaviest weight in both FICO and VantageScore models. You do not need to carry a balance or pay interest to benefit. You never need to pay interest to build credit. Use your card monthly and pay in full by the due date.
 
-Once you graduate, keep the original secured card open even if you stop using it actively. Closing it shortens your average account age, which is one of the five factors that feeds your score. Our guide on [credit age and ITIN holders](https://itincreditscore.com/credit-age-itin-holders) explains exactly how account age is calculated and why it matters.
+Once you graduate, keep the original secured card open even if you stop using it actively. Closing it shortens your average account age, which is one of the five factors that feeds your score. Our guide on [credit age and ITIN holders](/articles/credit-age-itin-holders) explains exactly how account age is calculated and why it matters.
 
 ---
 
@@ -110,11 +110,11 @@ Reaching 670+ requires positive data flowing into your report from accounts that
 
 **Secured credit card (revolving credit):** One of the most reliable ways to build credit from scratch is a secured credit card. You provide a cash deposit, usually $200-$500, that becomes your credit limit, reducing the lender's risk. Use the card for small, regular purchases and pay the balance in full monthly. This proves you are a reliable borrower. Always confirm the issuer reports to all three bureaus before applying.
 
-**Credit-builder loan (installment credit):** Credit-builder loans work in reverse: you make regular payments into a locked account, and you receive the lump sum after all payments are complete. Each on-time payment is reported to credit bureaus, building a positive history. Adding an installment account alongside a revolving card also improves your credit mix, one of the five score factors. See our full breakdown in the [credit-builder loan guide for ITIN holders](https://itincreditscore.com/credit-builder-loan-with-itin).
+**Credit-builder loan (installment credit):** Credit-builder loans work in reverse: you make regular payments into a locked account, and you receive the lump sum after all payments are complete. Each on-time payment is reported to credit bureaus, building a positive history. Adding an installment account alongside a revolving card also improves your credit mix, one of the five score factors. See our full breakdown in the [credit-builder loan guide for ITIN holders](/articles/credit-builder-loan-with-itin).
 
-**Rent reporting:** If your landlord or a third-party service reports your on-time rent payments to the bureaus, those payments can add positive data to your file. This does not replace a card or loan, but it can accelerate your progress through the fair tier, particularly if your card limit is small. Our article on [whether rent payments build credit with an ITIN](https://itincreditscore.com/does-paying-rent-build-credit-with-itin) covers which services work.
+**Rent reporting:** If your landlord or a third-party service reports your on-time rent payments to the bureaus, those payments can add positive data to your file. This does not replace a card or loan, but it can accelerate your progress through the fair tier, particularly if your card limit is small. Our article on [whether rent payments build credit with an ITIN](/articles/does-paying-rent-build-credit-with-itin) covers which services work.
 
-**Authorized user status:** Being added to a family member's card as an authorized user can place a positive tradeline on your file, which may give your score a quick boost while your own accounts are still young. Check our [authorized user guide for ITIN holders](https://itincreditscore.com/authorized-user-with-itin-credit-building) for the details.
+**Authorized user status:** Being added to a family member's card as an authorized user can place a positive tradeline on your file, which may give your score a quick boost while your own accounts are still young. Check our [authorized user guide for ITIN holders](/articles/authorized-user-credit-building-itin) for the details.
 
 ---
 
@@ -124,7 +124,7 @@ ITIN holders frequently discover that standard score-checking tools do not work 
 
 ITIN holders can check their credit scores with all three major bureaus (Experian, Equifax, TransUnion), but they cannot use AnnualCreditReport.com. ITIN requests require direct contact with credit bureaus. For Experian, for example, you need to submit a request in writing, providing your full name including middle initial, date of birth, and complete addresses for the past two years, along with a copy of a valid government-issued ID and utility bill, mailed to Experian, P.O. Box 9701, Allen, TX 75013.
 
-For ongoing monitoring rather than one-time checks, specialized platforms built for ITIN holders give you continuous access to your score without a paper mail delay. Our [credit monitoring guide for ITIN holders](https://itincreditscore.com/credit-monitoring-with-itin) compares the current options and their costs so you can track your tier movement month to month.
+For ongoing monitoring rather than one-time checks, specialized platforms built for ITIN holders give you continuous access to your score without a paper mail delay. Our [credit monitoring guide for ITIN holders](/articles/credit-monitoring-with-itin) compares the current options and their costs so you can track your tier movement month to month.
 
 ---
 

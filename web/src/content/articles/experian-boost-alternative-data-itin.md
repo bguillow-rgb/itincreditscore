@@ -66,7 +66,7 @@ Self-reporting your rent through a bureau-recognized service now is a forward-lo
 
 ## How does alternative data compare to opening a new credit account for building my score?
 
-Whether they should focus on alternative data tools or just open a [credit-builder loan](https://itincreditscore.com/credit-builder-loan-with-itin) or secured account. The honest answer is both, at different stages.
+Whether they should focus on alternative data tools or just open a [credit-builder loan](/articles/credit-builder-loan-with-itin) or secured account. The honest answer is both, at different stages.
 
 | Approach | Bureaus Affected | Hard Inquiry? | Time to See Impact | Best For |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ Whether they should focus on alternative data tools or just open a [credit-build
 | Secured credit account | All 3 (if lender reports) | Yes (usually) | 3-6 months | Establishing revolving credit history |
 | Authorized user addition | All 3 (if primary cardholder's issuer reports) | No | 1-2 cycles | Faster score entry via someone else's account |
 
-Alternative data tools shine when your file is brand new or very thin, because they convert payments you are already making into bureau-visible credit history at no additional cost and no hard inquiry risk. Once you have a couple of tradelines reporting, the marginal score lift from Boost or rent reporting shrinks, and your energy is better spent on [keeping utilization low](https://itincreditscore.com/credit-utilization-itin-holders) and payment history clean.
+Alternative data tools shine when your file is brand new or very thin, because they convert payments you are already making into bureau-visible credit history at no additional cost and no hard inquiry risk. Once you have a couple of tradelines reporting, the marginal score lift from Boost or rent reporting shrinks, and your energy is better spent on [keeping utilization low](/articles/credit-utilization-itin-holders) and payment history clean.
 
 ## Will Experian Boost data show up in my FICO score or only VantageScore?
 
@@ -84,13 +84,13 @@ This is a detail that catches many people off guard. Experian Boost and similar 
 
 Experian Boost payments are recognized by FICO Score 8 (the model most widely used by lenders) and several newer FICO versions, as well as VantageScore 3.0 and 4.0 on the Experian file. Older FICO versions (FICO Score 2, 4, or 5, which are still used for some mortgage underwriting) do not factor in Boost data. This means a lender pulling a mortgage-specific score may not see the Boost improvement at all. For everyday credit decisions like credit card applications or auto financing, the Boost-enhanced score is more likely to be the one reviewed.
 
-For ITIN holders who are [building toward a strong score](https://itincreditscore.com/how-to-raise-credit-score-with-itin), Boost is most useful in the early months, when even a 10-14 point increase can cross an approval threshold.
+For ITIN holders who are [building toward a strong score](/articles/how-to-raise-credit-score-with-itin), Boost is most useful in the early months, when even a 10-14 point increase can cross an approval threshold.
 
 ## Could adding alternative data cause any negative effect on my ITIN credit file?
 
 No, and this is one of the tool's genuine strengths. Enrolling in Experian Boost does not generate a hard inquiry, so there is no score penalty for trying it. Checking your own credit is a soft inquiry and does not impact your score, and Boost's bank-linking step works the same way.
 
-There is one scenario worth flagging for ITIN holders specifically: mixed or split files. Mixed or split files, where your data gets tangled with another person's records, are an especially common problem for ITIN holders. If you suspect your file has been mixed with someone else's, identify every item that does not belong to you, including unfamiliar addresses, and include that detail in your dispute letter. Before adding Boost data, review your Experian file for any accounts or addresses you do not recognize. Adding Boost payments to a mixed file could complicate a future [dispute](https://itincreditscore.com/how-to-dispute-credit-report-errors-with-itin), so clean up any errors first.
+There is one scenario worth flagging for ITIN holders specifically: mixed or split files. Mixed or split files, where your data gets tangled with another person's records, are an especially common problem for ITIN holders. If you suspect your file has been mixed with someone else's, identify every item that does not belong to you, including unfamiliar addresses, and include that detail in your dispute letter. Before adding Boost data, review your Experian file for any accounts or addresses you do not recognize. Adding Boost payments to a mixed file could complicate a future [dispute](/articles/how-to-dispute-credit-report-errors-with-itin), so clean up any errors first.
 
 ## What does the research say about ITIN holders and credit behavior overall?
 

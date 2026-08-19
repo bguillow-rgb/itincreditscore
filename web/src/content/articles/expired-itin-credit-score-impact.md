@@ -71,9 +71,9 @@ As a general rule, any account where you are the primary account holder and the 
 
 Yes. Expiration does not delete anything. The bureaus hold data using a combination of your full name, date of birth, current and previous addresses, and the ITIN on file. Your existing credit history stays attached to your profile even while the ITIN is in expired status.
 
-This is also why you can still check your credit report during an expiration period. You can request your report from Equifax, Experian, and TransUnion using your existing ITIN because the bureaus will match your identity through those other data points. Our guide to [how to get your free credit report with an ITIN](https://itincreditscore.com/how-to-check-credit-score-with-itin-number) walks through the exact steps for each bureau.
+This is also why you can still check your credit report during an expiration period. You can request your report from Equifax, Experian, and TransUnion using your existing ITIN because the bureaus will match your identity through those other data points. Our guide to [how to get your free credit report with an ITIN](/articles/how-to-check-credit-score-with-itin-number) walks through the exact steps for each bureau.
 
-Similarly, any credit history you built under your ITIN before expiration counts in your favor the moment you renew and new activity resumes. Your [credit age](https://itincreditscore.com/credit-age-itin-holders), payment history, and credit mix all carry forward.
+Similarly, any credit history you built under your ITIN before expiration counts in your favor the moment you renew and new activity resumes. Your [credit age](/articles/credit-age-itin-holders), payment history, and credit mix all carry forward.
 
 ## So what does an expired ITIN actually cost me in practice?
 
@@ -95,12 +95,12 @@ While waiting for your renewal to process (allow 7-11 weeks), take these steps t
 
 1. **Notify your lenders proactively.** Contact any lenders where you are the primary account holder and let them know your ITIN renewal is in progress. Ask them to confirm they will continue reporting your payment activity during processing.
 2. **Set up autopay.** Keep making on-time payments throughout the renewal period. Even if reporting pauses temporarily, you want zero missed payments once reporting resumes. Missing a payment because you assumed nothing mattered during the gap is a costly mistake.
-3. **Monitor your reports.** Check your credit reports regularly so you can spot any gap in reporting immediately. Our guide to [credit monitoring with an ITIN](https://itincreditscore.com/credit-monitoring-with-itin) covers the tools that work without an SSN.
-4. **Do not let a thin file develop.** If you notice that all of your accounts have stopped reporting, look into adding a rent-reporting service or [credit-builder loan](https://itincreditscore.com/credit-builder-loan-with-itin) that may not be tied to an ITIN identifier in the same way.
+3. **Monitor your reports.** Check your credit reports regularly so you can spot any gap in reporting immediately. Our guide to [credit monitoring with an ITIN](/articles/credit-monitoring-with-itin) covers the tools that work without an SSN.
+4. **Do not let a thin file develop.** If you notice that all of your accounts have stopped reporting, look into adding a rent-reporting service or [credit-builder loan](/articles/credit-builder-loan-with-itin) that may not be tied to an ITIN identifier in the same way.
 
 ## Does an expired ITIN affect a credit freeze or dispute I filed?
 
-For the most part, no. A [credit freeze](https://itincreditscore.com/how-to-freeze-credit-with-itin) you placed with a bureau remains active regardless of your ITIN's status because the freeze is tied to your existing credit file, not to the active validity of the ITIN. Likewise, a dispute you filed under the Fair Credit Reporting Act (FCRA) continues to be processed. The FCRA gives you the right to dispute errors and access your report regardless of SSN or ITIN status. That said, if you need to initiate a new dispute or lift a freeze during the renewal period, make sure you can still verify your identity through the other data points the bureaus accept: full name, date of birth, address history, and a government-issued ID.
+For the most part, no. A [credit freeze](/articles/how-to-freeze-credit-with-itin) you placed with a bureau remains active regardless of your ITIN's status because the freeze is tied to your existing credit file, not to the active validity of the ITIN. Likewise, a dispute you filed under the Fair Credit Reporting Act (FCRA) continues to be processed. The FCRA gives you the right to dispute errors and access your report regardless of SSN or ITIN status. That said, if you need to initiate a new dispute or lift a freeze during the renewal period, make sure you can still verify your identity through the other data points the bureaus accept: full name, date of birth, address history, and a government-issued ID.
 
 ## The bottom line: expiration is a speed bump, not a cliff
 

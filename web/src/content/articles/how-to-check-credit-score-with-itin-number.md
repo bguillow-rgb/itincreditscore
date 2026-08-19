@@ -117,7 +117,7 @@ Five factors drive the number:
 - **Payment history (35% FICO / 41% VantageScore):** The most influential factor in both systems is payment history. Consistently paying bills on time is critical; even a single late payment can cause significant drops in your score.
 - **Credit utilization (30% FICO / 20% VantageScore):** Credit utilization is the percentage of available credit you use. Aim to keep it below 30%, and ideally under 10%.
 - **Length of credit history (15% FICO / 20% VantageScore):** The longer your accounts have been open and active, the more confident lenders are in your ability to manage long-term financial obligations. This is one reason you should avoid closing your oldest accounts even if you don't use them often.
-- **Credit mix (~10%):** Having both a revolving account (like a secured card) and an installment account (like a [credit-builder loan with ITIN](https://itincreditscore.com/credit-builder-loan-with-itin)) works better than either alone.
+- **Credit mix (~10%):** Having both a revolving account (like a secured card) and an installment account (like a [credit-builder loan with ITIN](/articles/credit-builder-loan-with-itin)) works better than either alone.
 - **New inquiries (~10%):** Every credit application creates a hard inquiry, dropping your score 5-10 points. Do not apply for multiple cards at once. Hard inquiries stop affecting your score after 12 months and fall off your report after 2 years.
 
 According to Experian's Q4 2025 Lending Conditions Chartbook, ITIN holders maintain a lower debt-to-income ratio of 25% compared to SSN consumers, indicating disciplined financial management, which translates directly to stronger utilization ratios over time.
@@ -128,11 +128,11 @@ According to Experian's Q4 2025 Lending Conditions Chartbook, ITIN holders maint
 
 Especially from people who've just obtained their ITIN and haven't opened any U.S. credit accounts.
 
-You need at least one open, reporting account before a score can exist. The two fastest paths for ITIN holders are a [secured credit card for ITIN holders](/articles/secured-credit-card-credit-score-itin) and a [credit-builder loan](https://itincreditscore.com/credit-builder-loan-with-itin). Both report to the bureaus monthly, and a score typically appears within three to six months of your first statement.
+You need at least one open, reporting account before a score can exist. The two fastest paths for ITIN holders are a [secured credit card for ITIN holders](/articles/secured-credit-card-credit-score-itin) and a [credit-builder loan](/articles/credit-builder-loan-with-itin). Both report to the bureaus monthly, and a score typically appears within three to six months of your first statement.
 
 If you want to accelerate even further, becoming an authorized user on a family member's card with a long, clean history can add that account's age and payment record to your file immediately. According to a 2026 immigration study, only 9% of immigrant consumers have a credit score by age 22, but 75% achieve a credit score by age 26, demonstrating rapid convergence, evidence that consistent, early action pays off faster than most people expect.
 
-Once you have 6+ months of history, you can also check whether you already [have a credit score with your ITIN](https://itincreditscore.com/can-you-have-a-credit-score-with-an-itin) by running through the myEquifax or Credit Karma signup flow described above.
+Once you have 6+ months of history, you can also check whether you already [have a credit score with your ITIN](/articles/can-you-have-a-credit-score-with-an-itin) by running through the myEquifax or Credit Karma signup flow described above.
 
 ---
 

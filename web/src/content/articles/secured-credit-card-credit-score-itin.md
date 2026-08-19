@@ -54,7 +54,7 @@ FICO Score requires a file to meet two conditions before it generates a number: 
 
 For most ITIN holders who open a secured card with no prior U.S. credit history, expect to wait 3-6 months before a FICO score appears, and sometimes sooner for VantageScore. Only 9% of immigrant consumers have a credit score by age 22, but 75% achieve a credit score by age 26, demonstrating rapid convergence once they open reporting accounts. A secured card that reports monthly is the fastest compliant path to that first score.
 
-Once you are scoreable, you can [monitor your ITIN credit score](https://itincreditscore.com/credit-monitoring-with-itin) to track your progress across all three bureaus.
+Once you are scoreable, you can [monitor your ITIN credit score](/articles/credit-monitoring-with-itin) to track your progress across all three bureaus.
 
 ## What score factors does a secured card actually touch?
 
@@ -78,7 +78,7 @@ Whether the hard inquiry from the application does lasting damage, especially wh
 
 The short answer: the hit is real but small and temporary. If this is your first credit card and you are applying with an ITIN, you might not have a credit score yet. But if you do have one, applying could cause a small, temporary dip in your score. Still, approval and responsible use can help build or improve your credit over time.
 
-Your new credit activity, including recent hard inquiries and new account openings, represents about 10% of your FICO Score and 11% of your VantageScore. Opening too many accounts at once can appear risky, signaling potential overreliance on borrowed funds. The practical rule: apply for one secured card, let it age for at least six months, and resist the urge to apply for additional products until you have a solid payment track record. You can read more about this on our [hard inquiries with an ITIN guide](https://itincreditscore.com/hard-inquiries-itin-credit-score).
+Your new credit activity, including recent hard inquiries and new account openings, represents about 10% of your FICO Score and 11% of your VantageScore. Opening too many accounts at once can appear risky, signaling potential overreliance on borrowed funds. The practical rule: apply for one secured card, let it age for at least six months, and resist the urge to apply for additional products until you have a solid payment track record. You can read more about this on our [hard inquiries with an ITIN guide](/articles/hard-inquiries-itin-credit-score).
 
 If you have no existing U.S. score yet, the hard inquiry produces no score change at all, because there is no file to reduce. Your first score will reflect the positive payment history you build, not the inquiry.
 
@@ -90,7 +90,7 @@ Strategy matters more than most people realize. Three levers control most of you
 
 **2. Keep utilization low at statement close.** The balance that appears on your credit report is the one present when the issuer cuts your statement, not the balance after you pay. Credit utilization makes up 30% of a FICO Score and 20% of a VantageScore. Keeping your utilization below 30% shows lenders you manage credit responsibly and are not overextended. On a $300 secured card, that means keeping your statement balance below $90. Aim for under $30 (under 10%) for the best score impact.
 
-**3. Keep the account open.** Closing a secured card after graduation removes its account age from your average. After 6-12 months of on-time payments, many issuers will graduate you to an unsecured card and return your deposit, a major milestone. When that happens, ask whether the account history carries over to the new unsecured card. If it does, you preserve the age benefit. For more on why this matters, see our [credit age and ITIN guide](https://itincreditscore.com/credit-age-itin-holders).
+**3. Keep the account open.** Closing a secured card after graduation removes its account age from your average. After 6-12 months of on-time payments, many issuers will graduate you to an unsecured card and return your deposit, a major milestone. When that happens, ask whether the account history carries over to the new unsecured card. If it does, you preserve the age benefit. For more on why this matters, see our [credit age and ITIN guide](/articles/credit-age-itin-holders).
 
 ## When should I graduate from a secured card to an unsecured card?
 
@@ -98,7 +98,7 @@ After 12 months of on-time payments, your score will typically be in the 680-720
 
 Graduation matters for your credit score beyond just removing the deposit requirement. When a graduation increases your credit limit, your utilization ratio drops automatically even if your spending stays the same. That drop can translate into a score gain of several points almost immediately.
 
-If your issuer does not offer automatic graduation, you can apply for a separate unsecured card once your score reaches the 660 plus range. Keep the secured card open alongside the new account rather than closing it right away. The older account age and additional available credit both support a higher score. Pairing a secured card with a [credit-builder loan](https://itincreditscore.com/credit-builder-loan-with-itin) at the same time also adds an installment account to your file, which improves your credit mix and can accelerate score growth further.
+If your issuer does not offer automatic graduation, you can apply for a separate unsecured card once your score reaches the 660 plus range. Keep the secured card open alongside the new account rather than closing it right away. The older account age and additional available credit both support a higher score. Pairing a secured card with a [credit-builder loan](/articles/credit-builder-loan-with-itin) at the same time also adds an installment account to your file, which improves your credit mix and can accelerate score growth further.
 
 ## What are the most common mistakes ITIN holders make with secured cards that stall their score?
 
@@ -108,7 +108,7 @@ The four most common culprits are:
 
 - **Choosing a card that does not report to all three bureaus.** If your card only reports to one bureau, your score only builds at that bureau. Lenders who pull a different bureau will see nothing.
 - **High utilization at statement close.** Carrying a balance above 30% of your limit at the time the statement generates is one of the fastest ways to suppress a rising score. Pay down before the statement date, not just before the due date.
-- **Closing the account too early.** Closing a secured card before you have other open accounts eliminates your credit age and available credit in one step. Both factors move your score in the wrong direction. Review our [thin credit file guide](https://itincreditscore.com/thin-credit-file-itin-holder) if you are concerned about starting over.
+- **Closing the account too early.** Closing a secured card before you have other open accounts eliminates your credit age and available credit in one step. Both factors move your score in the wrong direction. Review our [thin credit file guide](/articles/thin-credit-file-itin-holder) if you are concerned about starting over.
 - **Applying for too many accounts at once.** Multiple hard inquiries in a short window signal risk. Each application can create a hard inquiry on your credit report. Too many inquiries hurt your score. Apply strategically, one or two accounts to start, then wait and build.
 
 A secured card used correctly is one of the most reliable on-ramps to a strong ITIN credit score. The mechanics are straightforward: report to all three bureaus, pay on time, keep balances low, and let time do its job.

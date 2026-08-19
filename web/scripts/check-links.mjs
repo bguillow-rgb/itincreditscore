@@ -64,14 +64,38 @@ function collectHtmlFiles(root) {
 const SKIP_PREFIX = ['/_astro', '/og/', '/img/', '/fonts'];
 const ASSET_RE = /\.(png|jpe?g|webp|avif|svg|xml|txt|ico|json|css|js|pdf|mjs|map)$/i;
 
+/**
+ * Our own origin, in every form that shows up in authored content.
+ *
+ * An absolute self-link is still an internal link, and for nine days this
+ * checker could not see one: it only matched `href="/…"`, so 117 in-body links
+ * written as `https://itincreditscore.com/<slug>` (missing the `/articles/`
+ * prefix) passed a green build and shipped as live 404s. The gate existed, was
+ * wired into `postbuild`, and was blind to exactly the form that was broken.
+ * Normalize to a path first, then check — the origin must not decide whether a
+ * link gets verified.
+ */
+const SELF_ORIGIN_RE = /^https?:\/\/(www\.)?itincreditscore\.com/i;
+
+/** Path to verify, or null if the href is external / not checkable. */
+function toInternalPath(raw) {
+  if (raw.startsWith('/')) return raw;
+  if (SELF_ORIGIN_RE.test(raw)) {
+    const p = raw.replace(SELF_ORIGIN_RE, '');
+    return p === '' ? '/' : p;
+  }
+  return null; // genuinely external, or mailto:/tel:/#fragment
+}
+
 const served = collectServedPaths(distDir);
 const broken = new Map(); // href -> Set(source pages)
 
 for (const file of collectHtmlFiles(distDir)) {
   const src = '/' + path.relative(distDir, file).split(path.sep).join('/').replace(/\.html$/, '');
   const html = fs.readFileSync(file, 'utf8');
-  for (const m of html.matchAll(/href="(\/[^"#?]*)"/g)) {
-    const href = m[1];
+  for (const m of html.matchAll(/href="([^"#?]*)"/g)) {
+    const href = toInternalPath(m[1]);
+    if (href === null) continue;
     if (SKIP_PREFIX.some((p) => href.startsWith(p))) continue;
     if (ASSET_RE.test(href)) continue;
     if (served.has(href) || served.has(href.replace(/\/$/, ''))) continue;

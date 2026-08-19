@@ -208,9 +208,9 @@ The short answer: check your score monthly and your full report from each bureau
 
 **For score tracking:** Any of the free tools above (myEquifax, CreditWise, Bilt) let you check as often as you like at no cost, because all are soft inquiries. When you check your own report through a monitoring service, it is considered a soft inquiry, which has no impact on your credit score.
 
-**For full report review:** ITIN holders are particularly vulnerable to [mixed credit file errors](https://itincreditscore.com/mixed-credit-file-itin-holder), where another person's data ends up in your file due to name or address similarity. Reviewing the full report, not just a score, catches those errors early. If you find inaccuracies, our guide on [how to dispute credit report errors with an ITIN](https://itincreditscore.com/how-to-dispute-credit-report-errors-with-itin) walks through the exact dispute process for each bureau.
+**For full report review:** ITIN holders are particularly vulnerable to [mixed credit file errors](/articles/mixed-credit-file-itin-holder), where another person's data ends up in your file due to name or address similarity. Reviewing the full report, not just a score, catches those errors early. If you find inaccuracies, our guide on [how to dispute credit report errors with an ITIN](/articles/how-to-dispute-credit-report-errors-with-itin) walks through the exact dispute process for each bureau.
 
-**Building phase vs. monitoring phase:** If you are in the first 6-24 months of building credit with an ITIN, monthly score checks help you understand whether your on-time payments are registering and whether your [credit utilization](https://itincreditscore.com/credit-utilization-itin-holders) is in the right range (under 30% is the standard target). Once your file is established and stable, quarterly checks are usually sufficient.
+**Building phase vs. monitoring phase:** If you are in the first 6-24 months of building credit with an ITIN, monthly score checks help you understand whether your on-time payments are registering and whether your [credit utilization](/articles/credit-utilization-itin-holders) is in the right range (under 30% is the standard target). Once your file is established and stable, quarterly checks are usually sufficient.
 
 ---
 
@@ -236,4 +236,4 @@ If you want a single dashboard that handles all three bureaus natively and is bu
 
 What to avoid: any "credit score" site that asks for payment upfront before showing you a result, or any service claiming to provide a credit score instantly without any identity verification step. Legitimate bureau-connected tools always verify identity before displaying a file.
 
-For the next step after you have your score in hand, see our guide on [how to raise your credit score with an ITIN](https://itincreditscore.com/how-to-raise-credit-score-with-itin) for a ranked action plan, or our [credit monitoring guide](https://itincreditscore.com/credit-monitoring-with-itin) for a deeper look at setting up ongoing alerts.
+For the next step after you have your score in hand, see our guide on [how to raise your credit score with an ITIN](/articles/how-to-raise-credit-score-with-itin) for a ranked action plan, or our [credit monitoring guide](/articles/credit-monitoring-with-itin) for a deeper look at setting up ongoing alerts.

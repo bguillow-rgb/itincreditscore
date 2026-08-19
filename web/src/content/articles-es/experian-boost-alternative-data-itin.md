@@ -66,7 +66,7 @@ Reportar tu renta por cuenta propia a través de un servicio reconocido por las 
 
 ## ¿Cómo se comparan los datos alternativos con abrir una nueva cuenta de crédito para construir mi puntaje?
 
-Si deben enfocarse en herramientas de datos alternativos o simplemente abrir un [préstamo para construir crédito](https://itincreditscore.com/credit-builder-loan-with-itin) o una cuenta asegurada. La respuesta honesta es ambas cosas, en etapas diferentes.
+Si deben enfocarse en herramientas de datos alternativos o simplemente abrir un [préstamo para construir crédito](/es/articles/credit-builder-loan-with-itin) o una cuenta asegurada. La respuesta honesta es ambas cosas, en etapas diferentes.
 
 | Opción | Agencias afectadas | ¿Consulta fuerte? | Tiempo para ver impacto | Ideal para |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ Si deben enfocarse en herramientas de datos alternativos o simplemente abrir un 
 | Cuenta de crédito asegurada | Las 3 (si el prestamista reporta) | Sí (generalmente) | 3-6 meses | Establecer historial de crédito revolvente |
 | Adición como usuario autorizado | Las 3 (si el emisor del titular principal reporta) | No | 1-2 ciclos | Acceder a un puntaje más rápido a través de la cuenta de otra persona |
 
-Las herramientas de datos alternativos destacan cuando tu expediente es completamente nuevo o muy delgado, porque convierten pagos que ya estás haciendo en historial de crédito visible para las agencias, sin costo adicional y sin riesgo de consultas fuertes. Una vez que tienes un par de tradelines reportando, el impacto marginal en el puntaje de Boost o del reporte de renta disminuye, y es mejor que enfoques tu energía en [mantener la utilización baja](https://itincreditscore.com/credit-utilization-itin-holders) y el historial de pagos limpio.
+Las herramientas de datos alternativos destacan cuando tu expediente es completamente nuevo o muy delgado, porque convierten pagos que ya estás haciendo en historial de crédito visible para las agencias, sin costo adicional y sin riesgo de consultas fuertes. Una vez que tienes un par de tradelines reportando, el impacto marginal en el puntaje de Boost o del reporte de renta disminuye, y es mejor que enfoques tu energía en [mantener la utilización baja](/es/articles/credit-utilization-itin-holders) y el historial de pagos limpio.
 
 ## ¿Los datos de Experian Boost aparecerán en mi puntaje FICO o solo en VantageScore?
 
@@ -84,13 +84,13 @@ Este es un detalle que sorprende a muchas personas. Experian Boost y programas s
 
 Los pagos de Experian Boost son reconocidos por el FICO Score 8 (el modelo más utilizado por los prestamistas) y varias versiones más recientes de FICO, así como por VantageScore 3.0 y 4.0 en el expediente de Experian. Las versiones más antiguas de FICO (FICO Score 2, 4 o 5, que todavía se usan en algunos procesos hipotecarios) no toman en cuenta los datos de Boost. Esto significa que un prestamista que solicite un puntaje específico para hipoteca puede no ver la mejora de Boost. Para decisiones de crédito cotidianas como solicitudes de tarjetas de crédito o financiamiento de autos, es más probable que se use el puntaje mejorado con Boost.
 
-Para los titulares de ITIN que están [construyendo hacia un puntaje sólido](https://itincreditscore.com/how-to-raise-credit-score-with-itin), Boost es más útil en los primeros meses, cuando incluso un aumento de 10 a 14 puntos puede cruzar el umbral de aprobación.
+Para los titulares de ITIN que están [construyendo hacia un puntaje sólido](/es/articles/how-to-raise-credit-score-with-itin), Boost es más útil en los primeros meses, cuando incluso un aumento de 10 a 14 puntos puede cruzar el umbral de aprobación.
 
 ## ¿Agregar datos alternativos puede tener algún efecto negativo en mi expediente de crédito ITIN?
 
 No, y esta es una de las fortalezas genuinas de la herramienta. Registrarse en Experian Boost no genera una consulta fuerte, por lo que no hay penalización en el puntaje por intentarlo. Consultar tu propio crédito es una consulta suave y no afecta tu puntaje, y el paso de vinculación bancaria de Boost funciona de la misma manera.
 
-Hay un escenario que vale la pena señalar específicamente para los titulares de ITIN: los expedientes mezclados o divididos. Los expedientes mezclados o divididos, donde tu información se confunde con los registros de otra persona, son un problema especialmente común para los titulares de ITIN. Si sospechas que tu expediente se ha mezclado con el de otra persona, identifica cada elemento que no te pertenezca, incluyendo direcciones desconocidas, y agrega ese detalle en tu carta de disputa. Antes de agregar datos de Boost, revisa tu expediente en Experian para detectar cuentas o direcciones que no reconozcas. Agregar pagos de Boost a un expediente mezclado podría complicar una futura [disputa](https://itincreditscore.com/how-to-dispute-credit-report-errors-with-itin), así que primero corrige cualquier error.
+Hay un escenario que vale la pena señalar específicamente para los titulares de ITIN: los expedientes mezclados o divididos. Los expedientes mezclados o divididos, donde tu información se confunde con los registros de otra persona, son un problema especialmente común para los titulares de ITIN. Si sospechas que tu expediente se ha mezclado con el de otra persona, identifica cada elemento que no te pertenezca, incluyendo direcciones desconocidas, y agrega ese detalle en tu carta de disputa. Antes de agregar datos de Boost, revisa tu expediente en Experian para detectar cuentas o direcciones que no reconozcas. Agregar pagos de Boost a un expediente mezclado podría complicar una futura [disputa](/es/articles/how-to-dispute-credit-report-errors-with-itin), así que primero corrige cualquier error.
 
 ## ¿Qué dice la investigación sobre los titulares de ITIN y su comportamiento crediticio en general?
 

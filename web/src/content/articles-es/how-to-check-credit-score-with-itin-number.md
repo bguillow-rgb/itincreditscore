@@ -117,7 +117,7 @@ Cinco factores determinan ese número:
 - **Historial de pagos (35% FICO / 41% VantageScore):** El factor más influyente en ambos sistemas es el historial de pagos. Pagar tus cuentas a tiempo de manera constante es fundamental; incluso un solo pago tardío puede causar caídas significativas en tu puntaje.
 - **Utilización del crédito (30% FICO / 20% VantageScore):** La utilización del crédito es el porcentaje del crédito disponible que estás usando. Trata de mantenerla por debajo del 30%, e idealmente por debajo del 10%.
 - **Antigüedad del historial crediticio (15% FICO / 20% VantageScore):** Cuanto más tiempo lleven tus cuentas abiertas y activas, más confianza tendrán los prestamistas en tu capacidad para manejar obligaciones financieras a largo plazo. Por eso deberías evitar cerrar tus cuentas más antiguas aunque no las uses con frecuencia.
-- **Variedad de crédito (~10%):** Tener tanto una cuenta revolvente (como una tarjeta asegurada) como una cuenta de cuotas (como un [préstamo para construir crédito con ITIN](https://itincreditscore.com/credit-builder-loan-with-itin)) funciona mejor que tener solo una de las dos.
+- **Variedad de crédito (~10%):** Tener tanto una cuenta revolvente (como una tarjeta asegurada) como una cuenta de cuotas (como un [préstamo para construir crédito con ITIN](/es/articles/credit-builder-loan-with-itin)) funciona mejor que tener solo una de las dos.
 - **Consultas nuevas (~10%):** Cada solicitud de crédito genera una consulta dura (hard inquiry), lo que baja tu puntaje entre 5 y 10 puntos. No solicites varias tarjetas al mismo tiempo. Las consultas duras dejan de afectar tu puntaje después de 12 meses y desaparecen de tu reporte después de 2 años.
 
 Según el Chartbook de Condiciones de Préstamo Q4 2025 de Experian, los titulares de ITIN mantienen una proporción deuda-ingreso más baja, del 25%, en comparación con los consumidores con SSN, lo que indica una gestión financiera disciplinada, lo cual se traduce directamente en mejores índices de utilización con el tiempo.
@@ -128,11 +128,11 @@ Según el Chartbook de Condiciones de Préstamo Q4 2025 de Experian, los titular
 
 Especialmente de personas que acaban de obtener su ITIN y todavía no han abierto ninguna cuenta de crédito en EE.UU.
 
-Necesitas al menos una cuenta abierta que esté siendo reportada para que pueda existir un puntaje. Los dos caminos más rápidos para los titulares de ITIN son una [tarjeta de crédito asegurada para titulares de ITIN](/es/articles/secured-credit-card-credit-score-itin) y un [préstamo para construir crédito](https://itincreditscore.com/credit-builder-loan-with-itin). Ambos reportan a los burós mensualmente, y un puntaje suele aparecer entre tres y seis meses después de tu primer estado de cuenta.
+Necesitas al menos una cuenta abierta que esté siendo reportada para que pueda existir un puntaje. Los dos caminos más rápidos para los titulares de ITIN son una [tarjeta de crédito asegurada para titulares de ITIN](/es/articles/secured-credit-card-credit-score-itin) y un [préstamo para construir crédito](/es/articles/credit-builder-loan-with-itin). Ambos reportan a los burós mensualmente, y un puntaje suele aparecer entre tres y seis meses después de tu primer estado de cuenta.
 
 Si quieres acelerar el proceso aún más, convertirte en usuario autorizado en la tarjeta de un familiar con un historial largo y limpio puede agregar de inmediato la antigüedad y el historial de pagos de esa cuenta a tu expediente. Según un estudio de inmigración de 2026, solo el 9% de los consumidores inmigrantes tiene un puntaje de crédito a los 22 años, pero el 75% lo logra a los 26, lo que demuestra una convergencia rápida, evidencia de que actuar de forma constante y temprana rinde frutos más rápido de lo que la mayoría espera.
 
-Una vez que tengas 6 o más meses de historial, también puedes verificar si ya [tienes un puntaje de crédito con tu ITIN](https://itincreditscore.com/can-you-have-a-credit-score-with-an-itin) siguiendo el proceso de registro de myEquifax o Credit Karma descrito arriba.
+Una vez que tengas 6 o más meses de historial, también puedes verificar si ya [tienes un puntaje de crédito con tu ITIN](/es/articles/can-you-have-a-credit-score-with-an-itin) siguiendo el proceso de registro de myEquifax o Credit Karma descrito arriba.
 
 ---
 

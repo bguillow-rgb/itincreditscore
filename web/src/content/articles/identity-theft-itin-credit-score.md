@@ -40,7 +40,7 @@ The mechanics are the same whether your file is keyed to an ITIN or an SSN. When
 
 According to research cited by consumer advocates, identity theft victims can see an average drop of 100 or more points when new-account fraud is involved, because it hits multiple FICO factors simultaneously. Payment history (35% of your score), amounts owed, new credit, and length of history all take a hit at the same time. The longer the fraud runs undetected, the deeper the damage: catching it within 30 days limits harm mostly to inquiry and utilization effects, while fraud left unchecked for 90 days or more typically produces delinquency marks that take 12-24 months to age off even after correction.
 
-For ITIN holders specifically, detection is often slower because many standard online credit-monitoring tools require an SSN for account creation. This is why actively [monitoring your credit with an ITIN](https://itincreditscore.com/credit-monitoring-with-itin) using ITIN-compatible platforms matters so much. It is the single most important thing you can do to catch fraud early.
+For ITIN holders specifically, detection is often slower because many standard online credit-monitoring tools require an SSN for account creation. This is why actively [monitoring your credit with an ITIN](/articles/credit-monitoring-with-itin) using ITIN-compatible platforms matters so much. It is the single most important thing you can do to catch fraud early.
 
 ## Am I really at risk? Is identity fraud that common?
 
@@ -56,7 +56,7 @@ Synthetic identity fraud deserves its own explanation. Rather than simply impers
 
 For ITIN holders, the practical danger is that a synthetic file built on your ITIN may not appear on your own credit report at all. It sits under a different name. You might never see it unless you notice unexpected hard inquiries, or until the fraudster maxes out accounts and those delinquencies somehow get associated with your real file. Equifax launched new AI-driven detection tools in early 2026 to catch this pattern at the lender level, but tighter anti-fraud standards now affect legitimate borrowers' access to credit, raising costs for lenders. Rising fraud makes the credit environment harder for everyone, which is another reason ITIN holders benefit from a clean, well-monitored file.
 
-Placing a [credit freeze on your file at all three bureaus](https://itincreditscore.com/how-to-freeze-credit-with-itin) is the most direct way to block synthetic and new-account fraud, because lenders cannot open a new file when a freeze is active.
+Placing a [credit freeze on your file at all three bureaus](/articles/how-to-freeze-credit-with-itin) is the most direct way to block synthetic and new-account fraud, because lenders cannot open a new file when a freeze is active.
 
 ## How do I detect fraud on my ITIN credit report?
 
@@ -80,7 +80,7 @@ Recovery has four concrete phases. Work through them in order.
 
 **Step 2: Place a fraud alert or credit freeze.** A fraud alert (free, lasts one year) requires lenders to verify your identity before opening new accounts. Contact one bureau and they must notify the others. A credit freeze (also free under federal law) is stronger: it prevents new files from being opened at all. Because ITIN holders sometimes cannot complete the online freeze process, be prepared to call the bureaus or submit a written request with your government-issued ID.
 
-**Step 3: Dispute every fraudulent item at each bureau.** The Fair Credit Reporting Act protects you regardless of whether you have an SSN. You are legally entitled to a free credit report annually from each major bureau. If you find errors on your report, you have the right to dispute them, and credit bureaus must investigate and correct verified mistakes. Submit your dispute in writing, include your FTC report as supporting evidence, and keep copies of everything. For a detailed walkthrough of the dispute process, see our guide on [how to dispute credit report errors with an ITIN](https://itincreditscore.com/how-to-dispute-credit-report-errors-with-itin).
+**Step 3: Dispute every fraudulent item at each bureau.** The Fair Credit Reporting Act protects you regardless of whether you have an SSN. You are legally entitled to a free credit report annually from each major bureau. If you find errors on your report, you have the right to dispute them, and credit bureaus must investigate and correct verified mistakes. Submit your dispute in writing, include your FTC report as supporting evidence, and keep copies of everything. For a detailed walkthrough of the dispute process, see our guide on [how to dispute credit report errors with an ITIN](/articles/how-to-dispute-credit-report-errors-with-itin).
 
 **Step 4: Follow up on score recovery.** Once fraudulent accounts are removed and inaccurate delinquencies deleted, your score should begin recovering within 30-60 days of the correction being applied. Monitor your score monthly during this period. Identity theft victims see an average 100-plus point credit score drop, but the recovery timeline depends entirely on which type of fraud hit you. New-account fraud with multiple delinquencies takes longer to recover from than a single fraudulent inquiry.
 
@@ -106,6 +106,6 @@ What proactive steps actually make a difference. Here are the most effective, in
 2. **Set up credit monitoring on an ITIN-compatible platform.** Standard monitoring services that require an SSN leave a blind spot. A platform built for ITIN holders means you get alerts for new inquiries or accounts as they happen, not weeks later.
 3. **Pull your three-bureau reports on a staggered schedule.** Reviewing one bureau every four months costs nothing and gives you year-round visibility.
 4. **Protect your ITIN number like a financial password.** Do not share it over the phone unless you initiated the call. The IRS will never ask for it via email or text.
-5. **Verify that any lender you work with reports under your ITIN correctly.** A mismatch between the ITIN on the account and your credit file is a [mixed credit file](https://itincreditscore.com/mixed-credit-file-itin-holder) problem that can both mask fraud and damage your score.
+5. **Verify that any lender you work with reports under your ITIN correctly.** A mismatch between the ITIN on the account and your credit file is a [mixed credit file](/articles/mixed-credit-file-itin-holder) problem that can both mask fraud and damage your score.
 
 Building a strong credit history takes months of consistent effort. Identity theft can undo that progress quickly. The good news is that the FCRA gives you the same protections as any other consumer, and the dispute and recovery process, while requiring more mail and phone contact for ITIN holders than for SSN holders, is well-established and does work when followed correctly.

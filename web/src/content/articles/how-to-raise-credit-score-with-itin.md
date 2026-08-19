@@ -54,7 +54,7 @@ Payment history is unforgiving in one direction and very rewarding in the other.
 
 Set up automatic minimum payments for every account so you never miss a due date by accident. If you can pay the full statement balance, do it, but even a minimum payment protects your history. Paying your bills on time benefits your credit; late payments, missed payments, or accounts in collections can damage it.
 
-For ITIN holders who also pay rent, connecting that payment to a rent-reporting service adds another stream of on-time history to your file without opening a new credit account. Our guide on [does paying rent build credit with an ITIN](https://itincreditscore.com/does-paying-rent-build-credit-with-itin) explains exactly how those services work and which bureaus they report to.
+For ITIN holders who also pay rent, connecting that payment to a rent-reporting service adds another stream of on-time history to your file without opening a new credit account. Our guide on [does paying rent build credit with an ITIN](/articles/does-paying-rent-build-credit-with-itin) explains exactly how those services work and which bureaus they report to.
 
 If a late payment on your report was reported in error (say, a payment you actually made on time), dispute it directly with the bureau reporting it. Incorrect information can negatively impact your score. Examples include incorrect balances, duplicate accounts, incorrect late payments, and accounts belonging to someone else. Removing a verified error can produce one of the fastest score jumps available.
 
@@ -80,7 +80,7 @@ Unlike late payments (which stay on your report for seven years), utilization is
 
 ## Does opening a second account help or hurt my score?
 
-Whether adding a [credit builder loan with an ITIN](https://itincreditscore.com/credit-builder-loan-with-itin) alongside a credit card is a smart move or just more risk.
+Whether adding a [credit builder loan with an ITIN](/articles/credit-builder-loan-with-itin) alongside a credit card is a smart move or just more risk.
 
 Honestly, it depends on where you are in your credit journey. Any new application triggers a hard inquiry in the short term. Most credit card applications trigger a hard inquiry, which can temporarily lower your score by 5 to 15 points. That is a small and temporary dip.
 
@@ -100,13 +100,13 @@ The timing rule most advisors suggest: wait at least six months after opening yo
 
 Not all three bureaus may track ITIN holders initially. Some may start after your first credit account. Apply for products that report to all three bureaus to build a complete credit file faster. This also means an error at one bureau may not appear at the others, so check all three separately.
 
-Request your free reports by mail using your ITIN as your identifier. Review every account listed, confirm the balances and payment status are accurate, and flag anything unfamiliar. Our guide on [how to get your credit report with an ITIN](https://itincreditscore.com/how-to-check-credit-score-with-itin-number) covers the exact mail-in process for each bureau.
+Request your free reports by mail using your ITIN as your identifier. Review every account listed, confirm the balances and payment status are accurate, and flag anything unfamiliar. Our guide on [how to get your credit report with an ITIN](/articles/how-to-check-credit-score-with-itin-number) covers the exact mail-in process for each bureau.
 
 ---
 
 ## Should I become an authorized user to boost my score faster?
 
-If a family member or close friend has a long-standing credit card in good standing, being added as an [authorized user on a credit card with an ITIN](https://itincreditscore.com/authorized-user-credit-card-itin) can add that card's entire history to your file.
+If a family member or close friend has a long-standing credit card in good standing, being added as an [authorized user on a credit card with an ITIN](/articles/authorized-user-credit-building-itin) can add that card's entire history to your file.
 
 The benefit is meaningful. You inherit the account's age, credit limit, and payment history without needing to qualify on your own. If the primary cardholder has a five-year-old card with a $5,000 limit and a clean record, your file suddenly looks much more established.
 
@@ -129,7 +129,7 @@ For ITIN holders, hitting specific score thresholds unlocks real, practical bene
 
 With a secured card and rent reporting together, many immigrants see a FICO score within three to six months. Getting into the mid-600s, which unlocks most apartments and better card offers, typically takes about a year of consistent on-time payments.
 
-If your near-term goal is a home purchase, see our dedicated guide on [ITIN mortgage loans](https://itincreditscore.com/itin-mortgage-loan) for the score and documentation requirements lenders actually use.
+If your near-term goal is a home purchase, see our dedicated guide on [ITIN mortgage loans](https://itinlending.net/itin-mortgage) for the score and documentation requirements lenders actually use.
 
 ---
 

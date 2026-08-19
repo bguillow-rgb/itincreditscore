@@ -54,7 +54,7 @@ El FICO Score requiere que un archivo cumpla dos condiciones antes de generar un
 
 Para la mayoría de los titulares de ITIN que abren una tarjeta asegurada sin historial previo de crédito en EE. UU., espera entre 3-6 meses antes de que aparezca un FICO Score, y a veces antes para VantageScore. Solo el 9% de los consumidores inmigrantes tiene un puntaje de crédito a los 22 años, pero el 75% lo obtiene a los 26, lo que demuestra una convergencia rápida una vez que abren cuentas con reporte. Una tarjeta asegurada que reporte mensualmente es el camino más rápido y correcto hacia ese primer puntaje.
 
-Una vez que tengas un puntaje, puedes [monitorear tu puntaje de crédito con ITIN](https://itincreditscore.com/credit-monitoring-with-itin) para seguir tu progreso en las tres agencias.
+Una vez que tengas un puntaje, puedes [monitorear tu puntaje de crédito con ITIN](/es/articles/credit-monitoring-with-itin) para seguir tu progreso en las tres agencias.
 
 ## ¿Qué factores del puntaje afecta una tarjeta asegurada?
 
@@ -78,7 +78,7 @@ Si la consulta formal de la solicitud causa un daño duradero, especialmente cua
 
 La respuesta corta: el impacto es real pero pequeño y temporal. Si esta es tu primera tarjeta de crédito y estás solicitándola con un ITIN, es posible que todavía no tengas un puntaje de crédito. Pero si ya tienes uno, solicitarla podría causar una pequeña caída temporal en tu puntaje. Aun así, la aprobación y el uso responsable pueden ayudarte a construir o mejorar tu crédito con el tiempo.
 
-Tu actividad de crédito reciente, incluidas las consultas formales recientes y las nuevas cuentas abiertas, representa aproximadamente el 10% de tu FICO Score y el 11% de tu VantageScore. Abrir demasiadas cuentas a la vez puede parecer riesgoso, ya que sugiere una posible dependencia excesiva del crédito. La regla práctica: solicita una sola tarjeta asegurada, deja que madure al menos seis meses y resiste la tentación de solicitar otros productos hasta que tengas un historial sólido de pagos a tiempo. Puedes leer más sobre esto en nuestra [guía de consultas formales con ITIN](https://itincreditscore.com/hard-inquiries-itin-credit-score).
+Tu actividad de crédito reciente, incluidas las consultas formales recientes y las nuevas cuentas abiertas, representa aproximadamente el 10% de tu FICO Score y el 11% de tu VantageScore. Abrir demasiadas cuentas a la vez puede parecer riesgoso, ya que sugiere una posible dependencia excesiva del crédito. La regla práctica: solicita una sola tarjeta asegurada, deja que madure al menos seis meses y resiste la tentación de solicitar otros productos hasta que tengas un historial sólido de pagos a tiempo. Puedes leer más sobre esto en nuestra [guía de consultas formales con ITIN](/es/articles/hard-inquiries-itin-credit-score).
 
 Si aún no tienes un puntaje en EE. UU., la consulta formal no produce ningún cambio en el puntaje, porque no hay un archivo que reducir. Tu primer puntaje reflejará el historial positivo de pagos que vayas construyendo, no la consulta.
 
@@ -90,7 +90,7 @@ La estrategia importa más de lo que la mayoría cree. Tres factores controlan l
 
 **2. Mantén la utilización baja al cierre del estado de cuenta.** El saldo que aparece en tu reporte de crédito es el que existe cuando el emisor genera tu estado de cuenta, no el saldo después de que pagas. La utilización de crédito representa el 30% de un FICO Score y el 20% de un VantageScore. Mantener tu utilización por debajo del 30% les muestra a los prestamistas que manejas el crédito de manera responsable y que no estás al límite. En una tarjeta asegurada con límite de $300, eso significa mantener tu saldo en el estado de cuenta por debajo de $90. Apunta a menos de $30 (menos del 10%) para el mejor impacto en tu puntaje.
 
-**3. Mantén la cuenta abierta.** Cerrar una tarjeta asegurada después de pasar a una sin garantía elimina su antigüedad de tu promedio. Después de 6-12 meses de pagos a tiempo, muchos emisores te graduarán a una tarjeta sin garantía y te devolverán tu depósito, un hito importante. Cuando eso ocurra, pregunta si el historial de la cuenta se transfiere a la nueva tarjeta sin garantía. Si lo hace, conservas el beneficio de la antigüedad. Para más detalles sobre por qué esto importa, consulta nuestra [guía de antigüedad de crédito para titulares de ITIN](https://itincreditscore.com/credit-age-itin-holders).
+**3. Mantén la cuenta abierta.** Cerrar una tarjeta asegurada después de pasar a una sin garantía elimina su antigüedad de tu promedio. Después de 6-12 meses de pagos a tiempo, muchos emisores te graduarán a una tarjeta sin garantía y te devolverán tu depósito, un hito importante. Cuando eso ocurra, pregunta si el historial de la cuenta se transfiere a la nueva tarjeta sin garantía. Si lo hace, conservas el beneficio de la antigüedad. Para más detalles sobre por qué esto importa, consulta nuestra [guía de antigüedad de crédito para titulares de ITIN](/es/articles/credit-age-itin-holders).
 
 ## ¿Cuándo debo pasar de una tarjeta asegurada a una sin garantía?
 
@@ -98,7 +98,7 @@ Después de 12 meses de pagos a tiempo, tu puntaje generalmente estará en el ra
 
 Pasar a una tarjeta sin garantía importa para tu puntaje más allá de solo eliminar el requisito del depósito. Cuando la mejora aumenta tu límite de crédito, tu proporción de utilización baja automáticamente incluso si tus gastos se mantienen igual. Esa caída puede traducirse en una ganancia de varios puntos casi de inmediato.
 
-Si tu emisor no ofrece una mejora automática, puedes solicitar una tarjeta sin garantía por separado una vez que tu puntaje llegue al rango de 660 o más. Mantén la tarjeta asegurada abierta junto a la nueva cuenta en lugar de cerrarla de inmediato. La antigüedad de la cuenta más antigua y el crédito disponible adicional contribuyen a un puntaje más alto. Combinar una tarjeta asegurada con un [préstamo de construcción de crédito](https://itincreditscore.com/credit-builder-loan-with-itin) al mismo tiempo también agrega una cuenta de crédito a plazos a tu archivo, lo que mejora tu mezcla de crédito y puede acelerar el crecimiento de tu puntaje.
+Si tu emisor no ofrece una mejora automática, puedes solicitar una tarjeta sin garantía por separado una vez que tu puntaje llegue al rango de 660 o más. Mantén la tarjeta asegurada abierta junto a la nueva cuenta en lugar de cerrarla de inmediato. La antigüedad de la cuenta más antigua y el crédito disponible adicional contribuyen a un puntaje más alto. Combinar una tarjeta asegurada con un [préstamo de construcción de crédito](/es/articles/credit-builder-loan-with-itin) al mismo tiempo también agrega una cuenta de crédito a plazos a tu archivo, lo que mejora tu mezcla de crédito y puede acelerar el crecimiento de tu puntaje.
 
 ## ¿Cuáles son los errores más comunes que cometen los titulares de ITIN con las tarjetas aseguradas y que frenan su puntaje?
 
@@ -108,7 +108,7 @@ Los cuatro problemas más comunes son:
 
 - **Elegir una tarjeta que no reporta a las tres agencias.** Si tu tarjeta solo reporta a una agencia, tu puntaje solo se construye ahí. Los prestamistas que consulten una agencia diferente no verán nada.
 - **Alta utilización al cierre del estado de cuenta.** Tener un saldo superior al 30% de tu límite en el momento en que se genera el estado de cuenta es una de las formas más rápidas de frenar un puntaje que está subiendo. Paga antes de la fecha del estado de cuenta, no solo antes de la fecha de vencimiento.
-- **Cerrar la cuenta demasiado pronto.** Cerrar una tarjeta asegurada antes de tener otras cuentas abiertas elimina de un golpe tu antigüedad de crédito y tu crédito disponible. Ambos factores mueven tu puntaje en la dirección equivocada. Consulta nuestra [guía sobre archivo de crédito limitado](https://itincreditscore.com/thin-credit-file-itin-holder) si te preocupa empezar de nuevo.
+- **Cerrar la cuenta demasiado pronto.** Cerrar una tarjeta asegurada antes de tener otras cuentas abiertas elimina de un golpe tu antigüedad de crédito y tu crédito disponible. Ambos factores mueven tu puntaje en la dirección equivocada. Consulta nuestra [guía sobre archivo de crédito limitado](/es/articles/thin-credit-file-itin-holder) si te preocupa empezar de nuevo.
 - **Solicitar demasiadas cuentas a la vez.** Varias consultas formales en un período corto son una señal de riesgo. Cada solicitud puede generar una consulta formal en tu reporte de crédito. Demasiadas consultas perjudican tu puntaje. Aplica con estrategia: una o dos cuentas para empezar, luego espera y construye tu historial.
 
 Una tarjeta asegurada usada correctamente es uno de los caminos más confiables hacia un puntaje de crédito sólido con ITIN. La mecánica es sencilla: reporta a las tres agencias, paga a tiempo, mantén los saldos bajos y deja que el tiempo haga su trabajo.

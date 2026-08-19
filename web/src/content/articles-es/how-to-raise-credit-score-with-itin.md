@@ -54,7 +54,7 @@ El historial de pagos es implacable en una dirección y muy recompensador en la 
 
 Configura pagos mínimos automáticos para cada cuenta y así nunca olvidarás una fecha de pago. Si puedes pagar el saldo total del estado de cuenta, hazlo, pero incluso un pago mínimo protege tu historial. Pagar tus facturas a tiempo beneficia tu crédito; los pagos tardíos, los pagos perdidos o las cuentas en cobranza pueden dañarlo.
 
-Si como titular de ITIN también pagas renta, conectar ese pago a un servicio de reporte de renta agrega otro registro de pagos puntuales a tu expediente sin necesidad de abrir una nueva cuenta de crédito. Nuestra guía sobre [si pagar la renta construye crédito con un ITIN](https://itincreditscore.com/does-paying-rent-build-credit-with-itin) explica exactamente cómo funcionan esos servicios y a qué agencias reportan.
+Si como titular de ITIN también pagas renta, conectar ese pago a un servicio de reporte de renta agrega otro registro de pagos puntuales a tu expediente sin necesidad de abrir una nueva cuenta de crédito. Nuestra guía sobre [si pagar la renta construye crédito con un ITIN](/es/articles/does-paying-rent-build-credit-with-itin) explica exactamente cómo funcionan esos servicios y a qué agencias reportan.
 
 Si un pago tardío en tu reporte fue registrado por error (por ejemplo, un pago que sí realizaste a tiempo), dispútalo directamente con la agencia que lo reporta. La información incorrecta puede afectar negativamente tu puntaje. Algunos ejemplos son saldos incorrectos, cuentas duplicadas, pagos tardíos incorrectos y cuentas que pertenecen a otra persona. Eliminar un error verificado puede producir uno de los aumentos de puntaje más rápidos disponibles.
 
@@ -80,7 +80,7 @@ A diferencia de los pagos tardíos (que permanecen en tu reporte por siete años
 
 ## ¿Abrir una segunda cuenta ayuda o perjudica mi puntaje?
 
-Si agregar un [préstamo para construir crédito con un ITIN](https://itincreditscore.com/credit-builder-loan-with-itin) junto a una tarjeta de crédito es una decisión inteligente o simplemente más riesgo.
+Si agregar un [préstamo para construir crédito con un ITIN](/es/articles/credit-builder-loan-with-itin) junto a una tarjeta de crédito es una decisión inteligente o simplemente más riesgo.
 
 Honestamente, depende de en qué etapa de tu proceso de construcción de crédito te encuentres. Cualquier nueva solicitud genera una consulta fuerte a corto plazo. La mayoría de las solicitudes de tarjetas de crédito generan una consulta fuerte, que puede bajar temporalmente tu puntaje entre 5 y 15 puntos. Esa es una caída pequeña y temporal.
 
@@ -100,13 +100,13 @@ La regla de tiempo que sugieren la mayoría de los asesores: espera al menos sei
 
 Es posible que las tres agencias no tengan un expediente del titular de ITIN desde el principio. Algunas pueden comenzar a rastrearlo después de tu primera cuenta de crédito. Solicita productos que reporten a las tres agencias para construir un expediente de crédito completo más rápido. Esto también significa que un error en una agencia puede no aparecer en las otras, por lo que debes revisar las tres por separado.
 
-Solicita tus reportes gratuitos por correo usando tu ITIN como identificador. Revisa cada cuenta listada, confirma que los saldos y el estado de pagos sean correctos, y marca todo lo que no reconozcas. Nuestra guía sobre [cómo obtener tu reporte de crédito con un ITIN](https://itincreditscore.com/how-to-check-credit-score-with-itin-number) explica exactamente el proceso por correo para cada agencia.
+Solicita tus reportes gratuitos por correo usando tu ITIN como identificador. Revisa cada cuenta listada, confirma que los saldos y el estado de pagos sean correctos, y marca todo lo que no reconozcas. Nuestra guía sobre [cómo obtener tu reporte de crédito con un ITIN](/es/articles/how-to-check-credit-score-with-itin-number) explica exactamente el proceso por correo para cada agencia.
 
 ---
 
 ## ¿Debo convertirme en usuario autorizado para subir mi puntaje más rápido?
 
-Si un familiar o amigo cercano tiene una tarjeta de crédito con buen historial, ser agregado como [usuario autorizado en una tarjeta de crédito con un ITIN](https://itincreditscore.com/authorized-user-credit-card-itin) puede agregar todo el historial de esa tarjeta a tu expediente.
+Si un familiar o amigo cercano tiene una tarjeta de crédito con buen historial, ser agregado como [usuario autorizado en una tarjeta de crédito con un ITIN](/es/articles/authorized-user-credit-building-itin) puede agregar todo el historial de esa tarjeta a tu expediente.
 
 El beneficio es significativo. Heredas la antigüedad de la cuenta, el límite de crédito y el historial de pagos sin necesitar calificar por tu cuenta. Si el titular principal tiene una tarjeta de cinco años con un límite de $5,000 y un historial limpio, tu expediente de repente parece mucho más consolidado.
 
@@ -129,7 +129,7 @@ Para los titulares de ITIN, alcanzar ciertos rangos de puntaje abre beneficios r
 
 Con una tarjeta asegurada y el reporte de renta juntos, muchos inmigrantes obtienen un puntaje FICO en tres a seis meses. Llegar a mediados de los 600, que abre la puerta a la mayoría de los apartamentos y mejores ofertas de tarjetas, generalmente toma alrededor de un año de pagos a tiempo constantes.
 
-Si tu objetivo a corto plazo es comprar una casa, consulta nuestra guía dedicada a los [préstamos hipotecarios ITIN](https://itincreditscore.com/itin-mortgage-loan) para conocer los requisitos de puntaje y documentación que realmente usan los prestamistas.
+Si tu objetivo a corto plazo es comprar una casa, consulta nuestra guía dedicada a los [préstamos hipotecarios ITIN](https://itinlending.net/es/itin-mortgage) para conocer los requisitos de puntaje y documentación que realmente usan los prestamistas.
 
 ---
 

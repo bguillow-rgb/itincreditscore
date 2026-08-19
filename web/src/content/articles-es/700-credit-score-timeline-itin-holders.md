@@ -34,7 +34,7 @@ faqs:
   - q: "¿Qué es lo que más puede perjudicar el puntaje de crédito de un titular de ITIN?"
     a: "Un solo pago tardío o no realizado. En un archivo delgado con solo una o dos cuentas, un retraso de 30 días puede bajar el puntaje entre 60 y 100 puntos, y permanece en el reporte durante siete años, aunque su impacto se reduce gradualmente con 12-24 meses de pagos puntuales posteriores. Configurar el pago automático por al menos el mínimo requerido es la protección más sencilla."
   - q: "¿Los titulares de ITIN necesitan disputar o transferir su historial de crédito cuando reciben un SSN?"
-    a: "Sí, pero no es automático. Si después recibes un SSN, debes contactar a cada una de las tres agencias de crédito por escrito para solicitar que tu historial construido con ITIN se fusione con tu nuevo SSN. Sin este paso, tus años de historial positivo pueden quedar desconectados de tu nuevo identificador. Nuestra guía completa sobre [cómo transferir el historial de crédito de ITIN a SSN](https://itincreditscore.com/transfer-itin-credit-history-to-ssn) explica el proceso paso a paso."
+    a: "Sí, pero no es automático. Si después recibes un SSN, debes contactar a cada una de las tres agencias de crédito por escrito para solicitar que tu historial construido con ITIN se fusione con tu nuevo SSN. Sin este paso, tus años de historial positivo pueden quedar desconectados de tu nuevo identificador. Nuestra guía completa sobre [cómo transferir el historial de crédito de ITIN a SSN](/es/articles/transfer-itin-credit-history-to-ssn) explica el proceso paso a paso."
   - q: "¿El préstamo para construir crédito de Self funciona para titulares de ITIN?"
     a: "Self acepta solicitudes con ITIN. Los planes van desde $25 hasta $150 por mes durante 24 meses y reportan a las tres agencias de crédito. Los usuarios que empiezan desde cero tienen un aumento promedio de 45-49 puntos en su puntaje durante el plazo del préstamo. El producto agrega una línea de crédito a plazos, que complementa bien una línea de tarjeta de crédito asegurada para satisfacer el factor de combinación de crédito de FICO."
   - q: "¿Qué puntaje necesito para calificar para crédito no asegurado como titular de ITIN?"
@@ -125,7 +125,7 @@ VantageScore puede aparecer tan pronto como el mes 2 si tu emisor ya ha reportad
 
 Paga a tiempo, mantén la utilización por debajo del 10%. No se requiere nada más. Resiste el impulso de abrir una segunda cuenta. Cada solicitud genera una consulta difícil en tu reporte de crédito, lo que baja tu puntaje temporalmente. Espacía las solicitudes al menos 3-6 meses entre sí.
 
-Durante este período, revisa tu reporte de crédito (no tu puntaje) para confirmar que la cuenta está reportando correctamente bajo tu ITIN. Usa las [opciones de monitoreo de crédito que cubrimos para titulares de ITIN](https://itincreditscore.com/credit-monitoring-with-itin) para confirmar que las tres agencias están registrando la línea de crédito.
+Durante este período, revisa tu reporte de crédito (no tu puntaje) para confirmar que la cuenta está reportando correctamente bajo tu ITIN. Usa las [opciones de monitoreo de crédito que cubrimos para titulares de ITIN](/es/articles/credit-monitoring-with-itin) para confirmar que las tres agencias están registrando la línea de crédito.
 
 **Mes 6: Primer puntaje FICO**
 
@@ -143,7 +143,7 @@ Esta segunda cuenta hace dos cosas: agrega una línea de crédito a plazos (mejo
 
 Con una tarjeta asegurada con 12 meses de antigüedad, un préstamo para construir crédito con 6 meses, historial de pagos perfecto en ambas y utilización por debajo del 10%, un puntaje FICO en el rango de 680-700 es una meta realista. Dos cuentas, ambas limpias, te llevan al extremo superior de ese rango.
 
-Este es también el punto en que [la antigüedad de tu historial de crédito](https://itincreditscore.com/credit-age-itin-holders) comienza a ser un factor positivo significativo. La antigüedad del historial de crédito representa el 15% de tu puntaje FICO, así que las cuentas necesitan tiempo para madurar.
+Este es también el punto en que [la antigüedad de tu historial de crédito](/es/articles/credit-age-itin-holders) comienza a ser un factor positivo significativo. La antigüedad del historial de crédito representa el 15% de tu puntaje FICO, así que las cuentas necesitan tiempo para madurar.
 
 **Meses 12-18: Mantén el rumbo, deja que el tiempo trabaje**
 
@@ -165,7 +165,7 @@ Existe un atajo legítimo: la estrategia de usuario autorizado. Que te agreguen 
 
 Casi la mitad de los usuarios que prueban esto ven su puntaje saltar a 680 o más en 30-45 días, lo que lo convierte en uno de los movimientos más rápidos disponibles. Para un archivo ITIN delgado sin puntaje todavía, que te agreguen a una cuenta con largo historial y baja utilización puede producir un primer archivo puntuable en un ciclo de reporte en lugar de seis meses.
 
-Los requisitos clave: la cuenta principal debe tener un saldo bajo (utilización menor al 10%), un historial largo (idealmente 5 o más años) y un récord de pagos perfecto. Elige un titular de cuenta principal que sea financieramente responsable, siempre pague a tiempo y mantenga su utilización baja. Sus errores podrían perjudicar tu puntaje, así que esto requiere plena confianza. Nuestra guía detallada sobre [el estado de usuario autorizado con un ITIN](https://itincreditscore.com/authorized-user-credit-building-itin) cubre las reglas y riesgos de cada emisor.
+Los requisitos clave: la cuenta principal debe tener un saldo bajo (utilización menor al 10%), un historial largo (idealmente 5 o más años) y un récord de pagos perfecto. Elige un titular de cuenta principal que sea financieramente responsable, siempre pague a tiempo y mantenga su utilización baja. Sus errores podrían perjudicar tu puntaje, así que esto requiere plena confianza. Nuestra guía detallada sobre [el estado de usuario autorizado con un ITIN](/es/articles/authorized-user-credit-building-itin) cubre las reglas y riesgos de cada emisor.
 
 La estrategia de usuario autorizado comprime la línea de tiempo, pero no la reemplaza. Aún necesitas tus propias líneas de crédito para construir un archivo sólido e independiente que los prestamistas consideren completamente tuyo. Piénsalo como una aceleración de 3-6 meses, no como un sustituto permanente.
 
@@ -221,7 +221,7 @@ Los datos no son solo tranquilizadores. Son un argumento sólido para empezar lo
 
 No, si actúas a tiempo. Si tenías un ITIN y desde entonces recibiste un SSN, tu historial de crédito no se transfiere automáticamente. Necesitas contactar a las tres agencias de crédito y solicitar que transfieran tu historial de crédito.
 
-Este es uno de los pasos más importantes que los titulares de ITIN pasan por alto, y se cubre en detalle en nuestra guía sobre [cómo transferir el historial de crédito de ITIN a SSN](https://itincreditscore.com/transfer-itin-credit-history-to-ssn). El resumen: escribe a Experian, Equifax y TransUnion por separado con tu antiguo ITIN, tu nuevo SSN y documentos de identidad de respaldo, y solicita una fusión formal del historial. Sin este paso, podrías terminar con dos archivos delgados separados en lugar de uno sólido, lo que significa que tu puntaje de 700 o más desaparece efectivamente y la línea de tiempo comienza de nuevo.
+Este es uno de los pasos más importantes que los titulares de ITIN pasan por alto, y se cubre en detalle en nuestra guía sobre [cómo transferir el historial de crédito de ITIN a SSN](/es/articles/transfer-itin-credit-history-to-ssn). El resumen: escribe a Experian, Equifax y TransUnion por separado con tu antiguo ITIN, tu nuevo SSN y documentos de identidad de respaldo, y solicita una fusión formal del historial. Sin este paso, podrías terminar con dos archivos delgados separados en lugar de uno sólido, lo que significa que tu puntaje de 700 o más desaparece efectivamente y la línea de tiempo comienza de nuevo.
 
 ---
 
@@ -231,7 +231,7 @@ Monitorear tu archivo de crédito no es opcional cuando estás construyendo haci
 
 Revisa tres cosas en cada revisión. Primero, confirma que tu ITIN es el identificador en el archivo y que no se han agregado cuentas desconocidas. Segundo, verifica que tus pagos puntuales se estén mostrando correctamente y no aparezcan como tardíos por un error administrativo. Tercero, revisa las antigüedades de las cuentas que se reportan. Una fecha incorrecta en la apertura de una cuenta puede reducir artificialmente tu antigüedad promedio de cuentas y suprimir tu puntaje.
 
-Puedes aprender exactamente cómo leer y monitorear tu archivo en nuestra guía sobre [monitoreo de crédito con un ITIN](https://itincreditscore.com/credit-monitoring-with-itin), y si encuentras un error, nuestra [guía de disputas para titulares de ITIN](https://itincreditscore.com/how-to-dispute-credit-report-errors-with-itin) explica el proceso agencia por agencia.
+Puedes aprender exactamente cómo leer y monitorear tu archivo en nuestra guía sobre [monitoreo de crédito con un ITIN](/es/articles/credit-monitoring-with-itin), y si encuentras un error, nuestra [guía de disputas para titulares de ITIN](/es/articles/how-to-dispute-credit-report-errors-with-itin) explica el proceso agencia por agencia.
 
 ---
 
@@ -259,7 +259,7 @@ Apunta a una utilización del 1-10% en cada tarjeta y en tu perfil completo. Que
 Un solo pago tardío o no realizado. En un archivo delgado con solo una o dos cuentas, un retraso de 30 días puede bajar el puntaje entre 60 y 100 puntos, y permanece en el reporte durante siete años, aunque su impacto se reduce gradualmente con 12-24 meses de pagos puntuales posteriores. Configurar el pago automático por al menos el mínimo requerido es la protección más sencilla.
 
 **¿Los titulares de ITIN necesitan disputar o transferir su historial de crédito cuando reciben un SSN?**
-Sí, pero no es automático. Si después recibes un SSN, debes contactar a cada una de las tres agencias de crédito por escrito para solicitar que tu historial construido con ITIN se fusione con tu nuevo SSN. Sin este paso, tus años de historial positivo pueden quedar desconectados de tu nuevo identificador. Nuestra guía completa sobre [cómo transferir el historial de crédito de ITIN a SSN](https://itincreditscore.com/transfer-itin-credit-history-to-ssn) explica el proceso paso a paso.
+Sí, pero no es automático. Si después recibes un SSN, debes contactar a cada una de las tres agencias de crédito por escrito para solicitar que tu historial construido con ITIN se fusione con tu nuevo SSN. Sin este paso, tus años de historial positivo pueden quedar desconectados de tu nuevo identificador. Nuestra guía completa sobre [cómo transferir el historial de crédito de ITIN a SSN](/es/articles/transfer-itin-credit-history-to-ssn) explica el proceso paso a paso.
 
 **¿El préstamo para construir crédito de Self funciona para titulares de ITIN?**
 Self acepta solicitudes con ITIN. Los planes van desde $25 hasta $150 por mes durante 24 meses y reportan a las tres agencias de crédito. Los usuarios que empiezan desde cero tienen un aumento promedio de 45-49 puntos en su puntaje durante el plazo del préstamo. El producto agrega una línea de crédito a plazos, que complementa bien una línea de tarjeta de crédito asegurada para satisfacer el factor de combinación de crédito de FICO.

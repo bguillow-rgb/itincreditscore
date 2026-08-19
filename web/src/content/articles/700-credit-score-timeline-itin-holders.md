@@ -125,7 +125,7 @@ VantageScore may appear as early as month 2 if your issuer has reported. Do not 
 
 Pay on time, keep utilization under 10%. Nothing else is required. Resist the urge to open a second account. Each application creates a hard inquiry on your credit report, which temporarily lowers your score. Space applications out by at least 3-6 months.
 
-During this period, check your credit report (not your score) to confirm the account is reporting correctly under your ITIN. Use the [credit monitoring options we cover for ITIN holders](https://itincreditscore.com/credit-monitoring-with-itin) to confirm all three bureaus are picking up the tradeline.
+During this period, check your credit report (not your score) to confirm the account is reporting correctly under your ITIN. Use the [credit monitoring options we cover for ITIN holders](/articles/credit-monitoring-with-itin) to confirm all three bureaus are picking up the tradeline.
 
 **Month 6: First FICO score**
 
@@ -143,7 +143,7 @@ This second account does two things: it adds an installment tradeline (improving
 
 With one secured card at 12 months of age, one credit-builder loan at 6 months, perfect payment history on both, and utilization under 10%, a FICO score in the 680-700 range is a realistic target. Two accounts, both clean, push you to the higher end of that band.
 
-This is also the point where [your length of credit history](https://itincreditscore.com/credit-age-itin-holders) begins to be a meaningful positive factor. Length of credit history is 15% of your FICO score, so accounts need time to age.
+This is also the point where [your length of credit history](/articles/credit-age-itin-holders) begins to be a meaningful positive factor. Length of credit history is 15% of your FICO score, so accounts need time to age.
 
 **Months 12-18: Hold course, let time work**
 
@@ -165,7 +165,7 @@ One legitimate shortcut exists: the authorized user strategy. Being added as an 
 
 Almost half of users who try this see their score jump to 680 or higher within 30-45 days, making it one of the faster moves available. For a thin ITIN file with no score yet, being added to a long-standing, low-utilization account can produce a first scoreable file in one reporting cycle instead of six months.
 
-The critical requirements: the primary account must have a low balance (utilization under 10%), a long history (ideally 5+ years), and a perfect payment record. Choose a primary account holder who is financially responsible, always pays on time, and keeps their utilization low. Their mistakes could hurt your score, so this requires complete confidence. Our detailed guide on [authorized user status with an ITIN](https://itincreditscore.com/authorized-user-credit-building-itin) covers the issuer-by-issuer rules and risks.
+The critical requirements: the primary account must have a low balance (utilization under 10%), a long history (ideally 5+ years), and a perfect payment record. Choose a primary account holder who is financially responsible, always pays on time, and keeps their utilization low. Their mistakes could hurt your score, so this requires complete confidence. Our detailed guide on [authorized user status with an ITIN](/articles/authorized-user-credit-building-itin) covers the issuer-by-issuer rules and risks.
 
 The authorized user strategy compresses the timeline but does not replace it. You still need your own tradelines to build a thick, independent file that lenders treat as fully yours. Think of it as a 3-6 month acceleration, not a permanent substitute.
 
@@ -221,7 +221,7 @@ The data is not just reassuring. It is a strong argument for starting as early a
 
 Not if you act. If you had an ITIN and have since received an SSN, your credit history is not automatically transferred. You will need to contact all three credit bureaus and request that they transfer your credit history.
 
-This is one of the most important steps ITIN holders overlook, and it is covered in detail in our guide on [transferring ITIN credit history to an SSN](https://itincreditscore.com/transfer-itin-credit-history-to-ssn). The short version: write to Experian, Equifax, and TransUnion individually with your old ITIN, new SSN, and supporting identity documents, and request a formal history merge. Without this step, you could end up with two separate thin files instead of one deep file, which means your 700+ score effectively disappears and the timeline restarts.
+This is one of the most important steps ITIN holders overlook, and it is covered in detail in our guide on [transferring ITIN credit history to an SSN](/articles/transfer-itin-credit-history-to-ssn). The short version: write to Experian, Equifax, and TransUnion individually with your old ITIN, new SSN, and supporting identity documents, and request a formal history merge. Without this step, you could end up with two separate thin files instead of one deep file, which means your 700+ score effectively disappears and the timeline restarts.
 
 ---
 
@@ -231,7 +231,7 @@ Monitoring your credit file is not optional when you are building toward 700. A 
 
 Check for three things at every review. First, confirm your ITIN is the identifier on the file and no unfamiliar accounts have been added. Second, verify that your on-time payments are showing correctly, not reporting as late due to a clerical error. Third, look at the account ages being reported. A wrong date on an account's opening can artificially shrink your average account age and suppress your score.
 
-You can learn exactly how to read and monitor your file in our guide on [credit monitoring with an ITIN](https://itincreditscore.com/credit-monitoring-with-itin), and if you find an error, our [dispute guide for ITIN holders](https://itincreditscore.com/how-to-dispute-credit-report-errors-with-itin) walks through the process bureau by bureau.
+You can learn exactly how to read and monitor your file in our guide on [credit monitoring with an ITIN](/articles/credit-monitoring-with-itin), and if you find an error, our [dispute guide for ITIN holders](/articles/how-to-dispute-credit-report-errors-with-itin) walks through the process bureau by bureau.
 
 ---
 
@@ -259,7 +259,7 @@ Target 1-10% utilization on every card and across your whole profile. Staying at
 A single late or missed payment. On a thin file with only one or two accounts, a 30-day late can drop a score by 60-100 points and lingers on the report for seven years, fading gradually over 12-24 months of clean payments afterward. Setting up autopay for at least the minimum due is the easiest protection.
 
 **Do ITIN holders need to dispute or transfer their credit history when they receive an SSN?**
-Yes, but it is not automatic. If you later receive an SSN, you need to contact each of the three bureaus in writing to request that your ITIN-built credit history be merged under your new SSN. Without this step, your years of positive history can sit disconnected from your new identifier. Our full guide on [transferring ITIN credit history to an SSN](https://itincreditscore.com/transfer-itin-credit-history-to-ssn) covers the exact process.
+Yes, but it is not automatic. If you later receive an SSN, you need to contact each of the three bureaus in writing to request that your ITIN-built credit history be merged under your new SSN. Without this step, your years of positive history can sit disconnected from your new identifier. Our full guide on [transferring ITIN credit history to an SSN](/articles/transfer-itin-credit-history-to-ssn) covers the exact process.
 
 **Does a credit-builder loan with Self work for ITIN holders?**
 Self accepts ITIN applications. Plans range from $25 to $150 per month over 24 months and report to all three bureaus. Users starting from scratch average a 45-49 point score increase over the loan term. The product adds an installment tradeline, which pairs well with a secured card revolving tradeline to satisfy FICO's credit mix factor.
