@@ -16,8 +16,8 @@ category: "Puntaje de Crédito"
 relatedSlugs:
   - "collections-on-credit-report-itin-holders"
   - "goodwill-letter-late-payment-itin-credit-score"
+  - "bankruptcy-credit-score-itin-holders"
   - "payment-history-itin-credit-score"
-  - "how-to-build-credit-with-itin-number"
 faqs:
   - q: "¿Afecta un pago tardío un archivo de crédito con ITIN de manera diferente que uno con SSN?"
     a: "No. Las reglas del FCRA y los modelos FICO/VantageScore tratan los archivos con ITIN y con SSN de forma idéntica. Un pago tardío se reporta, se evalúa y se elimina en el mismo plazo sin importar qué número de identificación fiscal esté en la cuenta."

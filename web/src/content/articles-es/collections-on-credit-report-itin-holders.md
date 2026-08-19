@@ -17,7 +17,7 @@ relatedSlugs:
   - "goodwill-letter-late-payment-itin-credit-score"
   - "late-payment-on-credit-report-itin-holders"
   - "payment-history-itin-credit-score"
-  - "cosigning-with-itin-credit-score-impact"
+  - "bankruptcy-credit-score-itin-holders"
 faqs:
   - q: "¿Las agencias de cobros están obligadas a reportar información exacta aunque yo solo tenga un ITIN?"
     a: "Sí. La Ley de Informes de Crédito Justos (FCRA) aplica a todos los consumidores sin importar si tienen SSN o ITIN. Cualquier agencia que reporte información incorrecta a un buró puede ser disputada y responsabilizada bajo la ley federal."

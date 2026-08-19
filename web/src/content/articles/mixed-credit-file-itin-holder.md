@@ -17,7 +17,7 @@ relatedSlugs:
   - "how-to-dispute-credit-report-errors-with-itin"
   - "identity-theft-itin-credit-score"
   - "thin-credit-file-itin-holder"
-  - "goodwill-letter-late-payment-itin-credit-score"
+  - "bankruptcy-credit-score-itin-holders"
 faqs:
   - q: "What is a mixed credit file for an ITIN holder?"
     a: "A mixed file occurs when one or more credit bureaus mistakenly merge someone else's accounts into your credit report, or split your own accounts into two separate files. ITIN holders face a higher-than-average risk because bureaus match records using name, date of birth, and address rather than a unique SSN, making identity confusion more likely."

@@ -15,9 +15,9 @@ author: "Research Desk"
 category: "Credit Score"
 relatedSlugs:
   - "late-payment-on-credit-report-itin-holders"
+  - "bankruptcy-credit-score-itin-holders"
   - "collections-on-credit-report-itin-holders"
   - "negative-items-on-credit-report-with-itin"
-  - "goodwill-letter-late-payment-itin-credit-score"
 faqs:
   - q: "Do derogatory marks affect an ITIN credit score the same way they affect an SSN credit score?"
     a: "Yes. The credit bureaus apply the same scoring models to ITIN-based files as to SSN-based files. A derogatory mark is weighted identically regardless of which tax ID is on the account."
