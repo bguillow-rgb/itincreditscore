@@ -15,10 +15,10 @@ updatedAt: "2026-07-07"
 author: "Editorial Staff"
 category: "Credit Score"
 relatedSlugs:
+  - "itin-credit-report-full-bureau-walkthrough-2026"
   - "read-dispute-credit-report-itin-bureau-by-bureau"
   - "mixed-credit-file-itin-holder"
   - "collections-on-credit-report-itin-holders"
-  - "bankruptcy-credit-score-itin-holders"
 faqs:
   - q: "Do ITIN holders have the right to dispute credit report errors?"
     a: "Yes. The Fair Credit Reporting Act (FCRA) applies to all consumers, regardless of immigration status or the identifier (ITIN vs. SSN) used on a credit file. ITIN holders have the same legal rights to review, dispute, and correct inaccurate information on their credit reports."

@@ -14,10 +14,10 @@ publishedAt: "2026-07-27"
 author: "Editorial Team"
 category: "Crédito"
 relatedSlugs:
+  - "itin-credit-report-full-bureau-walkthrough-2026"
   - "how-to-dispute-credit-report-errors-with-itin"
   - "does-paying-rent-build-credit-with-itin"
   - "free-paid-services-check-credit-score-itin-2026"
-  - "goodwill-letter-late-payment-itin-credit-score"
 faqs:
   - q: "¿Puedo obtener mi reporte de crédito con un ITIN en lugar de un SSN?"
     a: "Sí. Bajo la Fair Credit Reporting Act (FCRA), los tres burós principales (Equifax, Experian, TransUnion) están obligados a entregarte tu reporte de crédito, ya sea que tu archivo esté vinculado a un SSN o a un ITIN. El método más confiable es enviar una solicitud escrita por correo, ya que la mayoría de los sistemas de verificación en línea no reconocen los ITIN."
