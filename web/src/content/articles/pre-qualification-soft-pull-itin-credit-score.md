@@ -15,9 +15,9 @@ author: "Editorial Team"
 category: "Credit Score"
 relatedSlugs:
   - "hard-inquiries-itin-credit-score"
+  - "employment-credit-check-itin-credit-score"
   - "closing-credit-account-itin-credit-score"
   - "thin-credit-file-itin-holder"
-  - "credit-score-renting-apartment-itin"
 faqs:
   - q: "Does pre-qualifying for a credit product hurt my ITIN credit score?"
     a: "No. Pre-qualification uses a soft pull, which has zero impact on your ITIN credit score. Only you can see soft inquiries on your report; lenders cannot. You can pre-qualify at multiple lenders on the same day without any score damage."
