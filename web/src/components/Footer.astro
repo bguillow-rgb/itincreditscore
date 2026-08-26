@@ -7,6 +7,15 @@ const t = useTranslations(lang);
 const isEs = lang === 'es';
 const L = (href: string) => localizedHref(href, lang);
 
+// /es/apply is the landing page for the Marketcall Spanish credit-repair call
+// campaign (#350906). That offer's buyer rejected the page twice over loan
+// wording, so this one path drops every "préstamo" link: the sister-site block
+// advertising auto/personal/business loans and mortgages, and the
+// credit-builder-loans topic. Scoped to this path only — the cross-site footer
+// links are deliberate hub-and-spoke SEO on every other page.
+const isCampaignLanding =
+  Astro.url.pathname.replace(/(index)?\.html$/, '').replace(/\/$/, '') === '/es/apply';
+
 // Cross-links to our sister ITIN sites (editorial, same-network). A visitor who
 // landed on the wrong site for their need — cards vs. loans vs. credit score —
 // still ends up on one of ours. `network` is the two sites that are NOT this one.
@@ -32,7 +41,9 @@ const network = [
     desc: 'Check, build, and improve your credit with an ITIN',
     descEs: 'Consulta, construye y mejora tu crédito con un ITIN',
   },
-].filter((n) => n.url !== SITE.url);
+]
+  .filter((n) => n.url !== SITE.url)
+  .filter((n) => !(isCampaignLanding && n.url === 'https://itinlending.net'));
 
 const resources = isEs
   ? [
@@ -88,7 +99,9 @@ const loanTypesHeading = isEs ? 'Temas de Crédito' : 'Credit Topics';
       <div>
         <h4>{loanTypesHeading}</h4>
         <ul class="footer-links">
-          {PRODUCTS.map((p) => (
+          {PRODUCTS.filter(
+            (p) => !(isCampaignLanding && p.slug === 'credit-builder-loans')
+          ).map((p) => (
             <li><a href={L(`/${p.slug}`)}>{isEs ? p.labelEs : p.label}</a></li>
           ))}
         </ul>
