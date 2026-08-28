@@ -15,9 +15,9 @@ author: "Editorial Team"
 category: "Puntaje de crédito"
 relatedSlugs:
   - "how-many-accounts-to-build-credit-score-itin"
+  - "why-no-credit-score-with-itin"
   - "credit-age-itin-holders"
   - "credit-mix-with-itin"
-  - "closing-credit-account-itin-credit-score"
 faqs:
   - q: "¿Cuántas cuentas necesito para obtener un puntaje de crédito con un ITIN?"
     a: "FICO requiere al menos una cuenta abierta durante seis meses y reportada a un buró durante seis meses. VantageScore puede generar un puntaje con una sola cuenta con apenas un mes de historial. Abrir dos cuentas, como un préstamo para construir crédito y una tarjeta asegurada, le da a los burós suficiente información para producir un puntaje confiable más rápido."
