@@ -16,8 +16,8 @@ category: "Credit Score"
 relatedSlugs:
   - "itin-credit-score-check-every-method-2026"
   - "credit-monitoring-with-itin"
+  - "credit-score-services-itin-holders-tested-2026"
   - "free-paid-services-check-credit-score-itin-2026"
-  - "how-to-check-credit-score-with-itin-free-paid-services"
 faqs:
   - q: "Can I check my credit score with an ITIN instead of an SSN?"
     a: "Yes. Several free and paid services accept an ITIN for credit score access, including myEquifax (free VantageScore 3.0), Experian.com (free FICO 8), and Capital One CreditWise (free FICO 8 from TransUnion). The key requirement is having at least one account already reporting to the bureaus under your ITIN."

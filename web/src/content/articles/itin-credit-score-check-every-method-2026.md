@@ -16,8 +16,8 @@ category: "Credit Score"
 relatedSlugs:
   - "credit-monitoring-services-that-accept-itin-2026"
   - "how-to-check-credit-score-with-itin-free-paid-services"
+  - "credit-score-services-itin-holders-tested-2026"
   - "free-paid-services-check-credit-score-itin-2026"
-  - "credit-monitoring-with-itin"
 faqs:
   - q: "Can I check my credit score online with an ITIN instead of an SSN?"
     a: "Yes. Several platforms accept an ITIN for online score access, including Capital One CreditWise, NerdWallet (Experian score), Equifax Core Credit at my.equifax.com, Bilt Rewards (Experian FICO 9), and MyFreeScoreNow, which became the first service to offer all-three-bureau online access for ITIN holders in April 2026."
