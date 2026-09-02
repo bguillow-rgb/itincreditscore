@@ -17,7 +17,7 @@ relatedSlugs:
   - "late-payment-on-credit-report-itin-holders"
   - "derogatory-marks-credit-report-itin-holders"
   - "goodwill-letter-late-payment-itin-credit-score"
-  - "secured-credit-card-credit-score-itin"
+  - "medical-debt-credit-report-itin-holders"
 faqs:
   - q: "Do debt collectors have to report accurately if I only have an ITIN?"
     a: "Yes. The Fair Credit Reporting Act applies to all consumers regardless of SSN or ITIN status. Any collector that furnishes inaccurate information to a bureau can be disputed and held accountable under federal law."
