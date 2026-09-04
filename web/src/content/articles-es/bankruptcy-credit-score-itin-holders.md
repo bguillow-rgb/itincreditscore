@@ -14,10 +14,10 @@ publishedAt: "2026-08-19"
 author: "Editorial Team"
 category: "Puntaje de crédito"
 relatedSlugs:
+  - "charge-off-credit-report-itin-holders"
   - "late-payment-on-credit-report-itin-holders"
   - "collections-on-credit-report-itin-holders"
   - "derogatory-marks-credit-report-itin-holders"
-  - "itin-credit-building-immigration-status"
 faqs:
   - q: "¿Puede un titular de ITIN declararse en bancarrota en Estados Unidos?"
     a: "Sí. La ley federal no exige ciudadanía estadounidense para declararse en bancarrota. Solo necesitas un número de Seguro Social o un ITIN, que se acepta como identificación válida ante el tribunal de bancarrota."

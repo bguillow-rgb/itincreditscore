@@ -14,10 +14,10 @@ publishedAt: "2026-08-19"
 author: "Editorial Team"
 category: "Credit Score"
 relatedSlugs:
+  - "charge-off-credit-report-itin-holders"
   - "derogatory-marks-credit-report-itin-holders"
   - "late-payment-on-credit-report-itin-holders"
   - "collections-on-credit-report-itin-holders"
-  - "hard-inquiries-itin-credit-score"
 faqs:
   - q: "Can an ITIN holder file for bankruptcy in the United States?"
     a: "Yes. Federal law does not require U.S. citizenship to file for bankruptcy. You need either a Social Security number or an ITIN, which qualifies as valid identification for the bankruptcy court."

@@ -17,7 +17,7 @@ relatedSlugs:
   - "negative-items-on-credit-report-with-itin"
   - "medical-debt-credit-report-itin-holders"
   - "bankruptcy-credit-score-itin-holders"
-  - "collections-on-credit-report-itin-holders"
+  - "charge-off-credit-report-itin-holders"
 faqs:
   - q: "¿Las marcas negativas afectan el puntaje de crédito con ITIN igual que con SSN?"
     a: "Sí. Las agencias de crédito aplican los mismos modelos de puntuación a los archivos basados en ITIN que a los basados en SSN. Una marca negativa tiene el mismo peso sin importar qué número de identificación fiscal aparece en la cuenta."
