@@ -17,7 +17,7 @@ relatedSlugs:
   - "itin-700-credit-score-month-by-month-plan"
   - "itin-700-credit-score-realistic-timeline"
   - "how-long-to-build-credit-with-itin"
-  - "700-credit-score-timeline-itin-holders"
+  - "itin-credit-score-700-complete-roadmap"
 faqs:
   - q: "Can an ITIN holder actually reach a 700 credit score?"
     a: "Yes. ITIN-based credit scores use the exact same FICO and VantageScore models as SSN-based scores. The timeline is identical to any person starting from zero U.S. credit history. Your ITIN status does not slow the process down."

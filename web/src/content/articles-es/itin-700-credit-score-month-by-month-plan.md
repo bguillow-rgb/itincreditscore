@@ -15,9 +15,9 @@ author: "Editorial Staff"
 category: "Puntaje de Crédito"
 relatedSlugs:
   - "700-credit-score-timeline-itin-holders"
+  - "itin-credit-score-700-complete-roadmap"
   - "itin-700-credit-score-realistic-timeline"
   - "itin-700-credit-score-fastest-path"
-  - "how-long-to-build-credit-with-itin"
 faqs:
   - q: "¿Puedo llegar a un puntaje de crédito de 700 con un ITIN?"
     a: "Sí. Tu puntaje de crédito con ITIN usa los mismos modelos FICO y VantageScore que un archivo basado en SSN, y va de 300 a 850. Un 700 es totalmente alcanzable, generalmente dentro de 18-24 meses de abrir tu primera cuenta que reporte."
