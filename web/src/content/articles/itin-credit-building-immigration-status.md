@@ -15,9 +15,9 @@ author: "Research Desk"
 category: "Credit Score"
 relatedSlugs:
   - "charge-off-credit-report-itin-holders"
+  - "immigration-status-credit-score-itin-2026"
   - "bankruptcy-credit-score-itin-holders"
   - "cosigning-with-itin-credit-score-impact"
-  - "expired-itin-credit-score-impact"
 faqs:
   - q: "Do credit bureaus report ITIN holders to ICE or immigration authorities?"
     a: "No. Equifax, Experian, and TransUnion are bound by the Right to Financial Privacy Act, which prohibits them from voluntarily disclosing your financial records to any government agency without a valid legal process such as a court order or subpoena. Routine credit checks and credit-building activity are not shared with immigration enforcement."

@@ -17,7 +17,7 @@ relatedSlugs:
   - "fico-vs-vantagescore-itin-holders"
   - "collections-on-credit-report-itin-holders"
   - "credit-utilization-itin-holders"
-  - "itin-credit-building-immigration-status"
+  - "immigration-status-credit-score-itin-2026"
 faqs:
   - q: "Is an ITIN credit score calculated differently from an SSN credit score?"
     a: "No. FICO and VantageScore use the exact same formula regardless of whether your identifier is an ITIN or an SSN. The scoring models evaluate payment history, credit utilization, length of history, credit mix, and new inquiries identically. The only difference is the identifier the bureau uses to match your accounts to your file."
