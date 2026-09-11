@@ -14,10 +14,10 @@ publishedAt: "2026-08-26"
 author: "Research Desk"
 category: "Credit Score"
 relatedSlugs:
+  - "credit-limit-increase-itin-credit-score"
   - "hard-inquiries-itin-credit-score"
   - "pre-qualification-soft-pull-itin-credit-score"
   - "late-payment-on-credit-report-itin-holders"
-  - "payment-history-itin-credit-score"
 faqs:
   - q: "Does an employer background check count as a hard inquiry on my ITIN credit file?"
     a: "No. Pre-employment credit checks are soft inquiries. They appear only on your personal copy of the credit report, not on the version lenders see, and they have zero effect on your credit score."

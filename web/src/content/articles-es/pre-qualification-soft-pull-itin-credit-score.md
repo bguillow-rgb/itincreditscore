@@ -15,9 +15,9 @@ author: "Editorial Team"
 category: "Puntaje de Crédito"
 relatedSlugs:
   - "hard-inquiries-itin-credit-score"
+  - "credit-limit-increase-itin-credit-score"
   - "employment-credit-check-itin-credit-score"
   - "credit-score-car-insurance-rates-itin"
-  - "credit-score-renting-apartment-itin"
 faqs:
   - q: "¿Precalificarme para un producto de crédito afecta mi puntaje de crédito con ITIN?"
     a: "No. La precalificación usa una consulta suave, que no tiene ningún impacto en tu puntaje de crédito con ITIN. Solo tú puedes ver las consultas suaves en tu reporte; los prestamistas no pueden verlas. Puedes precalificarte con varios prestamistas el mismo día sin ningún daño a tu puntaje."
