@@ -17,7 +17,7 @@ relatedSlugs:
   - "bankruptcy-credit-score-itin-holders"
   - "derogatory-marks-credit-report-itin-holders"
   - "itin-credit-building-immigration-status"
-  - "collections-on-credit-report-itin-holders"
+  - "joint-account-credit-score-itin-holder"
 faqs:
   - q: "¿Un charge-off afecta el puntaje de crédito con ITIN igual que el de alguien con SSN?"
     a: "Sí. Las agencias de crédito aplican las mismas reglas de puntuación sin importar si tu número de identificación es un ITIN o un SSN. Un charge-off se considera un incumplimiento grave en todos los modelos de puntuación principales y causará una caída significativa del puntaje en ambos casos."

@@ -17,7 +17,7 @@ relatedSlugs:
   - "itin-credit-building-immigration-status"
   - "bankruptcy-credit-score-itin-holders"
   - "charge-off-credit-report-itin-holders"
-  - "cosigning-with-itin-credit-score-impact"
+  - "joint-account-credit-score-itin-holder"
 faqs:
   - q: "Does my immigration status show up on my credit report?"
     a: "No. Equifax, Experian, and TransUnion do not collect or display immigration status, visa type, or citizenship. Your credit report shows accounts, balances, payment history, and public records only."

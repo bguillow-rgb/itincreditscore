@@ -15,9 +15,9 @@ author: "Editorial Team"
 category: "Puntaje de crédito"
 relatedSlugs:
   - "thin-credit-file-itin-holder"
+  - "joint-account-credit-score-itin-holder"
   - "credit-age-itin-holders"
   - "closing-credit-account-itin-credit-score"
-  - "self-employed-itin-credit-score"
 faqs:
   - q: "¿Cuál es el número mínimo de cuentas que necesita un titular de ITIN para obtener un puntaje de crédito?"
     a: "FICO requiere una cuenta que haya estado abierta y reportada durante al menos seis meses, sin ninguna anotación de fallecido en el archivo. VantageScore puede calcular un puntaje con tan solo un mes de historial. En la práctica, una cuenta activa es el mínimo necesario, pero dos o tres cuentas aceleran el crecimiento del puntaje."
