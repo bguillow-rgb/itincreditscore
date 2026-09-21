@@ -14,10 +14,10 @@ publishedAt: "2026-07-27"
 author: "Editorial Team"
 category: "Credit Score"
 relatedSlugs:
+  - "itin-credit-report-read-dispute-bureau-guide"
   - "how-to-dispute-credit-report-errors-with-itin"
   - "itin-credit-report-full-bureau-walkthrough-2026"
   - "free-paid-services-check-credit-score-itin-2026"
-  - "medical-debt-credit-report-itin-holders"
 faqs:
   - q: "Can I get my credit report with an ITIN instead of an SSN?"
     a: "Yes. Under the Fair Credit Reporting Act, all three major bureaus (Equifax, Experian, TransUnion) are required to provide your credit report whether your file is tied to an SSN or an ITIN. The most reliable method is a written mail request, since most online verification systems do not recognize ITINs."

@@ -1,0 +1,373 @@
+<!DOCTYPE html><html lang="en"> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>ITIN Credit Report: How to Read &amp; Dispute Every Bureau (2026)</title><meta name="description" content="Step-by-step guide to reading your ITIN credit report and disputing errors at Equifax, Experian, and TransUnion. Includes real addresses, timelines, and ITIN-specific tips."><link rel="canonical" href="https://itincreditscore.com/articles/itin-credit-report-read-dispute-bureau-guide"><link rel="alternate" hreflang="en" href="https://itincreditscore.com/articles/itin-credit-report-read-dispute-bureau-guide"><link rel="alternate" hreflang="es" href="https://itincreditscore.com/es/articles/itin-credit-report-read-dispute-bureau-guide"><link rel="alternate" hreflang="x-default" href="https://itincreditscore.com/articles/itin-credit-report-read-dispute-bureau-guide"><meta property="og:type" content="website"><meta property="og:title" content="ITIN Credit Report: How to Read &#38; Dispute Every Bureau (2026)"><meta property="og:description" content="Step-by-step guide to reading your ITIN credit report and disputing errors at Equifax, Experian, and TransUnion. Includes real addresses, timelines, and ITIN-specific tips."><meta property="og:url" content="https://itincreditscore.com/articles/itin-credit-report-read-dispute-bureau-guide"><meta property="og:site_name" content="ITIN Credit Score"><meta property="og:image" content="https://itincreditscore.com/og/itin-credit-report-read-dispute-bureau-guide.png"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="ITIN Credit Report: How to Read &#38; Dispute Every Bureau (2026)"><meta name="twitter:description" content="Step-by-step guide to reading your ITIN credit report and disputing errors at Equifax, Experian, and TransUnion. Includes real addresses, timelines, and ITIN-specific tips."><meta name="twitter:image" content="https://itincreditscore.com/og/itin-credit-report-read-dispute-bureau-guide.png"><link rel="icon" href="/favicon.ico" sizes="any"><link rel="icon" href="/favicon.svg" type="image/svg+xml"><link rel="icon" href="/favicon.png" sizes="32x32" type="image/png"><link rel="apple-touch-icon" href="/icon-180.png"><meta name="theme-color" content="#2E3A47"><link rel="alternate" type="application/rss+xml" title="ITIN Credit Score | Guides" href="/rss.xml"><script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","@id":"https://itincreditscore.com/#organization","name":"ITIN Credit Score","legalName":"Timberline Ventures LLC","url":"https://itincreditscore.com","logo":"https://itincreditscore.com/icon-512.png","description":"ITINCreditScore.com helps ITIN holders build a U.S. credit history, check their credit score without an SSN, and raise it, covering the credit bureaus, credit-builder tools, and what actually moves your score. Independent guides and tools matching.","sameAs":["https://www.wikidata.org/wiki/Q140083287","https://www.wikidata.org/wiki/Q140082434"],"publisher":{"@type":"Organization","name":"Timberline Ventures LLC","url":"https://timberlineventuresllc.com","sameAs":["https://www.wikidata.org/wiki/Q140082434"]}}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"ITIN Credit Score","url":"https://itincreditscore.com","description":"ITINCreditScore.com helps ITIN holders build a U.S. credit history, check their credit score without an SSN, and raise it, covering the credit bureaus, credit-builder tools, and what actually moves your score. Independent guides and tools matching.","inLanguage":"en-US","potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://itincreditscore.com/articles?q={search_term_string}"},"query-input":"required name=search_term_string"}}</script><meta name="google-site-verification" content="tWSzgjecKJKlPKcnZIZ5GztpFb68K5G67-bnNP_AOBw"><script async src="https://www.googletagmanager.com/gtag/js?id=G-HDM7H448J9"></script><script>(function(){const ga4Id = "G-HDM7H448J9";
+
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      // Astro wraps a `define:vars` inline script in an IIFE, so the function
+      // declaration above is scoped, not global. gtag('config') still worked
+      // (it only pushes to dataLayer, which gtag.js reads), so page_view and
+      // session_start looked healthy while `window.gtag` stayed undefined and
+      // itrack() below silently dropped EVERY custom event. affiliate_click,
+      // cta_click and cross_site_click recorded zero from launch until
+      // 2026-09-01. Publish it explicitly.
+      window.gtag = gtag;
+      gtag('js', new Date());
+      gtag('config', ga4Id, { anonymize_ip: true, send_page_view: true });
+    })();</script><meta name="google-adsense-account" content="ca-pub-1426577294682977"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1426577294682977" crossorigin="anonymous"></script><script>
+  (function () {
+    function itrack(name, params) {
+      if (window.gtag) window.gtag('event', name, params || {});
+    }
+    window.itrack = itrack;
+
+    // Outbound affiliate clicks (deep links carry rel="sponsored") and the
+    // primary apply CTA. page_path gives per-product attribution on money pages.
+    document.addEventListener('click', function (e) {
+      var a = e.target.closest && e.target.closest('a[href]');
+      if (!a) return;
+      var rel = a.getAttribute('rel') || '';
+      var href = a.getAttribute('href') || '';
+      if (rel.indexOf('sponsored') > -1) {
+        itrack('affiliate_click', { link_url: href, page_path: location.pathname });
+      } else if (a.hasAttribute('data-cross-site')) {
+        // Cross-site router clicks (CrossSiteCallout). Added 2026-08-17 so a
+        // cross-property handoff is measurable on the SENDING side too, not just
+        // as a UTM'd referral landing on the sister site. Checked before
+        // btn-primary because a router CTA may carry both.
+        itrack('cross_site_click', {
+          link_url: href,
+          page_path: location.pathname,
+          campaign: a.getAttribute('data-cross-site') || '',
+        });
+      } else if (a.classList.contains('btn-primary') && href.indexOf('apply') > -1) {
+        itrack('cta_click', { link_url: href, page_path: location.pathname });
+      }
+    });
+  })();
+</script> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"ITIN Credit Report: How to Read & Dispute Every Bureau (2026)","description":"Step-by-step guide to reading your ITIN credit report and disputing errors at Equifax, Experian, and TransUnion. Includes real addresses, timelines, and ITIN-specific tips.","url":"https://itincreditscore.com/articles/itin-credit-report-read-dispute-bureau-guide","inLanguage":"en-US","datePublished":"2026-09-21T00:00:00.000Z","dateModified":"2026-09-21T00:00:00.000Z","author":{"@type":"Organization","name":"Editorial Team","url":"https://itincreditscore.com/about","parentOrganization":{"@id":"https://itincreditscore.com/#organization"}},"publisher":{"@type":"Organization","name":"ITIN Credit Score","legalName":"Timberline Ventures LLC","url":"https://itincreditscore.com","logo":{"@type":"ImageObject","url":"https://itincreditscore.com/icon-512.png"}},"speakable":{"@type":"SpeakableSpecification","cssSelector":["#quick-answer"]},"mainEntityOfPage":{"@type":"WebPage","@id":"https://itincreditscore.com/articles/itin-credit-report-read-dispute-bureau-guide"}}</script> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://itincreditscore.com"},{"@type":"ListItem","position":2,"name":"Guides","item":"https://itincreditscore.com/articles"},{"@type":"ListItem","position":3,"name":"ITIN Credit Report: How to Read & Dispute Every Bureau (2026)","item":"https://itincreditscore.com/articles/itin-credit-report-read-dispute-bureau-guide"}]}</script> <link rel="stylesheet" href="/_astro/_slug_.BKpcbUOI.css">
+<style>.related-links[data-astro-cid-xmiqtmid]{margin:36px 0 8px}.related-links[data-astro-cid-xmiqtmid] h2[data-astro-cid-xmiqtmid]{margin:0 0 14px;font-size:1.25rem}.related-links[data-astro-cid-xmiqtmid] ul[data-astro-cid-xmiqtmid]{list-style:none;margin:0;padding:0;display:grid;gap:10px;grid-template-columns:repeat(auto-fill,minmax(220px,1fr))}.related-links[data-astro-cid-xmiqtmid] a[data-astro-cid-xmiqtmid]{display:block;padding:12px 14px;border:1px solid var(--border);border-radius:var(--radius-sm);background:var(--surface);color:var(--text);font-weight:600;text-decoration:none;line-height:1.3;transition:border-color .15s ease,background .15s ease}.related-links[data-astro-cid-xmiqtmid] a[data-astro-cid-xmiqtmid]:hover{border-color:var(--primary);background:var(--surface-alt)}.sources-note[data-astro-cid-6jinirix]{margin:26px 0;padding:16px 18px;border:1px solid var(--border, #ddeae1);border-left:4px solid var(--primary, #15803d);border-radius:var(--radius);background:var(--surface, #f1f8f3)}.sources-note-h[data-astro-cid-6jinirix]{margin:0 0 6px;font-weight:700;font-size:.95rem;color:var(--primary-dark, #166534)}.sources-note-b[data-astro-cid-6jinirix]{margin:0;font-size:.92rem;line-height:1.55;color:var(--muted, #4f6256)}
+.author-bio[data-astro-cid-zm77yjld]{margin:28px 0;padding:18px 20px;border:1px solid var(--border, #e2e6ee);border-radius:var(--radius);background:var(--surface-2, #f7f9fc)}.author-bio-name[data-astro-cid-zm77yjld]{margin:0 0 6px;font-weight:700}.author-bio-role[data-astro-cid-zm77yjld]{font-weight:400;color:var(--muted, #5a6473)}.author-bio-text[data-astro-cid-zm77yjld]{margin:0 0 8px;font-size:.95rem;line-height:1.55}.author-bio-link[data-astro-cid-zm77yjld]{margin:0;font-size:.9rem}
+</style></head> <body>  <div class="announce-bar">
+FHA home loans for ITIN buyers, with 3.5% down.* <a href="/apply">See if you qualify</a> </div> <header class="site-header" id="site-header"> <div class="container nav-inner"> <a href="/" class="brand">ITIN Credit Score<span class="dot">.</span></a> <nav class="nav-right" aria-label="Primary"> <ul class="nav-links"> <li><a href="/">Home</a></li><li><a href="/itin-credit-score-guide">Credit Score Guide</a></li><li><a href="/check-credit-score-with-itin">Check Your Score</a></li><li><a href="/build-credit-history-with-itin">Build Credit</a></li><li><a href="/credit-readiness-calculator">Calculator</a></li><li><a href="/articles">Guides</a></li><li><a href="/about">About</a></li> </ul> <a href="/es/articles/itin-credit-report-read-dispute-bureau-guide" class="lang-toggle" aria-label="Ver en Español" hreflang="es"> <svg class="globe" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><circle cx="12" cy="12" r="9"></circle><path d="M3 12h18M12 3a14 14 0 0 1 0 18M12 3a14 14 0 0 0 0 18"></path></svg> Español </a> <a href="/apply" class="btn btn-primary">Apply Here</a> <button class="nav-toggle" id="nav-toggle" aria-label="Menu" aria-expanded="false" aria-controls="nav-drawer"> <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"></path></svg> </button> </nav> </div> <div class="nav-drawer" id="nav-drawer"> <ul> <li><a href="/">Home</a></li><li><a href="/itin-credit-score-guide">Credit Score Guide</a></li><li><a href="/check-credit-score-with-itin">Check Your Score</a></li><li><a href="/build-credit-history-with-itin">Build Credit</a></li><li><a href="/credit-readiness-calculator">Calculator</a></li><li><a href="/articles">Guides</a></li><li><a href="/about">About</a></li> <li><a class="btn btn-primary btn-block" href="/apply">Apply Here</a></li> </ul> </div> </header> <script>
+  (function () {
+    var header = document.getElementById('site-header');
+    var toggle = document.getElementById('nav-toggle');
+    var drawer = document.getElementById('nav-drawer');
+    if (toggle && drawer) {
+      toggle.addEventListener('click', function () {
+        var open = drawer.classList.toggle('open');
+        toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+      });
+    }
+    function onScroll() {
+      if (!header) return;
+      header.classList.toggle('scrolled', window.scrollY > 4);
+    }
+    window.addEventListener('scroll', onScroll, { passive: true });
+    onScroll();
+  })();
+</script> <main>   <article class="container narrow" style="padding-top:18px;padding-bottom:24px" data-astro-cid-zm77yjld> <p class="crumbs" data-astro-cid-zm77yjld> <a href="/" data-astro-cid-zm77yjld>Home</a> &rsaquo;
+<a href="https://itincreditscore.com/articles" data-astro-cid-zm77yjld>Guides</a> &rsaquo;  <span data-astro-cid-zm77yjld>ITIN Credit Report: How to Read &amp; Dispute Every Bureau (2026)</span> </p> <span class="tag" data-astro-cid-zm77yjld>Credit Score</span> <h1 style="margin-top:10px" data-astro-cid-zm77yjld>ITIN Credit Report: How to Read &amp; Dispute Every Bureau (2026)</h1> <p class="byline" data-astro-cid-zm77yjld>
+By <a href="/about" data-astro-cid-zm77yjld>Editorial Team</a> &middot; Credit Scores &amp; Building &middot;
+Published September 21, 2026 </p> <p class="disclosure"><strong>Advertiser disclosure:</strong>ITIN Credit Score is an independent
+    resource. Some links on this page are from partners who compensate us, which
+    may affect which products we feature and where. This does not change our
+    editorial guidance and is never a cost to you. See our
+<a href="/disclosure">full disclosure</a>.
+</p> <section class="quick-answer" id="quick-answer"> <span class="label">Quick Answer</span> <p>ITIN holders have the same right as SSN holders to read and dispute their credit reports under the FCRA. Pull your reports by mail from all three bureaus, review all five sections for errors, then file a written dispute directly with each bureau reporting the error. Bureaus must investigate within 30 days and correct anything they cannot verify.</p> <p class="qa-sources"> <span class="qa-check" aria-hidden="true">&#10003;</span> <span>Checked against:</span> <span>IRS ·</span><span>CFPB ·</span><span>Equifax ·</span><span>Experian ·</span><span>TransUnion</span> </p> </section> <!-- Highest-visibility article slot: above the fold, after the Quick Answer.
+         Credit Karma creative auto-matched to the article topic via its path. --> <div class="ck-ad ck-ad--inline"> <div class="ck-head"> <span class="ck-kicker">A free tool we recommend</span> <span class="ck-disclosure">Advertisement</span> </div> <a class="ck-cta" href="https://www.awin1.com/cread.php?s=3597059&v=66532&q=475588&r=2931103&clickref=icsweb_ad_score&clickref2=%2Farticles%2Fitin-credit-report-read-dispute-bureau-guide" rel="sponsored nofollow" target="_blank" data-aff="ck-ad-cta" data-aff-topic="score"> Check your credit score free here <span aria-hidden="true">&rarr;</span> </a> <a class="ck-banner" href="https://www.awin1.com/cread.php?s=3597059&v=66532&q=475588&r=2931103&clickref=icsweb_ad_score&clickref2=%2Farticles%2Fitin-credit-report-read-dispute-bureau-guide" rel="sponsored nofollow" target="_blank" data-aff="ck-ad-banner" data-aff-topic="score"> <img src="https://www.awin1.com/cshow.php?s=3597059&v=66532&q=475588&r=2931103" width="300" height="250" alt="Credit Karma, see your credit score free" loading="lazy"> </a> </div> <div class="article-body" data-astro-cid-zm77yjld>  <p>If you hold an ITIN, your credit report is the single most important financial document you have in the United States. It determines whether lenders, landlords, and even some employers say yes. Yet most guides assume an SSN at every step, leaving ITIN holders to work out the gaps on their own. This reference fills those gaps, bureau by bureau, section by section.</p>
+<p><strong>How we compiled this:</strong> We reviewed official bureau dispute pages and mail instructions from Equifax, Experian, and TransUnion; the CFPB’s updated guidance (last modified September 2, 2026); FTC consumer advice; and practitioner-written FCRA resources. Every address, phone number, and timeline is sourced from the bureaus’ own published documentation or federal law.</p>
+<p><strong>Last verified:</strong> September 21, 2026.</p>
+<hr>
+<h2 id="at-a-glance-itin-credit-report-dispute-quick-reference-table">At a glance: ITIN credit report dispute quick-reference table</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Bureau</th><th>Online dispute portal</th><th>Mail dispute address</th><th>Phone</th><th>Typical resolution</th></tr></thead><tbody><tr><td>Equifax</td><td>equifax.com/personal/credit-report-services/credit-dispute/</td><td>P.O. Box 740256, Atlanta, GA 30374-0256</td><td>1-888-378-4329</td><td>14-30 days</td></tr><tr><td>Experian</td><td>experian.com (Dispute Center)</td><td>P.O. Box 4500, Allen, TX 75013</td><td>On your credit report</td><td>14-30 days</td></tr><tr><td>TransUnion</td><td>transunion.com/credit-disputes</td><td>P.O. Box 2000, Chester, PA 19016</td><td>1-800-916-8800</td><td>14-30 days</td></tr></tbody></table>
+<blockquote>
+<p><strong>ITIN note:</strong> Online identity verification at each bureau relies on SSN-matching. If you hit a “cannot verify your identity” wall, skip straight to the mail method. That route works reliably and is fully supported.</p>
+</blockquote>
+<hr>
+<h2 id="why-does-this-guide-exist-what-makes-itin-disputes-different-from-ssn-disputes">Why does this guide exist? What makes ITIN disputes different from SSN disputes?</h2>
+<p>The underlying law is identical for everyone. You have the right to dispute errors on your credit report, whether your tax ID is an SSN or an ITIN.</p>
+<p>The friction is what differs. Credit bureaus are built to verify information against Social Security numbers, so using an ITIN can mean extra steps: be ready to supply additional documentation to prove your identity and credit history. That friction shows up in two specific places, pulling your reports in the first place, and getting identity verification accepted when you file online. This guide covers both.</p>
+<p>There is also a pattern of error that is unusually common in ITIN files. Bureau matching algorithms were built around nine-digit SSNs, and when a file is anchored to an ITIN instead, partial-match logic can pull in data from another person’s record. In 2023 alone, the CFPB reported that mixed-file complaints made up approximately 15% of all credit reporting complaints received. ITIN holders with common surnames are disproportionately represented in that figure. Knowing what a mixed file looks like, and how to dispute one, is a core part of managing credit with an ITIN. (For more detail on the mixed-file problem, see our guide on <a href="/articles/mixed-credit-file-itin-holder">mixed credit files for ITIN holders</a>.)</p>
+<hr>
+<h2 id="how-do-i-actually-get-my-credit-report-when-i-have-an-itin">How do I actually get my credit report when I have an ITIN?</h2>
+<p><em>A question we hear often:</em> ITIN holders who try AnnualCreditReport.com online frequently hit an identity verification wall and assume their credit file doesn’t exist. The file often does exist. The problem is the login process.</p>
+<p>The online request system at AnnualCreditReport.com does not accept ITINs, so you will most likely need to request your credit reports by mail, or access your score through a bank or credit card account that already has your ITIN on file.</p>
+<p>The mail method is straightforward. Submit your request in writing with one copy of a government-issued identification card (a driver’s license, state ID, or similar showing your current address) and one copy of a current utility bill, bank statement, or insurance statement. Mail these to each bureau at the addresses in the table above. Reports arrive within 15 days of receipt.</p>
+<p>The three bureaus have permanently extended a program that lets you <a href="https://www.awin1.com/cread.php?s=3597059&#x26;v=66532&#x26;q=475588&#x26;r=2931103&#x26;clickref=icsweb_body_score&#x26;clickref2=%2Farticles%2Fitin-credit-report-read-dispute-bureau-guide" rel="sponsored nofollow" target="_blank" class="aff-link" data-aff="ck-body" data-aff-topic="score">check your credit</a> report from each bureau once a week for free at AnnualCreditReport.com. If online access fails, you can also call the AnnualCreditReport.com toll-free number at (877) 322-8228 to request reports by phone, and they’ll be mailed to you.</p>
+<p>One more reliable option: Equifax stands out for ITIN holders. It allows online registration at my.equifax.com where you can enter your ITIN in the SSN field, and it provides a free VantageScore 3.0 plus a complete credit file once a month. If you encounter an account suspension error after signing up, contact Equifax support directly to unlock the account.</p>
+<hr>
+<h2 id="what-are-the-five-sections-of-my-credit-report-and-what-should-i-check-in-each-one">What are the five sections of my credit report, and what should I check in each one?</h2>
+<p><em>This one comes up a lot:</em> Most people skim their report without a checklist. The result is that errors stay hidden for years. Here is what each section contains and what to look for as an ITIN holder.</p>
+<p>If you have credit history, all three major credit bureaus have a file on you. Each bureau organizes its reports a bit differently and sections may fall in a different order, but every report covers the same basic ground.</p>
+<h3 id="section-1-personal-information">Section 1: Personal information</h3>
+<p>This section contains your name, addresses, date of birth, and SSN or ITIN. It doesn’t affect your score, but accuracy matters. Mismatches can link someone else’s data to your file.</p>
+<p>For ITIN holders, this section needs the most careful scrutiny. Check that your ITIN is recorded correctly, that your name matches exactly how you use it on credit applications, and that no addresses appear that you never lived at. An unfamiliar address is a red flag for either a data mix-up or identity theft. Incorrect personal information can sometimes trigger a mixed credit file, where another person’s accounts get tied to your report.</p>
+<p>Also check for a stranger’s SSN appearing in your file. Someone else’s Social Security number listed on your report even though you have an ITIN is a classic sign of a mixed file. Dispute that immediately by mail, because it requires human review, not an automated process.</p>
+<h3 id="section-2-account-history-trade-lines">Section 2: Account history (trade lines)</h3>
+<p>This is the meaty part of the credit report: a listing of all the accounts ever connected to you. These entries are sometimes called trade lines, and each will show the creditor’s name and your account number. The section is typically divided into accounts in good standing and those that are delinquent or otherwise negative, such as accounts with late payments or over-limit balances.</p>
+<p>For each trade line, verify whether the account is actually yours, whether the credit limit or original loan amount is correct, whether the balance is accurate, whether the payment status is right (on-time vs. late), and whether the open or closed status is correct. Payment history accounts for 35% of your FICO score, so flag any inaccurate late payments right away.</p>
+<p>Thin-file ITIN holders should also check whether all accounts they do hold are actually showing up. A lender might report to only one or two bureaus, so a positive account could be missing from one report while present on another. Missing positive trade lines are worth reporting to the lender directly, with a request that they report to the missing bureau. For context on how trade line count affects your overall credit profile, see our guide on <a href="/articles/how-many-accounts-to-build-credit-score-itin">how many accounts you need to build a credit score with an ITIN</a>.</p>
+<h3 id="section-3-collections-and-derogatory-items">Section 3: Collections and derogatory items</h3>
+<p>This section lists debts transferred to a collection agency due to non-payment. Collections can remain on your report for up to seven years from the original delinquency date.</p>
+<p>Verify that every collection account is actually yours. For ITIN holders with common surnames, finding a stranger’s debt in this section is not unusual. Also verify the original delinquency date, because the seven-year clock runs from that date, not the date the account was sold to a collector. If the item should have aged off, dispute it in writing with the original delinquency date clearly stated.</p>
+<h3 id="section-4-public-records">Section 4: Public records</h3>
+<p>The public records section lists financially related data appearing in public records, such as bankruptcies, judgments, and tax liens. It does not list arrests or criminal convictions. Bankruptcies remain for up to 10 years (Chapter 7) or 7 years (Chapter 13). If a bankruptcy appears that is not yours, that is a serious mixed-file situation requiring immediate written dispute with all supporting documentation.</p>
+<h3 id="section-5-inquiries">Section 5: Inquiries</h3>
+<p>Inquiries come in two types. Hard inquiries are ones you initiate by filling out a credit application or applying for a loan. Soft inquiries occur when you check your own credit or receive prequalified offers, and they do not affect your score. Look for hard inquiries you don’t recognize. They could signal fraud.</p>
+<p>Inquiries from companies you never applied to, or with whom you have no business relationship, are a warning sign of either a mixed file or identity theft. Dispute any unrecognized hard inquiry in writing.</p>
+<hr>
+<h2 id="what-errors-should-itin-holders-specifically-look-for">What errors should ITIN holders specifically look for?</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Error type</th><th>What it looks like</th><th>ITIN holder risk level</th></tr></thead><tbody><tr><td>Mixed-file accounts</td><td>Debts or accounts you never opened</td><td>High (algorithm weakness)</td></tr><tr><td>Wrong ITIN or SSN in personal info</td><td>A nine-digit number you don’t recognize</td><td>High</td></tr><tr><td>Duplicate trade lines</td><td>Same account listed twice, inflating debt</td><td>Medium</td></tr><tr><td>Incorrect late payment</td><td>On-time payment coded as 30, 60, or 90 days late</td><td>Medium</td></tr><tr><td>Paid balance still showing as owed</td><td>Zero-balance account showing an active balance</td><td>Medium</td></tr><tr><td>Outdated negative item</td><td>Collection or late payment past the 7-year window</td><td>Medium</td></tr><tr><td>Missing positive account</td><td>A credit-builder loan not appearing at a bureau</td><td>Medium-Low</td></tr><tr><td>Unfamiliar hard inquiry</td><td>Hard pull you never authorized</td><td>Medium-Low</td></tr></tbody></table>
+<p>An FTC study found that one in five Americans has at least one error on their credit report, and that one in 20 has an error serious enough to materially raise or lower their score. ITIN holders likely face a higher error rate than that average, given that bureau matching logic defaults to SSN-based verification.</p>
+<p>Not every piece of negative information is an error. A legitimate late payment is not disputable. Accounts that don’t belong to you, whether from possible fraud or a data mix-up, are.</p>
+<hr>
+<h2 id="how-do-i-dispute-an-error-at-equifax-step-by-step">How do I dispute an error at Equifax, step by step?</h2>
+<p><em>Readers frequently ask</em> whether the process is really the same online as by mail, and whether ITIN holders can use the online portal at all.</p>
+<p>Equifax allows ITIN holders to register at my.equifax.com and access their credit file online. If the portal accepts your registration, you can file a dispute there. When you do, Equifax may contact the lender or creditor that supplied the disputed information, pass along your details and any supporting documents, and instruct the furnisher to investigate.</p>
+<p>If you cannot access the portal, use mail:</p>
+<p><strong>Mail address:</strong> Equifax Information Services, LLC, P.O. Box 740256, Atlanta, GA 30374-0256</p>
+<p><strong>Phone:</strong> 1-888-378-4329 (Mon-Fri 9 a.m. to 9 p.m. ET, Sat-Sun 9 a.m. to 6 p.m. ET)</p>
+<p><strong>For identity theft disputes specifically:</strong> Equifax uses a separate address for disputes filed under Section 605B. Use Equifax Information Services, P.O. Box 105069, Atlanta, GA 30348-5069, and include a copy of your FTC identity theft report.</p>
+<p>Most investigations wrap up within 30 days. Online disputes trigger an email notification when results are ready. Mail disputes get results sent by U.S. mail.</p>
+<hr>
+<h2 id="how-do-i-dispute-an-error-at-experian-step-by-step">How do I dispute an error at Experian, step by step?</h2>
+<p>Experian’s online Dispute Center is at experian.com. ITIN holders who can pass identity verification may use it. Those who can’t should go straight to mail, which Experian explicitly supports for people without SSNs.</p>
+<p><strong>Mail address for disputes:</strong> Experian, P.O. Box 4500, Allen, TX 75013</p>
+<p><strong>Mail address for credit report requests without SSN:</strong> Experian, P.O. Box 9701, Allen, TX 75013 (these are different boxes; use 4500 for disputes)</p>
+<p>Include in your dispute package: a copy of the relevant section of your report with the error circled or highlighted, your government-issued ID, a document showing your ITIN, and supporting evidence such as a bank statement or lender letter. Send copies. Never send originals.</p>
+<p>Filing a dispute has no impact on your credit scores on its own, but if the dispute is accepted and your file changes, your score may shift depending on what was disputed and how it resolves. If Experian determines the information is inaccurate or cannot be verified, it will correct or remove it. Accurate information cannot be deleted, so a legitimate late payment stays on your report.</p>
+<hr>
+<h2 id="how-do-i-dispute-an-error-at-transunion-step-by-step">How do I dispute an error at TransUnion, step by step?</h2>
+<p><em>A question we hear often:</em> TransUnion’s online dispute center is at transunion.com/credit-disputes. Like the other bureaus, ITIN holders who pass online identity verification can use it. For everyone else, mail works.</p>
+<p><strong>Mail address:</strong> TransUnion Consumer Solutions, P.O. Box 2000, Chester, PA 19016</p>
+<p><strong>Phone for personal information changes:</strong> 1-800-916-8800</p>
+<p>To change your name, date of birth, or Social Security Number on file, you’ll need to provide valid supporting documentation showing the updated information. To add a new address, contact TransUnion or mail copies of two documents showing your new address, such as a utility bill or driver’s license.</p>
+<p>TransUnion’s online portal is the one most commonly cited as accessible for ITIN holders with an existing credit file, because you can register using your ITIN in the SSN field. If you encounter an account freeze, call the number above with your documents ready. Some personal information updates can be made online; others require mailing in supporting documents.</p>
+<hr>
+<h2 id="what-is-the-full-dispute-timeline-and-when-does-the-30-day-clock-start">What is the full dispute timeline, and when does the 30-day clock start?</h2>
+<p>Once the credit bureau receives your dispute, it generally has 30 days to investigate and respond. That clock starts the day they receive it. If you submit additional information after filing, they may get an extra 15 days, but only if the new information is relevant to the investigation.</p>
+<p>During that period, the bureau must contact the company that provided the disputed information (the “furnisher”) and pass along the details of your dispute. The furnisher then investigates and reports back. When the investigation is complete, the bureau must send you the results in writing, typically including a free copy of your updated credit report.</p>
+<p>One practical note: online filings enter the system faster than mailed requests. If you mail your dispute, send it by certified mail with return receipt so you have documented proof of the date the bureau received it. That receipt anchors your 30-day timeline.</p>
+<p>One strategic note: if you file the same dispute again with no new evidence, bureaus can classify it as frivolous and skip the investigation entirely. Always bring something new when you re-dispute. A new bank statement, a letter from the lender, or a corrected document strengthens your case.</p>
+<h3 id="dispute-timeline-overview">Dispute timeline overview</h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Day</th><th>What happens</th></tr></thead><tbody><tr><td>Day 0</td><td>Bureau receives your dispute (online: instant; mail: delivery date)</td></tr><tr><td>Days 1-5</td><td>Bureau forwards dispute to the data furnisher</td></tr><tr><td>Days 5-30</td><td>Furnisher investigates and responds to bureau</td></tr><tr><td>Day 30</td><td>Bureau must complete investigation (or extend to Day 45 if you submit new docs)</td></tr><tr><td>Day 30-35</td><td>Bureau sends written results to you (including updated report if item changed)</td></tr><tr><td>Day 45 (max)</td><td>Hard deadline if additional information was submitted</td></tr></tbody></table>
+<p>If a bureau misses the 30-day deadline (or 45 days when new information was submitted), it must delete or correct any disputed information it cannot verify.</p>
+<hr>
+<h2 id="what-documents-should-i-include-in-a-mail-dispute-and-how-should-i-organize-them">What documents should I include in a mail dispute, and how should I organize them?</h2>
+<p><em>Readers frequently ask</em> whether they need a lawyer or a paid service for this. You don’t. The process is free and does not require a lawyer or a credit repair company.</p>
+<p>Here is what to include in every mail dispute package:</p>
+<ol>
+<li><strong>Cover letter</strong> (one page): State your full name as it appears on the report, your ITIN, your current address, your date of birth, and the specific item you are disputing. Explain in one or two sentences what is wrong and what the correct information is. Reference the FCRA and the 30-day investigation requirement.</li>
+<li><strong>Highlighted report section:</strong> A copy of the relevant page from your credit report with the disputed item circled or highlighted in a bright color.</li>
+<li><strong>Identity documents (copies, never originals):</strong> Government-issued photo ID showing your current address, plus a document displaying your ITIN such as your IRS ITIN assignment letter.</li>
+<li><strong>Supporting evidence:</strong> Match your evidence to the error type.</li>
+</ol>
+<p>For an incorrect balance, include a recent account statement showing the correct balance. For an incorrect late payment, include bank statements showing on-time payments or a letter from the creditor confirming payment was received. For an account that isn’t yours, include a written statement to that effect; if fraud is suspected, a police report strengthens the case. For a paid account still showing as open, include a payoff letter or account closure confirmation from the lender.</p>
+<p>Send your dispute letter by certified mail and request a return receipt so you have a record that your letter was received.</p>
+<p>Dispute the error with every bureau reporting it. They don’t automatically share corrections with each other. That means three separate envelopes to three separate addresses if the error appears on all three reports.</p>
+<hr>
+<h2 id="what-happens-if-the-bureau-sides-with-the-furnisher-and-keeps-the-error">What happens if the bureau sides with the furnisher and keeps the error?</h2>
+<p>This is one of the most frustrating situations in the dispute process, and it happens. If the bureau upholds the disputed item and you believe the decision is wrong, you can request a reinvestigation and provide documentation you didn’t include the first time.</p>
+<p>You also have a second option: even if the furnisher insists the disputed information is accurate, you can request that the bureau include a consumer statement in your credit file explaining the dispute. That statement doesn’t change your score, but it appears on your report and is visible to lenders who pull your file.</p>
+<p>If you believe the bureau failed to conduct a reasonable investigation, file a complaint with the CFPB at consumerfinance.gov. If that doesn’t produce a resolution, consider contacting a consumer protection attorney. In cases of FCRA violations, an attorney’s help is often the most direct path to enforce compliance or pursue compensation.</p>
+<p>For ITIN holders dealing with a mixed file specifically, the standard automated dispute process often fails to fully untangle the records. These errors are notorious for requiring human intervention. Escalating directly to the bureau’s consumer relations team by phone, citing the FCRA, and referencing ITIN-specific identity documentation is the most effective approach when the automated result comes back wrong.</p>
+<hr>
+<h2 id="should-i-also-dispute-with-the-data-furnisher-not-just-the-bureau">Should I also dispute with the data furnisher, not just the bureau?</h2>
+<p>Yes, and doing both is the stronger approach. Fixing an error generally means contacting both the credit reporting company and the company that provided the information.</p>
+<p>When you contact the furnisher (the original lender, bank, or collection agency) directly, the company will investigate and send you its findings. It will also notify the credit bureaus of any changes that need to be made to your reports. The furnisher must notify all bureaus to which it sent the incorrect information so they can correct their records.</p>
+<p>Filing with the furnisher in parallel to your bureau dispute creates a second pressure point and can speed resolution, because the bureau contacts the furnisher anyway. You are simply starting both clocks at once.</p>
+<p>Keep every piece of paper: dispute letters, reply dates, and proof of sending.</p>
+<hr>
+<h2 id="how-does-a-successful-dispute-actually-affect-my-credit-score">How does a successful dispute actually affect my credit score?</h2>
+<p>Removing an error can move your score significantly or very little, depending on what the error was. A practical breakdown:</p>
+<ul>
+<li>Removing an account that was not yours could raise your score substantially if that account carried a high balance, a late payment, a charge-off, or a collection. Effect size varies by how dominant that item was in your file.</li>
+<li>Removing a false late payment matters because payment history is the largest single factor in a FICO score (35% of the calculation). Removing one inaccurate 30-day late can add 15-40 points in a thin file, less in a thick one.</li>
+<li>Removing an unrecognized hard inquiry typically gains you about 5 points. Small, but still worth doing.</li>
+<li>Correcting a wrong balance reduces your reported utilization ratio, which can matter meaningfully if the wrong balance was pushing your utilization above 30%.</li>
+<li>Fixing personal information only (name, address, employer) produces no direct score change, but it protects against future mixed-file contamination.</li>
+</ul>
+<p>For a detailed look at how each score factor works for ITIN holders, see our guide on <a href="/articles/how-credit-scoring-works-with-itin">how credit scoring works with an ITIN</a>, and for the utilization factor specifically, see <a href="/articles/credit-utilization-itin-holders">credit utilization with an ITIN</a>.</p>
+<hr>
+<h2 id="what-about-negative-items-that-are-accurate-can-i-remove-those">What about negative items that are accurate? Can I remove those?</h2>
+<p>Accurate information cannot be deleted. If you were late on a payment, that stays on your report. The dispute process is designed to correct inaccuracy, not erase accurate history.</p>
+<p>For accurate late payments, your best tool is a goodwill letter sent directly to the original creditor, not to the bureau. See our guide on <a href="/articles/goodwill-letter-late-payment-itin-credit-score">goodwill letters to remove late payments with an ITIN</a> for a step-by-step approach.</p>
+<p>For accurate collections, the situation depends on when the original delinquency occurred. Collections can remain on your report for up to seven years from that date. If the date has passed and the item is still there, that is a legitimate dispute ground. Paying a collection clears the owed balance but does not reset the seven-year clock. For more on this, see our guide on <a href="/articles/collections-on-credit-report-itin-holders">collections on your ITIN credit report</a>.</p>
+<hr>
+<h2 id="8-mistakes-that-kill-itin-credit-disputes-before-they-start">8 mistakes that kill ITIN credit disputes before they start</h2>
+<ol>
+<li><strong>Disputing online when you can’t verify identity.</strong> When bureaus can’t confirm who you are, your dispute may be rejected outright. Always have the mail route ready.</li>
+<li><strong>Sending originals instead of copies.</strong> If your originals are lost in processing, you have no documentation left. Send certified copies every time.</li>
+<li><strong>Disputing at only one bureau.</strong> The error may appear on all three. Each bureau’s file is independent.</li>
+<li><strong>Filing a vague dispute.</strong> “This information is wrong” is not enough. Identify the specific item, explain exactly what is inaccurate, and provide the correct information.</li>
+<li><strong>Submitting new evidence after filing without tracking it.</strong> Sending additional documents during the 30-day window extends the deadline to 45 days. Know that going in.</li>
+<li><strong>Re-disputing the same item with no new evidence.</strong> Bureaus can classify this as frivolous and skip the investigation entirely.</li>
+<li><strong>Ignoring the data furnisher.</strong> Disputing only at the bureau level and not also contacting the original lender or collector leaves the underlying data unchanged.</li>
+<li><strong>Forgetting to monitor after a win.</strong> Updates to your affected credit reports can take time to appear, depending on the bureau’s update cycle and when the furnisher sends the new information. If the update doesn’t show up within several months, contact the bureaus and the furnisher to confirm it’s reporting correctly.</li>
+</ol>
+<hr>
+<h2 id="frequently-asked-questions">Frequently asked questions</h2>
+<p><strong>Can I dispute a credit report error if I have an ITIN instead of an SSN?</strong>
+Yes. The Fair Credit Reporting Act applies to all consumers regardless of immigration status or tax ID type. ITIN holders have the same legal right to dispute inaccurate information as SSN holders, and the dispute is free.</p>
+<p><strong>How do I get my credit report if the AnnualCreditReport.com website doesn’t accept my ITIN?</strong>
+Request by mail. Download the request form from AnnualCreditReport.com, attach copies of a government-issued ID and a utility bill or bank statement, include your ITIN and full name, and mail it. Reports arrive within 15 days of receipt.</p>
+<p><strong>How long does a bureau have to resolve my dispute?</strong>
+Under the FCRA, credit bureaus have 30 days to investigate from the day they receive your dispute. If you send in additional documentation during that window, they get a 15-day extension, bringing the maximum to 45 days.</p>
+<p><strong>Does filing a dispute hurt my credit score?</strong>
+No. Filing a dispute has no impact on your credit scores on its own. If the dispute is accepted and information on your file changes, your score may shift as a result.</p>
+<p><strong>What is a mixed credit file, and why are ITIN holders at higher risk?</strong>
+A mixed credit file occurs when information from another person’s credit history is mistakenly combined with yours, which can result in unfamiliar debts, bankruptcies, or addresses showing up under your name. ITIN holders face elevated risk because bureau matching systems were designed around SSNs, making ITIN-anchored files harder to identify precisely.</p>
+<p><strong>Do I need to dispute separately at each bureau?</strong>
+Yes. Dispute the error with every bureau reporting it. They don’t automatically share corrections with each other.</p>
+<p><strong>What documents should I include in a mail dispute as an ITIN holder?</strong>
+Explain in writing what you think is wrong and why, and include copies of documents that support your dispute: a copy of the portion of your credit report containing the disputed items (with those items circled or highlighted), copies (not originals) of documents that support your position, a copy of your government-issued ID, and a document showing your ITIN.</p>
+<p><strong>What can I do if the bureau sides with the furnisher and keeps the error on my report?</strong>
+You can request a reinvestigation with new evidence, ask the bureau to add a consumer statement, file a complaint with the CFPB, or consult a consumer protection attorney. Under the FCRA, willful non-compliance can entitle you to damages.</p>
+<p><strong>How often should an ITIN holder review their credit reports?</strong>
+The three bureaus have permanently extended a program that lets you check your report from each bureau once a week for free at AnnualCreditReport.com. ITIN holders benefit from checking more frequently given the higher rate of mixed-file errors in ITIN-linked files.</p>
+<p><strong>Will disputing an error remove accurate negative information?</strong>
+No. Bureaus are required to investigate and verify, but accurate negative information cannot be deleted. A legitimate late payment, charge-off, or collection that is correctly reported will remain for the standard reporting period regardless of a dispute.</p>
+<hr>
+<p><em>This article is for educational purposes and does not constitute legal advice. If you believe your FCRA rights have been violated, consult a licensed consumer protection attorney.</em></p> <section> <h2>Related guides</h2> <ul class="lead-list"> <li><a href="/articles/itin-credit-report-full-bureau-walkthrough-2026">itin credit report full bureau walkthrough 2026</a></li><li><a href="/articles/how-to-dispute-credit-report-errors-with-itin">how to dispute credit report errors with itin</a></li><li><a href="/articles/read-dispute-credit-report-itin-bureau-by-bureau">read dispute credit report itin bureau by bureau</a></li><li><a href="/articles/mixed-credit-file-itin-holder">mixed credit file itin holder</a></li> </ul> </section> </div> <aside class="sources-note" data-astro-cid-6jinirix> <p class="sources-note-h" data-astro-cid-6jinirix>How we researched this page</p> <p class="sources-note-b" data-astro-cid-6jinirix>
+This guide was written and reviewed by our editorial team using primary
+      sources, FICO, the IRS, the CFPB, the FTC, Experian, Equifax &amp; TransUnion, rather than other blogs. Figures and timelines
+      are checked against that documentation before publishing; product-specific
+      terms change, so verify them with the provider. We don't invent statistics
+      or promise specific score increases. Read our full
+<a href="/editorial-policy" data-astro-cid-6jinirix>editorial policy</a>.
+</p> </aside>  <div class="ck-ad ck-ad--inline"> <div class="ck-head"> <span class="ck-kicker">A free tool we recommend</span> <span class="ck-disclosure">Advertisement</span> </div> <a class="ck-cta" href="https://www.awin1.com/cread.php?s=3597059&v=66532&q=475588&r=2931103&clickref=icsweb_ad_score&clickref2=%2Farticles%2Fitin-credit-report-read-dispute-bureau-guide" rel="sponsored nofollow" target="_blank" data-aff="ck-ad-cta" data-aff-topic="score"> Check your credit score free here <span aria-hidden="true">&rarr;</span> </a> <a class="ck-banner" href="https://www.awin1.com/cread.php?s=3597059&v=66532&q=475588&r=2931103&clickref=icsweb_ad_score&clickref2=%2Farticles%2Fitin-credit-report-read-dispute-bureau-guide" rel="sponsored nofollow" target="_blank" data-aff="ck-ad-banner" data-aff-topic="score"> <img src="https://www.awin1.com/cshow.php?s=3597059&v=66532&q=475588&r=2931103" width="300" height="250" alt="Credit Karma, see your credit score free" loading="lazy"> </a> </div> <div class="inline-cta"> <h3>Ready to explore your options?</h3> <p style="color:var(--muted);max-width:34em;margin:0 auto 18px">Start building U.S. credit with an ITIN. No SSN required, no impact to your credit score to check.</p> <a class="btn btn-primary btn-lg" href="/apply">Start building credit</a> </div> <aside class="author-bio" data-astro-cid-zm77yjld> <p class="author-bio-name" data-astro-cid-zm77yjld>Editorial Team<span class="author-bio-role" data-astro-cid-zm77yjld> &middot; Credit Scores &amp; Building</span></p> <p class="author-bio-text" data-astro-cid-zm77yjld>ITIN Credit Score&#39;s editorial team writes and edits our plain-English guides on building and improving U.S. credit scores for ITIN holders and foreign nationals. Every guide is built from primary sources, FICO, the IRS, the CFPB, the FTC, and the credit bureaus&#39; own documentation, and reviewed for accuracy before it is published. We publish in both English and Spanish.</p> <p class="author-bio-link" data-astro-cid-zm77yjld><a href="/about" data-astro-cid-zm77yjld>About our editorial team</a></p> </aside> <nav class="related-links" aria-label="Related guides" data-astro-cid-xmiqtmid> <h2 data-astro-cid-xmiqtmid>Related guides</h2> <ul data-astro-cid-xmiqtmid> <li data-astro-cid-xmiqtmid><a href="/itin-credit-score-guide" data-astro-cid-xmiqtmid>ITIN Credit Score Guide</a></li><li data-astro-cid-xmiqtmid><a href="/check-credit-score-with-itin" data-astro-cid-xmiqtmid>Check Your Score</a></li><li data-astro-cid-xmiqtmid><a href="/build-credit-history-with-itin" data-astro-cid-xmiqtmid>Build Credit History</a></li><li data-astro-cid-xmiqtmid><a href="/improve-credit-score" data-astro-cid-xmiqtmid>Improve Your Score</a></li><li data-astro-cid-xmiqtmid><a href="/credit-bureaus-and-itin" data-astro-cid-xmiqtmid>Credit Bureaus &amp; ITIN</a></li><li data-astro-cid-xmiqtmid><a href="/credit-builder-loans" data-astro-cid-xmiqtmid>Credit-Builder Loans</a></li><li data-astro-cid-xmiqtmid><a href="/how-to-get-an-itin" data-astro-cid-xmiqtmid>How to Get an ITIN</a></li><li data-astro-cid-xmiqtmid><a href="/articles" data-astro-cid-xmiqtmid>All Guides</a></li> </ul> </nav>  <section class="faq"><h2>Common questions</h2><details class="faq-item"><summary>Can I dispute a credit report error if I have an ITIN instead of an SSN?<svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9 6 6 6-6"></path></svg></summary><p class="faq-a">Yes. The Fair Credit Reporting Act applies to all consumers regardless of immigration status or tax ID type. ITIN holders have the same legal right to dispute inaccurate information as SSN holders, and the dispute is free.</p></details><details class="faq-item"><summary>How do I get my credit report if the AnnualCreditReport.com website doesn&#39;t accept my ITIN?<svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9 6 6 6-6"></path></svg></summary><p class="faq-a">Request by mail. Download the request form from AnnualCreditReport.com, attach copies of a government-issued ID and a utility bill or bank statement, include your ITIN and full name, and mail it. Reports arrive within 15 days of receipt.</p></details><details class="faq-item"><summary>How long does a bureau have to resolve my dispute?<svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9 6 6 6-6"></path></svg></summary><p class="faq-a">Under the FCRA, credit bureaus have 30 days to investigate from the day they receive your dispute. If you submit additional documents during that window, the deadline extends to 45 days. If they cannot verify the item, they must delete or correct it.</p></details><details class="faq-item"><summary>Does filing a dispute hurt my credit score?<svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9 6 6 6-6"></path></svg></summary><p class="faq-a">No. Filing a dispute has no direct impact on your credit score. However, if the dispute is resolved in your favor and the erroneous item is removed or corrected, your score may change as a result of that update.</p></details><details class="faq-item"><summary>What is a mixed credit file, and why are ITIN holders at higher risk?<svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9 6 6 6-6"></path></svg></summary><p class="faq-a">A mixed file happens when another person&#39;s credit data is merged into your report, usually because of similar names or partial identifier matches. ITIN holders are at elevated risk because bureau matching algorithms were built around SSNs, making ITIN-based files harder to match precisely.</p></details><details class="faq-item"><summary>Do I need to dispute separately at each bureau?<svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9 6 6 6-6"></path></svg></summary><p class="faq-a">Yes. Equifax, Experian, and TransUnion each maintain separate files. A correction at one bureau is not automatically applied to the others. If the same error appears on all three reports, you must file three separate disputes.</p></details><details class="faq-item"><summary>What documents should I include in a mail dispute as an ITIN holder?<svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9 6 6 6-6"></path></svg></summary><p class="faq-a">Include a copy of the relevant section of your credit report with the error highlighted, a copy of your government-issued ID (showing your current address), a copy of your ITIN assignment letter or a document displaying your ITIN, and any supporting evidence such as bank statements or payment confirmations.</p></details><details class="faq-item"><summary>What can I do if the bureau sides with the furnisher and keeps the error on my report?<svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9 6 6 6-6"></path></svg></summary><p class="faq-a">You can request a reinvestigation with new evidence, ask the bureau to add a consumer statement to your file explaining the dispute, file a complaint with the CFPB, or consult a consumer protection attorney. Under the FCRA, willful non-compliance can entitle you to damages.</p></details><details class="faq-item"><summary>How often should an ITIN holder review their credit reports?<svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9 6 6 6-6"></path></svg></summary><p class="faq-a">At minimum once a year, but the three bureaus currently allow weekly free pulls at AnnualCreditReport.com. ITIN holders benefit from checking more frequently because mixed-file and identity-matching errors are more common in ITIN-linked files.</p></details><details class="faq-item"><summary>Will disputing an error remove accurate negative information?<svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9 6 6 6-6"></path></svg></summary><p class="faq-a">No. Bureaus are required to investigate and verify, but accurate negative information cannot be deleted. A legitimate late payment, charge-off, or collection that is correctly reported will remain for the standard reporting period regardless of a dispute.</p></details><script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Can I dispute a credit report error if I have an ITIN instead of an SSN?","acceptedAnswer":{"@type":"Answer","text":"Yes. The Fair Credit Reporting Act applies to all consumers regardless of immigration status or tax ID type. ITIN holders have the same legal right to dispute inaccurate information as SSN holders, and the dispute is free."}},{"@type":"Question","name":"How do I get my credit report if the AnnualCreditReport.com website doesn't accept my ITIN?","acceptedAnswer":{"@type":"Answer","text":"Request by mail. Download the request form from AnnualCreditReport.com, attach copies of a government-issued ID and a utility bill or bank statement, include your ITIN and full name, and mail it. Reports arrive within 15 days of receipt."}},{"@type":"Question","name":"How long does a bureau have to resolve my dispute?","acceptedAnswer":{"@type":"Answer","text":"Under the FCRA, credit bureaus have 30 days to investigate from the day they receive your dispute. If you submit additional documents during that window, the deadline extends to 45 days. If they cannot verify the item, they must delete or correct it."}},{"@type":"Question","name":"Does filing a dispute hurt my credit score?","acceptedAnswer":{"@type":"Answer","text":"No. Filing a dispute has no direct impact on your credit score. However, if the dispute is resolved in your favor and the erroneous item is removed or corrected, your score may change as a result of that update."}},{"@type":"Question","name":"What is a mixed credit file, and why are ITIN holders at higher risk?","acceptedAnswer":{"@type":"Answer","text":"A mixed file happens when another person's credit data is merged into your report, usually because of similar names or partial identifier matches. ITIN holders are at elevated risk because bureau matching algorithms were built around SSNs, making ITIN-based files harder to match precisely."}},{"@type":"Question","name":"Do I need to dispute separately at each bureau?","acceptedAnswer":{"@type":"Answer","text":"Yes. Equifax, Experian, and TransUnion each maintain separate files. A correction at one bureau is not automatically applied to the others. If the same error appears on all three reports, you must file three separate disputes."}},{"@type":"Question","name":"What documents should I include in a mail dispute as an ITIN holder?","acceptedAnswer":{"@type":"Answer","text":"Include a copy of the relevant section of your credit report with the error highlighted, a copy of your government-issued ID (showing your current address), a copy of your ITIN assignment letter or a document displaying your ITIN, and any supporting evidence such as bank statements or payment confirmations."}},{"@type":"Question","name":"What can I do if the bureau sides with the furnisher and keeps the error on my report?","acceptedAnswer":{"@type":"Answer","text":"You can request a reinvestigation with new evidence, ask the bureau to add a consumer statement to your file explaining the dispute, file a complaint with the CFPB, or consult a consumer protection attorney. Under the FCRA, willful non-compliance can entitle you to damages."}},{"@type":"Question","name":"How often should an ITIN holder review their credit reports?","acceptedAnswer":{"@type":"Answer","text":"At minimum once a year, but the three bureaus currently allow weekly free pulls at AnnualCreditReport.com. ITIN holders benefit from checking more frequently because mixed-file and identity-matching errors are more common in ITIN-linked files."}},{"@type":"Question","name":"Will disputing an error remove accurate negative information?","acceptedAnswer":{"@type":"Answer","text":"No. Bureaus are required to investigate and verify, but accurate negative information cannot be deleted. A legitimate late payment, charge-off, or collection that is correctly reported will remain for the standard reporting period regardless of a dispute."}}]}</script></section> </article>  </main> <footer class="site-footer" data-astro-cid-sz7xmlte> <div class="container" data-astro-cid-sz7xmlte> <div class="footer-grid" data-astro-cid-sz7xmlte> <div data-astro-cid-sz7xmlte> <div class="footer-brand" data-astro-cid-sz7xmlte>ITIN Credit Score<span style="color:var(--accent)" data-astro-cid-sz7xmlte>.</span></div> <p data-astro-cid-sz7xmlte>Build a U.S. Credit Score With an ITIN, No SSN Needed.</p> <h4 data-astro-cid-sz7xmlte>Why trust us</h4> <ul class="footer-trust" data-astro-cid-sz7xmlte> <li data-astro-cid-sz7xmlte><span class="tick" data-astro-cid-sz7xmlte>&#10003;</span> Independent, not a lender or broker</li> <li data-astro-cid-sz7xmlte><span class="tick" data-astro-cid-sz7xmlte>&#10003;</span> Always free to use</li> <li data-astro-cid-sz7xmlte><span class="tick" data-astro-cid-sz7xmlte>&#10003;</span> Your information stays private</li> </ul>  <p class="footer-operator" data-astro-cid-sz7xmlte> Operated by <strong data-astro-cid-sz7xmlte>Timberline Ventures LLC</strong><br data-astro-cid-sz7xmlte> <a href="mailto:info@timberlineventuresllc.com" data-astro-cid-sz7xmlte>info@timberlineventuresllc.com</a> </p> </div> <div data-astro-cid-sz7xmlte> <h4 data-astro-cid-sz7xmlte>Credit Topics</h4> <ul class="footer-links" data-astro-cid-sz7xmlte> <li data-astro-cid-sz7xmlte><a href="/check-credit-score-with-itin" data-astro-cid-sz7xmlte>Check Your Score</a></li><li data-astro-cid-sz7xmlte><a href="/build-credit-history-with-itin" data-astro-cid-sz7xmlte>Build Credit History</a></li><li data-astro-cid-sz7xmlte><a href="/improve-credit-score" data-astro-cid-sz7xmlte>Improve Your Score</a></li><li data-astro-cid-sz7xmlte><a href="/credit-bureaus-and-itin" data-astro-cid-sz7xmlte>Credit Bureaus &amp; ITIN</a></li><li data-astro-cid-sz7xmlte><a href="/credit-builder-loans" data-astro-cid-sz7xmlte>Credit-Builder Loans</a></li><li data-astro-cid-sz7xmlte><a href="/how-to-get-an-itin" data-astro-cid-sz7xmlte>How to Get an ITIN</a></li> </ul> </div> <div data-astro-cid-sz7xmlte> <h4 data-astro-cid-sz7xmlte>Resources</h4> <ul class="footer-links" data-astro-cid-sz7xmlte> <li data-astro-cid-sz7xmlte><a href="/itin-credit-score-guide" data-astro-cid-sz7xmlte>Credit Score Guide</a></li><li data-astro-cid-sz7xmlte><a href="/articles" data-astro-cid-sz7xmlte>All Guides</a></li><li data-astro-cid-sz7xmlte><a href="/apply" data-astro-cid-sz7xmlte>Start Building Credit</a></li><li data-astro-cid-sz7xmlte><a href="/about" data-astro-cid-sz7xmlte>About Us</a></li><li data-astro-cid-sz7xmlte><a href="/contact" data-astro-cid-sz7xmlte>Contact</a></li> </ul> </div> <div data-astro-cid-sz7xmlte> <h4 data-astro-cid-sz7xmlte>Legal</h4> <ul class="footer-links" data-astro-cid-sz7xmlte> <li data-astro-cid-sz7xmlte><a href="/editorial-policy" data-astro-cid-sz7xmlte>Editorial Policy</a></li><li data-astro-cid-sz7xmlte><a href="/privacy" data-astro-cid-sz7xmlte>Privacy Policy</a></li><li data-astro-cid-sz7xmlte><a href="/terms" data-astro-cid-sz7xmlte>Terms of Use</a></li><li data-astro-cid-sz7xmlte><a href="/disclosure" data-astro-cid-sz7xmlte>Advertiser Disclosure</a></li> </ul> </div> </div> <div class="footer-network" data-astro-cid-sz7xmlte> <h4 data-astro-cid-sz7xmlte>More ITIN Resources</h4> <ul data-astro-cid-sz7xmlte> <li data-astro-cid-sz7xmlte> <a href="https://itinlending.net" data-astro-cid-sz7xmlte>ITIN Loans &amp; Mortgages</a> <span data-astro-cid-sz7xmlte>Auto, personal &amp; business loans and mortgages with an ITIN</span> </li><li data-astro-cid-sz7xmlte> <a href="https://itincreditcard.com" data-astro-cid-sz7xmlte>ITIN Credit Cards</a> <span data-astro-cid-sz7xmlte>Secured &amp; unsecured cards that accept an ITIN</span> </li> </ul> </div> <div class="footer-disclaimer" data-astro-cid-sz7xmlte> <p data-astro-cid-sz7xmlte>
+&copy; 2026 ITINCreditScore.com, operated by Timberline Ventures LLC. All rights reserved.
+ITIN Credit Score is an independent information and referral resource. We are
+          not a bank, lender, credit bureau, or financial advisor, and we do not
+          make credit decisions, set your score, or originate loans. Information on
+          this site is for general educational purposes only and is not financial,
+          legal, or tax advice. Credit products and scoring models are controlled
+          by third-party lenders and bureaus and are subject to their approval,
+          eligibility requirements, and applicable law. We may receive compensation
+          when you click certain links or are matched with a lender or credit
+          product, see our
+<a href="/disclosure" data-astro-cid-sz7xmlte>Advertiser Disclosure</a>.
+</p>  <p class="fha-legal" data-astro-cid-sz7xmlte>
+* The FHA loan program with 3.5% down is offered by a third-party
+          lending partner, not by ITIN Credit Score. It is not a guarantee of
+          approval, rate, or terms. All financing is subject to lender
+          underwriting, credit approval, income verification, and program
+          eligibility requirements, which vary by state and may change without
+          notice.
+</p> </div> </div> </footer>  </body></html> 

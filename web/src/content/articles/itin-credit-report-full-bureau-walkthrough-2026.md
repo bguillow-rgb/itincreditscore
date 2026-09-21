@@ -14,10 +14,10 @@ publishedAt: "2026-08-24"
 author: "Editorial Staff"
 category: "Credit Score"
 relatedSlugs:
+  - "itin-credit-report-read-dispute-bureau-guide"
   - "how-to-dispute-credit-report-errors-with-itin"
   - "read-dispute-credit-report-itin-bureau-by-bureau"
   - "mixed-credit-file-itin-holder"
-  - "itin-credit-score-check-every-method-2026"
 faqs:
   - q: "Can I get a free credit report with an ITIN number?"
     a: "Yes. Under the Fair Credit Reporting Act you are entitled to a free credit report from Equifax, Experian, and TransUnion. Equifax lets you register online with your ITIN. Experian and TransUnion require a written request by mail or a document upload because their online portals treat an ITIN as an invalid SSN."

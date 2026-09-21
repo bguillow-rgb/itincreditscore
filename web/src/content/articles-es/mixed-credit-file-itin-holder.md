@@ -15,9 +15,9 @@ author: "Research Desk"
 category: "Puntaje de crédito"
 relatedSlugs:
   - "how-to-dispute-credit-report-errors-with-itin"
+  - "itin-credit-report-read-dispute-bureau-guide"
   - "joint-account-credit-score-itin-holder"
   - "free-paid-services-check-credit-score-itin-2026"
-  - "how-many-accounts-to-build-credit-score-itin"
 faqs:
   - q: "¿Qué es un archivo de crédito mixto para un titular de ITIN?"
     a: "Un archivo mixto ocurre cuando uno o más burós de crédito combinan por error las cuentas de otra persona con tu reporte, o dividen tus propias cuentas en dos archivos separados. Los titulares de ITIN enfrentan un riesgo mayor que el promedio porque los burós identifican los registros usando nombre, fecha de nacimiento y dirección en lugar de un SSN único, lo que hace más probable la confusión de identidades."

@@ -14,10 +14,10 @@ publishedAt: "2026-08-24"
 author: "Editorial Staff"
 category: "Puntaje de crédito"
 relatedSlugs:
+  - "itin-credit-report-read-dispute-bureau-guide"
   - "read-dispute-credit-report-itin-bureau-by-bureau"
   - "how-to-dispute-credit-report-errors-with-itin"
   - "free-paid-services-check-credit-score-itin-2026"
-  - "itin-credit-score-check-every-method-2026"
 faqs:
   - q: "¿Puedo obtener un reporte de crédito gratis con un número ITIN?"
     a: "Sí. Bajo la Ley de Informe Justo de Crédito (FCRA) tienes derecho a un reporte de crédito gratis de Equifax, Experian y TransUnion. Equifax te permite registrarte en línea con tu ITIN. Experian y TransUnion requieren una solicitud escrita por correo postal o carga de documentos, porque sus portales en línea tratan el ITIN como un SSN inválido."

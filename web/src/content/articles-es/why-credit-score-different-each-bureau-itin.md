@@ -16,8 +16,8 @@ category: "Puntaje de crédito"
 relatedSlugs:
   - "fico-vs-vantagescore-itin-holders"
   - "free-paid-services-check-credit-score-itin-2026"
+  - "itin-credit-report-read-dispute-bureau-guide"
   - "credit-mix-with-itin"
-  - "how-to-check-credit-score-with-itin-free-paid-services"
 faqs:
   - q: "¿Es normal tener tres puntajes de crédito diferentes con un ITIN?"
     a: "Sí, es completamente normal. Cada buró arma su propio historial de crédito de forma independiente, así que si un prestamista solo reporta a uno o dos burós, tus archivos tendrán datos distintos y producirán puntajes diferentes. Una diferencia de 20 a 50 puntos entre burós es común y no es motivo de preocupación."
