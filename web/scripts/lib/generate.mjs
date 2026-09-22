@@ -2,6 +2,7 @@
 // daily-post.mjs (one detail article/day) and seed-content.mjs (one-shot batch
 // backfill + pillar). Keeps the prompt and validation in one place so all three
 // produce schema-compliant, AEO-optimized content.
+import { fitTitle } from './title-fit.mjs';
 import { readFileSync } from 'node:fs';
 import { humanizeArticle } from './humanize.mjs';
 
@@ -112,7 +113,7 @@ PART 1, a single fenced code block tagged json with ONLY these metadata fields (
 \`\`\`json
 {
   "slug": "kebab-case-url-slug",
-  "title": "55-65 char SEO title",
+  "title": "45-58 char SEO title, HARD MAX 60 characters (longer titles get cut off in search results)",
   "description": "150-160 char meta description, leads with the answer",
   "tier": "${tier}",
   "targetQuery": "the exact target query",
@@ -275,7 +276,10 @@ export async function generateArticle({
   for (let i = 1; i <= attempts; i++) {
     try {
       const draft = await callOnce({ apiKey, model, site, tier, existingList, staticPages, existingSlugs, today, topicHint });
-      return await humanizeArticle({ apiKey, model, article: draft });
+      const article = await humanizeArticle({ apiKey, model, article: draft });
+      // Enforce the 60-char cap after humanize, which can rewrite the title.
+      article.title = await fitTitle({ title: article.title, lang: 'en', apiKey, model });
+      return article;
     } catch (e) {
       lastErr = e;
       if (isUnretryable(e)) {

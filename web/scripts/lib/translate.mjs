@@ -2,6 +2,7 @@
 // Claude API. Used by daily-post.mjs (fresh articles) and backfill.mjs
 // (existing articles). Returns the translated fields; the caller assembles the
 // es-419 markdown file (keeping slug, tier, dates, author, relatedSlugs from EN).
+import { fitTitle } from './title-fit.mjs';
 import { existsSync, readdirSync } from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -34,6 +35,8 @@ export async function translateArticle(en, apiKey) {
   };
 
   const userPrompt = `Translate this article's fields into es-419. The "targetQuery" and "relatedQueries" should become the natural Spanish queries a Spanish-speaking user would actually search (translate intent, keep them search-like). Keep "category" short.
+
+The Spanish "title" must be at most 60 characters (Spanish runs longer than English, so shorten wording rather than translating word for word; drop "(2026)" if needed).
 
 Return ONLY a single fenced json code block with exactly these keys: title, description, quickAnswer, category, targetQuery, relatedQueries, faqs, bodyMarkdown. faqs is an array of {q, a}.
 
@@ -76,6 +79,7 @@ ${JSON.stringify(payload)}
     throw new Error('translate: translation dropped all FAQs');
   }
 
+  out.title = await fitTitle({ title: out.title, lang: 'es', apiKey, model: MODEL });
   return out;
 }
 
