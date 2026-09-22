@@ -1,5 +1,5 @@
 ---
-title: "Pre-Qualification & Soft Pulls: Protect Your ITIN Score (2026)"
+title: "Pre-Qualification & Soft Pulls: Protect Your ITIN Score"
 description: "Learn how to use pre-qualification soft pulls to shop for credit without hurting your ITIN credit score. Covers hard vs. soft inquiries, rate-shopping windows, and thin-file tips."
 tier: detail
 targetQuery: "how to apply for credit with an ITIN without hurting your score"

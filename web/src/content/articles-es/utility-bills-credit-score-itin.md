@@ -1,5 +1,5 @@
 ---
-title: "¿Las facturas de servicios públicos construyen crédito con un ITIN? (Guía 2026)"
+title: "¿Las facturas de servicios construyen crédito con ITIN?"
 description: "Los pagos de servicios públicos no construyen crédito automáticamente con un ITIN, pero las herramientas de reporte correctas pueden cambiar eso. Descubre exactamente qué servicios funcionan y cuánto puede subir tu puntaje."
 tier: detail
 targetQuery: "las facturas de servicios públicos construyen crédito con ITIN"

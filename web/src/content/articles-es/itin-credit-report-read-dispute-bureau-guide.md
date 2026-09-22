@@ -1,5 +1,5 @@
 ---
-title: "Reporte de crédito con ITIN: Cómo leerlo y disputar errores en cada buró (2026)"
+title: "Reporte de crédito con ITIN: cómo leerlo y disputarlo"
 description: "Guía paso a paso para leer tu reporte de crédito con ITIN y disputar errores en Equifax, Experian y TransUnion. Incluye direcciones reales, plazos y consejos específicos para titulares de ITIN."
 tier: flagship
 targetQuery: "cómo leer y disputar tu reporte de crédito con ITIN"

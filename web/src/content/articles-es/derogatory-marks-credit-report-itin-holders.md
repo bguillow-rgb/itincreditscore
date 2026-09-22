@@ -1,5 +1,5 @@
 ---
-title: "Marcas negativas en tu reporte de crédito con ITIN (Guía 2026)"
+title: "Marcas negativas en tu reporte de crédito con ITIN (2026)"
 description: "Las marcas negativas afectan cualquier historial crediticio, incluidos los que usan ITIN. Aprende qué son, cuánto tiempo permanecen según su tipo y cómo eliminarlas o recuperarte de ellas."
 tier: detail
 targetQuery: "qué son las marcas negativas en el reporte de crédito con ITIN"

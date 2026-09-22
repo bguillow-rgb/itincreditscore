@@ -1,5 +1,5 @@
 ---
-title: "Does Immigration Status Affect Your Credit Score With an ITIN? (2026)"
+title: "Does Immigration Status Affect Your ITIN Credit Score?"
 description: "Immigration status does not appear on your credit report and cannot lower your FICO score. Learn what the 2026 CFPB guidance actually means for ITIN holders."
 tier: detail
 targetQuery: "does immigration status affect your credit score with an ITIN"

@@ -1,5 +1,5 @@
 ---
-title: "Carta de Buena Voluntad para Eliminar un Pago Tardío con ITIN"
+title: "Carta de buena voluntad para un pago tardío con ITIN"
 description: "Sí, los titulares de ITIN pueden enviar una carta de buena voluntad para eliminar un pago tardío. Aprende exactamente cómo funciona, qué escribir y cómo afecta tu puntaje de crédito."
 tier: detail
 targetQuery: "carta de buena voluntad para eliminar pago tardío con ITIN puntaje de crédito"

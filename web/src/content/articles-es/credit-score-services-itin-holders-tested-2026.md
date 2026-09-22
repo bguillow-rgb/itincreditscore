@@ -1,5 +1,5 @@
 ---
-title: "Cómo verificar tu crédito con ITIN: todos los servicios analizados (2026)"
+title: "Cómo checar tu crédito con ITIN: servicios probados (2026)"
 description: "¿Cuáles servicios gratuitos y de pago te permiten revisar tu crédito con un ITIN? Analizamos todas las opciones principales y las clasificamos para que sepas cuáles funcionan."
 tier: flagship
 targetQuery: "cómo revisar tu puntaje de crédito con ITIN en 2026"

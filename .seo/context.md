@@ -16,7 +16,10 @@ surface: web
 ## Keywords
 - want_to_rank: check credit score with itin, how to check credit score with itin, build credit history with itin, itin credit score, credit builder loan itin
 - currently_rank: pos 32–43 on several; 78 queries, 729 impr (as of 2026-06-12 GSC) — LEADER, closest to page-2 breakthrough. Note: "how to check credit score with itin" = 183 impr but pos 70 (consolidate authority on /check-credit-score-with-itin).
-- should_rank_but_dont: bureau-specific — "transunion credit report itin" (pos 32), "annualcreditreport.com itin" (pos 38), "experian credit report with itin"
+- should_rank_but_dont: bureau-specific — "transunion credit report itin" (Bing pos ~5, 10 impr, 0 clicks as of 2026-09-21). DROPPED 2026-09-22: "annualcreditreport.com itin" and "experian credit report with itin" (zero Google impressions across 9 audits).
+- also_track (added 2026-09-22; these families produce every real ranking and click, almost all on Bing):
+  - Spanish checar/puntaje family: puntaje de credito con itin, como checar mi credito con itin gratis, cómo ver mi crédito con itin, cómo saber mi puntaje de crédito con itin gratis
+  - ITIN → SSN transfer family (EN + ES): transfer itin credit history to ssn, how to merge credit reports with old itin and new ss number, si cambie de itin a ssn como actualizar mi credito
 
 ## Competitors
 1. Established credit-education / personal-finance sites — win on domain age + authority

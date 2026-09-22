@@ -1,6 +1,6 @@
 ---
-title: "Can You Have a Credit Score With an ITIN?"
-description: "Yes, ITIN holders can build a U.S. credit score. Here's how the credit bureaus handle ITINs, when a score gets generated, and exactly what you need to do to start."
+title: "Can You Have a Credit Score With an ITIN? Yes, Here's How"
+description: "Yes, ITIN holders can build a U.S. credit score. How the bureaus handle an ITIN, when a score first appears, and what to do to get one."
 tier: detail
 targetQuery: "can you have a credit score with an itin"
 relatedQueries:

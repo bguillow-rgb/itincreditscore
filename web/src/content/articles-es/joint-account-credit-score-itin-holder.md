@@ -1,5 +1,5 @@
 ---
-title: "Cuentas conjuntas y tu crédito con ITIN: lo que necesitas saber"
+title: "Cuentas conjuntas y tu crédito con ITIN: lo que debes saber"
 description: "Sí, una cuenta de crédito conjunta reporta a los archivos de crédito de ambos titulares, incluso con un ITIN. Aprende cómo las cuentas conjuntas afectan tu puntaje de crédito con ITIN y qué debes tener en cuenta."
 tier: detail
 targetQuery: "¿una cuenta conjunta afecta tu puntaje de crédito con ITIN?"

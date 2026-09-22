@@ -1,5 +1,5 @@
 ---
-title: "¿Una verificación de crédito laboral afecta tu puntaje de crédito con ITIN?"
+title: "¿Una revisión de crédito laboral baja tu puntaje con ITIN?"
 description: "No, las verificaciones de crédito de empleadores no dañan tu puntaje de crédito con ITIN. Son consultas suaves. Conoce qué ven los empleadores, tus derechos bajo la FCRA y cómo prepararte."
 tier: detail
 targetQuery: "¿una verificación de crédito laboral afecta tu puntaje de crédito con ITIN?"

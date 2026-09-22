@@ -1,5 +1,5 @@
 ---
-title: "Charge-Off en tu reporte de crédito con ITIN: qué significa (2026)"
+title: "Charge-off en tu reporte de crédito con ITIN: qué significa"
 description: "Un charge-off puede bajar tu puntaje de crédito con ITIN entre 100 y 150 puntos y permanecer 7 años. Aprende qué significa, cómo funciona con un ITIN y cómo recuperarte."
 tier: detail
 targetQuery: "cómo afecta un charge-off al puntaje de crédito con ITIN"

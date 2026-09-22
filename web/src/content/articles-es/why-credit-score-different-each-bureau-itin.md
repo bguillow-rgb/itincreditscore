@@ -1,5 +1,5 @@
 ---
-title: "Por qué tu puntaje de crédito varía según el buró con un ITIN (2026)"
+title: "Por qué tu puntaje cambia según el buró con un ITIN"
 description: "Tu puntaje de crédito con ITIN varía entre Equifax, Experian y TransUnion porque cada buró maneja datos distintos. Descubre exactamente por qué y qué puedes hacer al respecto."
 tier: detail
 targetQuery: "por qué mi puntaje de crédito es diferente en cada buró con ITIN"

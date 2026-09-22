@@ -1,5 +1,5 @@
 ---
-title: "¿Tu historial crediticio extranjero cuenta para tu puntaje en EE. UU. con un ITIN?"
+title: "¿Tu crédito del extranjero cuenta en EE. UU. con un ITIN?"
 description: "Tu puntaje de crédito de tu país de origen no se transfiere automáticamente a EE. UU. Aprende cómo los titulares de ITIN pueden aprovechar su historial extranjero y construir un puntaje estadounidense rápidamente."
 tier: detail
 targetQuery: "mi historial crediticio de mi país cuenta en EE. UU. con un ITIN"

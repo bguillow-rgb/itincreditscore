@@ -1,5 +1,5 @@
 ---
-title: "Cuentas en Cobros en tu Reporte de Crédito con ITIN: Qué Hacer (2026)"
+title: "Cuentas en cobro en tu reporte con ITIN: qué hacer (2026)"
 description: "Una cuenta en cobros puede bajar tu puntaje de crédito con ITIN entre 50 y 100+ puntos. Aprende cómo funcionan los cobros, tus derechos bajo la FDCPA, el acuerdo pay-for-delete y cómo recuperarte rápido."
 tier: detail
 targetQuery: "cómo afecta una cuenta en cobros tu puntaje de crédito con ITIN"

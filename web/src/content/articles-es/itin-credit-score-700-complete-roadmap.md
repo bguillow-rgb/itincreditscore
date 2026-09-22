@@ -1,5 +1,5 @@
 ---
-title: "De ITIN a 700: La guía completa para construir tu puntaje de crédito (2026)"
+title: "De ITIN a 700: guía completa para tu puntaje de crédito"
 description: "La mayoría de los titulares de ITIN alcanzan un puntaje de crédito de 700 en 18-24 meses. Aquí está la línea de tiempo verificada mes a mes, las herramientas que funcionan y los errores que te retrasan."
 tier: flagship
 targetQuery: "cuánto tiempo tarda en construirse un puntaje de crédito de 700 con ITIN"

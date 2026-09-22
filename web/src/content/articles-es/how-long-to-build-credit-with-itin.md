@@ -1,5 +1,5 @@
 ---
-title: "¿Cuánto tiempo tarda en construirse un historial crediticio con un ITIN?"
+title: "¿Cuánto tarda en construirse el crédito con un ITIN?"
 description: "La mayoría de los titulares de ITIN obtienen su primer puntaje crediticio en 3 a 6 meses. Conoce los hitos exactos, qué lo acelera y cómo alcanzar un buen puntaje en 12 a 18 meses."
 tier: detail
 targetQuery: "cuánto tiempo tarda en construirse un crédito con ITIN"

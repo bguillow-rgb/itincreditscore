@@ -1,5 +1,5 @@
 ---
-title: "Puntaje de Crédito y Alquiler con ITIN: Qué Ven los Arrendadores (2026)"
+title: "Rentar con ITIN: qué ven los arrendadores en tu crédito"
 description: "Sí, las personas con ITIN pueden alquilar apartamentos usando su puntaje de crédito en EE.UU. Aprende qué revisan los arrendadores, qué puntaje necesitas y cómo fortalecer tu historial."
 tier: detail
 targetQuery: "cómo afecta el puntaje de crédito para alquilar un apartamento con ITIN"

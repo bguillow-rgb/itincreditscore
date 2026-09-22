@@ -1,5 +1,5 @@
 ---
-title: "How Credit Scoring Works With an ITIN (2026 Guide)"
+title: "Do ITIN Holders Get a FICO Score? How Scoring Works"
 description: "Yes, ITIN holders get real FICO and VantageScores on a 300-850 scale. Learn exactly how the bureaus build your file, what five factors move your score, and why."
 tier: detail
 targetQuery: "how does credit scoring work with an ITIN"

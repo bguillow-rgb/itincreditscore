@@ -1,5 +1,5 @@
 ---
-title: "Por qué no tienes puntaje de crédito con tu ITIN (y cómo solucionarlo)"
+title: "¿No tienes puntaje con tu ITIN? Por qué y cómo arreglarlo"
 description: "¿Sin puntaje de crédito con tu ITIN? Descubre exactamente por qué los titulares de ITIN aparecen sin puntaje, qué requisito te falta y los pasos más rápidos para obtener un puntaje real."
 tier: detail
 targetQuery: "por qué no tengo puntaje de crédito con mi ITIN"

@@ -1,5 +1,5 @@
 ---
-title: "Ser Cofirmante con un ITIN: Cómo Afecta tu Puntaje de Crédito"
+title: "Ser cofirmante con ITIN: cómo afecta tu puntaje de crédito"
 description: "Sí, los titulares de ITIN pueden ser cofirmantes en préstamos y eso aparece en tu reporte de crédito. Aprende exactamente cómo el ser cofirmante con un ITIN construye o daña tu puntaje en 2026."
 tier: detail
 targetQuery: "puede un titular de ITIN ser cofirmante de un préstamo"

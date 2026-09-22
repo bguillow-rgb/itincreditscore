@@ -1,5 +1,5 @@
 ---
-title: "Cómo afecta la bancarrota a tu puntaje de crédito con un ITIN (2026)"
+title: "Cómo afecta la bancarrota tu puntaje de crédito con ITIN"
 description: "La bancarrota puede bajar el puntaje de crédito de un titular de ITIN entre 100 y 200 puntos y permanece en tu reporte por 7 a 10 años. Aprende qué pasa y cómo reconstruirlo."
 tier: detail
 targetQuery: "cómo afecta la bancarrota al puntaje de crédito con ITIN"

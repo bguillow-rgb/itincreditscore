@@ -1,5 +1,5 @@
 ---
-title: "Credit Utilization With an ITIN: What It Is and How It Affects Your Score"
+title: "Credit Utilization With an ITIN: How It Moves Your Score"
 description: "Yes, credit utilization affects your ITIN credit score the same way it does for SSN holders. Learn what the right ratio is, how to track it, and how to lower it fast."
 tier: detail
 targetQuery: "how does credit utilization affect your score with an ITIN"

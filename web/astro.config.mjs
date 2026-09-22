@@ -143,6 +143,22 @@ export default defineConfig({
     '/f/boosting-your-financial-profile-with-itin': '/improve-credit-score',
     '/f/itin-not-just-for-taxes': '/how-to-get-an-itin',
     '/f/the-myths-around-itin-and-credit-scores': '/itin-credit-score-guide',
+    // Article slugs Google holds at the ROOT path (no /articles/ prefix). All 404ed
+    // and were crawled Aug 5-7, 2026. No current page links them; they come from
+    // old sitemaps or external links. Found in the 2026-09-07 SEO audit, added
+    // 2026-09-22.
+    '/transfer-itin-credit-history-to-ssn': '/articles/transfer-itin-credit-history-to-ssn',
+    '/credit-mix-with-itin': '/articles/credit-mix-with-itin',
+    '/credit-builder-loan-with-itin': '/articles/credit-builder-loan-with-itin',
+    '/hard-inquiries-itin-credit-score': '/articles/hard-inquiries-itin-credit-score',
+    '/authorized-user-with-itin-credit-building': '/articles/authorized-user-credit-building-itin',
+    '/articles/authorized-user-with-itin-credit-building': '/articles/authorized-user-credit-building-itin',
+    '/how-to-raise-credit-score-with-itin': '/articles/how-to-raise-credit-score-with-itin',
+    '/credit-utilization-itin-holders': '/articles/credit-utilization-itin-holders',
+    '/credit-age-itin-holders': '/articles/credit-age-itin-holders',
+    '/mixed-credit-file-itin-holder': '/articles/mixed-credit-file-itin-holder',
+    // No such article ever existed here; credit cards are the sister site's topic.
+    '/articles/credit-cards-that-accept-itin': 'https://itincreditcard.com/best-itin-credit-cards',
   },
   integrations: [
     sitemap({

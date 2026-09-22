@@ -1,6 +1,6 @@
 ---
-title: "How to Get Your Free Credit Report With an ITIN (All 3 Bureaus, 2026)"
-description: "AnnualCreditReport.com won't accept your ITIN online, but all three bureaus will. Here's the exact free way to pull your Equifax, Experian, and TransUnion reports with an ITIN in 2026."
+title: "Free Credit Report With an ITIN: All 3 Bureaus (2026)"
+description: "AnnualCreditReport.com won't take an ITIN online, but all three bureaus will. The free way to pull your Equifax, Experian and TransUnion reports."
 tier: detail
 targetQuery: "how to get your credit report with an ITIN"
 relatedQueries:

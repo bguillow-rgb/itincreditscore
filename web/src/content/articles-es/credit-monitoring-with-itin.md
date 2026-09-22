@@ -1,5 +1,5 @@
 ---
-title: "Monitoreo de Crédito con ITIN: Herramientas, Consejos y Guía 2026"
+title: "Monitoreo de crédito con ITIN: herramientas y guía 2026"
 description: "Sí, los titulares de ITIN pueden monitorear su crédito. Descubre qué herramientas gratuitas y de pago funcionan sin un SSN, qué debes vigilar y por qué el monitoreo constante fortalece tu puntaje."
 tier: detail
 targetQuery: "cómo monitorear mi crédito con ITIN"

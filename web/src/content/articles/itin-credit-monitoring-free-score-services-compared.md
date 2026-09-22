@@ -1,5 +1,5 @@
 ---
-title: "ITIN Credit Monitoring: Every Free & Paid Service Compared (2026)"
+title: "ITIN Credit Monitoring: Free & Paid Services Compared"
 description: "Verified comparison of every credit monitoring and free-score service that accepts an ITIN in 2026: what score each shows, cost, bureaus covered, and friction to expect."
 tier: flagship
 targetQuery: "which credit monitoring services accept an ITIN number"

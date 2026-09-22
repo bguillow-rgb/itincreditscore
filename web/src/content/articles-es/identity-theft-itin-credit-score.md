@@ -1,5 +1,5 @@
 ---
-title: "Robo de identidad y tu puntaje de crédito con ITIN: cómo detectarlo y recuperarte"
+title: "Robo de identidad y tu crédito con ITIN: cómo recuperarte"
 description: "El robo de identidad puede bajar el puntaje de crédito de un titular de ITIN más de 100 puntos. Aprende cómo detectar fraude en tu reporte de crédito, disputarlo y proteger tu puntaje sin un SSN."
 tier: detail
 targetQuery: "cómo afecta el robo de identidad tu puntaje de crédito con un ITIN"

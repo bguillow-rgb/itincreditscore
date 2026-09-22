@@ -1,6 +1,6 @@
 ---
-title: "Todas las formas de consultar tu puntaje de crédito con un ITIN (2026)"
-description: "Sí, los titulares de ITIN pueden consultar su puntaje de crédito gratis o de pago. Esta guía verificada cubre todos los métodos: directamente con los burós, Equifax en línea, myFICO, Credit Karma y más."
+title: "Cómo ver tu puntaje de crédito con ITIN: todas las formas"
+description: "Sí, puedes ver tu puntaje de crédito con ITIN, gratis o de pago. Todos los métodos verificados: los burós, Equifax en línea, myFICO, Credit Karma y más."
 tier: flagship
 targetQuery: "qué servicios permiten consultar tu puntaje de crédito con número ITIN"
 relatedQueries:

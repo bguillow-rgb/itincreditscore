@@ -1,5 +1,5 @@
 ---
-title: "De ITIN a 700: El tiempo real para alcanzar ese puntaje de crédito (2026)"
+title: "De ITIN a 700: el tiempo real para llegar (2026)"
 description: "La mayoría de los titulares de ITIN alcanzan un puntaje FICO de 700 en 18-24 meses. Descubre los hitos mes a mes, las herramientas que funcionan y los errores que reinician el reloj."
 tier: flagship
 targetQuery: "cuánto tiempo tarda en tener un puntaje de crédito de 700 con ITIN"

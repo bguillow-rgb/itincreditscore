@@ -1,5 +1,5 @@
 ---
-title: "Trabajar por cuenta propia con ITIN: cómo afecta tu puntaje de crédito"
+title: "Trabajas por tu cuenta con ITIN: así afecta tu crédito"
 description: "Trabajar por cuenta propia no daña directamente tu puntaje de crédito con ITIN. Aprende qué factores realmente importan, qué analizan los prestamistas y cómo construir crédito con ingresos de 1099 o trabajo por encargo."
 tier: detail
 targetQuery: "¿trabajar por cuenta propia afecta el puntaje de crédito con ITIN?"

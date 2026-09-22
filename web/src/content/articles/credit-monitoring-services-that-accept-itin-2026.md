@@ -1,5 +1,5 @@
 ---
-title: "Credit Monitoring & Free Score Services That Accept an ITIN (2026)"
+title: "Credit Monitoring Services That Accept an ITIN (2026)"
 description: "Verified comparison of every credit monitoring and free score service that works with an ITIN in 2026: what each shows, what each costs, and which to use first."
 tier: flagship
 targetQuery: "what credit monitoring services accept an ITIN number"

@@ -1,5 +1,5 @@
 ---
-title: "Monitoreo de crédito con ITIN: Comparación de todos los servicios gratuitos y de pago (2026)"
+title: "Monitoreo de crédito con ITIN: gratis vs. de pago (2026)"
 description: "Comparación verificada de todos los servicios de monitoreo de crédito y consulta de puntaje gratuita que aceptan un ITIN en 2026: qué puntaje muestra cada uno, costo, burós cubiertos y obstáculos que puedes encontrar."
 tier: flagship
 targetQuery: "qué servicios de monitoreo de crédito aceptan número ITIN"

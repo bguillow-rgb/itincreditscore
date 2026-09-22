@@ -1,5 +1,5 @@
 ---
-title: "Does Foreign Credit History Count Toward Your U.S. Score With an ITIN?"
+title: "Does Foreign Credit Count Toward a U.S. Score With an ITIN?"
 description: "Your home-country credit score does not automatically transfer to the U.S. Learn how ITIN holders can leverage foreign credit history and build a U.S. score fast."
 tier: detail
 targetQuery: "does my home country credit history count in the US with an ITIN"

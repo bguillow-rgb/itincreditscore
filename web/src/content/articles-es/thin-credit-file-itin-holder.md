@@ -1,5 +1,5 @@
 ---
-title: "Expediente de crédito delgado con ITIN: qué es y cómo solucionarlo"
+title: "Expediente de crédito delgado con ITIN: cómo solucionarlo"
 description: "Un expediente de crédito delgado significa que tienes muy pocas cuentas para generar un puntaje confiable. Los titulares de ITIN suelen empezar aquí. Aprende qué cuenta, por qué importa y 5 formas comprobadas de solucionarlo rápido."
 tier: detail
 targetQuery: "expediente de crédito delgado titular de ITIN"

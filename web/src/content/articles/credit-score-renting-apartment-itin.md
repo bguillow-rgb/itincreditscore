@@ -1,5 +1,5 @@
 ---
-title: "Credit Score & Renting With an ITIN: What Landlords See (2026)"
+title: "Renting With an ITIN: What Landlords See on Your Credit"
 description: "Yes, ITIN holders can rent apartments using their U.S. credit score. Learn what landlords check, what score you need, and how to strengthen your file."
 tier: detail
 targetQuery: "does credit score affect renting an apartment with an ITIN"

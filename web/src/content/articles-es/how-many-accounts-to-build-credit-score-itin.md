@@ -1,5 +1,5 @@
 ---
-title: "¿Cuántas Cuentas Necesitas para Construir Crédito con un ITIN?"
+title: "¿Cuántas cuentas necesitas para tener crédito con ITIN?"
 description: "FICO solo necesita 1 cuenta abierta por 6+ meses para calcular tu puntaje. Aquí te decimos cuántas cuentas necesitan realmente los titulares de ITIN y cuáles suben el puntaje más rápido."
 tier: detail
 targetQuery: "cuántas cuentas necesito para construir historial de crédito con ITIN"

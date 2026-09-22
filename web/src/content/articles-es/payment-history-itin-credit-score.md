@@ -1,5 +1,5 @@
 ---
-title: "Historial de Pagos y Tu Puntaje de Crédito con ITIN (Guía 2026)"
+title: "Historial de pagos y tu puntaje de crédito con ITIN (2026)"
 description: "Sí, el historial de pagos es el factor más importante en tu puntaje de crédito con ITIN, y representa más del 35% de tu puntaje. Aprende exactamente cómo los pagos a tiempo construyen crédito con un ITIN."
 tier: detail
 targetQuery: "cómo afecta el historial de pagos tu puntaje de crédito con ITIN"

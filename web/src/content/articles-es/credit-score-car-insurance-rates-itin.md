@@ -1,5 +1,5 @@
 ---
-title: "¿Tu puntaje de crédito afecta el seguro de auto si tienes ITIN?"
+title: "¿Tu puntaje con ITIN afecta el seguro de auto?"
 description: "Sí, tu puntaje de crédito puede subir o bajar la prima del seguro de auto aunque tengas ITIN. Aprende cómo funcionan los puntajes de seguro basados en crédito y cómo proteger tu tarifa."
 tier: detail
 targetQuery: "¿el puntaje de crédito afecta el seguro de auto con ITIN?"

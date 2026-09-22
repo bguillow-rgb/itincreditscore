@@ -1,5 +1,5 @@
 ---
-title: "¿Qué puntaje de crédito es bueno para personas con ITIN? (2026)"
+title: "¿Qué puntaje de crédito es bueno con un ITIN? (2026)"
 description: "Un buen puntaje de crédito para personas con ITIN es 670 o más. Conoce los rangos completos, qué ventajas ofrece cada nivel y metas realistas para construir crédito con tu ITIN."
 tier: detail
 targetQuery: "qué puntaje de crédito es bueno para personas con ITIN"

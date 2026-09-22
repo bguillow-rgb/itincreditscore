@@ -1,5 +1,5 @@
 ---
-title: "Cómo una tarjeta asegurada afecta tu puntaje de crédito con un ITIN"
+title: "Cómo una tarjeta asegurada afecta tu puntaje con ITIN"
 description: "Una tarjeta de crédito asegurada puede construir tu puntaje de crédito con ITIN en 3-6 meses al reportar pagos a tiempo, reducir la utilización y sumar antigüedad de cuenta. Aquí te explicamos exactamente cómo."
 tier: detail
 targetQuery: "cómo afecta una tarjeta de crédito asegurada tu puntaje de crédito con ITIN"

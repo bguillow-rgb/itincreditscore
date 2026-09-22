@@ -1,5 +1,5 @@
 ---
-title: "Cómo revisar tu puntaje de crédito con ITIN: todos los métodos probados (2026)"
+title: "Cómo revisar tu puntaje de crédito con ITIN (2026)"
 description: "Sí puedes revisar tu puntaje de crédito con un ITIN. Aquí están todos los métodos gratuitos y de pago que realmente funcionan en 2026, ordenados por acceso, costo y cobertura de burós."
 tier: flagship
 targetQuery: "cómo revisar tu puntaje de crédito con ITIN en 2026"

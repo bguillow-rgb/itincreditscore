@@ -1,5 +1,5 @@
 ---
-title: "Identity Theft & Your ITIN Credit Score: How to Detect & Recover"
+title: "Identity Theft and Your ITIN Credit: How to Spot & Recover"
 description: "Identity theft can drop an ITIN holder's credit score 100+ points. Learn how to spot fraud on your credit report, dispute it, and protect your score without an SSN."
 tier: detail
 targetQuery: "how does identity theft affect your credit score with an ITIN"

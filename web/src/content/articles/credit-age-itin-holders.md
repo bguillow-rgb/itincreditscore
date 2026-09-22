@@ -1,5 +1,5 @@
 ---
-title: "Credit Age & ITIN: How Account History Length Affects Your Score"
+title: "Credit Age & ITIN: How History Length Shapes Your Score"
 description: "Learn how the length of your credit history affects your ITIN credit score, which accounts to keep open, and how to grow your average account age strategically."
 tier: detail
 targetQuery: "how does length of credit history affect your score with an ITIN"

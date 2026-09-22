@@ -1,6 +1,6 @@
 ---
-title: "Cómo obtener tu reporte de crédito gratis con un ITIN (los 3 burós, 2026)"
-description: "AnnualCreditReport.com no acepta tu ITIN en línea, pero los tres burós sí. Aquí está la forma exacta y gratuita de obtener tus reportes de Equifax, Experian y TransUnion con un ITIN en 2026."
+title: "Reporte de crédito gratis con ITIN: los 3 burós (2026)"
+description: "AnnualCreditReport.com no acepta tu ITIN en línea, pero los tres burós sí. Cómo sacar gratis tus reportes de Equifax, Experian y TransUnion."
 tier: detail
 targetQuery: "cómo obtener mi reporte de crédito con ITIN"
 relatedQueries:

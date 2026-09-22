@@ -1,5 +1,5 @@
 ---
-title: "Why You Have No Credit Score With an ITIN (and How to Fix It)"
+title: "No Credit Score With an ITIN? Why, and How to Fix It"
 description: "No credit score with your ITIN? Learn exactly why ITIN holders come up unscoreable, which rule you're missing, and the fastest steps to get a real score."
 tier: detail
 targetQuery: "why do I have no credit score with an ITIN"

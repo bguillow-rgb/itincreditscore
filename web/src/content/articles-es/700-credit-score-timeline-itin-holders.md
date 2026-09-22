@@ -1,5 +1,5 @@
 ---
-title: "Cuánto tiempo se tarda en llegar a 700 de crédito con un ITIN (2026)"
+title: "Cuánto se tarda en llegar a 700 de crédito con ITIN"
 description: "La mayoría de los titulares de ITIN alcanzan un puntaje de crédito de 700 en 18-24 meses. Aquí tienes una línea de tiempo mes a mes verificada con herramientas reales, hitos clave y lo que puede frenarte."
 tier: flagship
 targetQuery: "cuánto tiempo se tarda en llegar a 700 de crédito con un ITIN"

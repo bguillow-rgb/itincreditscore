@@ -1,5 +1,5 @@
 ---
-title: "Precalificación y Consultas Suaves: Protege tu Puntaje de Crédito con ITIN (2026)"
+title: "Precalificación y consultas suaves: cuida tu puntaje ITIN"
 description: "Aprende a usar las precalificaciones con consulta suave para comparar créditos sin afectar tu puntaje de crédito con ITIN. Cubre consultas duras vs. suaves, ventanas para comparar tasas y consejos para archivos delgados."
 tier: detail
 targetQuery: "cómo solicitar crédito con ITIN sin bajar tu puntaje"

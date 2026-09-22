@@ -1,5 +1,5 @@
 ---
-title: "ITIN Credit Report: How to Read & Dispute Every Bureau (2026)"
+title: "ITIN Credit Report: How to Read & Dispute Each Bureau"
 description: "Step-by-step guide to reading your ITIN credit report and disputing errors at Equifax, Experian, and TransUnion. Includes real addresses, timelines, and ITIN-specific tips."
 tier: flagship
 targetQuery: "how to read and dispute your credit report with an ITIN"
