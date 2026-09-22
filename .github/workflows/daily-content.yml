@@ -4,12 +4,13 @@ name: Daily SEO content
 # site into /docs (GitHub Pages), commits, pushes, and pings IndexNow.
 # Manual runs are allowed via the "Run workflow" button.
 on:
-  # 3x/week content pipeline (Mon flagship + Wed/Fri cluster). Re-enabled
-  # 2026-07-05 per owner decision; the flagship/cluster upgrade is the remediation
-  # for the AdSense "low value content" flag (review still pending). To re-pause,
-  # comment out the two schedule lines below.
+  # WEEKLY content pipeline (Mon flagship only). Cut from 3x/week (Mon/Wed/Fri)
+  # on 2026-09-22 per owner decision: since ~2026-08-04 Google crawls new articles
+  # within a day and refuses to index them (3 of 3 refused the week of 9/14), so
+  # volume was feeding an index that rejects it. Restore ',3,5' to go back to
+  # 3x/week. To pause entirely, comment out the two schedule lines below.
   schedule:
-    - cron: '0 13 * * 1,3,5' # 13:00 UTC Mon/Wed/Fri (Mon run = flagship)
+    - cron: '0 13 * * 1' # 13:00 UTC Monday (flagship)
   workflow_dispatch:
     inputs:
       tier:
@@ -106,16 +107,17 @@ jobs:
         if: steps.changes.outputs.changed == 'true'
         run: node scripts/indexnow.mjs || true
 
-      # Push the new article straight to Google's Indexing API so it gets spidered
-      # ASAP instead of waiting for sitemap rediscovery. Only fires when a NEW
-      # article was written today (not on es-backfill-only days). No-ops cleanly
-      # until GOOGLE_INDEXING_SA_KEY is set. See scripts/google-index.mjs for the
-      # service-account / owner-verification requirements + policy caveat.
-      - name: Ping Google Indexing API
-        if: steps.write.outputs.slug != ''
-        env:
-          GOOGLE_INDEXING_SA_KEY: ${{ secrets.GOOGLE_INDEXING_SA_KEY }}
-        run: node scripts/google-index.mjs --article "${{ steps.write.outputs.slug }}" || true
+      # Google Indexing API ping DISABLED 2026-09-22. It returned URL_UPDATED on
+      # every publish, yet the 2026-09-11 article was still "URL is unknown to
+      # Google" 10 days later, and Google refuses what it does crawl. The API is
+      # officially for JobPosting/BroadcastEvent pages only, so it's a policy risk
+      # with nothing to show for it. IndexNow above still runs (it feeds Bing,
+      # which ranks this site). To re-enable, uncomment:
+      # - name: Ping Google Indexing API
+      #   if: steps.write.outputs.slug != ''
+      #   env:
+      #     GOOGLE_INDEXING_SA_KEY: ${{ secrets.GOOGLE_INDEXING_SA_KEY }}
+      #   run: node scripts/google-index.mjs --article "${{ steps.write.outputs.slug }}" || true
 
       - name: Commit & push
         if: steps.changes.outputs.changed == 'true'
