@@ -2,7 +2,7 @@
 // daily-post.mjs (one detail article/day) and seed-content.mjs (one-shot batch
 // backfill + pillar). Keeps the prompt and validation in one place so all three
 // produce schema-compliant, AEO-optimized content.
-import { fitTitle } from './title-fit.mjs';
+import { enforceSerpLimits } from './serp.mjs';
 import { readFileSync } from 'node:fs';
 import { humanizeArticle } from './humanize.mjs';
 
@@ -277,9 +277,18 @@ export async function generateArticle({
     try {
       const draft = await callOnce({ apiKey, model, site, tier, existingList, staticPages, existingSlugs, today, topicHint });
       const article = await humanizeArticle({ apiKey, model, article: draft });
-      // Enforce the 60-char cap after humanize, which can rewrite the title.
-      article.title = await fitTitle({ title: article.title, lang: 'en', apiKey, model });
-      return article;
+      // The prompt asks for <=60-char titles; this enforces it (and the 160-char
+      // description cap) after humanize, which can rewrite both. Without it the
+      // live site drifted to 45 over-60 titles by 2026-09-21. Ported from
+      // itinlending's lib/serp.mjs 2026-09-22.
+      return await enforceSerpLimits({
+        apiKey,
+        model,
+        meta: article,
+        siteName: site.name,
+        lang: 'en',
+        label: `generate(${article.slug || '?'})`,
+      });
     } catch (e) {
       lastErr = e;
       if (isUnretryable(e)) {

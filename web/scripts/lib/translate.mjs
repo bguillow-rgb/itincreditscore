@@ -2,7 +2,7 @@
 // Claude API. Used by daily-post.mjs (fresh articles) and backfill.mjs
 // (existing articles). Returns the translated fields; the caller assembles the
 // es-419 markdown file (keeping slug, tier, dates, author, relatedSlugs from EN).
-import { fitTitle } from './title-fit.mjs';
+import { enforceSerpLimits } from './serp.mjs';
 import { existsSync, readdirSync } from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -22,7 +22,7 @@ Rules:
 - Do NOT add, remove, or reorder sections. Same number of FAQs, same table rows.
 - PUNCTUATION (strict): Never use em dashes or en dashes, nor their code/HTML forms (\\u2014, \\u2013, &mdash;, &ndash;). Use commas, colons, parentheses, or separate sentences instead. For numeric ranges use a plain hyphen.`;
 
-export async function translateArticle(en, apiKey) {
+export async function translateArticle(en, apiKey, siteName = 'ITIN Credit Score') {
   const payload = {
     title: en.title,
     description: en.description,
@@ -36,7 +36,7 @@ export async function translateArticle(en, apiKey) {
 
   const userPrompt = `Translate this article's fields into es-419. The "targetQuery" and "relatedQueries" should become the natural Spanish queries a Spanish-speaking user would actually search (translate intent, keep them search-like). Keep "category" short.
 
-The Spanish "title" must be at most 60 characters (Spanish runs longer than English, so shorten wording rather than translating word for word; drop "(2026)" if needed).
+The Spanish "title" must be at most 60 characters and "description" at most 160 (Spanish runs 20-25% longer than English, so shorten wording rather than translating word for word; drop "(2026)" if needed).
 
 Return ONLY a single fenced json code block with exactly these keys: title, description, quickAnswer, category, targetQuery, relatedQueries, faqs, bodyMarkdown. faqs is an array of {q, a}.
 
@@ -79,8 +79,17 @@ ${JSON.stringify(payload)}
     throw new Error('translate: translation dropped all FAQs');
   }
 
-  out.title = await fitTitle({ title: out.title, lang: 'es', apiKey, model: MODEL });
-  return out;
+  // Spanish runs 20-25% longer than English, so the ES title/description
+  // overflow even when the EN pair fits (34 of 45 over-60 titles on 2026-09-21
+  // were Spanish). The prompt asks; this enforces.
+  return await enforceSerpLimits({
+    apiKey,
+    model: MODEL,
+    meta: out,
+    siteName,
+    lang: 'es',
+    label: `translate(${en.slug || '?'})`,
+  });
 }
 
 // Matches a markdown link target or an href/src value that is a site-absolute path.
