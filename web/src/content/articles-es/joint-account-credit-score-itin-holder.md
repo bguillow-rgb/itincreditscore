@@ -14,9 +14,9 @@ publishedAt: "2026-09-18"
 author: "Research Desk"
 category: "Puntaje de crédito"
 relatedSlugs:
-  - "how-many-accounts-to-build-credit-score-itin"
   - "bankruptcy-credit-score-itin-holders"
   - "collections-on-credit-report-itin-holders"
+  - "how-many-accounts-to-build-credit-score-itin"
   - "charge-off-credit-report-itin-holders"
 faqs:
   - q: "¿Puede un titular de ITIN ser cotitular de una cuenta de crédito?"

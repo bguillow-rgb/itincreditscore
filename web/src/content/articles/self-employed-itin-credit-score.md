@@ -15,9 +15,9 @@ author: "Editorial Team"
 category: "Credit Score"
 relatedSlugs:
   - "cosigning-with-itin-credit-score-impact"
-  - "credit-age-itin-holders"
   - "payment-history-itin-credit-score"
   - "authorized-user-credit-building-itin"
+  - "credit-age-itin-holders"
 faqs:
   - q: "Does 1099 or gig income lower my ITIN credit score?"
     a: "No. Credit scoring models do not know or care whether your income comes from W-2 wages or 1099 contracts. Your score is calculated from payment history, credit utilization, account age, credit mix, and new inquiries, none of which are tied to employment type."

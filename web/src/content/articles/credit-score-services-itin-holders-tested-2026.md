@@ -14,8 +14,8 @@ publishedAt: "2026-08-31"
 author: "Research Desk"
 category: "Credit Score"
 relatedSlugs:
-  - "itin-credit-monitoring-free-score-services-compared"
   - "itin-credit-score-check-every-method-2026"
+  - "check-credit-score-itin-every-method-verified-2026"
   - "credit-monitoring-services-that-accept-itin-2026"
   - "free-paid-services-check-credit-score-itin-2026"
 faqs:

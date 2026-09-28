@@ -14,9 +14,9 @@ publishedAt: "2026-09-14"
 author: "Research Desk"
 category: "Credit Score"
 relatedSlugs:
-  - "itin-credit-score-check-every-method-2026"
   - "credit-monitoring-services-that-accept-itin-2026"
-  - "credit-score-services-itin-holders-tested-2026"
+  - "itin-credit-score-check-every-method-2026"
+  - "check-credit-score-itin-every-method-verified-2026"
   - "how-to-check-credit-score-with-itin-free-paid-services"
 faqs:
   - q: "Can I check my credit score with an ITIN and no SSN?"

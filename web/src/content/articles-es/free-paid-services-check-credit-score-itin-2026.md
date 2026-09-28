@@ -14,9 +14,9 @@ publishedAt: "2026-07-06"
 author: "Editorial Team"
 category: "Puntaje de crédito"
 relatedSlugs:
-  - "itin-credit-score-check-every-method-2026"
+  - "check-credit-score-itin-every-method-verified-2026"
   - "how-to-check-credit-score-with-itin-free-paid-services"
-  - "itin-credit-monitoring-free-score-services-compared"
+  - "itin-credit-score-check-every-method-2026"
   - "credit-score-services-itin-holders-tested-2026"
 faqs:
   - q: "¿Puedo consultar mi puntaje de crédito en línea con un ITIN o tengo que hacerlo por correo?"

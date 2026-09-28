@@ -14,10 +14,10 @@ publishedAt: "2026-09-14"
 author: "Research Desk"
 category: "Puntaje de crédito"
 relatedSlugs:
-  - "itin-credit-score-check-every-method-2026"
   - "credit-monitoring-services-that-accept-itin-2026"
-  - "credit-score-services-itin-holders-tested-2026"
-  - "free-paid-services-check-credit-score-itin-2026"
+  - "itin-credit-score-check-every-method-2026"
+  - "check-credit-score-itin-every-method-verified-2026"
+  - "how-to-check-credit-score-with-itin-free-paid-services"
 faqs:
   - q: "¿Puedo consultar mi puntaje de crédito con un ITIN y sin SSN?"
     a: "Sí. Varios servicios aceptan un ITIN para verificar tu identidad, entre ellos el plan gratuito de myFICO, Experian.com, Credit Karma, NerdWallet, Discover Credit Scorecard y servicios especializados como Kikoff y MyITINCredit. Necesitas al menos seis meses de historial de crédito reportado antes de que la mayoría de estos servicios pueda mostrarte un puntaje."

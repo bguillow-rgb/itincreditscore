@@ -14,8 +14,8 @@ publishedAt: "2026-06-18"
 author: "Research Desk"
 category: "Puntaje de Crédito"
 relatedSlugs:
-  - "pre-qualification-soft-pull-itin-credit-score"
   - "employment-credit-check-itin-credit-score"
+  - "pre-qualification-soft-pull-itin-credit-score"
   - "credit-limit-increase-itin-credit-score"
   - "derogatory-marks-credit-report-itin-holders"
 faqs:

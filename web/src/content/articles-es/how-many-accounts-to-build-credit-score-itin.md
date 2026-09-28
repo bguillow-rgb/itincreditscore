@@ -15,8 +15,8 @@ author: "Editorial Team"
 category: "Puntaje de crédito"
 relatedSlugs:
   - "thin-credit-file-itin-holder"
-  - "joint-account-credit-score-itin-holder"
   - "credit-age-itin-holders"
+  - "joint-account-credit-score-itin-holder"
   - "closing-credit-account-itin-credit-score"
 faqs:
   - q: "¿Cuál es el número mínimo de cuentas que necesita un titular de ITIN para obtener un puntaje de crédito?"

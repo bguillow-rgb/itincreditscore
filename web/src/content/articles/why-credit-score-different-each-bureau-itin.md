@@ -15,7 +15,7 @@ author: "Research Desk"
 category: "Credit Score"
 relatedSlugs:
   - "fico-vs-vantagescore-itin-holders"
-  - "itin-credit-monitoring-free-score-services-compared"
+  - "how-credit-scoring-works-with-itin"
   - "itin-credit-score-check-every-method-2026"
   - "credit-mix-with-itin"
 faqs:

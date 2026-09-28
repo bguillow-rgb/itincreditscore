@@ -16,8 +16,8 @@ category: "Credit Score"
 relatedSlugs:
   - "foreign-credit-history-itin-us-credit-score"
   - "fico-vs-vantagescore-itin-holders"
+  - "how-credit-scoring-works-with-itin"
   - "credit-monitoring-services-that-accept-itin-2026"
-  - "credit-monitoring-with-itin"
 faqs:
   - q: "Does Nova Credit give me a U.S. credit score?"
     a: "No. Credit Passport is used once, by one lender, at the time you apply. It does not report to Equifax, Experian, or TransUnion, and it does not create a U.S. credit file you keep and reuse. Your U.S. credit history only begins once you open and actively use a U.S. credit account that reports to the bureaus."

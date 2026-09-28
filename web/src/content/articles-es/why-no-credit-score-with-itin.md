@@ -16,8 +16,8 @@ category: "Puntaje de crédito"
 relatedSlugs:
   - "thin-credit-file-itin-holder"
   - "free-paid-services-check-credit-score-itin-2026"
+  - "check-credit-score-itin-every-method-verified-2026"
   - "fico-vs-vantagescore-itin-holders"
-  - "how-many-accounts-to-build-credit-score-itin"
 faqs:
   - q: "¿Puede un titular de ITIN tener puntaje de crédito?"
     a: "Sí. Los tres burós principales (Equifax, TransUnion, Experian) pueden crear y mantener un expediente de crédito con un ITIN. Una vez que cumples los requisitos mínimos de calificación, se genera un puntaje FICO o VantageScore de la misma manera que para un titular de SSN."

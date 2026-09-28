@@ -15,9 +15,9 @@ author: "Research Desk"
 category: "Puntaje de crédito"
 relatedSlugs:
   - "itin-credit-score-check-every-method-2026"
-  - "itin-credit-monitoring-free-score-services-compared"
   - "free-paid-services-check-credit-score-itin-2026"
-  - "how-to-check-credit-score-with-itin-free-paid-services"
+  - "check-credit-score-itin-every-method-verified-2026"
+  - "credit-monitoring-services-that-accept-itin-2026"
 faqs:
   - q: "¿Puedo revisar mi puntaje de crédito con un número ITIN?"
     a: "Sí. Varios servicios gratuitos y de pago aceptan un ITIN en lugar de un SSN para mostrarte tu puntaje de crédito. Los principales son myFICO, Credit Karma, Experian.com, True Finance y MyFreeScoreNow. Consultar tu propio puntaje siempre es una consulta suave (soft pull) y nunca lo afecta."
