@@ -74,6 +74,31 @@ const fullTitle =
     : title.length + brandSuffix.length <= TITLE_MAX
       ? `${title}${brandSuffix}`
       : title;
+
+// Descriptions get the same treatment (2026-09-29): Google cuts snippets at
+// roughly 160 characters, and the 2026-09-28 audit measured 114 of 168 live
+// pages over the cut (75 of 84 Spanish; worst 315). The generator caps NEW
+// articles at the source (lib/serp.mjs, 2026-09-22), but the live corpus
+// predates that fix, so trim at render: word boundary, then strip trailing
+// punctuation and dangling connectors (EN + ES) so the snippet reads like a
+// sentence that ends early, not a truncation.
+const DESC_MAX = 160;
+const DANGLING =
+  /\s+(and|or|but|with|without|for|from|to|of|in|on|at|by|the|a|an|y|o|con|sin|para|por|de|del|la|el|los|las|un|una|como|que)$/i;
+function fitDescription(d: string): string {
+  if (!d || d.length <= DESC_MAX) return d;
+  let cut = d.slice(0, DESC_MAX);
+  const sp = cut.lastIndexOf(' ');
+  if (sp > DESC_MAX * 0.6) cut = cut.slice(0, sp);
+  let prev;
+  do {
+    prev = cut;
+    cut = cut.replace(/[\s,;:.\-&/|+]+$/, '');
+    cut = cut.replace(DANGLING, '');
+  } while (cut !== prev && cut.length);
+  return cut;
+}
+const metaDescription = fitDescription(description);
 ---
 <!doctype html>
 <html lang={isEs ? 'es' : 'en'}>
@@ -82,7 +107,7 @@ const fullTitle =
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
     <title>{fullTitle}</title>
-    <meta name="description" content={description} />
+    <meta name="description" content={metaDescription} />
     <link rel="canonical" href={canonical} />
     <link rel="alternate" hreflang="en" href={enHref} />
     <link rel="alternate" hreflang="es" href={esHref} />
@@ -91,13 +116,13 @@ const fullTitle =
 
     <meta property="og:type" content="website" />
     <meta property="og:title" content={fullTitle} />
-    <meta property="og:description" content={description} />
+    <meta property="og:description" content={metaDescription} />
     <meta property="og:url" content={canonical} />
     <meta property="og:site_name" content={SITE.name} />
     <meta property="og:image" content={ogImageUrl} />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content={fullTitle} />
-    <meta name="twitter:description" content={description} />
+    <meta name="twitter:description" content={metaDescription} />
     <meta name="twitter:image" content={ogImageUrl} />
 
     <link rel="icon" href="/favicon.ico" sizes="any" />
