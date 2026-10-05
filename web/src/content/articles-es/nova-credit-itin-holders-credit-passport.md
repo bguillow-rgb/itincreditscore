@@ -17,7 +17,7 @@ relatedSlugs:
   - "foreign-credit-history-itin-us-credit-score"
   - "credit-score-car-insurance-rates-itin"
   - "credit-monitoring-services-that-accept-itin-2026"
-  - "can-you-have-a-credit-score-with-an-itin"
+  - "itin-credit-score-700-month-by-month-guide"
 faqs:
   - q: "¿Nova Credit me da un puntaje de crédito en EE. UU.?"
     a: "No. El Credit Passport se usa una sola vez, por un solo prestamista, en el momento en que haces tu solicitud. No reporta a Equifax, Experian ni TransUnion, y no crea un expediente crediticio en EE. UU. que puedas conservar y reutilizar. Tu historial crediticio en EE. UU. solo comienza cuando abres y usas activamente una cuenta de crédito en EE. UU. que reporte a los buróes."

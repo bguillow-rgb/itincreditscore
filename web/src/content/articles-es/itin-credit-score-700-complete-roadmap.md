@@ -14,10 +14,10 @@ publishedAt: "2026-09-07"
 author: "Editorial Team"
 category: "Puntaje de crédito"
 relatedSlugs:
+  - "itin-credit-score-700-month-by-month-guide"
   - "itin-700-credit-score-month-by-month-plan"
   - "700-credit-score-timeline-itin-holders"
   - "how-long-to-build-credit-with-itin"
-  - "itin-700-credit-score-fastest-path"
 faqs:
   - q: "¿Un titular de ITIN puede realmente llegar a un puntaje de crédito de 700?"
     a: "Sí. Los tres principales burós de crédito (Experian, Equifax, TransUnion) crean expedientes de crédito con un ITIN. Una vez que tienes al menos una cuenta reportando durante seis meses, se genera un puntaje FICO. Un 700 es completamente alcanzable dentro de 18-24 meses de uso responsable del crédito."

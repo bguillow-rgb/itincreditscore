@@ -16,8 +16,8 @@ category: "Credit Score"
 relatedSlugs:
   - "700-credit-score-timeline-itin-holders"
   - "itin-700-credit-score-month-by-month-plan"
+  - "itin-credit-score-700-month-by-month-guide"
   - "how-long-to-build-credit-with-itin"
-  - "itin-700-credit-score-realistic-timeline"
 faqs:
   - q: "Can an ITIN holder actually get a 700 credit score?"
     a: "Yes. All three major bureaus (Experian, Equifax, TransUnion) create credit files under an ITIN. Once you have at least one account reporting for six months, a FICO score is generated. A 700 is fully achievable within 18-24 months of responsible credit use."

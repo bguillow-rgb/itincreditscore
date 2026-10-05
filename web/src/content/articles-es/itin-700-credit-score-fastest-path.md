@@ -15,9 +15,9 @@ author: "Research Desk"
 category: "Puntaje de crédito"
 relatedSlugs:
   - "itin-credit-score-700-complete-roadmap"
+  - "itin-credit-score-700-month-by-month-guide"
   - "itin-700-credit-score-month-by-month-plan"
   - "itin-700-credit-score-realistic-timeline"
-  - "700-credit-score-timeline-itin-holders"
 faqs:
   - q: "¿Puede un titular de ITIN llegar realmente a un puntaje de crédito de 700?"
     a: "Sí. Los puntajes de crédito basados en ITIN usan exactamente los mismos modelos FICO y VantageScore que los basados en SSN. El plazo es idéntico al de cualquier persona que empieza desde cero en el historial crediticio de EE. UU. Tu condición de titular de ITIN no frena el proceso."
