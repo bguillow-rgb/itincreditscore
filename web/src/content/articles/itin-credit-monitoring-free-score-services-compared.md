@@ -16,8 +16,8 @@ category: "Credit Score"
 relatedSlugs:
   - "credit-monitoring-services-that-accept-itin-2026"
   - "itin-credit-score-check-every-method-2026"
+  - "itin-credit-monitoring-free-score-services-verified-2026"
   - "check-credit-score-itin-every-method-verified-2026"
-  - "how-to-check-credit-score-with-itin-free-paid-services"
 faqs:
   - q: "Can I check my credit score with an ITIN and no SSN?"
     a: "Yes. Multiple services accept an ITIN for identity verification, including myFICO's free plan, Experian.com, Credit Karma, NerdWallet, Discover Credit Scorecard, and specialty services like Kikoff and MyITINCredit. You need at least six months of reported credit history before most of these will display a score."

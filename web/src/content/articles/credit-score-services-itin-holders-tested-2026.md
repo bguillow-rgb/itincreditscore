@@ -14,10 +14,10 @@ publishedAt: "2026-08-31"
 author: "Research Desk"
 category: "Credit Score"
 relatedSlugs:
+  - "itin-credit-monitoring-free-score-services-verified-2026"
   - "itin-credit-score-check-every-method-2026"
   - "check-credit-score-itin-every-method-verified-2026"
   - "credit-monitoring-services-that-accept-itin-2026"
-  - "free-paid-services-check-credit-score-itin-2026"
 faqs:
   - q: "Can I check my credit score with an ITIN number?"
     a: "Yes. Several free and paid services accept an ITIN in place of an SSN to display your credit score. The main ones are myFICO, Credit Karma, Experian.com, True Finance, and MyFreeScoreNow. Checking your own score is always a soft pull and never hurts your score."
