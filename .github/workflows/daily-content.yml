@@ -9,8 +9,11 @@ on:
   # within a day and refuses to index them (3 of 3 refused the week of 9/14), so
   # volume was feeding an index that rejects it. Restore ',3,5' to go back to
   # 3x/week. To pause entirely, comment out the two schedule lines below.
-  schedule:
-    - cron: '0 13 * * 1' # 13:00 UTC Monday (flagship)
+  # PAUSED 2026-10-19 per owner (5th week of the audit asking): the 10/12 run
+  # published the same article under TWO slugs into a 1-URL index. Re-enable by
+  # uncommenting after the duplicate-family consolidation + re-indexing work.
+  # schedule:
+  #   - cron: '0 13 * * 1' # 13:00 UTC Monday (flagship)
   workflow_dispatch:
     inputs:
       tier:
