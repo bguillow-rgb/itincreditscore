@@ -16,7 +16,7 @@ category: "Credit Score"
 relatedSlugs:
   - "credit-monitoring-services-that-accept-itin-2026"
   - "itin-credit-score-check-every-method-2026"
-  - "itin-credit-monitoring-free-score-services-verified-2026"
+  - "itin-credit-monitoring-free-score-services-compared"
   - "check-credit-score-itin-every-method-verified-2026"
 faqs:
   - q: "Can I check my credit score with an ITIN and no SSN?"

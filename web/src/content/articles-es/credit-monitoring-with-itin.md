@@ -16,7 +16,7 @@ category: "Puntaje de Crédito"
 relatedSlugs:
   - "credit-monitoring-services-that-accept-itin-2026"
   - "credit-score-car-insurance-rates-itin"
-  - "itin-credit-monitoring-free-score-services-verified-2026"
+  - "itin-credit-monitoring-free-score-services-compared"
   - "itin-credit-monitoring-free-score-services-compared"
 faqs:
   - q: "¿Puedo usar Credit Karma para monitorear mi crédito con un ITIN?"

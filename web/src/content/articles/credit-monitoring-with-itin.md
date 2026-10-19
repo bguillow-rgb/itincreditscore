@@ -16,7 +16,7 @@ category: "Credit Score"
 relatedSlugs:
   - "credit-monitoring-services-that-accept-itin-2026"
   - "itin-credit-monitoring-free-score-services-compared"
-  - "itin-credit-monitoring-free-score-services-verified-2026"
+  - "itin-credit-monitoring-free-score-services-compared"
   - "itin-credit-score-check-every-method-2026"
 faqs:
   - q: "Can I use Credit Karma to monitor my credit with an ITIN?"

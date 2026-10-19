@@ -15,7 +15,7 @@ author: "Editorial Staff"
 category: "Puntaje de crédito"
 relatedSlugs:
   - "itin-credit-monitoring-free-score-services-compared"
-  - "itin-credit-monitoring-free-score-services-verified-2026"
+  - "itin-credit-monitoring-free-score-services-compared"
   - "700-credit-score-timeline-itin-holders"
   - "credit-age-itin-holders"
 faqs:

@@ -14,7 +14,7 @@ publishedAt: "2026-08-18"
 author: "Editorial Team"
 category: "Puntaje de Crédito"
 relatedSlugs:
-  - "itin-credit-monitoring-free-score-services-verified-2026"
+  - "itin-credit-monitoring-free-score-services-compared"
   - "itin-credit-monitoring-free-score-services-compared"
   - "credit-monitoring-with-itin"
   - "check-credit-score-itin-every-method-verified-2026"

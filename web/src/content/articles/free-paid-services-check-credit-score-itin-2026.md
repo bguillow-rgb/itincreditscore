@@ -16,7 +16,7 @@ category: "Credit Score"
 relatedSlugs:
   - "check-credit-score-itin-every-method-verified-2026"
   - "how-to-check-credit-score-with-itin-free-paid-services"
-  - "itin-credit-monitoring-free-score-services-verified-2026"
+  - "itin-credit-monitoring-free-score-services-compared"
   - "itin-credit-score-check-every-method-2026"
 faqs:
   - q: "Can I check my credit score online with an ITIN, or do I have to use mail?"

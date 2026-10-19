@@ -16,7 +16,7 @@ category: "Credit Score"
 relatedSlugs:
   - "fico-vs-vantagescore-itin-holders"
   - "how-credit-scoring-works-with-itin"
-  - "itin-credit-monitoring-free-score-services-verified-2026"
+  - "itin-credit-monitoring-free-score-services-compared"
   - "itin-credit-score-check-every-method-2026"
 faqs:
   - q: "Is it normal to have three different credit scores with an ITIN?"

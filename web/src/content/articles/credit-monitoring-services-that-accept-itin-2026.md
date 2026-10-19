@@ -15,7 +15,7 @@ author: "Editorial Team"
 category: "Credit Score"
 relatedSlugs:
   - "itin-credit-monitoring-free-score-services-compared"
-  - "itin-credit-monitoring-free-score-services-verified-2026"
+  - "itin-credit-monitoring-free-score-services-compared"
   - "itin-credit-score-check-every-method-2026"
   - "check-credit-score-itin-every-method-verified-2026"
 faqs:

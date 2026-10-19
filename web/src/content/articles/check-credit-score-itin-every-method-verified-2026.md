@@ -17,7 +17,7 @@ relatedSlugs:
   - "itin-credit-score-check-every-method-2026"
   - "free-paid-services-check-credit-score-itin-2026"
   - "credit-monitoring-services-that-accept-itin-2026"
-  - "itin-credit-monitoring-free-score-services-verified-2026"
+  - "itin-credit-monitoring-free-score-services-compared"
 faqs:
   - q: "Can I check my credit score with an ITIN instead of an SSN?"
     a: "Yes. Several free and paid services accept an ITIN for identity verification, including Experian.com, myEquifax Core Credit, myFICO's free plan, and Capital One CreditWise. Each pulls your score as a soft inquiry, so checking never lowers your score."

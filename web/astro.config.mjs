@@ -133,6 +133,11 @@ export default defineConfig({
   // — to capture credit-report intent on its own page instead of folding it into
   // the check-score page. Removed from the redirect map 2026-06-14.
   redirects: {
+    // 2026-10-19 consolidation (audit action 3, first cut): the 10/12 run
+    // published a near-duplicate of -compared under a second slug. 301 the
+    // twin into the original, EN + ES.
+    '/articles/itin-credit-monitoring-free-score-services-verified-2026': '/articles/itin-credit-monitoring-free-score-services-compared',
+    '/es/articles/itin-credit-monitoring-free-score-services-verified-2026': '/es/articles/itin-credit-monitoring-free-score-services-compared',
     '/f/understanding-itin-and-your-credit-score': '/itin-credit-score-guide',
     '/start-building-now': '/build-credit-history-with-itin',
     '/f/starting-your-credit-journey-with-an-itin': '/build-credit-history-with-itin',

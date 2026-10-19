@@ -15,7 +15,7 @@ author: "Research Desk"
 category: "Puntaje de crédito"
 relatedSlugs:
   - "credit-monitoring-services-that-accept-itin-2026"
-  - "itin-credit-monitoring-free-score-services-verified-2026"
+  - "itin-credit-monitoring-free-score-services-compared"
   - "itin-credit-score-check-every-method-2026"
   - "check-credit-score-itin-every-method-verified-2026"
 faqs:
