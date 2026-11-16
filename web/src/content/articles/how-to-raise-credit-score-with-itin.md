@@ -100,7 +100,7 @@ The timing rule most advisors suggest: wait at least six months after opening yo
 
 Not all three bureaus may track ITIN holders initially. Some may start after your first credit account. Apply for products that report to all three bureaus to build a complete credit file faster. This also means an error at one bureau may not appear at the others, so check all three separately.
 
-Request your free reports by mail using your ITIN as your identifier. Review every account listed, confirm the balances and payment status are accurate, and flag anything unfamiliar. Our guide on [how to get your credit report with an ITIN](/articles/how-to-check-credit-score-with-itin-number) covers the exact mail-in process for each bureau.
+Request your free reports by mail using your ITIN as your identifier. Review every account listed, confirm the balances and payment status are accurate, and flag anything unfamiliar. Our guide on [how to get your credit report with an ITIN](/check-credit-score-with-itin) covers the exact mail-in process for each bureau.
 
 ---
 

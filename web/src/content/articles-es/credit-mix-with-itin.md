@@ -108,7 +108,7 @@ Las tres principales agencias de crédito que registran el reporte de crédito d
 
 Por eso vale la pena confirmar, antes de abrir cualquier cuenta, que el prestamista reporta a las tres agencias. Un préstamo para construir crédito o una tarjeta asegurada que solo reporta a una agencia todavía ayuda a ese archivo, pero aporta menos beneficio que un producto que reporta en todos lados. Confirma que el emisor reporta a las tres agencias de crédito para maximizar el impacto en tu puntaje.
 
-Puedes revisar tus archivos en las tres agencias siguiendo el proceso en nuestra [guía para revisar tu reporte de crédito con un ITIN](/es/articles/how-to-check-credit-score-with-itin-number). Una vez que puedas ver los tres reportes, sabrás exactamente qué cuentas aparecen en cada uno y si tu mezcla de crédito está siendo reconocida de forma consistente.
+Puedes revisar tus archivos en las tres agencias siguiendo el proceso en nuestra [guía para revisar tu reporte de crédito con un ITIN](/es/check-credit-score-with-itin). Una vez que puedas ver los tres reportes, sabrás exactamente qué cuentas aparecen en cada uno y si tu mezcla de crédito está siendo reconocida de forma consistente.
 
 ## ¿Qué pasa con Compra Ahora Paga Después y otros tipos de cuentas más nuevos?
 

@@ -108,7 +108,7 @@ The three major credit bureaus that track ITIN credit score bureau reporting are
 
 This is why it is worth confirming, before you open any account, that the lender reports to all three bureaus. A credit-builder loan or secured card that only reports to one bureau still helps that one file, but it provides less benefit than a product that reports everywhere. Confirm that the issuer reports to all three credit bureaus to maximize the impact on your credit score.
 
-You can check your files at all three bureaus by following the process in our [guide to checking your credit report with an ITIN](/articles/how-to-check-credit-score-with-itin-number). Once you can see all three reports, you will know exactly which accounts are appearing where and whether your credit mix is being recognized consistently.
+You can check your files at all three bureaus by following the process in our [guide to checking your credit report with an ITIN](/check-credit-score-with-itin). Once you can see all three reports, you will know exactly which accounts are appearing where and whether your credit mix is being recognized consistently.
 
 ## What about Buy Now Pay Later and other newer account types?
 

@@ -17,7 +17,6 @@ relatedSlugs:
   - "credit-monitoring-services-that-accept-itin-2026"
   - "itin-credit-monitoring-free-score-services-compared"
   - "itin-credit-monitoring-free-score-services-compared"
-  - "itin-credit-score-check-every-method-2026"
 faqs:
   - q: "Can I use Credit Karma to monitor my credit with an ITIN?"
     a: "Yes. Credit Karma accepts ITINs at signup and provides VantageScore 3.0 scores sourced from TransUnion and Equifax, along with credit monitoring alerts. Some ITIN holders report needing to enter their ITIN in the SSN field during registration. If the online flow fails, contacting Credit Karma support usually resolves the issue."
@@ -91,7 +90,7 @@ The only inquiries that affect your score are hard inquiries, which occur when a
 
 ## How is credit monitoring different from simply pulling my credit report?
 
-Pulling your credit report is a one-time snapshot. Credit monitoring is continuous. When you [request your credit report by mail](/articles/how-to-check-credit-score-with-itin-number) from each bureau, you receive a detailed picture of your file at that exact moment. That snapshot is valuable and you should do it at least annually.
+Pulling your credit report is a one-time snapshot. Credit monitoring is continuous. When you [request your credit report by mail](/check-credit-score-with-itin) from each bureau, you receive a detailed picture of your file at that exact moment. That snapshot is valuable and you should do it at least annually.
 
 Monitoring, by contrast, watches your file on an ongoing basis and sends you an alert whenever something changes. Think of the report as a photograph and monitoring as a security camera. For ITIN holders who are actively building credit, both tools serve different purposes. Pull your full reports once or twice a year to review every line item carefully, and rely on a monitoring service in between to catch anything unusual as it happens.
 

@@ -63,7 +63,7 @@ A "no credit file" message means the bureau has zero records linked to your ITIN
 
 A "no score available" message means the bureau does have a file for you, but it doesn't yet meet the minimum requirements to generate a number. If you've established a modest credit history, you will likely see a numeric score eventually; if not, the bureau may return "no score available" or present a limited view that only reflects the few accounts it can locate.
 
-The practical difference: if you are "no file," your first task is to get any reporting account open. If you are "no score," your accounts exist but are either too new, too few, or not meeting the activity requirement. Check your actual credit report (not just the score tab) to confirm which situation applies. Our guide on [how to get your free credit report with an ITIN](/articles/how-to-check-credit-score-with-itin-number) walks through requesting all three bureau reports step by step.
+The practical difference: if you are "no file," your first task is to get any reporting account open. If you are "no score," your accounts exist but are either too new, too few, or not meeting the activity requirement. Check your actual credit report (not just the score tab) to confirm which situation applies. Our guide on [how to get your free credit report with an ITIN](/check-credit-score-with-itin) walks through requesting all three bureau reports step by step.
 
 ## Does FICO or VantageScore score ITIN holders faster?
 

@@ -71,7 +71,7 @@ As a general rule, any account where you are the primary account holder and the 
 
 Yes. Expiration does not delete anything. The bureaus hold data using a combination of your full name, date of birth, current and previous addresses, and the ITIN on file. Your existing credit history stays attached to your profile even while the ITIN is in expired status.
 
-This is also why you can still check your credit report during an expiration period. You can request your report from Equifax, Experian, and TransUnion using your existing ITIN because the bureaus will match your identity through those other data points. Our guide to [how to get your free credit report with an ITIN](/articles/how-to-check-credit-score-with-itin-number) walks through the exact steps for each bureau.
+This is also why you can still check your credit report during an expiration period. You can request your report from Equifax, Experian, and TransUnion using your existing ITIN because the bureaus will match your identity through those other data points. Our guide to [how to get your free credit report with an ITIN](/check-credit-score-with-itin) walks through the exact steps for each bureau.
 
 Similarly, any credit history you built under your ITIN before expiration counts in your favor the moment you renew and new activity resumes. Your [credit age](/articles/credit-age-itin-holders), payment history, and credit mix all carry forward.
 

@@ -73,7 +73,7 @@ Enrollment is straightforward, but have a few documents ready before you start.
 
 **Step 4: Verify your rental history.** For bank-linking services, you connect your checking account and the platform reads recurring rent transfers. For landlord-verification services, your landlord confirms the payment details. Either way, that data becomes part of your credit file once the bureau accepts it.
 
-**Step 5: Monitor your credit report.** Check the bureaus the service reports to, typically within 30-45 days of enrollment. You can pull your reports for free at AnnualCreditReport.com using your ITIN. Our guide on [how to check your credit score with an ITIN](/articles/how-to-check-credit-score-with-itin-number) walks through that process in detail.
+**Step 5: Monitor your credit report.** Check the bureaus the service reports to, typically within 30-45 days of enrollment. You can pull your reports for free at AnnualCreditReport.com using your ITIN. Our guide on [how to check your credit score with an ITIN](/check-credit-score-with-itin) walks through that process in detail.
 
 ## How much can rent reporting actually raise my ITIN credit score?
 

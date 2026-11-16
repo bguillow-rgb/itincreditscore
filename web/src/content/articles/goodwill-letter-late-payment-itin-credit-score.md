@@ -82,7 +82,7 @@ For a step-by-step framework because most templates online assume an SSN holder 
 
 The structure below is adapted for ITIN holders. Your ITIN status is not something you need to hide or explain in the letter; it is irrelevant to the creditor's decision. What matters is your relationship with that account.
 
-Step 1: Gather the facts first. Pull your credit report from the relevant bureau (Experian, Equifax, or TransUnion) and note the exact date of the late payment, the account number, and how many months you have been current since. You can pull your reports free at AnnualCreditReport.com even with an ITIN. See our full guide on [how to get your free credit report with an ITIN](/articles/how-to-check-credit-score-with-itin-number) for the exact steps.
+Step 1: Gather the facts first. Pull your credit report from the relevant bureau (Experian, Equifax, or TransUnion) and note the exact date of the late payment, the account number, and how many months you have been current since. You can pull your reports free at AnnualCreditReport.com even with an ITIN. See our full guide on [how to get your free credit report with an ITIN](/check-credit-score-with-itin) for the exact steps.
 
 Step 2: Address the right person. Send the letter via certified mail directly to the original creditor, not to the credit bureaus. If you can find the name of the creditor's credit reporting department or executive customer relations team, use it. A named contact gets more attention than a generic address.
 

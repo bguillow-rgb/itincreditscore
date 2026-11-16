@@ -98,7 +98,7 @@ In documents, expect to provide:
 - Recent pay stubs or two years of tax returns if self-employed
 - Bank statements for 2-3 months
 
-You will only be able to help if you have good credit, which corresponds to a FICO Score of at least 670. Some credit unions work with cosigners slightly below that threshold using their own internal scoring models, but 670 is a reasonable benchmark before agreeing to cosign anything. If you are not sure where your score stands, checking your credit report with an ITIN-compatible service is the right first step. See our guide on [how to check your credit score with an ITIN](/articles/how-to-check-credit-score-with-itin-number) if you have not done that yet.
+You will only be able to help if you have good credit, which corresponds to a FICO Score of at least 670. Some credit unions work with cosigners slightly below that threshold using their own internal scoring models, but 670 is a reasonable benchmark before agreeing to cosign anything. If you are not sure where your score stands, checking your credit report with an ITIN-compatible service is the right first step. See our guide on [how to check your credit score with an ITIN](/check-credit-score-with-itin) if you have not done that yet.
 
 ## What if I need someone to cosign FOR me? How does that build my credit?
 

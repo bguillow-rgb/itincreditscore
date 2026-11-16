@@ -100,7 +100,7 @@ La regla de tiempo que sugieren la mayoría de los asesores: espera al menos sei
 
 Es posible que las tres agencias no tengan un expediente del titular de ITIN desde el principio. Algunas pueden comenzar a rastrearlo después de tu primera cuenta de crédito. Solicita productos que reporten a las tres agencias para construir un expediente de crédito completo más rápido. Esto también significa que un error en una agencia puede no aparecer en las otras, por lo que debes revisar las tres por separado.
 
-Solicita tus reportes gratuitos por correo usando tu ITIN como identificador. Revisa cada cuenta listada, confirma que los saldos y el estado de pagos sean correctos, y marca todo lo que no reconozcas. Nuestra guía sobre [cómo obtener tu reporte de crédito con un ITIN](/es/articles/how-to-check-credit-score-with-itin-number) explica exactamente el proceso por correo para cada agencia.
+Solicita tus reportes gratuitos por correo usando tu ITIN como identificador. Revisa cada cuenta listada, confirma que los saldos y el estado de pagos sean correctos, y marca todo lo que no reconozcas. Nuestra guía sobre [cómo obtener tu reporte de crédito con un ITIN](/es/check-credit-score-with-itin) explica exactamente el proceso por correo para cada agencia.
 
 ---
 

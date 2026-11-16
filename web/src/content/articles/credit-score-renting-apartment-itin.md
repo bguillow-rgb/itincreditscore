@@ -117,7 +117,7 @@ Applying to several rentals within a short timeframe can minimize the impact on 
 
 Here is a consolidated action checklist, ordered by impact on your rental application:
 
-1. **Check your credit report first.** Request reports from all three bureaus to confirm what a landlord will actually see. Our [guide to getting your free credit report with an ITIN](/articles/how-to-check-credit-score-with-itin-number) shows the mail-in process for each bureau.
+1. **Check your credit report first.** Request reports from all three bureaus to confirm what a landlord will actually see. Our [guide to getting your free credit report with an ITIN](/check-credit-score-with-itin) shows the mail-in process for each bureau.
 2. **Dispute any errors.** Even one incorrect late payment can push you below a landlord's threshold. The [dispute guide for ITIN holders](/articles/how-to-dispute-credit-report-errors-with-itin) covers the process.
 3. **Enroll in rent reporting.** If you are already paying rent on time, get that history onto your credit file before your next application.
 4. **Reduce credit card balances.** Paying down any existing revolving balances before apartment hunting can produce a measurable score increase in the same billing cycle.

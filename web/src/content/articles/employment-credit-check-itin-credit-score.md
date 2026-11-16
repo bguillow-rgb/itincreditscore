@@ -42,7 +42,7 @@ No. Employer credit checks are soft inquiries, which means they do not affect yo
 
 Soft inquiries are not invisible to you, though. If you request a personal copy of your credit report, you will see them listed. What you will not see is other employers' inquiries, and neither will they. Applying to ten jobs in one month does not create ten visible pulls that signal anything to future lenders. That is a meaningful difference from applying for ten credit cards in the same period, which would generate hard inquiries and could lower your score noticeably.
 
-If you want to see what your file looks like before a job search, our guide to [how to check your credit score with an ITIN](/articles/how-to-check-credit-score-with-itin-number) walks through every option.
+If you want to see what your file looks like before a job search, our guide to [how to check your credit score with an ITIN](/check-credit-score-with-itin) walks through every option.
 
 ---
 

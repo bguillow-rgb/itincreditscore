@@ -42,7 +42,7 @@ La respuesta es clara. Las tres agencias principales, Experian, Equifax y TransU
 
 Según el informe de Experian de 2026, el IRS ha emitido más de 27 millones de ITIN desde 1996, y esos titulares son un segmento reconocido y en crecimiento de los consumidores de crédito en Estados Unidos. Una vez que existe un archivo de crédito bajo tu ITIN, funciona exactamente igual que uno basado en un SSN para el cálculo del puntaje. Los modelos de calificación, ya sea FICO o VantageScore, no saben ni les importa qué tipo de número de identificación fiscal ancla tu archivo. Leen los datos que tus prestamistas han reportado y ejecutan el mismo algoritmo.
 
-Sí existe una diferencia práctica: el método de acceso. Los titulares de SSN pueden consultar sus reportes de forma inmediata en AnnualCreditReport.com, pero los titulares de ITIN generalmente necesitan contactar a cada agencia directamente por correo o por teléfono. El archivo y el puntaje en sí son equivalentes; solo el proceso de consulta es diferente. Puedes aprender más sobre eso en nuestra guía sobre [cómo obtener tu reporte de crédito gratuito con un ITIN](/es/articles/how-to-check-credit-score-with-itin-number).
+Sí existe una diferencia práctica: el método de acceso. Los titulares de SSN pueden consultar sus reportes de forma inmediata en AnnualCreditReport.com, pero los titulares de ITIN generalmente necesitan contactar a cada agencia directamente por correo o por teléfono. El archivo y el puntaje en sí son equivalentes; solo el proceso de consulta es diferente. Puedes aprender más sobre eso en nuestra guía sobre [cómo obtener tu reporte de crédito gratuito con un ITIN](/es/check-credit-score-with-itin).
 
 ## ¿Cómo construyen las agencias un archivo de crédito con mi ITIN?
 

@@ -117,7 +117,7 @@ Aplicar a varios alquileres en un período corto puede minimizar el impacto en t
 
 Aquí tienes una lista de acciones consolidadas, ordenadas por impacto en tu solicitud de alquiler:
 
-1. **Revisa primero tu reporte de crédito.** Solicita reportes de las tres agencias para confirmar qué verá un arrendador. Nuestra [guía para obtener tu reporte de crédito gratuito con ITIN](/es/articles/how-to-check-credit-score-with-itin-number) muestra el proceso por correo para cada agencia.
+1. **Revisa primero tu reporte de crédito.** Solicita reportes de las tres agencias para confirmar qué verá un arrendador. Nuestra [guía para obtener tu reporte de crédito gratuito con ITIN](/es/check-credit-score-with-itin) muestra el proceso por correo para cada agencia.
 2. **Disputa cualquier error.** Incluso un pago atrasado incorrecto puede bajarte por debajo del límite de un arrendador. La [guía de disputas para titulares de ITIN](/es/articles/how-to-dispute-credit-report-errors-with-itin) explica el proceso.
 3. **Inscríbete en el reporte de alquiler.** Si ya estás pagando el alquiler a tiempo, incorpora ese historial a tu archivo de crédito antes de tu próxima solicitud.
 4. **Reduce los saldos de tarjetas de crédito.** Pagar los saldos revolventes existentes antes de buscar apartamento puede producir un aumento medible en el puntaje dentro del mismo ciclo de facturación.

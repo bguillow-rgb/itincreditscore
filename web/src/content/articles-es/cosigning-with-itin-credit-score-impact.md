@@ -98,7 +98,7 @@ En cuanto a documentos, espera presentar:
 - Talones de pago recientes o dos años de declaraciones de impuestos si eres trabajador independiente
 - Estados de cuenta bancarios de 2 a 3 meses
 
-Solo podrás ayudar si tienes buen crédito, lo que equivale a un puntaje FICO de al menos 670. Algunas cooperativas de crédito trabajan con cofirmantes ligeramente por debajo de ese umbral usando sus propios modelos internos de calificación, pero 670 es un punto de referencia razonable antes de aceptar ser cofirmante en cualquier préstamo. Si no estás seguro de cómo está tu puntaje, consultar tu reporte de crédito con un servicio compatible con ITIN es el primer paso correcto. Consulta nuestra guía sobre [cómo verificar tu puntaje de crédito con un ITIN](/es/articles/how-to-check-credit-score-with-itin-number) si aún no lo has hecho.
+Solo podrás ayudar si tienes buen crédito, lo que equivale a un puntaje FICO de al menos 670. Algunas cooperativas de crédito trabajan con cofirmantes ligeramente por debajo de ese umbral usando sus propios modelos internos de calificación, pero 670 es un punto de referencia razonable antes de aceptar ser cofirmante en cualquier préstamo. Si no estás seguro de cómo está tu puntaje, consultar tu reporte de crédito con un servicio compatible con ITIN es el primer paso correcto. Consulta nuestra guía sobre [cómo verificar tu puntaje de crédito con un ITIN](/es/check-credit-score-with-itin) si aún no lo has hecho.
 
 ## ¿Y si necesito que alguien sea cofirmante PARA MÍ? ¿Cómo construye eso mi crédito?
 

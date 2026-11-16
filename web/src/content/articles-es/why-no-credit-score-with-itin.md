@@ -16,7 +16,6 @@ category: "Puntaje de crédito"
 relatedSlugs:
   - "thin-credit-file-itin-holder"
   - "free-paid-services-check-credit-score-itin-2026"
-  - "check-credit-score-itin-every-method-verified-2026"
   - "fico-vs-vantagescore-itin-holders"
 faqs:
   - q: "¿Puede un titular de ITIN tener puntaje de crédito?"
@@ -63,7 +62,7 @@ Un mensaje de "sin expediente de crédito" significa que el buró no tiene ning�
 
 Un mensaje de "puntaje no disponible" significa que el buró sí tiene un expediente tuyo, pero aún no cumple los requisitos mínimos para generar un número. Si ya tienes un historial de crédito modesto, es probable que con el tiempo veas un puntaje numérico; si no, el buró puede devolver "puntaje no disponible" o mostrar una vista limitada que solo refleja las pocas cuentas que puede encontrar.
 
-La diferencia práctica: si estás en "sin expediente", tu primera tarea es abrir cualquier cuenta reportada. Si estás en "sin puntaje", tus cuentas existen pero son demasiado nuevas, muy pocas o no cumplen el requisito de actividad. Revisa tu reporte de crédito real (no solo la pestaña del puntaje) para confirmar cuál situación aplica. Nuestra guía sobre [cómo obtener tu reporte de crédito gratuito con un ITIN](/es/articles/how-to-check-credit-score-with-itin-number) explica paso a paso cómo solicitar los reportes de los tres burós.
+La diferencia práctica: si estás en "sin expediente", tu primera tarea es abrir cualquier cuenta reportada. Si estás en "sin puntaje", tus cuentas existen pero son demasiado nuevas, muy pocas o no cumplen el requisito de actividad. Revisa tu reporte de crédito real (no solo la pestaña del puntaje) para confirmar cuál situación aplica. Nuestra guía sobre [cómo obtener tu reporte de crédito gratuito con un ITIN](/es/check-credit-score-with-itin) explica paso a paso cómo solicitar los reportes de los tres burós.
 
 ## ¿FICO o VantageScore califican más rápido a los titulares de ITIN?
 

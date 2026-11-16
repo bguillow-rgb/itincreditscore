@@ -17,7 +17,6 @@ relatedSlugs:
   - "itin-credit-monitoring-free-score-services-compared"
   - "itin-credit-monitoring-free-score-services-compared"
   - "credit-monitoring-with-itin"
-  - "check-credit-score-itin-every-method-verified-2026"
 faqs:
   - q: "¿Puedo revisar mi puntaje de crédito con un ITIN en lugar de un SSN?"
     a: "Sí. Varios servicios gratuitos y de pago aceptan un ITIN para acceder al puntaje de crédito, entre ellos myEquifax (VantageScore 3.0 gratis), Experian.com (FICO 8 gratis) y Capital One CreditWise (FICO 8 gratis de TransUnion). El requisito principal es tener al menos una cuenta que ya esté reportando a los burós bajo tu ITIN."

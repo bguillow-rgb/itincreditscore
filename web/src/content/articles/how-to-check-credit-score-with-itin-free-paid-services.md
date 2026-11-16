@@ -15,8 +15,6 @@ author: "Editorial Staff"
 category: "Credit Score"
 relatedSlugs:
   - "free-paid-services-check-credit-score-itin-2026"
-  - "itin-credit-score-check-every-method-2026"
-  - "check-credit-score-itin-every-method-verified-2026"
   - "itin-credit-monitoring-free-score-services-compared"
 faqs:
   - q: "Can I check my credit score with an ITIN instead of an SSN?"

@@ -73,7 +73,7 @@ El proceso de inscripción es sencillo, pero ten a la mano algunos documentos an
 
 **Paso 4: Verifica tu historial de renta.** Con los servicios que se conectan a tu banco, vinculas tu cuenta de cheques y la plataforma identifica las transferencias recurrentes de renta. Con los servicios que requieren verificación del arrendador, él confirma los detalles de pago. De cualquier forma, esos datos pasan a formar parte de tu expediente de crédito una vez que el buró los acepta.
 
-**Paso 5: Monitorea tu reporte de crédito.** Consulta los burós a los que reporta el servicio, generalmente dentro de los primeros 30 a 45 días después de inscribirte. Puedes obtener tus reportes gratis en AnnualCreditReport.com usando tu ITIN. Nuestra guía sobre [cómo verificar tu puntaje de crédito con un ITIN](/es/articles/how-to-check-credit-score-with-itin-number) explica ese proceso en detalle.
+**Paso 5: Monitorea tu reporte de crédito.** Consulta los burós a los que reporta el servicio, generalmente dentro de los primeros 30 a 45 días después de inscribirte. Puedes obtener tus reportes gratis en AnnualCreditReport.com usando tu ITIN. Nuestra guía sobre [cómo verificar tu puntaje de crédito con un ITIN](/es/check-credit-score-with-itin) explica ese proceso en detalle.
 
 ## ¿Cuánto puede subir mi puntaje de crédito con ITIN gracias al reporte de renta?
 

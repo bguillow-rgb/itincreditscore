@@ -42,7 +42,7 @@ No. Las verificaciones de crédito de empleadores son consultas suaves, lo que s
 
 Las consultas suaves no son invisibles para ti, sin embargo. Si solicitas una copia personal de tu reporte de crédito, las verás listadas. Lo que no verás son las consultas de otros empleadores, y ellos tampoco verán las tuyas. Postularte a diez trabajos en un mes no genera diez consultas visibles que alerten a futuros prestamistas. Esa es una diferencia importante con respecto a solicitar diez tarjetas de crédito en el mismo período, lo cual sí generaría consultas duras y podría bajar tu puntaje de forma notable.
 
-Si quieres ver cómo luce tu archivo antes de buscar empleo, nuestra guía sobre [cómo revisar tu puntaje de crédito con un ITIN](/es/articles/how-to-check-credit-score-with-itin-number) explica todas las opciones disponibles.
+Si quieres ver cómo luce tu archivo antes de buscar empleo, nuestra guía sobre [cómo revisar tu puntaje de crédito con un ITIN](/es/check-credit-score-with-itin) explica todas las opciones disponibles.
 
 ---
 

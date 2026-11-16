@@ -73,7 +73,7 @@ You need to review your credit reports from all three bureaus: Experian, Equifax
 
 As an ITIN holder you can request your reports through AnnualCreditReport.com. Since 2023, all three bureaus have offered free weekly report access, not just the annual report most people know about. Once you have them, look for sections labeled "negative accounts," "collections," or "public records." That is where late payments, charge-offs, bankruptcies, and other derogatory marks will appear.
 
-For a full walkthrough of how to pull all three reports using your ITIN, see [How to Get Your Free Credit Report With an ITIN](/articles/how-to-check-credit-score-with-itin-number).
+For a full walkthrough of how to pull all three reports using your ITIN, see [How to Get Your Free Credit Report With an ITIN](/check-credit-score-with-itin).
 
 ## Can I remove a derogatory mark before the seven years are up?
 

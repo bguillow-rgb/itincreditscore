@@ -107,4 +107,4 @@ Mantenerse invisible evitando el crédito por completo significa que no puedes a
 
 Según el informe de Experian de febrero de 2026, el 76.9% de los titulares de ITIN se mantuvieron al corriente en sus cuentas después de 12 meses, una tasa 15% más alta que la de los consumidores con SSN. Como grupo, los titulares de ITIN son prestatarios responsables. Construir crédito es seguro y estratégicamente inteligente.
 
-Si aún no has verificado si ya tienes un expediente de crédito, comienza con nuestra guía sobre [cómo obtener tu reporte de crédito gratuito con un ITIN](/es/articles/how-to-check-credit-score-with-itin-number) para saber en qué punto estás hoy.
+Si aún no has verificado si ya tienes un expediente de crédito, comienza con nuestra guía sobre [cómo obtener tu reporte de crédito gratuito con un ITIN](/es/check-credit-score-with-itin) para saber en qué punto estás hoy.

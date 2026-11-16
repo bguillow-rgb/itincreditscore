@@ -42,7 +42,7 @@ The answer is clear. All three major bureaus, Experian, Equifax, and TransUnion,
 
 According to Experian's 2026 white paper, the IRS has issued more than 27 million ITINs since 1996, and those holders are a recognized, growing segment of U.S. credit consumers. Once a credit file exists under your ITIN, it works exactly like an SSN-based file for score calculation. The scoring models themselves, whether FICO or VantageScore, do not know or care which type of tax identification number anchors your file. They read the data your lenders have reported and run the same algorithm.
 
-One practical difference does exist: the access method. SSN holders can pull reports instantly at AnnualCreditReport.com, but ITIN holders typically need to contact each bureau directly by mail or phone. The underlying file and score are equivalent; only the retrieval process differs. You can learn more about that in our guide on [how to get your free credit report with an ITIN](/articles/how-to-check-credit-score-with-itin-number).
+One practical difference does exist: the access method. SSN holders can pull reports instantly at AnnualCreditReport.com, but ITIN holders typically need to contact each bureau directly by mail or phone. The underlying file and score are equivalent; only the retrieval process differs. You can learn more about that in our guide on [how to get your free credit report with an ITIN](/check-credit-score-with-itin).
 
 ## How do the bureaus actually build a credit file around my ITIN?
 

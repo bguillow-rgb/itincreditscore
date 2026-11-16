@@ -82,7 +82,7 @@ Por una guía paso a paso, ya que la mayoría de las plantillas en línea asumen
 
 La estructura a continuación está adaptada para titulares de ITIN. Tu condición de titular de ITIN no es algo que debas ocultar ni explicar en la carta; es irrelevante para la decisión del acreedor. Lo que importa es tu relación con esa cuenta.
 
-Paso 1: Reúne los datos primero. Obtén tu reporte de crédito de la agencia correspondiente (Experian, Equifax o TransUnion) y anota la fecha exacta del pago tardío, el número de cuenta y cuántos meses llevas pagando puntualmente desde entonces. Puedes obtener tus reportes gratis en AnnualCreditReport.com incluso con un ITIN. Consulta nuestra guía completa sobre [cómo obtener tu reporte de crédito gratis con ITIN](/es/articles/how-to-check-credit-score-with-itin-number) para los pasos exactos.
+Paso 1: Reúne los datos primero. Obtén tu reporte de crédito de la agencia correspondiente (Experian, Equifax o TransUnion) y anota la fecha exacta del pago tardío, el número de cuenta y cuántos meses llevas pagando puntualmente desde entonces. Puedes obtener tus reportes gratis en AnnualCreditReport.com incluso con un ITIN. Consulta nuestra guía completa sobre [cómo obtener tu reporte de crédito gratis con ITIN](/es/check-credit-score-with-itin) para los pasos exactos.
 
 Paso 2: Dirige la carta a la persona correcta. Envía la carta por correo certificado directamente al acreedor original, no a las agencias de crédito. Si puedes encontrar el nombre del departamento de reporte de crédito del acreedor o del equipo de relaciones con el cliente ejecutivo, úsalo. Un contacto con nombre recibe más atención que una dirección genérica.
 

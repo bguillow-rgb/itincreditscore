@@ -71,7 +71,7 @@ Como regla general, cualquier cuenta en la que tú eres el titular principal y e
 
 Sí. El vencimiento no borra nada. Las agencias conservan los datos usando una combinación de tu nombre completo, fecha de nacimiento, direcciones actuales y anteriores, y el ITIN registrado. Tu historial de crédito existente permanece vinculado a tu perfil incluso mientras el ITIN está vencido.
 
-Por eso también puedes consultar tu reporte de crédito durante el período de vencimiento. Puedes solicitar tu reporte a Equifax, Experian y TransUnion usando tu ITIN existente, porque las agencias verificarán tu identidad a través de esos otros datos. Nuestra guía sobre [cómo obtener tu reporte de crédito gratis con un ITIN](/es/articles/how-to-check-credit-score-with-itin-number) explica paso a paso el proceso para cada agencia.
+Por eso también puedes consultar tu reporte de crédito durante el período de vencimiento. Puedes solicitar tu reporte a Equifax, Experian y TransUnion usando tu ITIN existente, porque las agencias verificarán tu identidad a través de esos otros datos. Nuestra guía sobre [cómo obtener tu reporte de crédito gratis con un ITIN](/es/check-credit-score-with-itin) explica paso a paso el proceso para cada agencia.
 
 Del mismo modo, todo el historial crediticio que construiste con tu ITIN antes del vencimiento cuenta a tu favor en el momento en que lo renueves y retome la nueva actividad. Tu [antigüedad de crédito](/es/articles/credit-age-itin-holders), historial de pagos y combinación de crédito se mantienen intactos.
 

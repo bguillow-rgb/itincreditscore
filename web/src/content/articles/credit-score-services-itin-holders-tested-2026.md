@@ -15,8 +15,6 @@ author: "Research Desk"
 category: "Credit Score"
 relatedSlugs:
   - "itin-credit-monitoring-free-score-services-compared"
-  - "itin-credit-score-check-every-method-2026"
-  - "check-credit-score-itin-every-method-verified-2026"
   - "credit-monitoring-services-that-accept-itin-2026"
 faqs:
   - q: "Can I check my credit score with an ITIN number?"
@@ -177,7 +175,7 @@ A "no score available" result is almost always a file-thickness problem, not a s
 
 Two things must be true before any scoring model can generate a number. First, you need at least one account that has been open and reporting to that specific bureau for roughly six months. Second, that account must not be more than six months past its last activity date. If either condition fails, the model can't score your file.
 
-The fix is to add a reporting tradeline and wait. The fastest ways to do this are a [credit builder loan](/articles/credit-builder-loan-with-itin) (which reports to all three bureaus from day one) or being [added as an authorized user](/articles/authorized-user-credit-building-itin) on someone else's established account. Once you have six months of positive payment history reporting, go back to myFICO or Experian.com and try again. If you already have accounts open but still see no score, it's worth [checking your credit report directly](/articles/how-to-check-credit-score-with-itin-number) to confirm your accounts are actually being reported under your ITIN and not left unlinked.
+The fix is to add a reporting tradeline and wait. The fastest ways to do this are a [credit builder loan](/articles/credit-builder-loan-with-itin) (which reports to all three bureaus from day one) or being [added as an authorized user](/articles/authorized-user-credit-building-itin) on someone else's established account. Once you have six months of positive payment history reporting, go back to myFICO or Experian.com and try again. If you already have accounts open but still see no score, it's worth [checking your credit report directly](/check-credit-score-with-itin) to confirm your accounts are actually being reported under your ITIN and not left unlinked.
 
 In practice, Experian's Free Credit Score service and TransUnion's CreditView will produce a score if your ITIN has enough tradeline activity, whereas Equifax tends to limit score access to paid subscriptions or to businesses that have explicitly opted into ITIN-based reporting. This is why myFICO's free plan (Equifax FICO 8) and Credit Karma's ITIN-compatible flow (also Equifax) are particularly valuable: they access Equifax through a data-sharing agreement that bypasses the direct Equifax portal restriction.
 

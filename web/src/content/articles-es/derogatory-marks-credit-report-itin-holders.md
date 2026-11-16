@@ -73,7 +73,7 @@ Necesitas revisar tus reportes de crédito en las tres agencias: Experian, Equif
 
 Como titular de ITIN puedes solicitar tus reportes a través de AnnualCreditReport.com. Desde 2023, las tres agencias ofrecen acceso semanal gratuito a los reportes, no solo el informe anual que la mayoría conoce. Una vez que los tengas, busca las secciones con etiquetas como "cuentas negativas", "cobros" o "registros públicos". Ahí es donde aparecerán los pagos tardíos, cancelaciones de deuda, bancarrotas y otras marcas negativas.
 
-Para una guía paso a paso sobre cómo obtener los tres reportes usando tu ITIN, consulta [Cómo obtener tu reporte de crédito gratuito con un ITIN](/es/articles/how-to-check-credit-score-with-itin-number).
+Para una guía paso a paso sobre cómo obtener los tres reportes usando tu ITIN, consulta [Cómo obtener tu reporte de crédito gratuito con un ITIN](/es/check-credit-score-with-itin).
 
 ## ¿Puedo eliminar una marca negativa antes de que pasen los siete años?
 

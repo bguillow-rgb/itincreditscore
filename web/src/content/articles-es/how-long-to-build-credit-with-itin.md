@@ -93,7 +93,7 @@ Según el informe de Experian de 2026, el IRS ha emitido más de 27 millones de 
 | Equifax | Cuenta myEquifax (ingresando el ITIN) o por correo | El portal en línea frecuentemente funciona; hasta 6 reportes gratuitos por año |
 | TransUnion | Chat en vivo o por correo | Los agentes de chat pueden iniciar un reporte enviado por correo sin necesidad de que envíes documentos |
 
-Para una guía completa sobre cómo obtener tus reportes de cada buró, consulta nuestra guía sobre [cómo revisar tu puntaje crediticio con un ITIN](/es/articles/how-to-check-credit-score-with-itin-number).
+Para una guía completa sobre cómo obtener tus reportes de cada buró, consulta nuestra guía sobre [cómo revisar tu puntaje crediticio con un ITIN](/es/check-credit-score-with-itin).
 
 ## "¿Qué error puede retrasar más mi cronograma?"
 

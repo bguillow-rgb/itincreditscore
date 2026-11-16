@@ -133,6 +133,17 @@ export default defineConfig({
   // — to capture credit-report intent on its own page instead of folding it into
   // the check-score page. Removed from the redirect map 2026-06-14.
   redirects: {
+    // 2026-11-16 consolidation (11/16 audit action 1, 7th carry): three
+    // overlapping "how to check your credit score with an ITIN" articles folded
+    // into the /check-credit-score-with-itin money page, EN + ES. Their unique,
+    // sourced content (bureau-by-bureau ITIN routes, documents, free score
+    // tools, suspension fix) now lives on the money page.
+    '/articles/itin-credit-score-check-every-method-2026': '/check-credit-score-with-itin',
+    '/articles/check-credit-score-itin-every-method-verified-2026': '/check-credit-score-with-itin',
+    '/articles/how-to-check-credit-score-with-itin-number': '/check-credit-score-with-itin',
+    '/es/articles/itin-credit-score-check-every-method-2026': '/es/check-credit-score-with-itin',
+    '/es/articles/check-credit-score-itin-every-method-verified-2026': '/es/check-credit-score-with-itin',
+    '/es/articles/how-to-check-credit-score-with-itin-number': '/es/check-credit-score-with-itin',
     // 2026-10-19 consolidation (audit action 3, first cut): the 10/12 run
     // published a near-duplicate of -compared under a second slug. 301 the
     // twin into the original, EN + ES.

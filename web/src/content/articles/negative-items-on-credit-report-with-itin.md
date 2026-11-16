@@ -108,7 +108,7 @@ Negative credit marks do not last forever, and many people improve their credit 
 
 ## How do I know if a negative item has actually been removed from my ITIN file?
 
-Because many standard online credit-checking tools are built around SSN verification, ITIN holders sometimes struggle to confirm that a seven-year-old item has actually dropped off. The most reliable method is to request your full credit reports directly from each bureau, which you are entitled to do under federal law. For step-by-step instructions specific to ITIN holders, see our guide on [how to get your free credit report with an ITIN](/articles/how-to-check-credit-score-with-itin-number).
+Because many standard online credit-checking tools are built around SSN verification, ITIN holders sometimes struggle to confirm that a seven-year-old item has actually dropped off. The most reliable method is to request your full credit reports directly from each bureau, which you are entitled to do under federal law. For step-by-step instructions specific to ITIN holders, see our guide on [how to get your free credit report with an ITIN](/check-credit-score-with-itin).
 
 Once you have the reports in hand, scan the "negative accounts" or "derogatory" section of each one separately. Your credit reports may show "closed" and "open" derogatory marks. Closed derogatory marks refer to negative items about closed accounts, such as those in collections, including accounts that have been charged off. If a closed derogatory mark is still showing after the applicable reporting period has passed, you have the right to file a dispute with that bureau requesting its removal on the grounds that the reporting period has expired.
 

@@ -16,7 +16,6 @@ category: "Puntaje de crédito"
 relatedSlugs:
   - "credit-age-itin-holders"
   - "free-paid-services-check-credit-score-itin-2026"
-  - "itin-credit-score-check-every-method-2026"
   - "medical-debt-credit-report-itin-holders"
 faqs:
   - q: "¿La escala de puntaje de crédito es diferente para personas con ITIN que para quienes tienen SSN?"

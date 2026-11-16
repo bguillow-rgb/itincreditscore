@@ -4,28 +4,40 @@ import MoneyPageLayout from '../../layouts/MoneyPageLayout.astro';
 const faqs = [
   {
     q: '¿Puedo revisar mi puntaje de crédito con un ITIN en lugar de un Seguro Social?',
-    a: 'Sí. Si tienes un expediente de crédito en cualquiera de los tres burós, puedes acceder a tu reporte y puntaje usando tu ITIN como identificación fiscal. AnnualCreditReport.com es la fuente oficial y gratuita de reportes; algunos servicios también ofrecen acceso gratis al puntaje FICO o VantageScore para personas con ITIN.',
+    a: 'Sí. Si tienes un expediente de crédito en cualquiera de los tres burós, puedes obtener tu reporte y un puntaje usando tu ITIN. Vas directo a cada buró en lugar de usar AnnualCreditReport.com: myEquifax en línea, Experian en línea o por correo, y TransUnion por chat en vivo, teléfono o correo. Herramientas gratis como el plan gratuito de myFICO y Equifax Core Credit te dan un puntaje continuo.',
+  },
+  {
+    q: '¿Funciona AnnualCreditReport.com con un ITIN?',
+    a: 'En línea, no. El formulario de AnnualCreditReport.com pide un número de Seguro Social, y Experian explica que un ITIN ingresado ahí se lee como un Seguro Social inválido. Que el sitio te rechace no significa que no tengas expediente. Solicita tu reporte gratis directamente a cada buró.',
   },
   {
     q: '¿Qué pasa si el buró dice "no se encontró expediente"?',
     a: '"No se encontró expediente" solo significa que el buró todavía no tiene registro de tus cuentas financieras, no que estés bloqueado para tener un puntaje. Abre una cuenta que reporta (tarjeta asegurada o préstamo para crédito) y tendrás un expediente en unos meses.',
   },
   {
-    q: '¿Es seguro AnnualCreditReport.com?',
-    a: 'Sí. AnnualCreditReport.com es el único sitio autorizado a nivel federal para reportes de crédito gratis. Lo administran en conjunto Experian, Equifax y TransUnion bajo la Ley de Informe Justo de Crédito. Evita sitios imitadores con nombres parecidos.',
-  },
-  {
     q: '¿Con qué frecuencia puedo revisar mi crédito gratis?',
-    a: 'Bajo la Ley de Informe Justo de Crédito puedes solicitar tu reporte de cada buró gratis una vez cada 12 meses a través de AnnualCreditReport.com. Muchas tarjetas de crédito y apps bancarias ahora ofrecen monitoreo continuo gratis del puntaje que no genera una consulta dura.',
+    a: 'No hay límite para revisar tu propio puntaje, porque es una consulta suave. La ley federal te da derecho a un reporte gratis de cada buró cada año, y ese derecho incluye a las personas con ITIN. Como el formulario en línea de AnnualCreditReport.com pide Seguro Social, con ITIN lo ejerces contactando a cada buró directamente.',
   },
   {
     q: '¿Revisar mi puntaje de crédito lo daña?',
     a: 'Revisar tu propio puntaje de crédito es una consulta suave y no afecta tu puntaje en absoluto. Solo una consulta dura, cuando un prestamista saca tu crédito para tomar una decisión de préstamo, puede bajar temporalmente tu puntaje.',
   },
+  {
+    q: '¿Cuánto tarda en llegar mi reporte por correo con un ITIN?',
+    a: 'Las solicitudes por correo a Experian y TransUnion suelen tardar de dos a cuatro semanas. Hay dos rutas más rápidas: la solicitud por chat en vivo de TransUnion, con la que el reporte suele llegar en 7 a 10 días hábiles, y la carga de documentos en línea de Experian, que envía el reporte en unos 7 a 12 días. myEquifax te muestra tu reporte de Equifax el mismo día que te registras.',
+  },
+  {
+    q: '¿Por qué suspendieron mi cuenta cuando me registré con mi ITIN?',
+    a: 'Los filtros automáticos contra fraude de los burós y servicios de puntaje están diseñados con base en el Seguro Social, y un ITIN puede activarlos. Es un falso positivo, no un rechazo de tu expediente. Una llamada o un chat con soporte, respondiendo unas preguntas sobre tu expediente, normalmente restablece el acceso el mismo día.',
+  },
+  {
+    q: '¿Cuál es la forma gratis de ver un puntaje FICO con un ITIN?',
+    a: 'El plan gratuito de myFICO acepta registros con ITIN y muestra tu FICO Score 8 de Equifax con actualizaciones mensuales y alertas de nuevas consultas duras o cuentas. La app Bilt Rewards muestra un FICO Score 9 de Experian. Experian también incluye un puntaje de crédito cuando pides tu reporte de Experian por teléfono o por correo.',
+  },
 ];
 
 const quickAnswer =
-  'Las personas con ITIN pueden revisar su reporte de crédito gratis en AnnualCreditReport.com (el sitio oficial autorizado a nivel federal) y solicitar reportes de Experian, Equifax y TransUnion. Si todavía no existe un expediente, "no se encontró expediente" es normal, abre una cuenta que reporta y se construye un expediente en unos meses. Revisar tu propio puntaje es una consulta suave y nunca daña tu crédito.';
+  'Puedes revisar tu crédito con un ITIN, pero no con el formulario en línea de AnnualCreditReport.com, que pide Seguro Social. Ve a cada buró: myEquifax en línea, Experian en línea o por correo, y TransUnion por chat, teléfono o correo. Herramientas gratis como el plan gratuito de myFICO te dan un puntaje. Revisar tu propio crédito nunca lo daña.';
 ---
 <MoneyPageLayout
   title="Cómo checar tu puntaje de crédito con ITIN, gratis"
@@ -33,9 +45,10 @@ const quickAnswer =
   description="No necesitas seguro social. Con tu ITIN puedes revisar tu puntaje y sacar tus reportes en los tres burós, gratis. Qué servicios lo aceptan y qué hacer si no aparece expediente."
   path="/es/check-credit-score-with-itin"
   eyebrow="Revisa tu puntaje"
-  lede="Revisar tu puntaje de crédito es el primer paso para entender dónde estás parado y qué mejorar. Aquí te decimos cómo hacerlo como persona con ITIN, incluido qué hacer si el buró dice 'no se encontró expediente'."
+  lede="Revisar tu puntaje de crédito es el primer paso para entender dónde estás parado y qué mejorar. Aquí te decimos cómo hacerlo como persona con ITIN, buró por buró, incluido qué hacer cuando un sitio rechaza tu ITIN o dice 'no se encontró expediente'."
   quickAnswer={quickAnswer}
   faqs={faqs}
+  updated="16 de noviembre de 2026"
   heroImage="/img/credit-building.webp"
   heroAlt="Una persona revisando su puntaje de crédito en una laptop"
 >
@@ -50,56 +63,85 @@ const quickAnswer =
   </aside>
 
   <h2>¿Por qué tu puntaje podría no aparecer de inmediato?</h2>
-  <p>FICO requiere al menos una cuenta abierta durante seis meses y reportada en los últimos seis meses para calcular un puntaje. Si nunca has abierto una cuenta de crédito en EE. UU., o solo abriste una recientemente, el buró puede responder "expediente no encontrado" o "datos insuficientes para puntuar". Esto es muy común en personas con ITIN nuevas en el sistema financiero de EE. UU. No significa que tengas mal crédito; significa que tu historial crediticio todavía no existe. La solución es abrir una cuenta que reporta (mira nuestra <a href="/es/build-credit-history-with-itin">guía para construir crédito</a>) y darle seis meses para generar un expediente con puntaje.</p>
+  <p>FICO requiere al menos una cuenta abierta durante seis meses y reportada en los últimos seis meses para calcular un puntaje. Si nunca has abierto una cuenta de crédito en EE. UU., o solo abriste una recientemente, el buró puede responder "expediente no encontrado" o "datos insuficientes para puntuar". Esto es muy común en personas con ITIN nuevas en el sistema financiero de EE. UU. No significa que tengas mal crédito; significa que tu historial crediticio todavía no existe. VantageScore muchas veces puede dar un número con un expediente más delgado que FICO, así que una herramienta gratis de VantageScore puede mostrarte un puntaje unos meses antes que una basada en FICO. En cualquier caso, la solución es abrir una cuenta que reporta (mira nuestra <a href="/es/build-credit-history-with-itin">guía para construir crédito</a>) y darle seis meses para generar un expediente con puntaje.</p>
 
-  <h2>¿Cómo solicitas tu reporte de crédito con un ITIN?</h2>
-  <p><strong>AnnualCreditReport.com</strong> es la fuente oficial autorizada a nivel federal de reportes de crédito gratis. La administran en conjunto Experian, Equifax y TransUnion bajo la Ley de Informe Justo de Crédito. Puedes solicitar un reporte gratis de cada buró cada 12 meses, o los tres a la vez. Al llenar el formulario, ingresa tu ITIN en el campo de Seguro Social. El sitio no distingue entre Seguro Social e ITIN en el proceso. Para una guía completa de cómo solicitar, leer y disputar el reporte en sí, mira <a href="/es/credit-reports-with-itin">cómo obtener tu reporte de crédito con un ITIN</a>.</p>
-  <p>También puedes contactar a cada buró directamente:</p>
+  <h2>¿Qué diferencia hay entre tu reporte de crédito y tu puntaje?</h2>
+  <p>Tu <strong>reporte de crédito</strong> lista cada cuenta, saldo, pago y consulta que un buró tiene registrada a tu nombre. Tu <strong>puntaje de crédito</strong> es el número de tres dígitos que se calcula a partir de ese reporte. Te conviene tener los dos: el reporte para detectar errores y el puntaje para saber cómo te ven los prestamistas. Los reportes gratis a los que tienes derecho por ley federal incluyen el reporte, no el puntaje. Una excepción que vale la pena conocer: Experian dice que cuando pides tu reporte de Experian por teléfono o por correo, se incluye un puntaje de crédito. Si no, combina el reporte con una de las herramientas gratis de puntaje que aparecen más abajo. Para una guía completa de cómo leer y disputar el reporte, mira <a href="/es/credit-reports-with-itin">cómo obtener tu reporte de crédito con un ITIN</a>.</p>
+
+  <h2>¿Por qué AnnualCreditReport.com no funciona con un ITIN?</h2>
+  <p><strong>AnnualCreditReport.com</strong> es el único sitio autorizado a nivel federal para reportes de crédito gratis, administrado en conjunto por Experian, Equifax y TransUnion bajo la Ley de Informe Justo de Crédito. Su formulario en línea pide un número de Seguro Social, y la propia guía de Experian dice que un ITIN ingresado en ese campo se reconoce como un Seguro Social inválido. Por eso el formulario en línea no es la herramienta correcta para personas con ITIN. Un rechazo ahí es una limitación de la verificación de identidad de ese portal, no una señal de que no tienes expediente. Tu derecho a un reporte gratis de cada buró sigue vigente con un ITIN; lo ejerces yendo directo a cada buró, en línea, por teléfono, por chat o por correo, como se explica en la siguiente sección. Solicita siempre los tres, no solo uno. Los prestamistas a menudo revisan un solo buró, tus datos pueden diferir entre ellos, y un error en el expediente de un buró puede no aparecer en otro.</p>
+
+  <h2>¿Cómo obtienes tu reporte de cada buró con un ITIN?</h2>
+  <p>No hay un solo portal para personas con ITIN, así que contactas a cada buró por separado. Así se comparan los tres antes de los pasos detallados:</p>
+  <table>
+    <thead>
+      <tr><th>Buró</th><th>Ruta en línea</th><th>Ruta por teléfono, chat o correo</th><th>Tiempo típico</th></tr>
+    </thead>
+    <tbody>
+      <tr><td><strong>Equifax</strong></td><td>Cuenta myEquifax en my.equifax.com, ITIN en el campo de Seguro Social</td><td>Teléfono: 1-800-685-1111</td><td>En línea: el mismo día</td></tr>
+      <tr><td><strong>Experian</strong></td><td>Cuenta gratis en experian.com (funciona para algunas personas con ITIN); carga de documentos en línea</td><td>Correo: Experian, P.O. Box 9701, Allen, TX 75013. Teléfono: 1-888-397-3742</td><td>Carga: reporte enviado en unos 7-12 días. Correo: 2-4 semanas</td></tr>
+      <tr><td><strong>TransUnion</strong></td><td>Solicitud por chat en vivo con un agente</td><td>Correo: TransUnion, P.O. Box 2000, Chester, PA 19016. Teléfono: 1-800-916-8800</td><td>Chat: 7-10 días hábiles. Correo: 2-4 semanas</td></tr>
+    </tbody>
+  </table>
+
+  <h3>Equifax</h3>
+  <p>Equifax es la ruta en línea más directa. Crea una cuenta myEquifax en my.equifax.com e ingresa tu ITIN en el campo de Seguro Social al registrarte. Desde el panel puedes inscribirte en Equifax Core Credit, que es gratis y te da tu reporte de crédito de Equifax y un VantageScore 3.0 basado en datos de Equifax. Puedes ver el reporte el mismo día que te registras. Si la ruta en línea falla, llama a Equifax al 1-800-685-1111.</p>
+
+  <h3>Experian</h3>
+  <p>Prueba primero una cuenta gratis en experian.com, ingresando tu ITIN de 9 dígitos donde el formulario pide el Seguro Social. Funciona para algunas personas con ITIN y para otras no, según si Experian logra emparejar tu expediente. Si no puede, usa la carga de documentos en línea de Experian: ingresa tu ITIN como número de Seguro Social, elige la opción de comprobante de identidad para solicitar un reporte de crédito y adjunta en un solo archivo tu identificación, tu comprobante de domicilio y tu carta de asignación del ITIN (CP-565). Experian envía el reporte por correo en unos 7 a 12 días. También puedes enviar una solicitud por escrito a <strong>Experian, P.O. Box 9701, Allen, TX 75013</strong>, con tu nombre completo incluida la inicial del segundo nombre y cualquier sufijo (Jr., II, III), tu fecha de nacimiento, tus direcciones de los últimos dos años, copia de una identificación oficial con foto y copia de un recibo de servicios, estado de cuenta bancario o estado de cuenta de seguro reciente. Teléfono: 1-888-397-3742.</p>
+
+  <h3>TransUnion</h3>
+  <p>TransUnion ofrece una ruta por chat en vivo que evita enviar documentos por correo. Inicia un chat en el sitio de soporte de TransUnion, pide a un agente en vivo una copia de tu reporte de crédito por correo e ingresa tu ITIN de 9 dígitos en el campo de Seguro Social del formulario seguro que te envíe el agente. El reporte suele llegar en 7 a 10 días hábiles. Para una solicitud por escrito, envíala a <strong>TransUnion, P.O. Box 2000, Chester, PA 19016</strong>, o llama al 1-800-916-8800.</p>
+  <p>Si un buró no puede emparejar tu ITIN automáticamente, una solicitud por correo con copia de tu carta de asignación del ITIN y una identificación oficial con foto es la alternativa confiable. Para saber cómo interactúan los ITIN con la coincidencia de expedientes de cada buró, mira nuestra <a href="/es/credit-bureaus-and-itin">guía de burós de crédito e ITIN</a>.</p>
+
+  <h2>¿Qué documentos debes tener listos?</h2>
+  <p>Reúne esto antes de empezar para no quedarte a medias en un registro o en una solicitud por correo:</p>
   <ul class="lead-list">
-    <li><strong>Experian:</strong> experian.com o 1-888-397-3742</li>
-    <li><strong>Equifax:</strong> equifax.com o 1-800-685-1111</li>
-    <li><strong>TransUnion:</strong> transunion.com o 1-800-916-8800</li>
+    <li>Tu ITIN de 9 dígitos</li>
+    <li>Nombre legal completo, incluida la inicial del segundo nombre y cualquier sufijo (Jr., II, III)</li>
+    <li>Fecha de nacimiento</li>
+    <li>Tu dirección actual y todas las de los últimos dos años</li>
+    <li>Copia de una identificación oficial con foto (pasaporte, matrícula consular, identificación estatal o licencia de conducir)</li>
+    <li>Copia de un recibo de servicios, estado de cuenta bancario o de seguro reciente con tu dirección actual</li>
+    <li>Tu carta de asignación del ITIN (CP-565), que pide la carga de documentos de Experian</li>
   </ul>
-  <p>Solicita siempre los tres reportes, no solo uno. Los prestamistas a menudo revisan un solo buró, y tus datos pueden diferir entre ellos. Los errores en el expediente de un buró pueden no aparecer en otro.</p>
+  <p>Envía copias, nunca originales. Algunos registros en línea mandan un código de verificación por mensaje de texto, así que ten tu teléfono a la mano.</p>
 
-  <h2>¿Cómo maneja cada buró de crédito un ITIN?</h2>
-  <p>Los tres burós nacionales pueden construir un expediente para una persona con ITIN, pero cada uno acepta el ITIN y te deja acceder a tu reporte de una forma un poco distinta. Así se comparan Experian, TransUnion, Equifax y el sitio federal de reportes gratis para personas con ITIN:</p>
+  <h2>¿Qué herramientas gratis muestran tu puntaje con un ITIN?</h2>
+  <p>Los reportes federales gratis no incluyen puntaje, así que la mayoría de las personas con ITIN agregan una o más de estas herramientas. Todas son consultas suaves, así que revisar cuantas veces quieras nunca baja tu puntaje.</p>
   <table>
     <thead>
-      <tr><th>Buró / fuente</th><th>¿Acepta ITIN?</th><th>Cómo solicitar tu reporte</th><th>¿Acceso gratis al puntaje?</th></tr>
+      <tr><th>Herramienta</th><th>Costo</th><th>Puntaje</th><th>Buró</th><th>Notas sobre el ITIN</th></tr>
     </thead>
     <tbody>
-      <tr><td><strong>AnnualCreditReport.com</strong></td><td>Sí, ingresa tu ITIN en el campo de Seguro Social</td><td>Sitio oficial federal; un reporte gratis de cada buró cada 12 meses</td><td>Solo reporte (sin puntaje)</td></tr>
-      <tr><td><strong>Experian</strong></td><td>Sí</td><td>experian.com o 1-888-397-3742; opción de cuenta gratis</td><td>FICO Score 8 gratis (la aceptación del ITIN varía, verifica la política actual)</td></tr>
-      <tr><td><strong>TransUnion</strong></td><td>Sí</td><td>transunion.com o 1-800-916-8800</td><td>VantageScore gratis vía muchas apps asociadas</td></tr>
-      <tr><td><strong>Equifax</strong></td><td>Sí</td><td>equifax.com o 1-800-685-1111</td><td>Puntaje gratis en algunas apps de bancos y tarjetas</td></tr>
+      <tr><td>Equifax Core Credit (myEquifax)</td><td>Gratis</td><td>VantageScore 3.0</td><td>Equifax</td><td>Ingresa el ITIN en el campo de Seguro Social</td></tr>
+      <tr><td>Plan gratuito de myFICO</td><td>Gratis</td><td>FICO Score 8</td><td>Equifax</td><td>Acepta registros con ITIN; actualización mensual y alertas de nuevas consultas o cuentas</td></tr>
+      <tr><td>Cuenta gratis de Experian</td><td>Gratis</td><td>FICO Score 8</td><td>Experian</td><td>Funciona para algunas personas con ITIN; depende de la coincidencia del expediente</td></tr>
+      <tr><td>App Bilt Rewards</td><td>Gratis</td><td>FICO Score 9</td><td>Experian</td><td>Acepta ITIN; actualización mensual</td></tr>
+      <tr><td>Capital One CreditWise</td><td>Gratis</td><td>Puntaje basado en TransUnion</td><td>TransUnion</td><td>La página de inscripción de Capital One pide Seguro Social; algunas personas con ITIN dicen que les funciona. Los resultados varían</td></tr>
+      <tr><td>App de tu tarjeta o préstamo para crédito</td><td>Gratis con la cuenta</td><td>FICO o VantageScore</td><td>Varía</td><td>Muchas tarjetas aseguradas y plataformas de préstamo para crédito incluyen acceso continuo al puntaje</td></tr>
+      <tr><td>MyFreeScoreNow</td><td>De pago, después de una prueba</td><td>VantageScore</td><td>Los tres</td><td>Anunció en abril de 2026 acceso en línea a los tres burós para personas sin Seguro Social</td></tr>
+      <tr><td>Planes de pago de myFICO</td><td>$19.95-$39.95/mes</td><td>Varias versiones de FICO</td><td>Los tres</td><td>Vista de los tres burós lado a lado</td></tr>
     </tbody>
   </table>
-  <p>Si un buró no puede emparejar tu ITIN automáticamente, solicita tu reporte por correo con una copia de tu carta de asignación del ITIN y una identificación oficial con foto. Para saber cómo interactúan los ITIN con la coincidencia de expedientes de cada buró, mira nuestra <a href="/es/credit-bureaus-and-itin">guía de burós de crédito e ITIN</a>.</p>
+  <p>Los reportes son contradictorios sobre varias apps populares, como Credit Karma, NerdWallet, Discover Credit Scorecard y Credit Sesame. Su verificación de identidad depende del Seguro Social y muchas personas con ITIN no logran completar el registro, así que tómalas como un "tal vez", no como la primera opción. Para la mayoría de quienes empiezan, la combinación gratis más sencilla es Equifax Core Credit, el plan gratuito de myFICO y una fuente de Experian (una cuenta en experian.com o Bilt). Paga por un servicio de los tres burós solo si necesitas alertas diarias en un solo lugar, por ejemplo antes de solicitar una hipoteca o un préstamo de auto. Para comparar servicios de monitoreo a fondo, mira nuestra guía de <a href="/es/articles/itin-credit-monitoring-free-score-services-compared">servicios gratis de puntaje y monitoreo para personas con ITIN</a>.</p>
 
-  <h2>Formas de revisar tu puntaje de crédito con un ITIN</h2>
-  <table>
-    <thead>
-      <tr><th>Método</th><th>Costo</th><th>Tipo de puntaje</th><th>Notas</th></tr>
-    </thead>
-    <tbody>
-      <tr><td>AnnualCreditReport.com</td><td>Gratis (1 vez/año por buró)</td><td>Solo reporte (sin puntaje)</td><td>Acceso oficial obligatorio por ley federal</td></tr>
-      <tr><td>Cuenta gratis de Experian</td><td>Gratis</td><td>FICO Score 8</td><td>La aceptación del ITIN varía; revisa la política actual</td></tr>
-      <tr><td>App del emisor de la tarjeta</td><td>Gratis (si tienes tarjeta)</td><td>FICO o VantageScore</td><td>Muchas tarjetas aseguradas incluyen acceso continuo al puntaje</td></tr>
-      <tr><td>App del préstamo para crédito</td><td>Gratis (si tienes préstamo)</td><td>VantageScore o FICO</td><td>La mayoría de las plataformas lo incluyen como función</td></tr>
-      <tr><td>Monitoreo de crédito de pago</td><td>$10-$30/mes</td><td>FICO o VantageScore</td><td>Incluye alertas de cuentas y consultas nuevas</td></tr>
-    </tbody>
-  </table>
+  <h2>¿Por qué marcan o suspenden tu cuenta al registrarte?</h2>
+  <p>Algo común con los registros con ITIN es una suspensión automática justo después de crear la cuenta. Los sistemas de detección de fraude de los burós y servicios de puntaje están diseñados con base en el Seguro Social, y un ITIN puede activarlos. Es un falso positivo, no un juicio sobre tu expediente ni tu identidad. La solución casi siempre es un solo contacto con una persona: llama o escribe por chat a soporte, responde unas preguntas sobre tu expediente (por ejemplo, qué cuentas tienes y cuándo las abriste) y la cuenta se reactiva, normalmente el mismo día. Ten a la mano tu carta del ITIN y un estado de cuenta reciente antes de llamar.</p>
 
   <h2>¿Qué pasa si el buró responde "no se encontró expediente"?</h2>
   <p>Una respuesta de "no se encontró expediente" significa que el buró no tiene registro de cuentas financieras asociadas a tu ITIN. Esto es normal en personas con ITIN que todavía no han abierto cuentas de crédito en EE. UU. No es un rechazo. El camino a seguir es sencillo: abre una cuenta que acepte ITIN y reporte a los burós, una tarjeta de crédito asegurada es la opción más accesible, y en seis meses de pagos a tiempo tendrás un expediente con puntaje. Mira la guía completa para <a href="/es/build-credit-history-with-itin">construir historial crediticio con un ITIN</a> para conocer herramientas iniciales específicas.</p>
+  <p>También puedes ver un puntaje en un buró y "puntaje no disponible" en otro. Cada buró tiene su propio expediente, y si tus prestamistas reportan solo a uno o dos, el tercero quizá todavía no tenga datos suficientes. Las cuentas que reportan a los tres burós cierran esa brecha con el tiempo.</p>
+
+  <h2>¿Por qué tu puntaje cambia de un servicio a otro?</h2>
+  <p>Dos cosas mueven el número de una herramienta a otra. Primero, el buró: Equifax, Experian y TransUnion tienen cada uno su propio expediente, así que los datos detrás de cada puntaje pueden diferir. Segundo, el modelo: FICO y VantageScore usan el mismo rango de 300 a 850 y los mismos factores principales, pero los pesan distinto, y los puntajes de los dos modelos pueden diferir de 20 a 40 puntos, a veces más en un expediente nuevo y delgado. Usa una herramienta de VantageScore para seguir tendencias y detectar caídas repentinas, y revisa un FICO Score cuando quieras el número que usan la mayoría de los prestamistas. Nuestra explicación de <a href="/es/articles/fico-vs-vantagescore-itin-holders">FICO vs. VantageScore para personas con ITIN</a> entra en más detalle.</p>
 
   <h2>Cómo disputar errores en tu reporte de crédito</h2>
-  <p>Las personas con ITIN son algo más propensas a sufrir errores de expediente mezclado, donde la cuenta de otra persona aparece en tu expediente, porque los algoritmos de coincidencia de los burós no estaban históricamente optimizados para ITIN. Si encuentras un error, tienes derecho a disputarlo bajo la Ley de Informe Justo de Crédito. Cada buró ofrece un proceso de disputa en línea, por teléfono y por correo. Cuando envías una disputa, el buró debe investigar y responder en un plazo de 30 días. Aporta toda la documentación posible: copias de tu carta de ITIN, documentos de identidad y cualquier registro que muestre que la cuenta no es tuya.</p>
+  <p>Las personas con ITIN son algo más propensas a sufrir errores de expediente mezclado, donde la cuenta de otra persona aparece en tu expediente, porque los algoritmos de coincidencia de los burós no estaban históricamente optimizados para ITIN. Si encuentras un error, tienes derecho a disputarlo bajo la Ley de Informe Justo de Crédito. Cada buró ofrece un proceso de disputa en línea, por teléfono y por correo. Cuando envías una disputa, el buró debe investigar y responder en un plazo de 30 días. Aporta toda la documentación posible: copias de tu carta de ITIN, documentos de identidad y cualquier registro que muestre que la cuenta no es tuya. Si sospechas que tu expediente se mezcló con el de otra persona, enumera en tu disputa cada dato que no te pertenece, incluidas direcciones que no reconoces.</p>
   <p>Para los procesos específicos de cada buró y cómo interactúan los ITIN con la coincidencia de expedientes, mira nuestra <a href="/es/credit-bureaus-and-itin">guía de burós de crédito e ITIN</a>.</p>
 
   <h2>¿Qué sigue después de revisar tu puntaje?</h2>
-  <p>Una vez que conoces tu punto de partida, puedes armar un plan claro. Si todavía no tienes expediente, <a href="/es/build-credit-history-with-itin">empieza a construir uno</a>. Si tienes un puntaje pero lo quieres más alto, sigue la <a href="/es/improve-credit-score">guía para mejorar el puntaje</a>. Si ves errores, disputalos primero, corregir inexactitudes es la forma legítima más rápida de mejorar un puntaje. Para ver cómo funciona todo el proceso de principio a fin, lee nuestra <a href="/es/itin-credit-score-guide">guía completa del puntaje de crédito con ITIN</a>. ¿Listo para conectarte con herramientas que aceptan ITIN? <a href="/es/apply">Empieza aquí</a>.</p>
+  <p>Una vez que conoces tu punto de partida, puedes armar un plan claro. Si todavía no tienes expediente, <a href="/es/build-credit-history-with-itin">empieza a construir uno</a>. Si tienes un puntaje pero lo quieres más alto, sigue la <a href="/es/improve-credit-score">guía para mejorar el puntaje</a>. Si ves errores, disputalos primero, corregir inexactitudes es la forma legítima más rápida de mejorar un puntaje. Antes de cualquier solicitud de crédito importante, revisa los tres burós uno o dos meses antes para tener tiempo de corregir errores antes de que un prestamista saque tu expediente. Para ver cómo funciona todo el proceso de principio a fin, lee nuestra <a href="/es/itin-credit-score-guide">guía completa del puntaje de crédito con ITIN</a>. ¿Listo para conectarte con herramientas que aceptan ITIN? <a href="/es/apply">Empieza aquí</a>.</p>
 
   <style>
     .calc-hero {

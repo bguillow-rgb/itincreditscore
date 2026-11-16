@@ -64,7 +64,7 @@ The clearest warning signs to look for on your report:
 - **Discrepancies between bureaus.** Pulling all three reports and comparing them side by side is one of the most productive habits for ITIN holders. Our [guide to why your score differs by bureau with an ITIN](/articles/why-credit-score-different-each-bureau-itin) explains why each bureau can have slightly different data, but accounts that appear at one bureau and not at others deserve closer scrutiny.
 - **Lender feedback during an application.** Sometimes the mixed-file problem surfaces only when a lender reviews your report and flags accounts that don't match the income or identification documents you submitted.
 
-To check all three reports, ITIN holders generally need to contact each bureau directly. Equifax offers ITIN holders the ability to create a myEquifax account, which can provide up to six free reports per year. TransUnion and Experian accept written requests supported by a government-issued ID and proof of address. Our [full guide to pulling your free credit report with an ITIN](/articles/how-to-check-credit-score-with-itin-number) walks through every step.
+To check all three reports, ITIN holders generally need to contact each bureau directly. Equifax offers ITIN holders the ability to create a myEquifax account, which can provide up to six free reports per year. TransUnion and Experian accept written requests supported by a government-issued ID and proof of address. Our [full guide to pulling your free credit report with an ITIN](/check-credit-score-with-itin) walks through every step.
 
 ## What documents do I need before I file a mixed-file dispute?
 

@@ -91,7 +91,7 @@ Las únicas consultas que afectan tu puntaje son las consultas duras, que ocurre
 
 ## ¿En qué se diferencia el monitoreo de crédito de simplemente solicitar mi reporte de crédito?
 
-Solicitar tu reporte de crédito es una foto instantánea. El monitoreo de crédito es continuo. Cuando [solicitas tu reporte de crédito por correo](/es/articles/how-to-check-credit-score-with-itin-number) de cada buró, recibes una imagen detallada de tu archivo en ese momento exacto. Esa foto es valiosa y deberías hacerlo al menos una vez al año.
+Solicitar tu reporte de crédito es una foto instantánea. El monitoreo de crédito es continuo. Cuando [solicitas tu reporte de crédito por correo](/es/check-credit-score-with-itin) de cada buró, recibes una imagen detallada de tu archivo en ese momento exacto. Esa foto es valiosa y deberías hacerlo al menos una vez al año.
 
 El monitoreo, en cambio, vigila tu archivo de forma continua y te envía una alerta cada vez que algo cambia. Piensa en el reporte como una fotografía y en el monitoreo como una cámara de seguridad. Para los titulares de ITIN que están construyendo crédito activamente, ambas herramientas cumplen propósitos distintos. Solicita tus reportes completos una o dos veces al año para revisar cada detalle con cuidado, y usa un servicio de monitoreo en el ínterin para detectar cualquier cosa inusual en el momento en que ocurra.
 

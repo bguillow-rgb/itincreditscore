@@ -107,4 +107,4 @@ Staying invisible by avoiding credit entirely means you cannot access competitiv
 
 According to Experian's February 2026 white paper, 76.9% of ITIN holders remained current on trades after 12 months, a rate 15% higher than SSN consumers. As a group, ITIN holders are responsible borrowers. Building credit is both safe and strategically smart.
 
-If you have not yet checked whether you already have a credit file, start with our guide on [how to get your free credit report with an ITIN](/articles/how-to-check-credit-score-with-itin-number) to see where you stand today.
+If you have not yet checked whether you already have a credit file, start with our guide on [how to get your free credit report with an ITIN](/check-credit-score-with-itin) to see where you stand today.
